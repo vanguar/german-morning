@@ -1,7 +1,27 @@
-// German Morning — theme toggle + sticky Telegram bar on phones.
+// German Morning — stale-page refresh, theme toggle, sticky Telegram bar on phones.
 // No redirects, no cookies, no trackers. localStorage only remembers the theme.
 (function () {
   var root = document.documentElement;
+
+  // GitHub Pages lets browsers reuse HTML for 10 minutes. If the deployed build differs
+  // from the one this page was built with, reload once (reload revalidates the HTML).
+  var build = root.getAttribute('data-build');
+  var css = document.querySelector('link[rel="stylesheet"]');
+  if (build && css && window.fetch) {
+    var versionUrl = css.href.replace(/assets\/css\/styles\.css.*$/, 'version.json');
+    fetch(versionUrl + '?t=' + Date.now(), { cache: 'no-store' })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (v) {
+        if (!v || !v.build || v.build === build) return;
+        var key = 'gm-reloaded:' + v.build;
+        try {
+          if (sessionStorage.getItem(key)) return; // already tried for this build: no loop
+          sessionStorage.setItem(key, '1');
+        } catch (e) { return; } // no storage: cannot guard against loops, skip
+        location.reload();
+      })
+      .catch(function () { /* offline or blocked: keep the page as is */ });
+  }
   var media = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
 
   function isDark() {

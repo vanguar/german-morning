@@ -6,7 +6,9 @@ Output is plain HTML committed to the repo; GitHub Pages serves it as-is.
 
     python tools/build.py
 """
+import hashlib
 import json
+import re
 from html import escape
 from pathlib import Path
 
@@ -18,7 +20,14 @@ CONTACT = "https://t.me/ObiVan1978"
 CONTACT_NAME = "@ObiVan1978"
 FEEDBACK = {"uk": "Зауваження та пропозиції", "ru": "Замечания и предложения", "de": "Feedback und Vorschläge"}
 OG_IMAGE = BASE + "assets/img/og-image.png"
-ASSET_V = "6"  # bump after changing styles.css / main.js (Pages caches for 10 min)
+# Cache busting is content-based, so nothing has to be bumped by hand:
+#   ASSET_V  — hash of styles.css + main.js, appended as ?v= to their URLs;
+#   build id — hash of every generated page, written to <html data-build> and
+#              version.json. Pages serves HTML with max-age=600, so main.js compares
+#              the two and reloads a stale cached page once.
+ASSET_V = hashlib.sha1(b"".join(
+    (ROOT / f).read_bytes() for f in ("assets/css/styles.css", "assets/js/main.js"))).hexdigest()[:10]
+BUILD_PLACEHOLDER = "__BUILD_ID__"
 ORDER = ["uk", "ru", "de"]  # Ukrainian first: default language of the site
 NAMES = {"uk": "Українська", "ru": "Русский", "de": "Deutsch"}
 CODES = {"uk": "UK", "ru": "RU", "de": "DE"}
@@ -267,7 +276,7 @@ def head(lang, *, title, desc, og_title, og_desc, og_alt, canonical, prefix, ld)
     loc_alt = "".join(f'  <meta property="og:locale:alternate" content="{OG_LOCALE[l]}">\n'
                       for l in ORDER if l != lang)
     return f"""<!doctype html>
-<html lang="{lang}">
+<html lang="{lang}" data-build="{BUILD_PLACEHOLDER}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -638,12 +647,21 @@ def root_page():
 
 
 def main():
-    for lang in ORDER:
-        d = ROOT / lang
-        d.mkdir(exist_ok=True)
-        (d / "index.html").write_text(page(lang), encoding="utf-8", newline="\n")
-    (ROOT / "index.html").write_text(root_page(), encoding="utf-8", newline="\n")
-    print("built:", ", ".join(["index.html"] + [f"{l}/index.html" for l in ORDER]))
+    pages = {f"{l}/index.html": page(l) for l in ORDER}
+    pages["index.html"] = root_page()
+    digest = hashlib.sha1()
+    for name in sorted(pages):
+        digest.update(name.encode() + b"\0" + pages[name].encode("utf-8"))
+    build_id = digest.hexdigest()[:10]
+    for name, html in pages.items():
+        out = ROOT / name
+        out.parent.mkdir(exist_ok=True)
+        out.write_text(html.replace(BUILD_PLACEHOLDER, build_id), encoding="utf-8", newline="\n")
+    nf = ROOT / "404.html"  # hand-written page: only keep its stylesheet version in sync
+    nf.write_text(re.sub(r"styles\.css\?v=[0-9a-f]+", f"styles.css?v={ASSET_V}", nf.read_text(encoding="utf-8")),
+                  encoding="utf-8", newline="\n")
+    (ROOT / "version.json").write_text(json.dumps({"build": build_id}) + "\n", encoding="utf-8", newline="\n")
+    print("built:", ", ".join(sorted(pages)), f"+ version.json (build {build_id}, assets {ASSET_V})")
 
 
 if __name__ == "__main__":
