@@ -15,6 +15,7 @@ BASE = "https://vanguar.github.io/german-morning/"
 BOT = "https://t.me/GermanMorningBot"
 BOT_NAME = "@GermanMorningBot"
 OG_IMAGE = BASE + "assets/img/og-image.png"
+ASSET_V = "2"  # bump after changing styles.css / main.js (Pages caches for 10 min)
 ORDER = ["uk", "ru", "de"]  # Ukrainian first: default language of the site
 NAMES = {"uk": "Українська", "ru": "Русский", "de": "Deutsch"}
 CODES = {"uk": "UK", "ru": "RU", "de": "DE"}
@@ -247,7 +248,7 @@ def head(lang, *, title, desc, og_title, og_desc, og_alt, canonical, prefix, ld)
   <link rel="icon" href="{prefix}assets/img/icon.svg" type="image/svg+xml">
   <link rel="icon" href="{prefix}assets/img/favicon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="{prefix}assets/img/apple-touch-icon.png">
-  <link rel="stylesheet" href="{prefix}assets/css/styles.css">
+  <link rel="stylesheet" href="{prefix}assets/css/styles.css?v={ASSET_V}">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="German Morning">
@@ -488,7 +489,7 @@ def page(lang):
   <div class="sticky-cta" id="sticky-cta">
     <a class="btn btn-primary" href="{BOT}" rel="noopener">{TG_ICON}{escape(t["sticky"])}</a>
   </div>
-  <script src="{p}assets/js/main.js" defer></script>
+  <script src="{p}assets/js/main.js?v={ASSET_V}" defer></script>
 </body>
 </html>
 """
@@ -544,7 +545,7 @@ def root_page():
     </div>
   </main>
 
-{footer("uk", "", "Посилання · Ссылки · Links")}  <script src="assets/js/main.js" defer></script>
+{footer("uk", "", "Посилання · Ссылки · Links")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
 </body>
 </html>
 """

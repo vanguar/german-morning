@@ -49,26 +49,20 @@
     }
   }
 
-  // Root page: highlight the version matching the browser language (Ukrainian by default).
+  // Root page: Ukrainian stays the highlighted default. Only when the browser lists no
+  // Ukrainian at all, a quiet text link points to the Russian or German version.
   var box = document.getElementById('suggest');
   if (!box) return;
   var langs = navigator.languages || [navigator.language || ''];
-  // The course is taught in Ukrainian or Russian, so those win over German anywhere in the list.
   var codes = [];
   for (var j = 0; j < langs.length; j++) codes.push(String(langs[j] || '').toLowerCase().slice(0, 2));
-  var pick = null;
-  for (var n = 0; n < codes.length && !pick; n++) if (codes[n] === 'uk' || codes[n] === 'ru') pick = codes[n];
-  if (!pick && codes.indexOf('de') !== -1) pick = 'de';
-  if (!pick || pick === 'uk') return; // Ukrainian is already the highlighted default
-  var def = document.querySelector('[data-lang="uk"]');
-  var btn = document.querySelector('[data-lang="' + pick + '"]');
-  if (!btn || !def) return;
-  def.classList.remove('btn-primary', 'is-suggested');
-  def.classList.add('btn-ghost');
-  btn.classList.remove('btn-ghost');
-  btn.classList.add('btn-primary', 'is-suggested');
+  if (codes.indexOf('uk') !== -1) return;
+  var pick = codes.indexOf('ru') !== -1 ? 'ru' : (codes.indexOf('de') !== -1 ? 'de' : null);
+  if (!pick) return;
+  var a = document.createElement('a');
+  a.href = pick + '/';
+  a.hreflang = pick;
+  a.textContent = pick === 'ru' ? 'Открыть версию на русском' : 'Zur deutschen Version';
   box.lang = pick;
-  box.textContent = pick === 'ru'
-    ? 'Похоже, вам подойдёт русская версия.'
-    : 'Die deutsche Version passt vielleicht besser zu Ihnen.';
+  box.appendChild(a);
 })();
