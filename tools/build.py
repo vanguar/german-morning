@@ -18,7 +18,7 @@ CONTACT = "https://t.me/ObiVan1978"
 CONTACT_NAME = "@ObiVan1978"
 FEEDBACK = {"uk": "Зауваження та пропозиції", "ru": "Замечания и предложения", "de": "Feedback und Vorschläge"}
 OG_IMAGE = BASE + "assets/img/og-image.png"
-ASSET_V = "5"  # bump after changing styles.css / main.js (Pages caches for 10 min)
+ASSET_V = "6"  # bump after changing styles.css / main.js (Pages caches for 10 min)
 ORDER = ["uk", "ru", "de"]  # Ukrainian first: default language of the site
 NAMES = {"uk": "Українська", "ru": "Русский", "de": "Deutsch"}
 CODES = {"uk": "UK", "ru": "RU", "de": "DE"}
@@ -334,27 +334,55 @@ def lang_switch(lang, prefix, label):
             + "".join(f"            {i}\n" for i in items) + "          </ul>\n        </nav>")
 
 
-def footer(lang, prefix, label, feedback=None):
-    feedback = feedback or FEEDBACK[lang]
-    links = []
+FOOT = {
+    "uk": dict(tag="Німецька щодня в Telegram — від A1 до B2.",
+               fb_text="Знайшли помилку чи маєте ідею? Напишіть автору проєкту."),
+    "ru": dict(tag="Немецкий каждый день в Telegram — от A1 до B2.",
+               fb_text="Нашли ошибку или есть идея? Напишите автору проекта."),
+    "de": dict(tag="Deutsch jeden Tag in Telegram — von A1 bis B2.",
+               fb_text="Fehler gefunden oder eine Idee? Schreiben Sie dem Autor."),
+}
+CHAT_ICON = ('<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" '
+             'd="M12 3C6.5 3 2 6.8 2 11.5c0 2.4 1.2 4.6 3.1 6.1-.2 1.3-.8 2.6-1.8 3.6-.2.2-.1.6.2.6 2.1.1 '
+             '4-.7 5.3-1.6 1 .3 2.1.4 3.2.4 5.5 0 10-3.8 10-8.6S17.5 3 12 3Zm-4.5 9.8a1.3 1.3 0 1 1 0-2.6 '
+             '1.3 1.3 0 0 1 0 2.6Zm4.5 0a1.3 1.3 0 1 1 0-2.6 1.3 1.3 0 0 1 0 2.6Zm4.5 0a1.3 1.3 0 1 1 0-2.6 '
+             '1.3 1.3 0 0 1 0 2.6Z"/></svg>')
+
+
+def footer(lang, prefix, label):
+    f = FOOT[lang]
+    items = []
     for l in ORDER:
-        attrs = f' hreflang="{l}"' + ("" if l == lang else f' lang="{l}"')
         if l == lang:
-            href, attrs = ("./" if prefix else f"{l}/"), attrs + (' aria-current="page"' if prefix else "")
+            href = "./" if prefix else f"{l}/"
+            cur = ' aria-current="page"' if prefix else ""
+            items.append(f'<li><a href="{href}" hreflang="{l}"{cur}>{NAMES[l]}</a></li>')
         else:
-            href = f"{prefix}{l}/"
-        links.append(f'<li><a href="{href}"{attrs}>{NAMES[l]}</a></li>')
-    links.append(f'<li><a href="{BOT}" rel="noopener">Telegram</a></li>')
+            items.append(f'<li><a href="{prefix}{l}/" hreflang="{l}" lang="{l}">{NAMES[l]}</a></li>')
     return f"""  <footer class="site-footer">
     <div class="wrap">
-      <div class="foot-info">
-        <p class="foot-brand"><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span> · <a href="{BOT}" rel="noopener">{BOT_NAME}</a></p>
-        <p class="foot-contact">{feedback}: <a href="{CONTACT}" rel="noopener">{CONTACT_NAME}</a></p>
+      <div class="foot-grid">
+        <div class="foot-card foot-about">
+          <p class="foot-logo"><img src="{prefix}assets/img/icon.svg" alt="" width="44" height="44"><span><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span></span></p>
+          <p class="foot-tag">{escape(f["tag"])}</p>
+          <a class="btn btn-primary btn-sm" href="{BOT}" rel="noopener">{TG_ICON}{BOT_NAME}</a>
+        </div>
+        <a class="foot-card feedback-card" href="{CONTACT}" rel="noopener">
+          <span class="fb-ico">{CHAT_ICON}</span>
+          <span class="fb-body">
+            <b>{FEEDBACK[lang]}</b>
+            <span class="fb-text">{escape(f["fb_text"])}</span>
+            <span class="fb-handle">{CONTACT_NAME} <span aria-hidden="true">→</span></span>
+          </span>
+        </a>
       </div>
-      <nav aria-label="{label}">
-        <ul class="footer-links">
-{"".join(f"          {x}{chr(10)}" for x in links)}        </ul>
-      </nav>
+      <div class="foot-bottom">
+        <nav aria-label="{label}">
+          <ul class="foot-langs">
+{"".join(f"            {x}{chr(10)}" for x in items)}          </ul>
+        </nav>
+        <p class="foot-copy">© 2026 German Morning</p>
+      </div>
     </div>
   </footer>
   <div class="tricolor" aria-hidden="true"></div>
@@ -602,7 +630,7 @@ def root_page():
     </div>
   </main>
 
-{footer("uk", "", "Посилання · Ссылки · Links", "Зауваження та пропозиції · <span lang='ru'>Замечания и предложения</span>")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
+{footer("uk", "", "Мова сторінки")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
 </body>
 </html>
 """
