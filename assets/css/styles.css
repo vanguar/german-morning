@@ -441,3 +441,38 @@ p { margin: 0 0 1em; }
   box-shadow: 0 0 0 1px rgba(127, 127, 127, .25);
 }
 .flag-lg { width: .95em; height: .62em; border-radius: 5px; vertical-align: .05em; }
+
+/* section backgrounds alternate: cards take the opposite surface */
+.section-alt .steps li, .section-alt .lang-card, .section-alt .faq details { background: var(--bg); }
+.section:not(.section-alt) .audience li, .section:not(.section-alt) .faq details { background: var(--surface); }
+.section:not(.section-alt) .faq summary::after { background-color: var(--surface-2); }
+
+/* news rubrics */
+.rubrics { display: grid; gap: 10px; grid-template-columns: 1fr; margin: 0; padding: 0; list-style: none; }
+@media (min-width: 520px) { .rubrics { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 980px) { .rubrics { grid-template-columns: repeat(5, 1fr); gap: 14px; } }
+.rubric {
+  display: flex; align-items: center; gap: 14px;
+  padding: 16px 18px; background: var(--surface); border: 1px solid var(--line); border-radius: 18px;
+}
+@media (min-width: 980px) { .rubric { flex-direction: column; align-items: flex-start; padding: 20px; } }
+.rubric-ico {
+  display: inline-flex; align-items: center; justify-content: center; flex: none;
+  width: 48px; height: 48px; border-radius: 14px; background: var(--accent-soft); font-size: 1.45rem;
+}
+.rubric b { display: block; font-size: 1.05rem; line-height: 1.3; }
+.rubric small { display: block; color: var(--muted); font-size: .9rem; line-height: 1.4; margin-top: 2px; }
+.news-note { margin: 18px 0 0; color: var(--muted); font-size: .95rem; }
+
+/* "coming soon" language */
+.lang-card.is-soon { border-style: dashed; cursor: default; }
+.lang-card.is-soon:hover { border-color: var(--line); }
+.lang-card.is-soon .code { background: var(--surface-2); color: var(--muted); }
+.soon-badge {
+  display: inline-block; margin-right: 6px; padding: 1px 9px; border-radius: 999px;
+  background: var(--t1); color: var(--ink); font-weight: 700; font-size: .8rem; vertical-align: 1px;
+}
+
+.foot-info { display: grid; gap: 4px; }
+.foot-contact { margin: 0; }
+.foot-contact a { font-weight: 600; }

@@ -14,8 +14,11 @@ ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://vanguar.github.io/german-morning/"
 BOT = "https://t.me/GermanMorningBot"
 BOT_NAME = "@GermanMorningBot"
+CONTACT = "https://t.me/ObiVan1978"
+CONTACT_NAME = "@ObiVan1978"
+FEEDBACK = {"uk": "Зауваження та пропозиції", "ru": "Замечания и предложения", "de": "Feedback und Vorschläge"}
 OG_IMAGE = BASE + "assets/img/og-image.png"
-ASSET_V = "2"  # bump after changing styles.css / main.js (Pages caches for 10 min)
+ASSET_V = "4"  # bump after changing styles.css / main.js (Pages caches for 10 min)
 ORDER = ["uk", "ru", "de"]  # Ukrainian first: default language of the site
 NAMES = {"uk": "Українська", "ru": "Русский", "de": "Deutsch"}
 CODES = {"uk": "UK", "ru": "RU", "de": "DE"}
@@ -42,7 +45,7 @@ T = {
         desc="German Morning — Telegram-бот та інтерактивний курс німецької мови A1–B2. 68 уроків, слова, вправи, озвучення, диктанти, ігри та книжки.",
         og_desc="Інтерактивний курс німецької від A1 до B2: короткі уроки, слова, вправи, озвучення, диктанти, ігри та книжки — просто в Telegram.",
         og_alt="German Morning — німецька A1–B2 у Telegram",
-        app_desc="Telegram-бот та інтерактивний курс німецької мови від A1 до B2: 68 уроків, слова, вправи, озвучення, диктанти, ігри та книжки.",
+        app_desc="Telegram-бот та інтерактивний курс німецької мови від A1 до B2: 68 уроків, слова, вправи, озвучення, диктанти, ігри, книжки та новини.",
         skip="До змісту", home_label="German Morning — головна сторінка українською",
         nav_label="Мова сторінки", theme_label="Темна тема", germany="Німеччина",
         eyebrow="A1 → B2 · 68 уроків",
@@ -65,8 +68,17 @@ T = {
             ("🎧", "", "Диктанти", "Слухаєте й записуєте — тренування сприйняття на слух і правопису."),
             ("🎲", "", "Ігри", "Повторювати слова в ігровому форматі простіше, ніж зубрити списки."),
             ("📖", "", "Книжки", "Тексти німецькою для читання, коли хочеться більше живої мови."),
-            ("💬", "", "Просто в Telegram", "Нічого не потрібно завантажувати та встановлювати окремо."),
+            ("📰", "", "Новини", "Короткі статті німецькою про свіже: наука, технології, економіка, події."),
         ],
+        news_title="Новини німецькою",
+        news_lead="Короткі статті німецькою про те, що відбувається у світі. Біля кожної вказано рівень, а читати допомагають підказки до слів, підрядник, переклад і озвучення.",
+        rubrics=[("🔭", "Астрономія", "Космос, відкриття та місії"),
+                 ("🔬", "Наука", "Дослідження, відкриття і премії"),
+                 ("💻", "Технології", "ШІ, інтернет і ґаджети"),
+                 ("💹", "Економіка", "Ринки, ціни, робота й гроші"),
+                 ("🌍", "Події", "Головне в Німеччині та світі")],
+        news_note="Нові статті з’являються регулярно — свіжі позначені окремо.",
+        soon="Незабаром", ar_sub="Арабський інтерфейс у розробці",
         how_title="Як це працює",
         steps=[
             ("Відкрийте бота", f'Перейдіть до <a href="{BOT}" rel="noopener">{BOT_NAME}</a> і натисніть «Старт».'),
@@ -80,15 +92,16 @@ T = {
             ("☕", "Хочете потроху щодня", "Короткі уроки зручно вбудувати в ранок або будь-яку вільну хвилину."),
         ],
         langs_title="Українська та російська",
-        langs_lead="Інтерфейс, пояснення та переклади доступні двома мовами. Оберіть зручну в боті — і змініть будь-коли.",
+        langs_lead="Інтерфейс, пояснення та переклади доступні двома мовами. Оберіть зручну в боті — і змініть будь-коли. Незабаром додасться арабська.",
         lang_here="Ця сторінка", lang_sub={"ru": "Страница на русском", "de": "Seite auf Deutsch"},
         faq_title="Часті запитання",
         faq=[
             ("Що таке German Morning?", "German Morning — це Telegram-бот та інтерактивний курс німецької мови від A1 до B2. Усередині 68 уроків, нові слова, вправи, озвучення, диктанти, ігри та книжки німецькою."),
             ("Чи потрібно встановлювати окремий застосунок?", "Ні. German Morning працює просто в Telegram: достатньо відкрити бота @GermanMorningBot."),
             ("Які рівні доступні?", "Курс охоплює рівні A1, A2, B1 і B2 — загалом 68 уроків. Можна почати з нуля або обрати рівень, який підходить вам зараз."),
-            ("Чи є українська мова?", "Так. Інтерфейс, пояснення та переклади доступні українською та російською. Мову обирають у боті, і її можна змінити будь-коли."),
+            ("Чи є українська мова?", "Так. Інтерфейс, пояснення та переклади доступні українською та російською. Мову обирають у боті, і її можна змінити будь-коли. Арабський інтерфейс у розробці."),
             ("German Morning безкоштовний?", "Основні матеріали доступні безкоштовно. Проєкт можна підтримати добровільно просто в боті."),
+            ("Куди писати зауваження та пропозиції?", "Пишіть автору проєкту в Telegram: @ObiVan1978 — https://t.me/ObiVan1978. Будемо раді відгукам та ідеям."),
             ("Де відкрити курс?", "Відкрийте бота @GermanMorningBot у Telegram за посиланням https://t.me/GermanMorningBot і натисніть «Старт»."),
         ],
         final_title="Почніть ранок із німецької",
@@ -102,7 +115,7 @@ T = {
         desc="German Morning — Telegram-бот и интерактивный курс немецкого языка A1–B2. 68 уроков, слова, упражнения, озвучка, диктанты, игры и книги.",
         og_desc="Интерактивный курс немецкого от A1 до B2: короткие уроки, слова, упражнения, озвучка, диктанты, игры и книги — прямо в Telegram.",
         og_alt="German Morning — немецкий A1–B2 в Telegram",
-        app_desc="Telegram-бот и интерактивный курс немецкого языка от A1 до B2: 68 уроков, слова, упражнения, озвучка, диктанты, игры и книги.",
+        app_desc="Telegram-бот и интерактивный курс немецкого языка от A1 до B2: 68 уроков, слова, упражнения, озвучка, диктанты, игры, книги и новости.",
         skip="К содержанию", home_label="German Morning — главная страница на русском",
         nav_label="Язык страницы", theme_label="Тёмная тема", germany="Германия",
         eyebrow="A1 → B2 · 68 уроков",
@@ -125,8 +138,17 @@ T = {
             ("🎧", "", "Диктанты", "Слушаете и записываете — тренировка восприятия на слух и орфографии."),
             ("🎲", "", "Игры", "Повторять слова в игровом формате проще, чем зубрить списки."),
             ("📖", "", "Книги", "Тексты на немецком для чтения, когда захочется больше живого языка."),
-            ("💬", "", "Прямо в Telegram", "Ничего не нужно скачивать и устанавливать отдельно."),
+            ("📰", "", "Новости", "Короткие статьи на немецком о свежем: наука, технологии, экономика, события."),
         ],
+        news_title="Новости на немецком",
+        news_lead="Короткие статьи на немецком о том, что происходит в мире. У каждой указан уровень, а читать помогают подсказки к словам, подстрочник, перевод и озвучка.",
+        rubrics=[("🔭", "Астрономия", "Космос, открытия и миссии"),
+                 ("🔬", "Наука", "Исследования, открытия и премии"),
+                 ("💻", "Технологии", "ИИ, интернет и гаджеты"),
+                 ("💹", "Экономика", "Рынки, цены, работа и деньги"),
+                 ("🌍", "События", "Главное в Германии и мире")],
+        news_note="Новые статьи появляются регулярно — свежие отмечены отдельно.",
+        soon="Скоро", ar_sub="Арабский интерфейс в разработке",
         how_title="Как это работает",
         steps=[
             ("Откройте бота", f'Перейдите в <a href="{BOT}" rel="noopener">{BOT_NAME}</a> и нажмите «Старт».'),
@@ -140,15 +162,16 @@ T = {
             ("☕", "Хотите понемногу каждый день", "Короткие уроки удобно встроить в утро или любую свободную минуту."),
         ],
         langs_title='Русский и <span lang="uk">українська</span>',
-        langs_lead="Интерфейс, объяснения и переводы доступны на двух языках. Выберите удобный в боте — и смените в любой момент.",
+        langs_lead="Интерфейс, объяснения и переводы доступны на двух языках. Выберите удобный в боте — и смените в любой момент. Скоро добавится арабский.",
         lang_here="Эта страница", lang_sub={"uk": "Сторінка українською", "de": "Seite auf Deutsch"},
         faq_title="Частые вопросы",
         faq=[
             ("Что такое German Morning?", "German Morning — это Telegram-бот и интерактивный курс немецкого языка от A1 до B2. Внутри 68 уроков, новые слова, упражнения, озвучка, диктанты, игры и книги на немецком."),
             ("Нужно ли устанавливать отдельное приложение?", "Нет. German Morning работает прямо в Telegram: достаточно открыть бота @GermanMorningBot."),
             ("Какие уровни доступны?", "Курс охватывает уровни A1, A2, B1 и B2 — всего 68 уроков. Можно начать с нуля или выбрать уровень, который подходит вам сейчас."),
-            ("Есть ли украинский язык?", "Да. Интерфейс, объяснения и переводы доступны на русском и на украинском языке. Язык выбирается в боте и его можно сменить в любой момент."),
+            ("Есть ли украинский язык?", "Да. Интерфейс, объяснения и переводы доступны на русском и на украинском языке. Язык выбирается в боте и его можно сменить в любой момент. Арабский интерфейс в разработке."),
             ("German Morning бесплатный?", "Основные материалы доступны бесплатно. Проект можно поддержать добровольно прямо в боте."),
+            ("Куда писать замечания и предложения?", "Пишите автору проекта в Telegram: @ObiVan1978 — https://t.me/ObiVan1978. Будем рады отзывам и идеям."),
             ("Где открыть курс?", "Откройте бота @GermanMorningBot в Telegram по ссылке https://t.me/GermanMorningBot и нажмите «Старт»."),
         ],
         final_title="Начните утро с немецкого",
@@ -162,7 +185,7 @@ T = {
         desc="German Morning — Telegram-Bot und interaktiver Deutschkurs A1–B2 mit ukrainischer und russischer Oberfläche: 68 Lektionen, Wörter, Übungen, Audio, Diktate, Spiele und Bücher.",
         og_desc="Interaktiver Deutschkurs von A1 bis B2: kurze Lektionen, Wörter, Übungen, Audio, Diktate, Spiele und Bücher — direkt in Telegram.",
         og_alt="German Morning — Deutsch A1–B2 in Telegram",
-        app_desc="Telegram-Bot und interaktiver Deutschkurs von A1 bis B2 mit ukrainischer und russischer Oberfläche: 68 Lektionen, Wörter, Übungen, Audio, Diktate, Spiele und Bücher.",
+        app_desc="Telegram-Bot und interaktiver Deutschkurs von A1 bis B2 mit ukrainischer und russischer Oberfläche: 68 Lektionen, Wörter, Übungen, Audio, Diktate, Spiele, Bücher und Nachrichten.",
         skip="Zum Inhalt", home_label="German Morning — Startseite auf Deutsch",
         nav_label="Sprache der Seite", theme_label="Dunkles Design", germany="Deutschland",
         eyebrow="A1 → B2 · 68 Lektionen",
@@ -185,8 +208,17 @@ T = {
             ("🎧", "", "Diktate", "Hören und aufschreiben — Training für Hörverstehen und Rechtschreibung."),
             ("🎲", "", "Spiele", "Wörter spielerisch wiederholen ist leichter, als Listen zu pauken."),
             ("📖", "", "Bücher", "Deutsche Texte zum Lesen, wenn man mehr lebendige Sprache möchte."),
-            ("💬", "", "Direkt in Telegram", "Nichts muss separat heruntergeladen oder installiert werden."),
+            ("📰", "", "Nachrichten", "Kurze deutsche Artikel über Aktuelles: Wissenschaft, Technik, Wirtschaft, Ereignisse."),
         ],
+        news_title="Nachrichten auf Deutsch",
+        news_lead="Kurze deutsche Artikel darüber, was in der Welt passiert. Jeder hat eine Niveauangabe, und beim Lesen helfen Worthinweise, Interlinearübersetzung, Übersetzung und Audio.",
+        rubrics=[("🔭", "Astronomie", "Weltraum, Entdeckungen und Missionen"),
+                 ("🔬", "Wissenschaft", "Forschung, Entdeckungen und Preise"),
+                 ("💻", "Technik", "KI, Internet und Gadgets"),
+                 ("💹", "Wirtschaft", "Märkte, Preise, Arbeit und Geld"),
+                 ("🌍", "Ereignisse", "Das Wichtigste aus Deutschland und der Welt")],
+        news_note="Neue Artikel kommen regelmäßig dazu — frische sind eigens markiert.",
+        soon="Bald", ar_sub="Arabische Oberfläche in Arbeit",
         how_title="So funktioniert’s",
         steps=[
             ("Bot öffnen", f'Öffnen Sie <a href="{BOT}" rel="noopener">{BOT_NAME}</a> und tippen Sie auf „Start“.'),
@@ -200,15 +232,16 @@ T = {
             ("☕", "Sie wollen täglich ein bisschen", "Kurze Lektionen passen in den Morgen oder jede freie Minute."),
         ],
         langs_title="Ukrainisch und Russisch",
-        langs_lead="Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit ändern. Diese Seite gibt es zusätzlich auf Deutsch — etwa zum Weiterempfehlen.",
+        langs_lead="Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit ändern; Arabisch kommt bald dazu. Diese Seite gibt es zusätzlich auf Deutsch — etwa zum Weiterempfehlen.",
         lang_here="Diese Seite", lang_sub={"uk": "Сторінка українською", "ru": "Страница на русском"},
         faq_title="Häufige Fragen",
         faq=[
             ("Was ist German Morning?", "German Morning ist ein Telegram-Bot und interaktiver Deutschkurs von A1 bis B2. Er enthält 68 Lektionen, neue Wörter, Übungen, Audio, Diktate, Spiele und deutsche Bücher."),
             ("Muss ich eine App installieren?", "Nein. German Morning läuft direkt in Telegram: Es genügt, den Bot @GermanMorningBot zu öffnen."),
             ("Welche Niveaus gibt es?", "Der Kurs umfasst die Niveaus A1, A2, B1 und B2 — insgesamt 68 Lektionen. Man kann bei null anfangen oder das passende Niveau wählen."),
-            ("In welchen Sprachen ist die Oberfläche?", "Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit wechseln."),
+            ("In welchen Sprachen ist die Oberfläche?", "Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit wechseln. Eine arabische Oberfläche ist in Arbeit."),
             ("Ist German Morning kostenlos?", "Die Hauptinhalte sind kostenlos verfügbar. Das Projekt kann man freiwillig direkt im Bot unterstützen."),
+            ("Wohin mit Feedback und Vorschlägen?", "Schreiben Sie dem Autor des Projekts in Telegram: @ObiVan1978 — https://t.me/ObiVan1978. Über Rückmeldungen und Ideen freuen wir uns."),
             ("Wo öffne ich den Kurs?", "Öffnen Sie den Bot @GermanMorningBot in Telegram über https://t.me/GermanMorningBot und tippen Sie auf „Start“."),
         ],
         final_title="Starten Sie den Morgen mit Deutsch",
@@ -224,6 +257,8 @@ def linkify(text):
     """Escape FAQ answer text and turn the bot handle / URL into links."""
     s = escape(text)
     s = s.replace("https://t.me/GermanMorningBot", f'<a href="{BOT}" rel="noopener">t.me/GermanMorningBot</a>')
+    s = s.replace(CONTACT, f'<a href="{CONTACT}" rel="noopener">t.me/ObiVan1978</a>')
+    s = s.replace(CONTACT_NAME + " ", f'<a href="{CONTACT}" rel="noopener">{CONTACT_NAME}</a> ', 1)
     return s.replace(BOT_NAME, f'<a href="{BOT}" rel="noopener">{BOT_NAME}</a>', 1)
 
 
@@ -299,7 +334,8 @@ def lang_switch(lang, prefix, label):
             + "".join(f"            {i}\n" for i in items) + "          </ul>\n        </nav>")
 
 
-def footer(lang, prefix, label):
+def footer(lang, prefix, label, feedback=None):
+    feedback = feedback or FEEDBACK[lang]
     links = []
     for l in ORDER:
         attrs = f' hreflang="{l}"' + ("" if l == lang else f' lang="{l}"')
@@ -311,7 +347,10 @@ def footer(lang, prefix, label):
     links.append(f'<li><a href="{BOT}" rel="noopener">Telegram</a></li>')
     return f"""  <footer class="site-footer">
     <div class="wrap">
-      <p class="foot-brand"><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span> · <a href="{BOT}" rel="noopener">{BOT_NAME}</a></p>
+      <div class="foot-info">
+        <p class="foot-brand"><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span> · <a href="{BOT}" rel="noopener">{BOT_NAME}</a></p>
+        <p class="foot-contact">{feedback}: <a href="{CONTACT}" rel="noopener">{CONTACT_NAME}</a></p>
+      </div>
       <nav aria-label="{label}">
         <ul class="footer-links">
 {"".join(f"          {x}{chr(10)}" for x in links)}        </ul>
@@ -343,6 +382,10 @@ def page(lang):
         + (f'<span class="big">{escape(big)}</span>' if big else "")
         + f"<h3>{escape(h)}</h3><p>{escape(d)}</p></li>\n"
         for i, (ico, big, h, d) in enumerate(t["features"]))
+    rubrics = "".join(
+        f'          <li class="rubric"><span class="rubric-ico" aria-hidden="true">{ico}</span>'
+        f"<span><b>{escape(h)}</b><small>{escape(d)}</small></span></li>\n"
+        for ico, h, d in t["rubrics"])
     steps = "".join(f"          <li><h3>{escape(h)}</h3><p>{d}</p></li>\n" for h, d in t["steps"])
     who = "".join(f'          <li><span class="who-ico" aria-hidden="true">{ico}</span><h3>{escape(h)}</h3>'
                   f"<p>{escape(d)}</p></li>\n" for ico, h, d in t["who"])
@@ -356,6 +399,9 @@ def page(lang):
             lang_cards.append(f'          <a class="lang-card" href="{p}{l}/" hreflang="{l}" lang="{l}">'
                               f'<span class="code">{CODES[l]}</span><strong>{NAMES[l]}</strong>'
                               f'<span class="sub">{t["lang_sub"][l]}</span></a>\n')
+    lang_cards.append(f'          <div class="lang-card is-soon" aria-disabled="true"><span class="code">AR</span>'
+                      f'<strong lang="ar" dir="rtl">العربية</strong>'
+                      f'<span class="sub"><span class="soon-badge">{t["soon"]}</span> {t["ar_sub"]}</span></div>\n')
     faq = "".join(f"""          <details>
             <summary>{escape(q)}</summary>
             <div class="answer"><p>{linkify(a)}</p></div>
@@ -431,7 +477,19 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section" aria-labelledby="how-title">
+    <section class="section" id="news" aria-labelledby="news-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="news-title">{t["news_title"]}</h2>
+          <p>{escape(t["news_lead"])}</p>
+        </div>
+        <ul class="rubrics">
+{rubrics}        </ul>
+        <p class="news-note">{escape(t["news_note"])}</p>
+      </div>
+    </section>
+
+    <section class="section section-alt" aria-labelledby="how-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="how-title">{t["how_title"]}</h2>
@@ -441,7 +499,7 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section section-alt" aria-labelledby="who-title">
+    <section class="section" aria-labelledby="who-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="who-title">{t["who_title"]}</h2>
@@ -451,7 +509,7 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section" aria-labelledby="langs-title">
+    <section class="section section-alt" aria-labelledby="langs-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="langs-title">{t["langs_title"]}</h2>
@@ -462,7 +520,7 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section section-alt" aria-labelledby="faq-title">
+    <section class="section" aria-labelledby="faq-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="faq-title">{t["faq_title"]}</h2>
@@ -527,8 +585,8 @@ def root_page():
       <img class="picker-logo" src="assets/img/icon.svg" alt="German Morning" width="96" height="96">
       <h1>German Morning <span class="flag flag-lg" role="img" aria-label="Німеччина"></span></h1>
       <p class="lead">
-        <span>Німецька від A1 до B2 просто в Telegram: 68 коротких уроків, слова, вправи, озвучення, диктанти, ігри та книжки.</span>
-        <span lang="ru">Немецкий от A1 до B2 прямо в Telegram: 68 коротких уроков, слова, упражнения, озвучка, диктанты, игры и книги.</span>
+        <span>Німецька від A1 до B2 просто в Telegram: 68 коротких уроків, слова, вправи, озвучення, диктанти, ігри, книжки та новини.</span>
+        <span lang="ru">Немецкий от A1 до B2 прямо в Telegram: 68 коротких уроков, слова, упражнения, озвучка, диктанты, игры, книги и новости.</span>
         <span lang="de">Deutsch von A1 bis B2 direkt in Telegram — mit ukrainischer und russischer Oberfläche.</span>
       </p>
 
@@ -545,7 +603,7 @@ def root_page():
     </div>
   </main>
 
-{footer("uk", "", "Посилання · Ссылки · Links")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
+{footer("uk", "", "Посилання · Ссылки · Links", "Зауваження та пропозиції · <span lang='ru'>Замечания и предложения</span>")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
 </body>
 </html>
 """

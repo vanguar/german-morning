@@ -18,7 +18,7 @@
   <link rel="icon" href="../assets/img/icon.svg" type="image/svg+xml">
   <link rel="icon" href="../assets/img/favicon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="../assets/img/apple-touch-icon.png">
-  <link rel="stylesheet" href="../assets/css/styles.css?v=2">
+  <link rel="stylesheet" href="../assets/css/styles.css?v=4">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="German Morning">
@@ -45,7 +45,7 @@
       "@type": "SoftwareApplication",
       "@id": "https://vanguar.github.io/german-morning/#app",
       "name": "German Morning",
-      "description": "Telegram-Bot und interaktiver Deutschkurs von A1 bis B2 mit ukrainischer und russischer Oberfläche: 68 Lektionen, Wörter, Übungen, Audio, Diktate, Spiele und Bücher.",
+      "description": "Telegram-Bot und interaktiver Deutschkurs von A1 bis B2 mit ukrainischer und russischer Oberfläche: 68 Lektionen, Wörter, Übungen, Audio, Diktate, Spiele, Bücher und Nachrichten.",
       "applicationCategory": "EducationalApplication",
       "operatingSystem": "Telegram, Web",
       "url": "https://vanguar.github.io/german-morning/de/",
@@ -91,7 +91,7 @@
           "name": "In welchen Sprachen ist die Oberfläche?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit wechseln."
+            "text": "Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit wechseln. Eine arabische Oberfläche ist in Arbeit."
           }
         },
         {
@@ -100,6 +100,14 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "Die Hauptinhalte sind kostenlos verfügbar. Das Projekt kann man freiwillig direkt im Bot unterstützen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wohin mit Feedback und Vorschlägen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Schreiben Sie dem Autor des Projekts in Telegram: @ObiVan1978 — https://t.me/ObiVan1978. Über Rückmeldungen und Ideen freuen wir uns."
           }
         },
         {
@@ -193,12 +201,29 @@
           <li class="card"><span class="ico ico-4" aria-hidden="true">🎧</span><h3>Diktate</h3><p>Hören und aufschreiben — Training für Hörverstehen und Rechtschreibung.</p></li>
           <li class="card"><span class="ico ico-5" aria-hidden="true">🎲</span><h3>Spiele</h3><p>Wörter spielerisch wiederholen ist leichter, als Listen zu pauken.</p></li>
           <li class="card"><span class="ico ico-6" aria-hidden="true">📖</span><h3>Bücher</h3><p>Deutsche Texte zum Lesen, wenn man mehr lebendige Sprache möchte.</p></li>
-          <li class="card"><span class="ico ico-7" aria-hidden="true">💬</span><h3>Direkt in Telegram</h3><p>Nichts muss separat heruntergeladen oder installiert werden.</p></li>
+          <li class="card"><span class="ico ico-7" aria-hidden="true">📰</span><h3>Nachrichten</h3><p>Kurze deutsche Artikel über Aktuelles: Wissenschaft, Technik, Wirtschaft, Ereignisse.</p></li>
         </ul>
       </div>
     </section>
 
-    <section class="section" aria-labelledby="how-title">
+    <section class="section" id="news" aria-labelledby="news-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="news-title">Nachrichten auf Deutsch</h2>
+          <p>Kurze deutsche Artikel darüber, was in der Welt passiert. Jeder hat eine Niveauangabe, und beim Lesen helfen Worthinweise, Interlinearübersetzung, Übersetzung und Audio.</p>
+        </div>
+        <ul class="rubrics">
+          <li class="rubric"><span class="rubric-ico" aria-hidden="true">🔭</span><span><b>Astronomie</b><small>Weltraum, Entdeckungen und Missionen</small></span></li>
+          <li class="rubric"><span class="rubric-ico" aria-hidden="true">🔬</span><span><b>Wissenschaft</b><small>Forschung, Entdeckungen und Preise</small></span></li>
+          <li class="rubric"><span class="rubric-ico" aria-hidden="true">💻</span><span><b>Technik</b><small>KI, Internet und Gadgets</small></span></li>
+          <li class="rubric"><span class="rubric-ico" aria-hidden="true">💹</span><span><b>Wirtschaft</b><small>Märkte, Preise, Arbeit und Geld</small></span></li>
+          <li class="rubric"><span class="rubric-ico" aria-hidden="true">🌍</span><span><b>Ereignisse</b><small>Das Wichtigste aus Deutschland und der Welt</small></span></li>
+        </ul>
+        <p class="news-note">Neue Artikel kommen regelmäßig dazu — frische sind eigens markiert.</p>
+      </div>
+    </section>
+
+    <section class="section section-alt" aria-labelledby="how-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="how-title">So funktioniert’s</h2>
@@ -211,7 +236,7 @@
       </div>
     </section>
 
-    <section class="section section-alt" aria-labelledby="who-title">
+    <section class="section" aria-labelledby="who-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="who-title">Für wen</h2>
@@ -224,21 +249,22 @@
       </div>
     </section>
 
-    <section class="section" aria-labelledby="langs-title">
+    <section class="section section-alt" aria-labelledby="langs-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="langs-title">Ukrainisch und Russisch</h2>
-          <p>Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit ändern. Diese Seite gibt es zusätzlich auf Deutsch — etwa zum Weiterempfehlen.</p>
+          <p>Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit ändern; Arabisch kommt bald dazu. Diese Seite gibt es zusätzlich auf Deutsch — etwa zum Weiterempfehlen.</p>
         </div>
         <div class="langs">
           <a class="lang-card" href="../uk/" hreflang="uk" lang="uk"><span class="code">UK</span><strong>Українська</strong><span class="sub">Сторінка українською</span></a>
           <a class="lang-card" href="../ru/" hreflang="ru" lang="ru"><span class="code">RU</span><strong>Русский</strong><span class="sub">Страница на русском</span></a>
           <a class="lang-card is-current" href="./" hreflang="de" aria-current="page"><span class="code">DE</span><strong>Deutsch</strong><span class="sub">Diese Seite</span></a>
+          <div class="lang-card is-soon" aria-disabled="true"><span class="code">AR</span><strong lang="ar" dir="rtl">العربية</strong><span class="sub"><span class="soon-badge">Bald</span> Arabische Oberfläche in Arbeit</span></div>
         </div>
       </div>
     </section>
 
-    <section class="section section-alt" aria-labelledby="faq-title">
+    <section class="section" aria-labelledby="faq-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="faq-title">Häufige Fragen</h2>
@@ -258,11 +284,15 @@
           </details>
           <details>
             <summary>In welchen Sprachen ist die Oberfläche?</summary>
-            <div class="answer"><p>Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit wechseln.</p></div>
+            <div class="answer"><p>Oberfläche, Erklärungen und Übersetzungen gibt es auf Ukrainisch und Russisch. Die Sprache wählt man im Bot und kann sie jederzeit wechseln. Eine arabische Oberfläche ist in Arbeit.</p></div>
           </details>
           <details>
             <summary>Ist German Morning kostenlos?</summary>
             <div class="answer"><p>Die Hauptinhalte sind kostenlos verfügbar. Das Projekt kann man freiwillig direkt im Bot unterstützen.</p></div>
+          </details>
+          <details>
+            <summary>Wohin mit Feedback und Vorschlägen?</summary>
+            <div class="answer"><p>Schreiben Sie dem Autor des Projekts in Telegram: <a href="https://t.me/ObiVan1978" rel="noopener">@ObiVan1978</a> — <a href="https://t.me/ObiVan1978" rel="noopener">t.me/ObiVan1978</a>. Über Rückmeldungen und Ideen freuen wir uns.</p></div>
           </details>
           <details>
             <summary>Wo öffne ich den Kurs?</summary>
@@ -287,7 +317,10 @@
 
   <footer class="site-footer">
     <div class="wrap">
-      <p class="foot-brand"><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span> · <a href="https://t.me/GermanMorningBot" rel="noopener">@GermanMorningBot</a></p>
+      <div class="foot-info">
+        <p class="foot-brand"><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span> · <a href="https://t.me/GermanMorningBot" rel="noopener">@GermanMorningBot</a></p>
+        <p class="foot-contact">Feedback und Vorschläge: <a href="https://t.me/ObiVan1978" rel="noopener">@ObiVan1978</a></p>
+      </div>
       <nav aria-label="Links in der Fußzeile">
         <ul class="footer-links">
           <li><a href="../uk/" hreflang="uk" lang="uk">Українська</a></li>
@@ -303,6 +336,6 @@
   <div class="sticky-cta" id="sticky-cta">
     <a class="btn btn-primary" href="https://t.me/GermanMorningBot" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M21.5 3.6 2.9 10.8c-1.3.5-1.2 1.3-.2 1.6l4.7 1.5 1.8 5.6c.2.6.4.8.8.8s.6-.2.9-.5l2.3-2.2 4.8 3.5c.9.5 1.5.2 1.7-.8L23 4.9c.3-1.3-.5-1.9-1.5-1.3ZM8.6 13.6l9.5-6c.4-.3.9-.1.5.3l-7.8 7-.3 3.4-1.9-4.7Z"/></svg>In Telegram starten</a>
   </div>
-  <script src="../assets/js/main.js?v=2" defer></script>
+  <script src="../assets/js/main.js?v=4" defer></script>
 </body>
 </html>
