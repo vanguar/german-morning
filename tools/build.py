@@ -18,7 +18,7 @@ CONTACT = "https://t.me/ObiVan1978"
 CONTACT_NAME = "@ObiVan1978"
 FEEDBACK = {"uk": "Зауваження та пропозиції", "ru": "Замечания и предложения", "de": "Feedback und Vorschläge"}
 OG_IMAGE = BASE + "assets/img/og-image.png"
-ASSET_V = "4"  # bump after changing styles.css / main.js (Pages caches for 10 min)
+ASSET_V = "5"  # bump after changing styles.css / main.js (Pages caches for 10 min)
 ORDER = ["uk", "ru", "de"]  # Ukrainian first: default language of the site
 NAMES = {"uk": "Українська", "ru": "Русский", "de": "Deutsch"}
 CODES = {"uk": "UK", "ru": "RU", "de": "DE"}
@@ -567,7 +567,7 @@ def root_page():
                og_desc="Інтерактивний курс німецької A1–B2 у Telegram · Интерактивный курс немецкого в Telegram · Interaktiver Deutschkurs in Telegram.",
                og_alt=T["uk"]["og_alt"], canonical=BASE, prefix="", ld=ld)
     choices = "".join(
-        f'<a class="btn {"btn-primary is-suggested" if l == "uk" else "btn-ghost"}" href="{l}/" '
+        f'<a class="btn {"btn-primary" if l == "uk" else "btn-ghost"}" href="{l}/" '
         f'hreflang="{l}" lang="{l}" data-lang="{l}"><span class="code">{CODES[l]}</span>{NAMES[l]}</a>\n          '
         for l in ORDER)
     out += f"""<body class="is-root">
@@ -594,7 +594,6 @@ def root_page():
         <div class="picker-choices three">
           {choices}</div>
       </nav>
-      <p class="suggest" id="suggest" aria-live="polite"></p>
 
       <div class="btn-row picker-tg">
         <a class="btn btn-tg" href="{BOT}" rel="noopener">{TG_ICON}Відкрити {BOT_NAME}</a>

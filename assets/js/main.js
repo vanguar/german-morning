@@ -1,4 +1,4 @@
-// German Morning — theme toggle + gentle language suggestion on the root page.
+// German Morning — theme toggle + sticky Telegram bar on phones.
 // No redirects, no cookies, no trackers. localStorage only remembers the theme.
 (function () {
   var root = document.documentElement;
@@ -48,21 +48,4 @@
       if (el) io.observe(el);
     }
   }
-
-  // Root page: Ukrainian stays the highlighted default. Only when the browser lists no
-  // Ukrainian at all, a quiet text link points to the Russian or German version.
-  var box = document.getElementById('suggest');
-  if (!box) return;
-  var langs = navigator.languages || [navigator.language || ''];
-  var codes = [];
-  for (var j = 0; j < langs.length; j++) codes.push(String(langs[j] || '').toLowerCase().slice(0, 2));
-  if (codes.indexOf('uk') !== -1) return;
-  var pick = codes.indexOf('ru') !== -1 ? 'ru' : (codes.indexOf('de') !== -1 ? 'de' : null);
-  if (!pick) return;
-  var a = document.createElement('a');
-  a.href = pick + '/';
-  a.hreflang = pick;
-  a.textContent = pick === 'ru' ? 'Открыть версию на русском' : 'Zur deutschen Version';
-  box.lang = pick;
-  box.appendChild(a);
 })();
