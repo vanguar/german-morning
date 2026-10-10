@@ -8,10 +8,12 @@ News text lives in the sibling repo deutsch-meister. `sync_news()` copies what t
 pages need into data/news.json, so the landing still builds without that repo.
 """
 import json
+import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-APP = ROOT.parent / "deutsch-meister"          # sibling checkout (optional)
+# sibling checkout (optional); CI checks the bot repo out elsewhere and sets DEUTSCH_MEISTER_DIR
+APP = Path(os.environ.get("DEUTSCH_MEISTER_DIR") or ROOT.parent / "deutsch-meister").resolve()
 APP_URL = "https://vanguar.github.io/deutsch-meister/"
 NEWS_JSON = ROOT / "data" / "news.json"
 NEWS_LANGS = ["uk", "ru"]                       # translations that exist for news

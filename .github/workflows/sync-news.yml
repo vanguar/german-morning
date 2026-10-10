@@ -1,0 +1,82 @@
+# Новости бота → лендинг, без ручной пересборки.
+#
+# Раз в час (и по кнопке Run workflow) берёт свежие статьи из публичного
+# репо vanguar/deutsch-meister, пересобирает страницы tools/build.py и,
+# если что-то изменилось, коммитит, просит Pages пересобрать сайт и
+# сообщает новые адреса поисковикам через IndexNow.
+# Нет новых статей — сборка даёт те же файлы, коммита не будет.
+name: Sync news from the bot
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [content-updated]
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: sync-news
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checkout bot content
+        uses: actions/checkout@v4
+        with:
+          repository: vanguar/deutsch-meister
+          path: _app
+          sparse-checkout: |
+            data/news
+            i18n/uk/news
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build
+        env:
+          DEUTSCH_MEISTER_DIR: _app
+        run: python tools/build.py
+
+      - name: Commit if changed
+        id: commit
+        run: |
+          echo "_app/" >> .git/info/exclude
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Новых статей нет"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(news): sync articles from deutsch-meister"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Rebuild Pages
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+
+      - name: Ping IndexNow
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          # ждём, пока Pages опубликует новую сборку: IndexNow проверяет страницы сразу
+          for i in $(seq 1 20); do
+            sleep 15
+            if curl -fsS "https://vanguar.github.io/german-morning/version.json?t=$(date +%s)" \
+                 | grep -q "$(python -c 'import json;print(json.load(open("version.json"))["build"])')"; then
+              break
+            fi
+          done
+          python tools/indexnow.py
