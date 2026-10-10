@@ -1,0 +1,4290 @@
+{
+ "items": [
+  {
+   "id": "mars-krippe-2026",
+   "rubric": "astronomy",
+   "level": "B1",
+   "published": "2026-10-10",
+   "added": "2026-10-10",
+   "source": "Spektrum der Wissenschaft · IT BOLTWISE",
+   "sourceUrl": "https://www.spektrum.de/news/aktuelles-am-himmel-der-rote-planet-in-der-krippe/2348171",
+   "words": 226,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/cover.jpg",
+   "ru": {
+    "title": "Der Rote Planet in der Krippe: Mars wandert durch einen Sternhaufen",
+    "titleTr": "Красная планета в Яслях: Марс проходит через звёздное скопление",
+    "blurb": "С 10 по 12 октября перед рассветом Марс проходит сквозь звёздное скопление Ясли (M44) в созвездии Рака. Новолуние не помешает, а в бинокль видно больше дюжины звёзд.",
+    "levelNote": "Настоящее время и безличное man (sieht man, kann man), конструкция sein + zu + Infinitiv (ist leicht zu finden), инфинитив с zu (lohnt es sich, früh aufzustehen), сравнение (heller als, mehr als), придаточные с weil, wo, wer.",
+    "license": "Текст — пересказ новостей Spektrum der Wissenschaft и IT BOLTWISE; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/krippe.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Звёздное скопление Ясли (M44, Praesepe) в созвездии Рака. Самые яркие его звёзды хорошо видны в обычный бинокль.",
+       "credit": "Giuseppe Donatiello · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am Wochenende lohnt es sich, früh aufzustehen: Der Mars wandert durch die Krippe, einen bekannten Sternhaufen im Sternbild Krebs.",
+        "tr": "В эти выходные стоит встать пораньше: Марс проходит через Ясли — известное звёздное скопление в созвездии Рака."
+       },
+       {
+        "de": "Am Morgen des 11. Oktober steht der Rote Planet fast genau in der Mitte des Haufens.",
+        "tr": "Утром 11 октября Красная планета стоит почти точно в центре скопления."
+       },
+       {
+        "de": "Schon vom 10. bis zum 12. Oktober kann man die beiden vor Sonnenaufgang nah beieinander sehen.",
+        "tr": "Уже с 10 по 12 октября их можно увидеть рядом друг с другом перед восходом солнца."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Krippe ist auch unter ihrem lateinischen Namen Praesepe oder als Messier 44 bekannt.",
+        "tr": "Ясли известны также под латинским названием Praesepe или как Messier 44."
+       },
+       {
+        "de": "Im Englischen heißt sie „Bienenstock“, weil ihre Sterne wie ein Schwarm Bienen aussehen.",
+        "tr": "По-английски скопление называют «Улей»: его звёзды похожи на пчелиный рой."
+       },
+       {
+        "de": "Der Haufen ist etwa 580 Lichtjahre von uns entfernt und besteht aus rund tausend Sternen.",
+        "tr": "Скопление находится примерно в 580 световых годах от нас и насчитывает около тысячи звёзд."
+       },
+       {
+        "de": "Der Mars dagegen ist nur einige Lichtminuten entfernt – er steht also nur scheinbar zwischen den Sternen.",
+        "tr": "Марс же удалён от нас всего на несколько световых минут — так что среди звёзд он стоит лишь на вид."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/krebs.jpg",
+       "w": 960,
+       "h": 960,
+       "cap": "Карта созвездия Рака. Ясли (M44) — в самом его центре, между звёздами Асселус Бореалис и Асселус Аустралис.",
+       "credit": "IAU and Sky & Telescope · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am besten schaut man in den Stunden vor Sonnenaufgang nach Osten, wo das Paar schon hoch am Himmel steht.",
+        "tr": "Лучше всего смотреть на восток в часы перед восходом солнца — пара тогда уже высоко в небе."
+       },
+       {
+        "de": "Der Mars ist leicht zu finden: Er leuchtet rötlich und ist heller als die Sterne in seiner Umgebung.",
+        "tr": "Марс легко найти: он светится красноватым светом и ярче окружающих звёзд."
+       },
+       {
+        "de": "Die Krippe selbst sieht man mit bloßem Auge nur als schwachen Nebelfleck, und das nur an einem dunklen Ort.",
+        "tr": "Сами Ясли невооружённым глазом видны лишь как слабое туманное пятнышко, и то только в тёмном месте."
+       },
+       {
+        "de": "Mit einem Fernglas erkennt man dagegen mühelos mehr als ein Dutzend Sterne.",
+        "tr": "А в бинокль без труда различишь больше дюжины звёзд."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/mars.jpg",
+       "w": 1200,
+       "h": 808,
+       "cap": "Марс в телескоп «Хаббл». Невооружённым глазом он виден как яркая красноватая звёздочка.",
+       "credit": "NASA, J. Bell, S. Lee, M. Wolff · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Auch der Mond stört diesmal nicht: Am 10. Oktober ist Neumond, und der Himmel bleibt dunkel.",
+        "tr": "Луна в этот раз тоже не помешает: 10 октября новолуние, и небо остаётся тёмным."
+       },
+       {
+        "de": "Einige Grad weiter südöstlich glänzt außerdem der Jupiter, der noch viel heller ist als der Mars.",
+        "tr": "Кроме того, на несколько градусов юго-восточнее сияет Юпитер — он ещё гораздо ярче Марса."
+       },
+       {
+        "de": "Wer ein Foto machen möchte, sollte die Kamera auf ein Stativ stellen.",
+        "tr": "Тому, кто хочет сделать снимок, стоит поставить камеру на штатив."
+       },
+       {
+        "de": "Schon kurze Belichtungen zeigen dann den roten Planeten mitten im Sternhaufen.",
+        "tr": "Даже короткие выдержки покажут красную планету посреди звёздного скопления."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Der Rote Planet in der Krippe: Mars wandert durch einen Sternhaufen",
+    "titleTr": "Червона планета в Яслах: Марс проходить крізь зоряне скупчення",
+    "blurb": "З 10 по 12 жовтня перед світанком Марс проходить крізь зоряне скупчення Ясла (M44) у сузір'ї Рака. Молодик не завадить, а в бінокль видно понад дюжину зір.",
+    "levelNote": "Теперішній час і безособове man (sieht man, kann man), конструкція sein + zu + Infinitiv (ist leicht zu finden), інфінітив із zu (lohnt es sich, früh aufzustehen), порівняння (heller als, mehr als), підрядні з weil, wo, wer.",
+    "license": "Текст — переказ новин Spektrum der Wissenschaft та IT BOLTWISE; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/krippe.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Зоряне скупчення Ясла (M44, Praesepe) у сузір'ї Рака. Найяскравіші його зорі добре видно у звичайний бінокль.",
+       "credit": "Giuseppe Donatiello · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am Wochenende lohnt es sich, früh aufzustehen: Der Mars wandert durch die Krippe, einen bekannten Sternhaufen im Sternbild Krebs.",
+        "tr": "Цими вихідними варто встати раніше: Марс проходить крізь Ясла — відоме зоряне скупчення в сузір'ї Рака."
+       },
+       {
+        "de": "Am Morgen des 11. Oktober steht der Rote Planet fast genau in der Mitte des Haufens.",
+        "tr": "Уранці 11 жовтня Червона планета стоїть майже точно в центрі скупчення."
+       },
+       {
+        "de": "Schon vom 10. bis zum 12. Oktober kann man die beiden vor Sonnenaufgang nah beieinander sehen.",
+        "tr": "Уже з 10 по 12 жовтня їх можна побачити поруч перед сходом сонця."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Krippe ist auch unter ihrem lateinischen Namen Praesepe oder als Messier 44 bekannt.",
+        "tr": "Ясла відомі також під латинською назвою Praesepe або як Messier 44."
+       },
+       {
+        "de": "Im Englischen heißt sie „Bienenstock“, weil ihre Sterne wie ein Schwarm Bienen aussehen.",
+        "tr": "Англійською скупчення називають «Вулик»: його зорі схожі на бджолиний рій."
+       },
+       {
+        "de": "Der Haufen ist etwa 580 Lichtjahre von uns entfernt und besteht aus rund tausend Sternen.",
+        "tr": "Скупчення розташоване приблизно за 580 світлових років від нас і налічує близько тисячі зір."
+       },
+       {
+        "de": "Der Mars dagegen ist nur einige Lichtminuten entfernt – er steht also nur scheinbar zwischen den Sternen.",
+        "tr": "Марс же віддалений від нас лише на кілька світлових хвилин — тож серед зір він стоїть тільки на позір."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/krebs.jpg",
+       "w": 960,
+       "h": 960,
+       "cap": "Карта сузір'я Рака. Ясла (M44) — у самому його центрі, між зорями Аселлус Бореаліс та Аселлус Аустраліс.",
+       "credit": "IAU and Sky & Telescope · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am besten schaut man in den Stunden vor Sonnenaufgang nach Osten, wo das Paar schon hoch am Himmel steht.",
+        "tr": "Найкраще дивитися на схід у години перед сходом сонця — пара тоді вже високо в небі."
+       },
+       {
+        "de": "Der Mars ist leicht zu finden: Er leuchtet rötlich und ist heller als die Sterne in seiner Umgebung.",
+        "tr": "Марс легко знайти: він світиться червонуватим світлом і яскравіший за навколишні зорі."
+       },
+       {
+        "de": "Die Krippe selbst sieht man mit bloßem Auge nur als schwachen Nebelfleck, und das nur an einem dunklen Ort.",
+        "tr": "Самі Ясла неозброєним оком видно лише як слабку туманну плямку, та й то тільки в темному місці."
+       },
+       {
+        "de": "Mit einem Fernglas erkennt man dagegen mühelos mehr als ein Dutzend Sterne.",
+        "tr": "А в бінокль без зусиль розрізниш понад дюжину зір."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/mars-krippe-2026/img/mars.jpg",
+       "w": 1200,
+       "h": 808,
+       "cap": "Марс у телескоп «Габбл». Неозброєним оком його видно як яскраву червонувату зірочку.",
+       "credit": "NASA, J. Bell, S. Lee, M. Wolff · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Auch der Mond stört diesmal nicht: Am 10. Oktober ist Neumond, und der Himmel bleibt dunkel.",
+        "tr": "Місяць цього разу теж не завадить: 10 жовтня молодик, і небо залишається темним."
+       },
+       {
+        "de": "Einige Grad weiter südöstlich glänzt außerdem der Jupiter, der noch viel heller ist als der Mars.",
+        "tr": "Крім того, на кілька градусів південно-східніше сяє Юпітер — він ще набагато яскравіший за Марс."
+       },
+       {
+        "de": "Wer ein Foto machen möchte, sollte die Kamera auf ein Stativ stellen.",
+        "tr": "Тому, хто хоче зробити знімок, варто поставити камеру на штатив."
+       },
+       {
+        "de": "Schon kurze Belichtungen zeigen dann den roten Planeten mitten im Sternhaufen.",
+        "tr": "Навіть короткі витримки покажуть червону планету посеред зоряного скупчення."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "temu-shein-zoll-2026",
+   "rubric": "economy",
+   "level": "B1–B2",
+   "published": "2026-10-09",
+   "added": "2026-10-10",
+   "source": "bevh · dpa · VerkehrsRundschau",
+   "sourceUrl": "https://www.verkehrsrundschau.de/nachrichten/transport-logistik/temu-und-shein-verlieren-deutlich-an-umsatz-in-deutschland-3915131",
+   "words": 169,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/cover.jpg",
+   "ru": {
+    "title": "Weniger Pakete aus Asien: Der Umsatz von Temu und Shein bricht ein",
+    "titleTr": "Меньше посылок из Азии: выручка Temu и Shein обвалилась",
+    "blurb": "В третьем квартале выручка Temu, Shein и AliExpress в Германии упала на 35,5 % — до 566 млн евро. Причина — новые правила ЕС: беспошлинного порога в 150 евро больше нет.",
+    "levelNote": "Экономическая лексика (Umsatz, Anteil, Quartal, Zoll), сравнение (weniger als, seltener als, höheren), перфект с sein (ist geschrumpft), отделяемые глаголы (kommt … dazu), устойчивые обороты (an Umsatz verlieren, ins Stocken geraten).",
+    "license": "Текст — пересказ новостей dpa и VerkehrsRundschau по данным bevh; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/laden.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Магазин Shein в торговом центре в Варшаве. В Германии платформа продаёт в основном через интернет.",
+       "credit": "DMCGN · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Billig-Plattformen aus Asien verlieren in Deutschland deutlich an Umsatz.",
+        "tr": "Дешёвые платформы из Азии заметно теряют выручку в Германии."
+       },
+       {
+        "de": "Im dritten Quartal 2026 machten Temu, Shein und AliExpress hier zusammen 566 Millionen Euro Umsatz.",
+        "tr": "В третьем квартале 2026 года Temu, Shein и AliExpress вместе получили здесь 566 миллионов евро выручки."
+       },
+       {
+        "de": "Das sind 35,5 Prozent weniger als im gleichen Zeitraum des Vorjahres.",
+        "tr": "Это на 35,5 процента меньше, чем за тот же период прошлого года."
+       },
+       {
+        "de": "Das meldet der Bundesverband E-Commerce und Versandhandel (bevh).",
+        "tr": "Об этом сообщает Федеральный союз электронной и посылочной торговли (bevh)."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch ihr Anteil am deutschen Onlinehandel ist geschrumpft: von 5,3 Prozent im zweiten auf 3,1 Prozent im dritten Quartal.",
+        "tr": "Сократилась и их доля в немецкой онлайн-торговле: с 5,3 процента во втором квартале до 3,1 процента в третьем."
+       },
+       {
+        "de": "Der gesamte Onlinehandel wuchs dagegen leicht um 2,9 Prozent auf 18,5 Milliarden Euro.",
+        "tr": "А онлайн-торговля в целом немного выросла — на 2,9 процента, до 18,5 миллиарда евро."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/paketzentrum.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Посылочный центр DHL в Нойвиде с высоты. Через такие центры проходят и посылки из Азии.",
+       "credit": "Wolkenkratzer · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Hauptgrund sind neue Zollregeln der EU.",
+        "tr": "Главная причина — новые таможенные правила ЕС."
+       },
+       {
+        "de": "Bis Juli 2026 waren kleine Pakete aus Nicht-EU-Ländern bis zu einem Wert von 150 Euro zollfrei.",
+        "tr": "До июля 2026 года небольшие посылки из стран вне ЕС стоимостью до 150 евро не облагались пошлиной."
+       },
+       {
+        "de": "Diese Grenze gibt es nicht mehr: Jetzt kostet jede Sendung Zoll – drei Euro pro Warenart.",
+        "tr": "Этого порога больше нет: теперь за каждое отправление платится пошлина — три евро за каждую товарную группу."
+       },
+       {
+        "de": "Ab November kommt noch eine Bearbeitungsgebühr von zwei Euro dazu.",
+        "tr": "С ноября добавится ещё сбор за обработку в два евро."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/schlange.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Очередь к открытию магазина Shein в Варшаве. Бум дешёвых платформ в Европе пока замедлился.",
+       "credit": "DMCGN · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "„Das rasante Wachstum von Temu und Shein in Deutschland ist ins Stocken geraten“, sagt bevh-Hauptgeschäftsführerin Alien Mulyk.",
+        "tr": "«Стремительный рост Temu и Shein в Германии застопорился», — говорит исполнительный директор bevh Алиен Мулик."
+       },
+       {
+        "de": "Für billige Waren mit kleinen Gewinnen sind die höheren Abgaben ein großes Problem.",
+        "tr": "Для дешёвых товаров с маленькой наценкой более высокие сборы — большая проблема."
+       },
+       {
+        "de": "Gut läuft der Onlinehandel dagegen mit Medikamenten, Drogerieartikeln und Lebensmitteln.",
+        "tr": "Зато хорошо идёт онлайн-торговля лекарствами, косметикой и бытовой химией, а также продуктами."
+       },
+       {
+        "de": "Elektronik und Möbel kaufen die Deutschen im Internet dagegen seltener als vor einem Jahr.",
+        "tr": "А электронику и мебель немцы покупают в интернете реже, чем год назад."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Weniger Pakete aus Asien: Der Umsatz von Temu und Shein bricht ein",
+    "titleTr": "Менше посилок з Азії: виторг Temu та Shein обвалився",
+    "blurb": "У третьому кварталі виторг Temu, Shein та AliExpress у Німеччині впав на 35,5 % — до 566 млн євро. Причина — нові правила ЄС: безмитного порогу в 150 євро більше немає.",
+    "levelNote": "Економічна лексика (Umsatz, Anteil, Quartal, Zoll), порівняння (weniger als, seltener als, höheren), перфект із sein (ist geschrumpft), відокремлювані дієслова (kommt … dazu), сталі звороти (an Umsatz verlieren, ins Stocken geraten).",
+    "license": "Текст — переказ новин dpa та VerkehrsRundschau за даними bevh; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/laden.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Магазин Shein у торговому центрі у Варшаві. У Німеччині платформа продає переважно через інтернет.",
+       "credit": "DMCGN · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Billig-Plattformen aus Asien verlieren in Deutschland deutlich an Umsatz.",
+        "tr": "Дешеві платформи з Азії помітно втрачають виторг у Німеччині."
+       },
+       {
+        "de": "Im dritten Quartal 2026 machten Temu, Shein und AliExpress hier zusammen 566 Millionen Euro Umsatz.",
+        "tr": "У третьому кварталі 2026 року Temu, Shein та AliExpress разом отримали тут 566 мільйонів євро виторгу."
+       },
+       {
+        "de": "Das sind 35,5 Prozent weniger als im gleichen Zeitraum des Vorjahres.",
+        "tr": "Це на 35,5 відсотка менше, ніж за той самий період минулого року."
+       },
+       {
+        "de": "Das meldet der Bundesverband E-Commerce und Versandhandel (bevh).",
+        "tr": "Про це повідомляє Федеральна спілка електронної та посилкової торгівлі (bevh)."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch ihr Anteil am deutschen Onlinehandel ist geschrumpft: von 5,3 Prozent im zweiten auf 3,1 Prozent im dritten Quartal.",
+        "tr": "Скоротилася і їхня частка в німецькій онлайн-торгівлі: з 5,3 відсотка в другому кварталі до 3,1 відсотка в третьому."
+       },
+       {
+        "de": "Der gesamte Onlinehandel wuchs dagegen leicht um 2,9 Prozent auf 18,5 Milliarden Euro.",
+        "tr": "А онлайн-торгівля загалом трохи зросла — на 2,9 відсотка, до 18,5 мільярда євро."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/paketzentrum.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Посилковий центр DHL у Нойвіді з висоти. Через такі центри проходять і посилки з Азії.",
+       "credit": "Wolkenkratzer · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Hauptgrund sind neue Zollregeln der EU.",
+        "tr": "Головна причина — нові митні правила ЄС."
+       },
+       {
+        "de": "Bis Juli 2026 waren kleine Pakete aus Nicht-EU-Ländern bis zu einem Wert von 150 Euro zollfrei.",
+        "tr": "До липня 2026 року невеликі посилки з країн поза ЄС вартістю до 150 євро не обкладалися митом."
+       },
+       {
+        "de": "Diese Grenze gibt es nicht mehr: Jetzt kostet jede Sendung Zoll – drei Euro pro Warenart.",
+        "tr": "Цього порогу більше немає: тепер за кожне відправлення сплачується мито — три євро за кожну товарну групу."
+       },
+       {
+        "de": "Ab November kommt noch eine Bearbeitungsgebühr von zwei Euro dazu.",
+        "tr": "З листопада додасться ще збір за обробку у два євро."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/temu-shein-zoll-2026/img/schlange.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Черга на відкриття магазину Shein у Варшаві. Бум дешевих платформ у Європі поки що сповільнився.",
+       "credit": "DMCGN · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "„Das rasante Wachstum von Temu und Shein in Deutschland ist ins Stocken geraten“, sagt bevh-Hauptgeschäftsführerin Alien Mulyk.",
+        "tr": "«Стрімке зростання Temu та Shein у Німеччині застопорилося», — каже виконавча директорка bevh Алієн Мулик."
+       },
+       {
+        "de": "Für billige Waren mit kleinen Gewinnen sind die höheren Abgaben ein großes Problem.",
+        "tr": "Для дешевих товарів із маленькою націнкою вищі збори — велика проблема."
+       },
+       {
+        "de": "Gut läuft der Onlinehandel dagegen mit Medikamenten, Drogerieartikeln und Lebensmitteln.",
+        "tr": "Зате добре йде онлайн-торгівля ліками, косметикою й побутовою хімією, а також продуктами."
+       },
+       {
+        "de": "Elektronik und Möbel kaufen die Deutschen im Internet dagegen seltener als vor einem Jahr.",
+        "tr": "А електроніку й меблі німці купують в інтернеті рідше, ніж рік тому."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "schildkroete-jonathan-2026",
+   "rubric": "science",
+   "level": "B1–B2",
+   "published": "2026-10-08",
+   "added": "2026-10-10",
+   "source": "science.ORF.at · dpa · forschung-und-wissen.de",
+   "sourceUrl": "https://science.orf.at/stories/3237652/",
+   "words": 211,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/cover.jpg",
+   "ru": {
+    "title": "194 Jahre alt: Was die Schildkröte Jonathan über das Altern verrät",
+    "titleTr": "194 года: что черепаха Джонатан рассказывает о старении",
+    "blurb": "Гигантской черепахе Джонатану с острова Святой Елены около 194 лет. В его генах учёные нашли 287 особых вариантов — они помогают чинить ДНК и избавляться от старых клеток.",
+    "levelNote": "Превосходная степень (das älteste Landtier), перфект с sein (ist geschlüpft, sind erschienen), модальные глаголы в претеритуме (wollte, durften), относительные придаточные (die nur Jonathan hat, das … aufspürt), инфинитив с zu (helfen, … zu erkennen), пассив (wird gefüttert).",
+    "license": "Текст — пересказ новостей science.ORF.at, dpa и forschung-und-wissen.de; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/jonathan.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Джонатан на лужайке перед Плантейшн-хаус — резиденцией губернатора острова Святой Елены.",
+       "credit": "Kevin Gepford · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Jonathan ist wahrscheinlich das älteste Landtier der Welt: Die Riesenschildkröte ist etwa 194 Jahre alt.",
+        "tr": "Джонатан — вероятно, самое старое сухопутное животное в мире: этой гигантской черепахе около 194 лет."
+       },
+       {
+        "de": "Sie ist um das Jahr 1832 geschlüpft – also zu der Zeit, als Charles Darwin ein junger Mann war.",
+        "tr": "Она вылупилась около 1832 года — в то время, когда Чарльз Дарвин был ещё молодым человеком."
+       },
+       {
+        "de": "Seit 1882 lebt Jonathan auf der Insel St. Helena im Südatlantik, im Garten des Gouverneurs.",
+        "tr": "С 1882 года Джонатан живёт на острове Святой Елены в Южной Атлантике — в саду губернатора."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Normalerweise werden Schildkröten seiner Art nur etwa 80 Jahre alt.",
+        "tr": "Обычно черепахи его вида доживают лишь примерно до 80 лет."
+       },
+       {
+        "de": "Ein internationales Forschungsteam wollte wissen, warum Jonathan so viel länger lebt.",
+        "tr": "Международная группа учёных захотела узнать, почему Джонатан живёт намного дольше."
+       },
+       {
+        "de": "Eine Blutprobe durften die Forscher zu seinem Schutz nicht nehmen.",
+        "tr": "Брать у него кровь исследователям не разрешили — чтобы его поберечь."
+       },
+       {
+        "de": "Deshalb lockten sie ihn mit Futter, bis er das Maul weit genug öffnete – dann nahmen sie einen Abstrich von der Innenseite seiner Wange.",
+        "tr": "Поэтому его приманивали кормом, пока он не открыл пасть достаточно широко, — и взяли мазок с внутренней стороны щеки."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/aldabra.jpg",
+       "w": 1200,
+       "h": 889,
+       "cap": "Альдабрская гигантская черепаха на Сейшельских островах. Джонатан — того же вида; обычно такие черепахи живут около 80 лет.",
+       "credit": "Norbert Nagel · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Ergebnisse sind in der Fachzeitschrift „Science Advances“ erschienen.",
+        "tr": "Результаты опубликованы в научном журнале Science Advances."
+       },
+       {
+        "de": "Das Team fand 287 Genvarianten, die nur Jonathan hat, aber nicht die anderen untersuchten Riesenschildkröten.",
+        "tr": "Команда нашла 287 вариантов генов, которые есть только у Джонатана, но нет у других исследованных гигантских черепах."
+       },
+       {
+        "de": "Viele davon helfen, Schäden in der DNA zu erkennen und schnell zu reparieren.",
+        "tr": "Многие из них помогают распознавать повреждения ДНК и быстро их исправлять."
+       },
+       {
+        "de": "Außerdem besitzt Jonathan zehn Kopien eines Gens, das alte und kranke Zellen aufspürt und beseitigt.",
+        "tr": "Кроме того, у Джонатана десять копий гена, который находит и уничтожает старые и больные клетки."
+       },
+       {
+        "de": "Auch die Kraftwerke seiner Zellen, die Mitochondrien, arbeiten besonders zuverlässig.",
+        "tr": "Особенно надёжно работают и «электростанции» его клеток — митохондрии."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/plantation.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Плантейшн-хаус на острове Святой Елены. В его саду Джонатан живёт с 1882 года.",
+       "credit": "Luke McKernan · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ähnliche Muster kennt man von Menschen, die über hundert Jahre alt werden, und vom Grönlandwal, der mehr als 200 Jahre leben kann.",
+        "tr": "Похожие закономерности известны у людей, доживающих до ста с лишним лет, и у гренландского кита, который может прожить больше 200 лет."
+       },
+       {
+        "de": "Die Forscher hoffen, dass man so das Altern besser verstehen kann – vielleicht eines Tages auch beim Menschen.",
+        "tr": "Учёные надеются, что так удастся лучше понять старение — возможно, однажды и у человека."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/jonathan1900.jpg",
+       "w": 430,
+       "h": 430,
+       "cap": "Одна из самых старых фотографий Джонатана — около 1900 года. Ему тогда было уже почти 70 лет.",
+       "credit": "Автор неизвестен · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Jonathan selbst ist inzwischen fast blind und wird einmal pro Woche von Hand gefüttert.",
+        "tr": "Сам Джонатан сейчас почти слеп, и раз в неделю его кормят с рук."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "194 Jahre alt: Was die Schildkröte Jonathan über das Altern verrät",
+    "titleTr": "194 роки: що черепаха Джонатан розповідає про старіння",
+    "blurb": "Гігантській черепасі Джонатану з острова Святої Єлени близько 194 років. У його генах учені знайшли 287 особливих варіантів — вони допомагають лагодити ДНК і позбуватися старих клітин.",
+    "levelNote": "Найвищий ступінь (das älteste Landtier), перфект із sein (ist geschlüpft, sind erschienen), модальні дієслова в претериті (wollte, durften), означальні підрядні (die nur Jonathan hat, das … aufspürt), інфінітив із zu (helfen, … zu erkennen), пасив (wird gefüttert).",
+    "license": "Текст — переказ новин science.ORF.at, dpa та forschung-und-wissen.de; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/jonathan.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Джонатан на галявині перед Плантейшн-гаус — резиденцією губернатора острова Святої Єлени.",
+       "credit": "Kevin Gepford · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Jonathan ist wahrscheinlich das älteste Landtier der Welt: Die Riesenschildkröte ist etwa 194 Jahre alt.",
+        "tr": "Джонатан — імовірно, найстаріша сухопутна тварина у світі: цій гігантській черепасі близько 194 років."
+       },
+       {
+        "de": "Sie ist um das Jahr 1832 geschlüpft – also zu der Zeit, als Charles Darwin ein junger Mann war.",
+        "tr": "Вона вилупилася близько 1832 року — у той час, коли Чарльз Дарвін був ще молодою людиною."
+       },
+       {
+        "de": "Seit 1882 lebt Jonathan auf der Insel St. Helena im Südatlantik, im Garten des Gouverneurs.",
+        "tr": "З 1882 року Джонатан живе на острові Святої Єлени в Південній Атлантиці — у саду губернатора."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Normalerweise werden Schildkröten seiner Art nur etwa 80 Jahre alt.",
+        "tr": "Зазвичай черепахи його виду доживають лише приблизно до 80 років."
+       },
+       {
+        "de": "Ein internationales Forschungsteam wollte wissen, warum Jonathan so viel länger lebt.",
+        "tr": "Міжнародна група вчених захотіла дізнатися, чому Джонатан живе набагато довше."
+       },
+       {
+        "de": "Eine Blutprobe durften die Forscher zu seinem Schutz nicht nehmen.",
+        "tr": "Брати в нього кров дослідникам не дозволили — щоб його поберегти."
+       },
+       {
+        "de": "Deshalb lockten sie ihn mit Futter, bis er das Maul weit genug öffnete – dann nahmen sie einen Abstrich von der Innenseite seiner Wange.",
+        "tr": "Тому його приманювали кормом, доки він не відкрив пащу досить широко, — і взяли мазок із внутрішнього боку щоки."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/aldabra.jpg",
+       "w": 1200,
+       "h": 889,
+       "cap": "Альдабрська гігантська черепаха на Сейшельських островах. Джонатан — того самого виду; зазвичай такі черепахи живуть близько 80 років.",
+       "credit": "Norbert Nagel · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Ergebnisse sind in der Fachzeitschrift „Science Advances“ erschienen.",
+        "tr": "Результати опубліковано в науковому журналі Science Advances."
+       },
+       {
+        "de": "Das Team fand 287 Genvarianten, die nur Jonathan hat, aber nicht die anderen untersuchten Riesenschildkröten.",
+        "tr": "Команда знайшла 287 варіантів генів, які є тільки в Джонатана, але немає в інших досліджених гігантських черепах."
+       },
+       {
+        "de": "Viele davon helfen, Schäden in der DNA zu erkennen und schnell zu reparieren.",
+        "tr": "Багато з них допомагають розпізнавати пошкодження ДНК і швидко їх виправляти."
+       },
+       {
+        "de": "Außerdem besitzt Jonathan zehn Kopien eines Gens, das alte und kranke Zellen aufspürt und beseitigt.",
+        "tr": "Крім того, у Джонатана десять копій гена, який знаходить і знищує старі та хворі клітини."
+       },
+       {
+        "de": "Auch die Kraftwerke seiner Zellen, die Mitochondrien, arbeiten besonders zuverlässig.",
+        "tr": "Особливо надійно працюють і «електростанції» його клітин — мітохондрії."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/plantation.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Плантейшн-гаус на острові Святої Єлени. У його саду Джонатан живе з 1882 року.",
+       "credit": "Luke McKernan · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ähnliche Muster kennt man von Menschen, die über hundert Jahre alt werden, und vom Grönlandwal, der mehr als 200 Jahre leben kann.",
+        "tr": "Схожі закономірності відомі в людей, які доживають до понад ста років, і в гренландського кита, який може прожити понад 200 років."
+       },
+       {
+        "de": "Die Forscher hoffen, dass man so das Altern besser verstehen kann – vielleicht eines Tages auch beim Menschen.",
+        "tr": "Учені сподіваються, що так вдасться краще зрозуміти старіння — можливо, колись і в людини."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schildkroete-jonathan-2026/img/jonathan1900.jpg",
+       "w": 430,
+       "h": 430,
+       "cap": "Одна з найстаріших фотографій Джонатана — близько 1900 року. Йому тоді було вже майже 70 років.",
+       "credit": "Автор невідомий · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Jonathan selbst ist inzwischen fast blind und wird einmal pro Woche von Hand gefüttert.",
+        "tr": "Сам Джонатан зараз майже сліпий, і раз на тиждень його годують з рук."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "synthid-ki-erkennung-2026",
+   "rubric": "tech",
+   "level": "B1–B2",
+   "published": "2026-10-08",
+   "added": "2026-10-10",
+   "source": "Kurier Verlag · appgefahren.de · onlinemarketing.de",
+   "sourceUrl": "https://www.kurierverlag.de/ratgeber/verbraucher/google-ki-erkennung-synthid-prueft-jetzt-bilder-videos-und-audio-zr-94531327.html",
+   "words": 193,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/cover.jpg",
+   "ru": {
+    "title": "Echt oder KI? Ein Werkzeug von Google findet unsichtbare Wasserzeichen",
+    "titleTr": "Настоящее или ИИ? Инструмент Google находит невидимые водяные знаки",
+    "blurb": "Google открыл для всех бесплатный SynthID Detector: он ищет в фото, видео и аудио невидимый водяной знак ИИ. Но если знака нет, это ещё не доказывает, что файл настоящий.",
+    "levelNote": "Технологическая лексика (Wasserzeichen, Datei, Konto), отделяемые глаголы (lädt … hoch, bauen … ein, macht … mit), пассив (sind … markiert, erstellt worden sein), союзы weder … noch, auch wenn, инфинитив с zu (raten, … zu achten).",
+    "license": "Текст — пересказ новостей Kurier Verlag, appgefahren.de и onlinemarketing.de; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/smartphone.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Посетители музея фотографируют картины на смартфон. Отличить настоящий снимок от созданного ИИ на глаз всё труднее.",
+       "credit": "TANNMY NAISZE Wanguo · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ist dieses Foto echt oder hat es eine KI erzeugt?",
+        "tr": "Это фото настоящее или его создал ИИ?"
+       },
+       {
+        "de": "Diese Frage kann man jetzt mit einem kostenlosen Werkzeug von Google prüfen: dem SynthID Detector.",
+        "tr": "Теперь это можно проверить бесплатным инструментом от Google — SynthID Detector."
+       },
+       {
+        "de": "Seit dieser Woche ist er weltweit auf einer eigenen Website verfügbar.",
+        "tr": "С этой недели он доступен по всему миру на отдельном сайте."
+       },
+       {
+        "de": "Man lädt ein Bild, ein Video oder eine Audiodatei hoch, und das Programm sucht nach einem unsichtbaren Wasserzeichen.",
+        "tr": "Загружаешь картинку, видео или аудиофайл — и программа ищет невидимый водяной знак."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Dieses Wasserzeichen bauen KI-Programme von Google schon beim Erstellen in die Inhalte ein.",
+        "tr": "Этот водяной знак ИИ-программы Google встраивают в материалы ещё при создании."
+       },
+       {
+        "de": "Menschen können es weder sehen noch hören.",
+        "tr": "Люди не могут его ни увидеть, ни услышать."
+       },
+       {
+        "de": "Es bleibt aber erhalten, auch wenn man eine Datei verkleinert oder komprimiert.",
+        "tr": "Но он сохраняется, даже если файл уменьшить или сжать."
+       },
+       {
+        "de": "Nach Angaben von Google sind bereits mehr als 180 Milliarden Bilder und Videos so markiert.",
+        "tr": "По данным Google, так помечено уже более 180 миллиардов изображений и видео."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/googleplex.jpg",
+       "w": 1200,
+       "h": 878,
+       "cap": "Штаб-квартира Google в Маунтин-Вью (Калифорния). Технологию SynthID разработало подразделение Google DeepMind.",
+       "credit": "Asoundd · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Nicht nur Google macht mit: Auch OpenAI, Nvidia und das koreanische Unternehmen Kakao nutzen die Technik, Apple soll bald folgen.",
+        "tr": "Участвует не только Google: эту технологию используют и OpenAI, Nvidia и корейская компания Kakao, а вскоре должна присоединиться Apple."
+       },
+       {
+        "de": "Anmelden kann man sich mit einem Konto von Google, Apple oder OpenAI.",
+        "tr": "Войти можно через аккаунт Google, Apple или OpenAI."
+       },
+       {
+        "de": "Bisher gibt es die Seite allerdings nur auf Englisch.",
+        "tr": "Правда, пока сайт есть только на английском."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/schild.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Табличка у офисов Google в Маунтин-Вью. Детектор пока работает только на английском.",
+       "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ein Wundermittel gegen Fälschungen ist der Detector aber nicht.",
+        "tr": "Однако чудо-средством от подделок детектор не является."
+       },
+       {
+        "de": "Er erkennt nur Inhalte mit dem passenden Wasserzeichen.",
+        "tr": "Он распознаёт только материалы с подходящим водяным знаком."
+       },
+       {
+        "de": "Findet er keins, heißt das nicht automatisch, dass ein Bild echt ist – es kann auch mit einem anderen Programm erstellt worden sein.",
+        "tr": "Если он ничего не нашёл, это ещё не значит, что картинка настоящая: её могли создать и другой программой."
+       },
+       {
+        "de": "Fachleute raten deshalb, bei verdächtigen Bildern immer auch auf die Quelle zu achten.",
+        "tr": "Поэтому специалисты советуют в случае подозрительных картинок всегда смотреть и на источник."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Echt oder KI? Ein Werkzeug von Google findet unsichtbare Wasserzeichen",
+    "titleTr": "Справжнє чи ШІ? Інструмент Google знаходить невидимі водяні знаки",
+    "blurb": "Google відкрив для всіх безплатний SynthID Detector: він шукає у фото, відео та аудіо невидимий водяний знак ШІ. Але якщо знака немає, це ще не доводить, що файл справжній.",
+    "levelNote": "Технологічна лексика (Wasserzeichen, Datei, Konto), відокремлювані дієслова (lädt … hoch, bauen … ein, macht … mit), пасив (sind … markiert, erstellt worden sein), сполучники weder … noch, auch wenn, інфінітив із zu (raten, … zu achten).",
+    "license": "Текст — переказ новин Kurier Verlag, appgefahren.de та onlinemarketing.de; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/smartphone.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Відвідувачі музею фотографують картини на смартфон. Відрізнити справжній знімок від створеного ШІ на око дедалі важче.",
+       "credit": "TANNMY NAISZE Wanguo · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ist dieses Foto echt oder hat es eine KI erzeugt?",
+        "tr": "Це фото справжнє чи його створив ШІ?"
+       },
+       {
+        "de": "Diese Frage kann man jetzt mit einem kostenlosen Werkzeug von Google prüfen: dem SynthID Detector.",
+        "tr": "Тепер це можна перевірити безплатним інструментом від Google — SynthID Detector."
+       },
+       {
+        "de": "Seit dieser Woche ist er weltweit auf einer eigenen Website verfügbar.",
+        "tr": "Від цього тижня він доступний по всьому світу на окремому сайті."
+       },
+       {
+        "de": "Man lädt ein Bild, ein Video oder eine Audiodatei hoch, und das Programm sucht nach einem unsichtbaren Wasserzeichen.",
+        "tr": "Завантажуєш картинку, відео чи аудіофайл — і програма шукає невидимий водяний знак."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Dieses Wasserzeichen bauen KI-Programme von Google schon beim Erstellen in die Inhalte ein.",
+        "tr": "Цей водяний знак ШІ-програми Google вбудовують у матеріали ще під час створення."
+       },
+       {
+        "de": "Menschen können es weder sehen noch hören.",
+        "tr": "Люди не можуть його ні побачити, ні почути."
+       },
+       {
+        "de": "Es bleibt aber erhalten, auch wenn man eine Datei verkleinert oder komprimiert.",
+        "tr": "Але він зберігається, навіть якщо файл зменшити чи стиснути."
+       },
+       {
+        "de": "Nach Angaben von Google sind bereits mehr als 180 Milliarden Bilder und Videos so markiert.",
+        "tr": "За даними Google, так позначено вже понад 180 мільярдів зображень і відео."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/googleplex.jpg",
+       "w": 1200,
+       "h": 878,
+       "cap": "Штаб-квартира Google у Маунтін-В'ю (Каліфорнія). Технологію SynthID розробив підрозділ Google DeepMind.",
+       "credit": "Asoundd · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Nicht nur Google macht mit: Auch OpenAI, Nvidia und das koreanische Unternehmen Kakao nutzen die Technik, Apple soll bald folgen.",
+        "tr": "Бере участь не лише Google: цю технологію використовують і OpenAI, Nvidia та корейська компанія Kakao, а незабаром має долучитися Apple."
+       },
+       {
+        "de": "Anmelden kann man sich mit einem Konto von Google, Apple oder OpenAI.",
+        "tr": "Увійти можна через акаунт Google, Apple або OpenAI."
+       },
+       {
+        "de": "Bisher gibt es die Seite allerdings nur auf Englisch.",
+        "tr": "Щоправда, поки що сайт є лише англійською."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/synthid-ki-erkennung-2026/img/schild.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Табличка біля офісів Google у Маунтін-В'ю. Детектор поки що працює лише англійською.",
+       "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ein Wundermittel gegen Fälschungen ist der Detector aber nicht.",
+        "tr": "Однак чудодійним засобом від підробок детектор не є."
+       },
+       {
+        "de": "Er erkennt nur Inhalte mit dem passenden Wasserzeichen.",
+        "tr": "Він розпізнає лише матеріали з відповідним водяним знаком."
+       },
+       {
+        "de": "Findet er keins, heißt das nicht automatisch, dass ein Bild echt ist – es kann auch mit einem anderen Programm erstellt worden sein.",
+        "tr": "Якщо він нічого не знайшов, це ще не означає, що картинка справжня: її могли створити й іншою програмою."
+       },
+       {
+        "de": "Fachleute raten deshalb, bei verdächtigen Bildern immer auch auf die Quelle zu achten.",
+        "tr": "Тому фахівці радять у разі підозрілих картинок завжди дивитися й на джерело."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "buchmesse-2026",
+   "rubric": "events",
+   "level": "B1–B2",
+   "published": "2026-10-07",
+   "added": "2026-10-10",
+   "source": "t-online · hessenschau · ZDFheute",
+   "sourceUrl": "https://frankfurt.t-online.de/region/frankfurt-am-main/id_101467824/frankfurter-buchmesse-startet-250000-besucher-erwartet.html",
+   "words": 192,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/cover.jpg",
+   "ru": {
+    "title": "Bücher, Gäste und ein Land am Meer: Die Frankfurter Buchmesse hat begonnen",
+    "titleTr": "Книги, гости и страна у моря: открылась Франкфуртская книжная ярмарка",
+    "blurb": "До 11 октября во Франкфурте идёт 78-я книжная ярмарка: больше 250 000 гостей, тысяча спикеров и почётная гостья Чехия с девизом «Страна на побережье».",
+    "levelNote": "Перфект (hat begonnen, sind gereist), отделяемые глаголы (treten … auf, ging … zurück), пассив состояния (sind reserviert), безличный пассив (diskutiert wird), придаточное с obwohl, превосходная степень (die größte).",
+    "license": "Текст — пересказ новостей t-online, hessenschau и ZDFheute; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/halle.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Павильон 3 Франкфуртской книжной ярмарки — стенды немецких издательств и газет (снимок 2025 года).",
+       "credit": "Dr. Thomas Liptak · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Frankfurt am Main hat die 78. Frankfurter Buchmesse begonnen – die größte Buchmesse der Welt.",
+        "tr": "Во Франкфурте-на-Майне открылась 78-я Франкфуртская книжная ярмарка — крупнейшая книжная ярмарка в мире."
+       },
+       {
+        "de": "Bis Sonntag, den 11. Oktober, erwarten die Veranstalter mehr als 250.000 Besucher.",
+        "tr": "До воскресенья, 11 октября, организаторы ждут более 250 000 посетителей."
+       },
+       {
+        "de": "Die ersten Tage sind für das Fachpublikum reserviert, ab Freitag dürfen alle Leserinnen und Leser kommen.",
+        "tr": "Первые дни отведены для профессиональной публики, а с пятницы прийти могут все читатели."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auf zehn Bühnen treten mehr als tausend Rednerinnen und Redner auf.",
+        "tr": "На десяти сценах выступает более тысячи спикеров."
+       },
+       {
+        "de": "Zu den Gästen gehören zum Beispiel der Liedermacher Wolf Biermann und der amerikanische Schriftsteller Colson Whitehead.",
+        "tr": "Среди гостей — например, бард Вольф Бирман и американский писатель Колсон Уайтхед."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/forum.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Площадь перед зданием «Форум» на территории выставки во Франкфурте (снимок 2025 года).",
+       "credit": "Dr. Thomas Liptak · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ehrengast ist in diesem Jahr Tschechien, mit dem Motto „Ein Land an der Küste“.",
+        "tr": "Почётный гость в этом году — Чехия с девизом «Страна на побережье»."
+       },
+       {
+        "de": "Das Motto erinnert an Shakespeares „Wintermärchen“: Dort liegt Böhmen am Meer, obwohl Tschechien in Wirklichkeit gar keine Küste hat.",
+        "tr": "Девиз напоминает о «Зимней сказке» Шекспира: там Богемия лежит у моря, хотя на самом деле у Чехии вообще нет побережья."
+       },
+       {
+        "de": "Rund 75 tschechische Autorinnen und Autoren sind nach Frankfurt gereist.",
+        "tr": "Во Франкфурт приехали около 75 чешских писательниц и писателей."
+       },
+       {
+        "de": "Bei der Eröffnung sprach die Schriftstellerin Radka Denemarková über die Kraft der Literatur.",
+        "tr": "На открытии писательница Радка Денемаркова говорила о силе литературы."
+       },
+       {
+        "de": "„Die Literatur bleibt“, sagte sie und bekam dafür viel Applaus.",
+        "tr": "«Литература остаётся», — сказала она и сорвала за это бурные аплодисменты."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/prag.jpg",
+       "w": 1200,
+       "h": 799,
+       "cap": "Карлов мост через Влтаву в Праге. Моря в Чехии нет — зато есть шекспировская «Богемия у моря».",
+       "credit": "Scotch Mist · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Buchbranche sind es keine leichten Zeiten.",
+        "tr": "Для книжной отрасли сейчас нелёгкие времена."
+       },
+       {
+        "de": "Im Jahr 2025 sank der Umsatz des Buchhandels um 2,7 Prozent auf 9,62 Milliarden Euro, und auch in den ersten acht Monaten von 2026 ging er weiter zurück.",
+        "tr": "В 2025 году выручка книжной торговли упала на 2,7 процента, до 9,62 миллиарда евро, и за первые восемь месяцев 2026 года продолжала снижаться."
+       },
+       {
+        "de": "Viel diskutiert wird auf der Messe auch über künstliche Intelligenz.",
+        "tr": "Много спорят на ярмарке и об искусственном интеллекте."
+       },
+       {
+        "de": "Zum Abschluss am Sonntag erhält der Jurist Philippe Sands in der Frankfurter Paulskirche den Friedenspreis des Deutschen Buchhandels.",
+        "tr": "В завершение, в воскресенье, юрист Филипп Сэндс получит во франкфуртской церкви Святого Павла Премию мира немецкой книготорговли."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Bücher, Gäste und ein Land am Meer: Die Frankfurter Buchmesse hat begonnen",
+    "titleTr": "Книжки, гості й країна біля моря: відкрився Франкфуртський книжковий ярмарок",
+    "blurb": "До 11 жовтня у Франкфурті триває 78-й книжковий ярмарок: понад 250 000 гостей, тисяча спікерів і почесна гостя Чехія з девізом «Країна на узбережжі».",
+    "levelNote": "Перфект (hat begonnen, sind gereist), відокремлювані дієслова (treten … auf, ging … zurück), пасив стану (sind reserviert), безособовий пасив (diskutiert wird), підрядне з obwohl, найвищий ступінь (die größte).",
+    "license": "Текст — переказ новин t-online, hessenschau та ZDFheute; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/halle.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Павільйон 3 Франкфуртського книжкового ярмарку — стенди німецьких видавництв і газет (знімок 2025 року).",
+       "credit": "Dr. Thomas Liptak · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Frankfurt am Main hat die 78. Frankfurter Buchmesse begonnen – die größte Buchmesse der Welt.",
+        "tr": "У Франкфурті-на-Майні відкрився 78-й Франкфуртський книжковий ярмарок — найбільший книжковий ярмарок у світі."
+       },
+       {
+        "de": "Bis Sonntag, den 11. Oktober, erwarten die Veranstalter mehr als 250.000 Besucher.",
+        "tr": "До неділі, 11 жовтня, організатори чекають понад 250 000 відвідувачів."
+       },
+       {
+        "de": "Die ersten Tage sind für das Fachpublikum reserviert, ab Freitag dürfen alle Leserinnen und Leser kommen.",
+        "tr": "Перші дні відведено для фахової публіки, а з п'ятниці прийти можуть усі читачі."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auf zehn Bühnen treten mehr als tausend Rednerinnen und Redner auf.",
+        "tr": "На десяти сценах виступає понад тисячу спікерів."
+       },
+       {
+        "de": "Zu den Gästen gehören zum Beispiel der Liedermacher Wolf Biermann und der amerikanische Schriftsteller Colson Whitehead.",
+        "tr": "Серед гостей — наприклад, бард Вольф Бірман і американський письменник Колсон Вайтгед."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/forum.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Майдан перед будівлею «Форум» на території виставки у Франкфурті (знімок 2025 року).",
+       "credit": "Dr. Thomas Liptak · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ehrengast ist in diesem Jahr Tschechien, mit dem Motto „Ein Land an der Küste“.",
+        "tr": "Почесний гість цього року — Чехія з девізом «Країна на узбережжі»."
+       },
+       {
+        "de": "Das Motto erinnert an Shakespeares „Wintermärchen“: Dort liegt Böhmen am Meer, obwohl Tschechien in Wirklichkeit gar keine Küste hat.",
+        "tr": "Девіз нагадує про «Зимову казку» Шекспіра: там Богемія лежить біля моря, хоча насправді в Чехії взагалі немає узбережжя."
+       },
+       {
+        "de": "Rund 75 tschechische Autorinnen und Autoren sind nach Frankfurt gereist.",
+        "tr": "До Франкфурта приїхали близько 75 чеських письменниць і письменників."
+       },
+       {
+        "de": "Bei der Eröffnung sprach die Schriftstellerin Radka Denemarková über die Kraft der Literatur.",
+        "tr": "На відкритті письменниця Радка Денемаркова говорила про силу літератури."
+       },
+       {
+        "de": "„Die Literatur bleibt“, sagte sie und bekam dafür viel Applaus.",
+        "tr": "«Література залишається», — сказала вона й зірвала за це бурхливі оплески."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/buchmesse-2026/img/prag.jpg",
+       "w": 1200,
+       "h": 799,
+       "cap": "Карлів міст через Влтаву в Празі. Моря в Чехії немає — зате є шекспірівська «Богемія біля моря».",
+       "credit": "Scotch Mist · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Buchbranche sind es keine leichten Zeiten.",
+        "tr": "Для книжкової галузі зараз нелегкі часи."
+       },
+       {
+        "de": "Im Jahr 2025 sank der Umsatz des Buchhandels um 2,7 Prozent auf 9,62 Milliarden Euro, und auch in den ersten acht Monaten von 2026 ging er weiter zurück.",
+        "tr": "У 2025 році виторг книжкової торгівлі впав на 2,7 відсотка, до 9,62 мільярда євро, і за перші вісім місяців 2026 року продовжував знижуватися."
+       },
+       {
+        "de": "Viel diskutiert wird auf der Messe auch über künstliche Intelligenz.",
+        "tr": "Багато сперечаються на ярмарку й про штучний інтелект."
+       },
+       {
+        "de": "Zum Abschluss am Sonntag erhält der Jurist Philippe Sands in der Frankfurter Paulskirche den Friedenspreis des Deutschen Buchhandels.",
+        "tr": "Наостанок, у неділю, юрист Філіп Сендс отримає у франкфуртській церкві Святого Павла Премію миру німецької книготоргівлі."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "nobelpreis-physik-2026",
+   "rubric": "science",
+   "level": "B1–B2",
+   "published": "2026-10-06",
+   "added": "2026-10-06",
+   "source": "Нобелевский комитет · taz · France 24",
+   "sourceUrl": "https://taz.de/Nobelpreis-fuer-Physik-2026/!6219312/",
+   "words": 285,
+   "minutes": 3,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/cover.jpg",
+   "ru": {
+    "title": "Nobelpreis für Physik: Geisterteilchen aus dem All im Eis des Südpols",
+    "titleTr": "Нобелевская премия по физике: частицы-призраки из космоса во льду Южного полюса",
+    "blurb": "Нобелевскую премию по физике получил Франсис Халзен — за обсерваторию IceCube: в кубическом километре антарктического льда она ловит нейтрино из далёкого космоса.",
+    "levelNote": "Придаточные с weil, wenn, ohne dass и относительные (die fast keine Masse haben), инфинитив с um … zu, перфект и плюсквамперфект, пассив (wird überreicht), отделяемые глаголы (gab … bekannt).",
+    "license": "Текст — пересказ новостей taz и France 24; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/icecube.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Лаборатория IceCube на Южном полюсе. Сами датчики спрятаны глубоко подо льдом — на глубине от 1,5 до 2,5 километра.",
+       "credit": "Christopher Michel · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Nobelpreis für Physik geht in diesem Jahr an den Forscher Francis Halzen.",
+        "tr": "Нобелевская премия по физике в этом году достаётся исследователю Франсису Халзену."
+       },
+       {
+        "de": "Das gab die Königlich Schwedische Akademie der Wissenschaften am 6. Oktober in Stockholm bekannt.",
+        "tr": "Об этом 6 октября объявила в Стокгольме Шведская королевская академия наук."
+       },
+       {
+        "de": "Halzen ist 82 Jahre alt und stammt aus Belgien.",
+        "tr": "Халзену 82 года, он родом из Бельгии."
+       },
+       {
+        "de": "Seit vielen Jahren arbeitet er an einer Universität im US-Bundesstaat Wisconsin.",
+        "tr": "Уже много лет он работает в университете в американском штате Висконсин."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Er bekommt den Preis für seine Arbeit am Neutrino-Observatorium IceCube am Südpol.",
+        "tr": "Он получает премию за свою работу над нейтринной обсерваторией IceCube на Южном полюсе."
+       },
+       {
+        "de": "Mit diesem Instrument haben Forscher zum ersten Mal Neutrinos mit sehr hoher Energie aus dem fernen Weltall nachgewiesen.",
+        "tr": "С помощью этого прибора исследователи впервые зарегистрировали нейтрино очень высокой энергии из далёкого космоса."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/halzen.jpg",
+       "w": 487,
+       "h": 640,
+       "cap": "Франсис Халзен, профессор физики Висконсинского университета в Мэдисоне.",
+       "credit": "User120011 · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Neutrinos sind winzige Teilchen, die fast keine Masse haben.",
+        "tr": "Нейтрино — крошечные частицы, у которых почти нет массы."
+       },
+       {
+        "de": "Jede Sekunde fliegen Milliarden von ihnen durch unseren Körper, ohne dass wir etwas merken.",
+        "tr": "Каждую секунду миллиарды из них пролетают сквозь наше тело, а мы ничего не замечаем."
+       },
+       {
+        "de": "Weil sie fast nie mit anderer Materie zusammenstoßen, nennt man sie auch „Geisterteilchen“.",
+        "tr": "Поскольку они почти никогда не сталкиваются с другим веществом, их называют ещё «частицами-призраками»."
+       },
+       {
+        "de": "„Ein Neutrino ist ein geisterhafter Bote aus dem All“, sagte Mark Pearce, der Vorsitzende des Nobelkomitees.",
+        "tr": "«Нейтрино — призрачный вестник из космоса», — сказал председатель Нобелевского комитета Марк Пирс."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/dom.jpg",
+       "w": 640,
+       "h": 633,
+       "cap": "Оптический модуль IceCube — стеклянный шар с датчиком света. Таких модулей во льду больше пяти тысяч.",
+       "credit": "Amble · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Um solche Teilchen zu fangen, braucht man einen riesigen Detektor.",
+        "tr": "Чтобы поймать такие частицы, нужен огромный детектор."
+       },
+       {
+        "de": "Halzens Idee war, dafür das Eis der Antarktis zu nutzen.",
+        "tr": "Идея Халзена состояла в том, чтобы использовать для этого лёд Антарктиды."
+       },
+       {
+        "de": "In einem Kubikkilometer Eis hängen über 5000 Lichtsensoren, in einer Tiefe von etwa 1,5 bis 2,5 Kilometern.",
+        "tr": "В кубическом километре льда висят более 5000 световых датчиков на глубине примерно от 1,5 до 2,5 километра."
+       },
+       {
+        "de": "Wenn ein Neutrino doch einmal mit einem Atomkern zusammenstößt, entsteht ein schwacher blauer Lichtblitz.",
+        "tr": "Если нейтрино всё же столкнётся с атомным ядром, возникает слабая голубая вспышка света."
+       },
+       {
+        "de": "Die Sensoren messen dieses Licht, und die Forscher können berechnen, aus welcher Richtung das Teilchen kam.",
+        "tr": "Датчики измеряют этот свет, и исследователи могут вычислить, с какого направления пришла частица."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/nacht.jpg",
+       "w": 1200,
+       "h": 802,
+       "cap": "Лаборатория IceCube полярной ночью: над ней — Млечный Путь и южное полярное сияние.",
+       "credit": "John Hardin · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Schon Ende der achtziger Jahre hatte Halzen die Idee mit dem Eis.",
+        "tr": "Идея со льдом появилась у Халзена ещё в конце восьмидесятых годов."
+       },
+       {
+        "de": "Fertig war IceCube aber erst im Jahr 2010.",
+        "tr": "Но готов IceCube был лишь в 2010 году."
+       },
+       {
+        "de": "2013 meldete das Team die ersten Neutrinos aus dem fernen Weltall.",
+        "tr": "В 2013 году команда сообщила о первых нейтрино из далёкого космоса."
+       },
+       {
+        "de": "Nach den Worten von Mark Pearce hat Halzen damit den Weg für eine neue Art von Astronomie geöffnet.",
+        "tr": "По словам Марка Пирса, этим Халзен открыл путь для нового вида астрономии."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Preis ist mit zwölf Millionen schwedischen Kronen dotiert, das sind gut eine Million Euro.",
+        "tr": "Премия составляет двенадцать миллионов шведских крон — это чуть больше миллиона евро."
+       },
+       {
+        "de": "Überreicht wird er am 10. Dezember, dem Todestag von Alfred Nobel.",
+        "tr": "Вручат её 10 декабря, в день смерти Альфреда Нобеля."
+       },
+       {
+        "de": "Übrigens hat in diesem Jahr zum ersten Mal in der Geschichte der Akademie eine Frau den Physik-Preis verkündet: die Physikerin Ellen Moons.",
+        "tr": "Кстати, в этом году впервые в истории академии премию по физике объявила женщина — физик Эллен Мунс."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Nobelpreis für Physik: Geisterteilchen aus dem All im Eis des Südpols",
+    "titleTr": "Нобелівська премія з фізики: частинки-привиди з космосу в кризі Південного полюса",
+    "blurb": "Нобелівську премію з фізики отримав Франсіс Халзен — за обсерваторію IceCube: у кубічному кілометрі антарктичної криги вона ловить нейтрино з далекого космосу.",
+    "levelNote": "Підрядні з weil, wenn, ohne dass і означальні (die fast keine Masse haben), інфінітив з um … zu, перфект і плюсквамперфект, пасив (wird überreicht), відокремлювані дієслова (gab … bekannt).",
+    "license": "Текст — переказ новин taz і France 24; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/icecube.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Лабораторія IceCube на Південному полюсі. Самі датчики сховані глибоко під кригою — на глибині від 1,5 до 2,5 кілометра.",
+       "credit": "Christopher Michel · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Nobelpreis für Physik geht in diesem Jahr an den Forscher Francis Halzen.",
+        "tr": "Нобелівська премія з фізики цього року дістається досліднику Франсісу Халзену."
+       },
+       {
+        "de": "Das gab die Königlich Schwedische Akademie der Wissenschaften am 6. Oktober in Stockholm bekannt.",
+        "tr": "Про це 6 жовтня оголосила в Стокгольмі Шведська королівська академія наук."
+       },
+       {
+        "de": "Halzen ist 82 Jahre alt und stammt aus Belgien.",
+        "tr": "Халзену 82 роки, він родом із Бельгії."
+       },
+       {
+        "de": "Seit vielen Jahren arbeitet er an einer Universität im US-Bundesstaat Wisconsin.",
+        "tr": "Уже багато років він працює в університеті в американському штаті Вісконсин."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Er bekommt den Preis für seine Arbeit am Neutrino-Observatorium IceCube am Südpol.",
+        "tr": "Він отримує премію за свою роботу над нейтринною обсерваторією IceCube на Південному полюсі."
+       },
+       {
+        "de": "Mit diesem Instrument haben Forscher zum ersten Mal Neutrinos mit sehr hoher Energie aus dem fernen Weltall nachgewiesen.",
+        "tr": "За допомогою цього приладу дослідники вперше зареєстрували нейтрино дуже високої енергії з далекого космосу."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/halzen.jpg",
+       "w": 487,
+       "h": 640,
+       "cap": "Франсіс Халзен, професор фізики Вісконсинського університету в Медісоні.",
+       "credit": "User120011 · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Neutrinos sind winzige Teilchen, die fast keine Masse haben.",
+        "tr": "Нейтрино — крихітні частинки, які майже не мають маси."
+       },
+       {
+        "de": "Jede Sekunde fliegen Milliarden von ihnen durch unseren Körper, ohne dass wir etwas merken.",
+        "tr": "Щосекунди мільярди з них пролітають крізь наше тіло, а ми нічого не помічаємо."
+       },
+       {
+        "de": "Weil sie fast nie mit anderer Materie zusammenstoßen, nennt man sie auch „Geisterteilchen“.",
+        "tr": "Оскільки вони майже ніколи не стикаються з іншою речовиною, їх називають ще «частинками-привидами»."
+       },
+       {
+        "de": "„Ein Neutrino ist ein geisterhafter Bote aus dem All“, sagte Mark Pearce, der Vorsitzende des Nobelkomitees.",
+        "tr": "«Нейтрино — примарний вісник із космосу», — сказав голова Нобелівського комітету Марк Пірс."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/dom.jpg",
+       "w": 640,
+       "h": 633,
+       "cap": "Оптичний модуль IceCube — скляна куля з датчиком світла. Таких модулів у кризі понад п'ять тисяч.",
+       "credit": "Amble · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Um solche Teilchen zu fangen, braucht man einen riesigen Detektor.",
+        "tr": "Щоб упіймати такі частинки, потрібен величезний детектор."
+       },
+       {
+        "de": "Halzens Idee war, dafür das Eis der Antarktis zu nutzen.",
+        "tr": "Ідея Халзена полягала в тому, щоб використати для цього кригу Антарктиди."
+       },
+       {
+        "de": "In einem Kubikkilometer Eis hängen über 5000 Lichtsensoren, in einer Tiefe von etwa 1,5 bis 2,5 Kilometern.",
+        "tr": "У кубічному кілометрі криги висять понад 5000 світлових датчиків на глибині приблизно від 1,5 до 2,5 кілометра."
+       },
+       {
+        "de": "Wenn ein Neutrino doch einmal mit einem Atomkern zusammenstößt, entsteht ein schwacher blauer Lichtblitz.",
+        "tr": "Якщо нейтрино все ж зіткнеться з атомним ядром, виникає слабкий блакитний спалах світла."
+       },
+       {
+        "de": "Die Sensoren messen dieses Licht, und die Forscher können berechnen, aus welcher Richtung das Teilchen kam.",
+        "tr": "Датчики вимірюють це світло, і дослідники можуть обчислити, з якого напрямку прилетіла частинка."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/nobelpreis-physik-2026/img/nacht.jpg",
+       "w": 1200,
+       "h": 802,
+       "cap": "Лабораторія IceCube полярної ночі: над нею — Чумацький Шлях і південне полярне сяйво.",
+       "credit": "John Hardin · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Schon Ende der achtziger Jahre hatte Halzen die Idee mit dem Eis.",
+        "tr": "Ідея з кригою з'явилася в Халзена ще наприкінці вісімдесятих років."
+       },
+       {
+        "de": "Fertig war IceCube aber erst im Jahr 2010.",
+        "tr": "Але готовою IceCube була лише 2010 року."
+       },
+       {
+        "de": "2013 meldete das Team die ersten Neutrinos aus dem fernen Weltall.",
+        "tr": "2013 року команда повідомила про перші нейтрино з далекого космосу."
+       },
+       {
+        "de": "Nach den Worten von Mark Pearce hat Halzen damit den Weg für eine neue Art von Astronomie geöffnet.",
+        "tr": "За словами Марка Пірса, цим Халзен відкрив шлях для нового виду астрономії."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Preis ist mit zwölf Millionen schwedischen Kronen dotiert, das sind gut eine Million Euro.",
+        "tr": "Премія становить дванадцять мільйонів шведських крон — це трохи більше за мільйон євро."
+       },
+       {
+        "de": "Überreicht wird er am 10. Dezember, dem Todestag von Alfred Nobel.",
+        "tr": "Вручать її 10 грудня, у день смерті Альфреда Нобеля."
+       },
+       {
+        "de": "Übrigens hat in diesem Jahr zum ersten Mal in der Geschichte der Akademie eine Frau den Physik-Preis verkündet: die Physikerin Ellen Moons.",
+        "tr": "До речі, цього року вперше в історії академії премію з фізики оголосила жінка — фізикиня Еллен Мунс."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "telekom-ki-2026",
+   "rubric": "tech",
+   "level": "B1–B2",
+   "published": "2026-10-05",
+   "added": "2026-10-06",
+   "source": "dpa · inFranken.de · Handelsblatt",
+   "sourceUrl": "https://www.infranken.de/ueberregional/newsticker-national/netzwelt/deutsche-telekom-will-durch-ki-einsatz-milliarden-sparen-art-6400841",
+   "words": 192,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/cover.jpg",
+   "ru": {
+    "title": "Chatbots statt Callcenter: Die Telekom will mit KI Milliarden sparen",
+    "titleTr": "Чат-боты вместо колл-центров: Telekom хочет сэкономить миллиарды с помощью ИИ",
+    "blurb": "К 2030 году ИИ и автоматизация должны экономить Deutsche Telekom около 2,5 млрд евро в год. Чат-боты уже приняли 2,6 млн звонков, а в США ИИ-агенты ведут 40 % обращений клиентов.",
+    "levelNote": "Технологическая лексика (KI, Chatbot, Automatisierung), модальные глаголы (sollen, will), отделяемые глаголы (stellte … vor), перфект (haben … übernommen), союзы nicht nur … sondern auch, устойчивые обороты (im Einsatz sein, auf etwas setzen, von Grund auf).",
+    "license": "Текст — пересказ новостей dpa, inFranken.de и Handelsblatt; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/rechenzentrum.jpg",
+       "w": 1200,
+       "h": 797,
+       "cap": "Серверы в дата-центре. Для ИИ телеком-компаниям нужны огромные вычислительные мощности.",
+       "credit": "BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Deutsche Telekom setzt in großem Stil auf künstliche Intelligenz.",
+        "tr": "Deutsche Telekom делает крупную ставку на искусственный интеллект."
+       },
+       {
+        "de": "Bei einem Treffen mit Investoren am 5. Oktober stellte der Konzern aus Bonn seine Pläne vor.",
+        "tr": "На встрече с инвесторами 5 октября концерн из Бонна представил свои планы."
+       },
+       {
+        "de": "Bis 2030 sollen KI und Automatisierung die indirekten Kosten um rund 2,5 Milliarden Euro pro Jahr senken – im Vergleich zum Jahr 2023.",
+        "tr": "К 2030 году ИИ и автоматизация должны снизить косвенные расходы примерно на 2,5 миллиарда евро в год — по сравнению с 2023 годом."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Schon 2027 sollen es 1,1 Milliarden Euro sein, 300 Millionen mehr als bisher geplant.",
+        "tr": "Уже в 2027 году это должно быть 1,1 миллиарда евро — на 300 миллионов больше, чем планировалось раньше."
+       },
+       {
+        "de": "Sparen will die Telekom vor allem dort, wo sich viele Aufgaben wiederholen: im Kundenservice, beim Betrieb der Netze, in der Softwareentwicklung und in der Verwaltung.",
+        "tr": "Экономить Telekom хочет прежде всего там, где много повторяющихся задач: в обслуживании клиентов, в работе сетей, в разработке программ и в администрации."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/shop.jpg",
+       "w": 1200,
+       "h": 827,
+       "cap": "Магазин Telekom во Фрайбурге. Часть вопросов клиентов уже решают чат-боты, а не люди.",
+       "credit": "Andreas Schwarzkopf · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Im Kundenservice ist die KI schon heute im Einsatz.",
+        "tr": "В обслуживании клиентов ИИ работает уже сегодня."
+       },
+       {
+        "de": "In der ersten Hälfte des Jahres haben Chatbots bereits 2,6 Millionen Anrufe übernommen.",
+        "tr": "В первой половине года чат-боты уже приняли 2,6 миллиона звонков."
+       },
+       {
+        "de": "In den USA bearbeiten KI-Agenten inzwischen 40 Prozent aller Kundenkontakte.",
+        "tr": "В США ИИ-агенты теперь обрабатывают 40 процентов всех обращений клиентов."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/netz.jpg",
+       "w": 1200,
+       "h": 799,
+       "cap": "Инженеры у серверных стоек. Работу сетей Telekom тоже хочет частично автоматизировать.",
+       "credit": "Daoducquan · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Telekom will mit KI aber nicht nur sparen, sondern auch Geld verdienen.",
+        "tr": "Но Telekom хочет с помощью ИИ не только экономить, но и зарабатывать."
+       },
+       {
+        "de": "Mit Angeboten rund um KI für Firmenkunden macht sie außerhalb der USA heute etwa 250 Millionen Euro Umsatz.",
+        "tr": "На предложениях в области ИИ для корпоративных клиентов она сейчас получает за пределами США около 250 миллионов евро выручки."
+       },
+       {
+        "de": "Bis 2030 sollen es 800 Millionen Euro werden.",
+        "tr": "К 2030 году это должно вырасти до 800 миллионов евро."
+       },
+       {
+        "de": "„KI verändert die Telekom von Grund auf“, sagte Konzernchef Tim Höttges.",
+        "tr": "«ИИ меняет Telekom до самого основания», — сказал глава концерна Тим Хёттгес."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/berlin.jpg",
+       "w": 1200,
+       "h": 905,
+       "cap": "Представительство Deutsche Telekom в Берлине. Штаб-квартира концерна находится в Бонне.",
+       "credit": "Ricostorch · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Offen bleibt eine wichtige Frage: Was bedeutet das für die Menschen, die diese Arbeit heute machen?",
+        "tr": "Открытым остаётся важный вопрос: что это значит для людей, которые сегодня выполняют эту работу?"
+       },
+       {
+        "de": "Klar ist: Auch bei anderen großen Firmen übernehmen Chatbots und KI-Agenten immer mehr Aufgaben, die früher Menschen erledigt haben.",
+        "tr": "Ясно одно: и в других крупных компаниях чат-боты и ИИ-агенты берут на себя всё больше задач, которые раньше выполняли люди."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Chatbots statt Callcenter: Die Telekom will mit KI Milliarden sparen",
+    "titleTr": "Чат-боти замість кол-центрів: Telekom хоче заощадити мільярди за допомогою ШІ",
+    "blurb": "До 2030 року ШІ та автоматизація мають заощаджувати Deutsche Telekom близько 2,5 млрд євро на рік. Чат-боти вже прийняли 2,6 млн дзвінків, а в США ШІ-агенти ведуть 40 % звернень клієнтів.",
+    "levelNote": "Технологічна лексика (KI, Chatbot, Automatisierung), модальні дієслова (sollen, will), відокремлювані дієслова (stellte … vor), перфект (haben … übernommen), сполучники nicht nur … sondern auch, сталі звороти (im Einsatz sein, auf etwas setzen, von Grund auf).",
+    "license": "Текст — переказ новин dpa, inFranken.de і Handelsblatt; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/rechenzentrum.jpg",
+       "w": 1200,
+       "h": 797,
+       "cap": "Сервери в дата-центрі. Для ШІ телеком-компаніям потрібні величезні обчислювальні потужності.",
+       "credit": "BalticServers.com · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Deutsche Telekom setzt in großem Stil auf künstliche Intelligenz.",
+        "tr": "Deutsche Telekom робить велику ставку на штучний інтелект."
+       },
+       {
+        "de": "Bei einem Treffen mit Investoren am 5. Oktober stellte der Konzern aus Bonn seine Pläne vor.",
+        "tr": "На зустрічі з інвесторами 5 жовтня концерн із Бонна представив свої плани."
+       },
+       {
+        "de": "Bis 2030 sollen KI und Automatisierung die indirekten Kosten um rund 2,5 Milliarden Euro pro Jahr senken – im Vergleich zum Jahr 2023.",
+        "tr": "До 2030 року ШІ та автоматизація мають знизити непрямі витрати приблизно на 2,5 мільярда євро на рік — порівняно з 2023 роком."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Schon 2027 sollen es 1,1 Milliarden Euro sein, 300 Millionen mehr als bisher geplant.",
+        "tr": "Уже 2027 року це має бути 1,1 мільярда євро — на 300 мільйонів більше, ніж планували раніше."
+       },
+       {
+        "de": "Sparen will die Telekom vor allem dort, wo sich viele Aufgaben wiederholen: im Kundenservice, beim Betrieb der Netze, in der Softwareentwicklung und in der Verwaltung.",
+        "tr": "Заощаджувати Telekom хоче насамперед там, де багато повторюваних завдань: в обслуговуванні клієнтів, у роботі мереж, у розробці програм і в адміністрації."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/shop.jpg",
+       "w": 1200,
+       "h": 827,
+       "cap": "Магазин Telekom у Фрайбурзі. Частину питань клієнтів уже розв'язують чат-боти, а не люди.",
+       "credit": "Andreas Schwarzkopf · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Im Kundenservice ist die KI schon heute im Einsatz.",
+        "tr": "В обслуговуванні клієнтів ШІ працює вже сьогодні."
+       },
+       {
+        "de": "In der ersten Hälfte des Jahres haben Chatbots bereits 2,6 Millionen Anrufe übernommen.",
+        "tr": "У першій половині року чат-боти вже прийняли 2,6 мільйона дзвінків."
+       },
+       {
+        "de": "In den USA bearbeiten KI-Agenten inzwischen 40 Prozent aller Kundenkontakte.",
+        "tr": "У США ШІ-агенти тепер обробляють 40 відсотків усіх звернень клієнтів."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/netz.jpg",
+       "w": 1200,
+       "h": 799,
+       "cap": "Інженери біля серверних стійок. Роботу мереж Telekom теж хоче частково автоматизувати.",
+       "credit": "Daoducquan · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Telekom will mit KI aber nicht nur sparen, sondern auch Geld verdienen.",
+        "tr": "Але Telekom хоче за допомогою ШІ не лише заощаджувати, а й заробляти."
+       },
+       {
+        "de": "Mit Angeboten rund um KI für Firmenkunden macht sie außerhalb der USA heute etwa 250 Millionen Euro Umsatz.",
+        "tr": "На пропозиціях у сфері ШІ для корпоративних клієнтів вона зараз отримує за межами США близько 250 мільйонів євро виручки."
+       },
+       {
+        "de": "Bis 2030 sollen es 800 Millionen Euro werden.",
+        "tr": "До 2030 року це має зрости до 800 мільйонів євро."
+       },
+       {
+        "de": "„KI verändert die Telekom von Grund auf“, sagte Konzernchef Tim Höttges.",
+        "tr": "«ШІ змінює Telekom докорінно», — сказав голова концерну Тім Геттґес."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/telekom-ki-2026/img/berlin.jpg",
+       "w": 1200,
+       "h": 905,
+       "cap": "Представництво Deutsche Telekom у Берліні. Штаб-квартира концерну розташована в Бонні.",
+       "credit": "Ricostorch · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Offen bleibt eine wichtige Frage: Was bedeutet das für die Menschen, die diese Arbeit heute machen?",
+        "tr": "Відкритим залишається важливе питання: що це означає для людей, які сьогодні виконують цю роботу?"
+       },
+       {
+        "de": "Klar ist: Auch bei anderen großen Firmen übernehmen Chatbots und KI-Agenten immer mehr Aufgaben, die früher Menschen erledigt haben.",
+        "tr": "Ясно одне: і в інших великих компаніях чат-боти та ШІ-агенти беруть на себе дедалі більше завдань, які раніше виконували люди."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "plastiksteuer-2027",
+   "rubric": "economy",
+   "level": "B1–B2",
+   "published": "2026-10-05",
+   "added": "2026-10-06",
+   "source": "Handelsblatt · Tagesspiegel",
+   "sourceUrl": "https://www.handelsblatt.com/politik/deutschland/steuern-plastiksteuer-bringt-14-milliarden-euro-und-mehr-buerokratie/100259802.html",
+   "words": 252,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/cover.jpg",
+   "ru": {
+    "title": "Neue Steuer auf Plastik: Verpackungen könnten ab 2027 teurer werden",
+    "titleTr": "Новый налог на пластик: упаковка с 2027 года может подорожать",
+    "blurb": "С 1 июля 2027 года фирмы будут платить 550 евро за тонну пластиковой упаковки. Бюджет получит до 1,4 млрд евро в год, а йогурт и колбаса в пластике могут немного подорожать.",
+    "levelNote": "Модальные глаголы (soll, sollen, müssen, dürfen), пассив состояния и процесса (betroffen sind, recycelt wird), отделяемые глаголы (liegt … vor, plant … ein), Konjunktiv II (könnten), конструкция sich … lassen.",
+    "license": "Текст — пересказ новостей Handelsblatt и Tagesspiegel; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/regal.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Мясо в пластиковых лотках на полке супермаркета. Налог коснётся любой упаковки, где пластика больше пяти процентов.",
+       "credit": "Mattes · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Bundesregierung will eine neue Steuer einführen: eine Steuer auf Verpackungen aus Plastik.",
+        "tr": "Федеральное правительство хочет ввести новый налог — налог на упаковку из пластика."
+       },
+       {
+        "de": "Darüber berichteten am 5. Oktober mehrere Zeitungen, darunter das Handelsblatt und der Tagesspiegel.",
+        "tr": "Об этом 5 октября сообщили несколько газет, среди них Handelsblatt и Tagesspiegel."
+       },
+       {
+        "de": "Ihnen liegt ein Gesetzentwurf des Finanzministeriums vor.",
+        "tr": "В их распоряжении оказался законопроект министерства финансов."
+       },
+       {
+        "de": "Die Steuer soll am 1. Juli 2027 starten.",
+        "tr": "Налог должен заработать 1 июля 2027 года."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Pro Tonne Kunststoff sollen die Firmen 550 Euro zahlen, also 55 Cent pro Kilogramm.",
+        "tr": "За тонну пластика фирмы должны будут платить 550 евро, то есть 55 центов за килограмм."
+       },
+       {
+        "de": "Betroffen sind Verpackungen, Folien und Verbundverpackungen, wenn ihr Anteil an Kunststoff höher als fünf Prozent ist.",
+        "tr": "Это касается упаковки, плёнки и комбинированной упаковки, если доля пластика в них больше пяти процентов."
+       },
+       {
+        "de": "Zahlen müssen die Hersteller und die Firmen, die Verpackungen nach Deutschland importieren.",
+        "tr": "Платить должны производители и фирмы, которые ввозят упаковку в Германию."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/tomaten.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Помидоры в прозрачных пластиковых коробочках — привычная упаковка, за которую с 2027 года придётся платить налог.",
+       "credit": "Marek Ślusarczyk (Tupungato) · CC BY 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für das Jahr 2027 rechnet Finanzminister Lars Klingbeil mit Einnahmen von 805 Millionen Euro.",
+        "tr": "На 2027 год министр финансов Ларс Клингбайль рассчитывает на доходы в 805 миллионов евро."
+       },
+       {
+        "de": "Ab 2028 sollen es jedes Jahr rund 1,4 Milliarden Euro sein.",
+        "tr": "С 2028 года это должно быть около 1,4 миллиарда евро ежегодно."
+       },
+       {
+        "de": "Die Steuer soll aber nicht nur Geld bringen.",
+        "tr": "Но налог должен не только приносить деньги."
+       },
+       {
+        "de": "Nach Angaben des Ministeriums kann sie auch helfen, weniger Plastik zu verbrauchen.",
+        "tr": "По данным министерства, он может также помочь расходовать меньше пластика."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/gelbersack.jpg",
+       "w": 1200,
+       "h": 683,
+       "cap": "«Жёлтые мешки» для упаковки в Германии. За пластик, который не перерабатывается, страна платит в бюджет ЕС.",
+       "credit": "Tiia Monto · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Hintergrund ist eine Abgabe der Europäischen Union.",
+        "tr": "Предыстория — сбор Европейского союза."
+       },
+       {
+        "de": "Seit 2021 muss jedes Land der EU für Plastikmüll, der nicht recycelt wird, 80 Cent pro Kilogramm nach Brüssel überweisen.",
+        "tr": "С 2021 года каждая страна ЕС за пластиковый мусор, который не перерабатывается, должна перечислять в Брюссель 80 центов за килограмм."
+       },
+       {
+        "de": "Deutschland zahlt dafür bisher jedes Jahr rund 1,3 bis 1,4 Milliarden Euro aus dem Bundeshaushalt.",
+        "tr": "Германия до сих пор платит за это ежегодно около 1,3–1,4 миллиарда евро из федерального бюджета."
+       },
+       {
+        "de": "Künftig sollen dieses Geld die Unternehmen aufbringen.",
+        "tr": "В будущем эти деньги должны находить компании."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Am Ende zahlen aber wohl die Kunden.",
+        "tr": "Но в итоге платить, вероятно, будут покупатели."
+       },
+       {
+        "de": "Nach dem Entwurf dürfen die Firmen die Kosten an ihre Kunden weitergeben.",
+        "tr": "По проекту фирмы могут переложить расходы на своих покупателей."
+       },
+       {
+        "de": "Joghurt, Wurst oder Getränke in Plastikflaschen könnten deshalb etwas teurer werden.",
+        "tr": "Поэтому йогурт, колбаса или напитки в пластиковых бутылках могут немного подорожать."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/ministerium.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Здание Федерального министерства финансов в Берлине (Detlev-Rohwedder-Haus) — здесь подготовили законопроект.",
+       "credit": "Perituss · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Wirtschaft ist unzufrieden.",
+        "tr": "Бизнес недоволен."
+       },
+       {
+        "de": "Der Handelsverband HDE spricht von einem „Bruch des Koalitionsvertrags“.",
+        "tr": "Торговый союз HDE говорит о «нарушении коалиционного договора»."
+       },
+       {
+        "de": "Die Kunststoffindustrie warnt, dass Firmen dann öfter andere Materialien nehmen, die sich schlechter recyceln lassen.",
+        "tr": "Производители пластика предупреждают, что фирмы тогда чаще будут брать другие материалы, которые хуже поддаются переработке."
+       },
+       {
+        "de": "Außerdem kostet die Steuer selbst Geld: Für den Zoll und die nötige Technik plant der Bund bis 2029 rund 284 Millionen Euro ein.",
+        "tr": "К тому же сам налог стоит денег: на таможню и нужную технику федерация закладывает до 2029 года около 284 миллионов евро."
+       },
+       {
+        "de": "Bevor die Steuer kommt, muss noch der Bundestag zustimmen.",
+        "tr": "Прежде чем налог появится, его ещё должен одобрить бундестаг."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Neue Steuer auf Plastik: Verpackungen könnten ab 2027 teurer werden",
+    "titleTr": "Новий податок на пластик: упаковка з 2027 року може подорожчати",
+    "blurb": "З 1 липня 2027 року фірми платитимуть 550 євро за тонну пластикової упаковки. Бюджет отримає до 1,4 млрд євро на рік, а йогурт і ковбаса в пластику можуть трохи подорожчати.",
+    "levelNote": "Модальні дієслова (soll, sollen, müssen, dürfen), пасив стану й процесу (betroffen sind, recycelt wird), відокремлювані дієслова (liegt … vor, plant … ein), Konjunktiv II (könnten), конструкція sich … lassen.",
+    "license": "Текст — переказ новин Handelsblatt і Tagesspiegel; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/regal.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "М'ясо в пластикових лотках на полиці супермаркету. Податок стосуватиметься будь-якої упаковки, де пластику понад п'ять відсотків.",
+       "credit": "Mattes · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Bundesregierung will eine neue Steuer einführen: eine Steuer auf Verpackungen aus Plastik.",
+        "tr": "Федеральний уряд хоче запровадити новий податок — податок на упаковку з пластику."
+       },
+       {
+        "de": "Darüber berichteten am 5. Oktober mehrere Zeitungen, darunter das Handelsblatt und der Tagesspiegel.",
+        "tr": "Про це 5 жовтня повідомили кілька газет, серед них Handelsblatt і Tagesspiegel."
+       },
+       {
+        "de": "Ihnen liegt ein Gesetzentwurf des Finanzministeriums vor.",
+        "tr": "У їхньому розпорядженні опинився законопроєкт міністерства фінансів."
+       },
+       {
+        "de": "Die Steuer soll am 1. Juli 2027 starten.",
+        "tr": "Податок має запрацювати 1 липня 2027 року."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Pro Tonne Kunststoff sollen die Firmen 550 Euro zahlen, also 55 Cent pro Kilogramm.",
+        "tr": "За тонну пластику фірми мають платити 550 євро, тобто 55 центів за кілограм."
+       },
+       {
+        "de": "Betroffen sind Verpackungen, Folien und Verbundverpackungen, wenn ihr Anteil an Kunststoff höher als fünf Prozent ist.",
+        "tr": "Це стосується упаковки, плівки й комбінованої упаковки, якщо частка пластику в них більша за п'ять відсотків."
+       },
+       {
+        "de": "Zahlen müssen die Hersteller und die Firmen, die Verpackungen nach Deutschland importieren.",
+        "tr": "Платити мають виробники та фірми, які ввозять упаковку до Німеччини."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/tomaten.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Помідори в прозорих пластикових коробочках — звична упаковка, за яку з 2027 року доведеться платити податок.",
+       "credit": "Marek Ślusarczyk (Tupungato) · CC BY 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für das Jahr 2027 rechnet Finanzminister Lars Klingbeil mit Einnahmen von 805 Millionen Euro.",
+        "tr": "На 2027 рік міністр фінансів Ларс Клінгбайль розраховує на доходи у 805 мільйонів євро."
+       },
+       {
+        "de": "Ab 2028 sollen es jedes Jahr rund 1,4 Milliarden Euro sein.",
+        "tr": "З 2028 року це має бути близько 1,4 мільярда євро щороку."
+       },
+       {
+        "de": "Die Steuer soll aber nicht nur Geld bringen.",
+        "tr": "Але податок має не лише приносити гроші."
+       },
+       {
+        "de": "Nach Angaben des Ministeriums kann sie auch helfen, weniger Plastik zu verbrauchen.",
+        "tr": "За даними міністерства, він може також допомогти витрачати менше пластику."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/gelbersack.jpg",
+       "w": 1200,
+       "h": 683,
+       "cap": "«Жовті мішки» для упаковки в Німеччині. За пластик, який не переробляється, країна платить до бюджету ЄС.",
+       "credit": "Tiia Monto · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Hintergrund ist eine Abgabe der Europäischen Union.",
+        "tr": "Передісторія — збір Європейського союзу."
+       },
+       {
+        "de": "Seit 2021 muss jedes Land der EU für Plastikmüll, der nicht recycelt wird, 80 Cent pro Kilogramm nach Brüssel überweisen.",
+        "tr": "З 2021 року кожна країна ЄС за пластикове сміття, яке не переробляється, має перераховувати до Брюсселя 80 центів за кілограм."
+       },
+       {
+        "de": "Deutschland zahlt dafür bisher jedes Jahr rund 1,3 bis 1,4 Milliarden Euro aus dem Bundeshaushalt.",
+        "tr": "Німеччина досі платить за це щороку близько 1,3–1,4 мільярда євро з федерального бюджету."
+       },
+       {
+        "de": "Künftig sollen dieses Geld die Unternehmen aufbringen.",
+        "tr": "У майбутньому ці гроші мають знаходити компанії."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Am Ende zahlen aber wohl die Kunden.",
+        "tr": "Але врешті платити, ймовірно, будуть покупці."
+       },
+       {
+        "de": "Nach dem Entwurf dürfen die Firmen die Kosten an ihre Kunden weitergeben.",
+        "tr": "За проєктом фірми можуть перекласти витрати на своїх покупців."
+       },
+       {
+        "de": "Joghurt, Wurst oder Getränke in Plastikflaschen könnten deshalb etwas teurer werden.",
+        "tr": "Тому йогурт, ковбаса чи напої в пластикових пляшках можуть трохи подорожчати."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/plastiksteuer-2027/img/ministerium.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Будівля Федерального міністерства фінансів у Берліні (Detlev-Rohwedder-Haus) — тут підготували законопроєкт.",
+       "credit": "Perituss · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Wirtschaft ist unzufrieden.",
+        "tr": "Бізнес незадоволений."
+       },
+       {
+        "de": "Der Handelsverband HDE spricht von einem „Bruch des Koalitionsvertrags“.",
+        "tr": "Торговельна спілка HDE говорить про «порушення коаліційної угоди»."
+       },
+       {
+        "de": "Die Kunststoffindustrie warnt, dass Firmen dann öfter andere Materialien nehmen, die sich schlechter recyceln lassen.",
+        "tr": "Виробники пластику попереджають, що фірми тоді частіше братимуть інші матеріали, які гірше піддаються переробці."
+       },
+       {
+        "de": "Außerdem kostet die Steuer selbst Geld: Für den Zoll und die nötige Technik plant der Bund bis 2029 rund 284 Millionen Euro ein.",
+        "tr": "До того ж сам податок коштує грошей: на митницю й потрібну техніку федерація закладає до 2029 року близько 284 мільйонів євро."
+       },
+       {
+        "de": "Bevor die Steuer kommt, muss noch der Bundestag zustimmen.",
+        "tr": "Перш ніж податок з'явиться, його ще має схвалити бундестаг."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "einheitsfeier-bremen-2026",
+   "rubric": "events",
+   "level": "B1–B2",
+   "published": "2026-10-05",
+   "added": "2026-10-06",
+   "source": "Weser-Kurier · buten un binnen · Bundespräsident",
+   "sourceUrl": "https://www.weser-kurier.de/bremen/tag-der-deutschen-einheit-550-000-gaeste-in-bremen-doc87watrykkdw1ikzk4d5w",
+   "words": 220,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/cover.jpg",
+   "ru": {
+    "title": "550.000 Gäste: Bremen feiert den Tag der Deutschen Einheit",
+    "titleTr": "550 000 гостей: Бремен отпраздновал День немецкого единства",
+    "blurb": "Три дня Бремен праздновал 36-ю годовщину объединения Германии: 550 000 гостей, больше 600 концертов и спектаклей и речь президента Штайнмайера о единстве и демократии.",
+    "levelNote": "Претеритум в рассказе о событии (kamen, begann, hielt), отделяемые глаголы (findet … statt, stellten sich … vor), относительное придаточное (das gerade …), косвенная речь с Konjunktiv I (gefährde) и устойчивые обороты (eine Rede halten, an der Reihe sein).",
+    "license": "Текст — пересказ новостей Weser-Kurier, buten un binnen и речи федерального президента; фото — Wikimedia Commons, CC BY-SA 4.0",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/markt.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Рыночная площадь Бремена в «синий час»: ратуша, статуя Роланда и собор, где 3 октября прошло праздничное богослужение.",
+       "credit": "Matthias Süßen · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Drei Tage lang hat Bremen den Tag der Deutschen Einheit gefeiert.",
+        "tr": "Три дня Бремен праздновал День немецкого единства."
+       },
+       {
+        "de": "Vom 2. bis zum 4. Oktober kamen rund 550.000 Besucher in die Stadt an der Weser.",
+        "tr": "Со 2 по 4 октября в город на Везере приехали около 550 000 гостей."
+       },
+       {
+        "de": "Erwartet hatte man nur etwa 450.000 Gäste.",
+        "tr": "Ожидали всего около 450 000 гостей."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die zentrale Feier findet jedes Jahr in dem Bundesland statt, das gerade den Vorsitz im Bundesrat hat.",
+        "tr": "Главный праздник каждый год проходит в той федеральной земле, которая в этот момент председательствует в бундесрате."
+       },
+       {
+        "de": "In diesem Jahr war das Bremen – nach 1994 und 2010 schon zum dritten Mal.",
+        "tr": "В этом году это был Бремен — уже в третий раз после 1994 и 2010 годов."
+       },
+       {
+        "de": "Das Motto lautete »Viele Stärken – ein Land«.",
+        "tr": "Девиз звучал так: «Много сильных сторон — одна страна»."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/glocke.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Концертный зал «Die Glocke» («Колокол») — здесь проходило торжественное собрание с речью федерального президента.",
+       "credit": "Matthias Süßen · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 3. Oktober begann der offizielle Teil mit einem Gottesdienst im Bremer Dom.",
+        "tr": "3 октября официальная часть началась с богослужения в Бременском соборе."
+       },
+       {
+        "de": "Danach folgte ein Festakt im Konzerthaus »Die Glocke«.",
+        "tr": "Затем последовало торжественное собрание в концертном зале «Колокол»."
+       },
+       {
+        "de": "Dort hielt Bundespräsident Frank-Walter Steinmeier eine Rede.",
+        "tr": "Там выступил с речью федеральный президент Франк-Вальтер Штайнмайер."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Er erinnerte an die Friedliche Revolution von 1989 und an das Glück der Wiedervereinigung.",
+        "tr": "Он напомнил о Мирной революции 1989 года и о счастье воссоединения."
+       },
+       {
+        "de": "Gleichzeitig warnte er vor Extremismus und Spaltung: Die Demagogie extremistischer Kräfte gefährde nicht nur Freiheit und Demokratie, sondern auch die Einheit.",
+        "tr": "Вместе с тем он предостерёг от экстремизма и раскола: демагогия экстремистских сил, по его словам, угрожает не только свободе и демократии, но и единству."
+       },
+       {
+        "de": "Am Ende rief er: »Unser Deutschland ist ein gutes Land! Sorgen wir dafür, dass es so bleibt!«",
+        "tr": "В конце он призвал: «Наша Германия — хорошая страна! Позаботимся о том, чтобы так и оставалось!»"
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/musikanten.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Бременские музыканты у ратуши — символ города, мимо которого всё праздничное воскресенье шли гости.",
+       "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In der ganzen Innenstadt fand ein großes Bürgerfest statt.",
+        "tr": "По всему центру города прошёл большой народный праздник."
+       },
+       {
+        "de": "Auf mehreren Bühnen gab es Konzerte, Theater und Lesungen, unter anderem mit den Fantastischen Vier.",
+        "tr": "На нескольких сценах шли концерты, спектакли и чтения — среди прочих выступили Die Fantastischen Vier."
+       },
+       {
+        "de": "Auf der Ländermeile am Osterdeich stellten sich alle 16 Bundesländer vor.",
+        "tr": "На «Миле земель» у дамбы Остердайх представились все 16 федеральных земель."
+       },
+       {
+        "de": "Busse und Bahnen in der ganzen Region waren kostenlos.",
+        "tr": "Автобусы и поезда во всём регионе были бесплатными."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/schlachte.jpg",
+       "w": 1200,
+       "h": 797,
+       "cap": "Набережная Шлахте на Везере — часть праздничной зоны в центре города.",
+       "credit": "Jaimrsilva · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Rund 4000 Polizistinnen und Polizisten sorgten für Sicherheit.",
+        "tr": "Около 4000 полицейских обеспечивали безопасность."
+       },
+       {
+        "de": "Bis auf einzelne Zusammenstöße bei einer Demonstration blieb es friedlich.",
+        "tr": "Если не считать отдельных стычек на одной демонстрации, всё прошло мирно."
+       },
+       {
+        "de": "Bürgermeister Andreas Bovenschulte sprach von drei wunderbaren Tagen.",
+        "tr": "Бургомистр Андреас Бовеншульте говорил о трёх замечательных днях."
+       },
+       {
+        "de": "Im nächsten Jahr ist Düsseldorf an der Reihe.",
+        "tr": "В следующем году очередь Дюссельдорфа."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "550.000 Gäste: Bremen feiert den Tag der Deutschen Einheit",
+    "titleTr": "550 000 гостей: Бремен відсвяткував День німецької єдності",
+    "blurb": "Три дні Бремен святкував 36-ту річницю об'єднання Німеччини: 550 000 гостей, понад 600 концертів і вистав та промова президента Штайнмаєра про єдність і демократію.",
+    "levelNote": "Претерит у розповіді про подію (kamen, begann, hielt), відокремлювані дієслова (findet … statt, stellten sich … vor), відносне підрядне речення (das gerade …), непряма мова з Konjunktiv I (gefährde) і сталі звороти (eine Rede halten, an der Reihe sein).",
+    "license": "Текст — переказ новин Weser-Kurier, buten un binnen і промови федерального президента; фото — Wikimedia Commons, CC BY-SA 4.0",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/markt.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Ринкова площа Бремена в «синю годину»: ратуша, статуя Роланда і собор, де 3 жовтня відбулося святкове богослужіння.",
+       "credit": "Matthias Süßen · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Drei Tage lang hat Bremen den Tag der Deutschen Einheit gefeiert.",
+        "tr": "Три дні Бремен святкував День німецької єдності."
+       },
+       {
+        "de": "Vom 2. bis zum 4. Oktober kamen rund 550.000 Besucher in die Stadt an der Weser.",
+        "tr": "З 2 по 4 жовтня до міста на Везері приїхали близько 550 000 гостей."
+       },
+       {
+        "de": "Erwartet hatte man nur etwa 450.000 Gäste.",
+        "tr": "Очікували всього близько 450 000 гостей."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die zentrale Feier findet jedes Jahr in dem Bundesland statt, das gerade den Vorsitz im Bundesrat hat.",
+        "tr": "Головне свято щороку відбувається в тій федеральній землі, яка цього моменту головує в бундесраті."
+       },
+       {
+        "de": "In diesem Jahr war das Bremen – nach 1994 und 2010 schon zum dritten Mal.",
+        "tr": "Цього року це був Бремен — уже втретє після 1994 і 2010 років."
+       },
+       {
+        "de": "Das Motto lautete »Viele Stärken – ein Land«.",
+        "tr": "Девіз звучав так: «Багато сильних сторін — одна країна»."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/glocke.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Концертна зала «Die Glocke» («Дзвін») — тут відбулися урочисті збори з промовою федерального президента.",
+       "credit": "Matthias Süßen · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 3. Oktober begann der offizielle Teil mit einem Gottesdienst im Bremer Dom.",
+        "tr": "3 жовтня офіційна частина почалася з богослужіння в Бременському соборі."
+       },
+       {
+        "de": "Danach folgte ein Festakt im Konzerthaus »Die Glocke«.",
+        "tr": "Потім відбулися урочисті збори в концертній залі «Дзвін»."
+       },
+       {
+        "de": "Dort hielt Bundespräsident Frank-Walter Steinmeier eine Rede.",
+        "tr": "Там виступив із промовою федеральний президент Франк-Вальтер Штайнмаєр."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Er erinnerte an die Friedliche Revolution von 1989 und an das Glück der Wiedervereinigung.",
+        "tr": "Він нагадав про Мирну революцію 1989 року і про щастя возз'єднання."
+       },
+       {
+        "de": "Gleichzeitig warnte er vor Extremismus und Spaltung: Die Demagogie extremistischer Kräfte gefährde nicht nur Freiheit und Demokratie, sondern auch die Einheit.",
+        "tr": "Водночас він застеріг від екстремізму й розколу: демагогія екстремістських сил, за його словами, загрожує не лише свободі й демократії, а й єдності."
+       },
+       {
+        "de": "Am Ende rief er: »Unser Deutschland ist ein gutes Land! Sorgen wir dafür, dass es so bleibt!«",
+        "tr": "Наприкінці він закликав: «Наша Німеччина — хороша країна! Подбаймо про те, щоб так і залишалося!»"
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/musikanten.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Бременські музиканти біля ратуші — символ міста, повз який усю святкову неділю йшли гості.",
+       "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In der ganzen Innenstadt fand ein großes Bürgerfest statt.",
+        "tr": "Усім центром міста пройшло велике народне свято."
+       },
+       {
+        "de": "Auf mehreren Bühnen gab es Konzerte, Theater und Lesungen, unter anderem mit den Fantastischen Vier.",
+        "tr": "На кількох сценах були концерти, вистави й читання — серед інших виступили Die Fantastischen Vier."
+       },
+       {
+        "de": "Auf der Ländermeile am Osterdeich stellten sich alle 16 Bundesländer vor.",
+        "tr": "На «Милі земель» біля дамби Остердайх представилися всі 16 федеральних земель."
+       },
+       {
+        "de": "Busse und Bahnen in der ganzen Region waren kostenlos.",
+        "tr": "Автобуси й потяги в усьому регіоні були безкоштовними."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/einheitsfeier-bremen-2026/img/schlachte.jpg",
+       "w": 1200,
+       "h": 797,
+       "cap": "Набережна Шлахте на Везері — частина святкової зони в центрі міста.",
+       "credit": "Jaimrsilva · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Rund 4000 Polizistinnen und Polizisten sorgten für Sicherheit.",
+        "tr": "Близько 4000 поліцейських забезпечували безпеку."
+       },
+       {
+        "de": "Bis auf einzelne Zusammenstöße bei einer Demonstration blieb es friedlich.",
+        "tr": "Якщо не рахувати окремих сутичок на одній демонстрації, усе минуло мирно."
+       },
+       {
+        "de": "Bürgermeister Andreas Bovenschulte sprach von drei wunderbaren Tagen.",
+        "tr": "Бургомістр Андреас Бовеншульте говорив про три чудові дні."
+       },
+       {
+        "de": "Im nächsten Jahr ist Düsseldorf an der Reihe.",
+        "tr": "Наступного року черга Дюссельдорфа."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "oktoberfest-rekord-2026",
+   "rubric": "events",
+   "level": "B1",
+   "published": "2026-10-04",
+   "added": "2026-10-06",
+   "source": "muenchen.de · ZDFheute",
+   "sourceUrl": "https://www.muenchen.de/veranstaltungen/oktoberfest/aktuell/oktoberfest-bilanz-2026",
+   "words": 197,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/cover.jpg",
+   "ru": {
+    "title": "7,4 Millionen Gäste: Das Oktoberfest stellt einen neuen Rekord auf",
+    "titleTr": "7,4 миллиона гостей: Октоберфест установил новый рекорд",
+    "blurb": "7,4 миллиона гостей за 16 дней — рекорд за всю историю Октоберфеста. Выпито 6,7 миллиона кружек пива, а в бюро находок оказались даже аккордеон и вставная челюсть.",
+    "levelNote": "Претеритум в рассказе (kamen, war, zählte), сравнение (mehr als, lieber), пассив в претеритуме (getrunken wurden, getrübt wurde), плюсквамперфект (hatte … gebeten), отделяемые глаголы (sammelten … ein, spielte … mit) и устойчивые обороты (einen Rekord aufstellen, Bilanz ziehen).",
+    "license": "Текст — пересказ итогов города Мюнхена и ZDFheute; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/umzug.jpg",
+       "w": 1200,
+       "h": 668,
+       "cap": "Шествие в национальных костюмах и стрелков — традиционное открытие Октоберфеста (снимок 2024 года).",
+       "credit": "Jan Czeczotka · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Das Oktoberfest in München hat einen neuen Rekord aufgestellt.",
+        "tr": "Октоберфест в Мюнхене установил новый рекорд."
+       },
+       {
+        "de": "In 16 Tagen kamen nach ersten Schätzungen etwa 7,4 Millionen Gäste auf die Theresienwiese.",
+        "tr": "За 16 дней, по первым оценкам, на Терезинвизе пришли около 7,4 миллиона гостей."
+       },
+       {
+        "de": "Das sind 900.000 Besucher mehr als im vergangenen Jahr.",
+        "tr": "Это на 900 000 посетителей больше, чем в прошлом году."
+       },
+       {
+        "de": "Der alte Rekord stammte aus dem Jahr 2023: Damals waren es 7,2 Millionen.",
+        "tr": "Прежний рекорд был установлен в 2023 году: тогда гостей было 7,2 миллиона."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Stadt hatte die Gäste mit einer Kampagne gebeten, lieber an Werktagen zu kommen.",
+        "tr": "Город с помощью кампании просил гостей лучше приходить в будние дни."
+       },
+       {
+        "de": "Das hat offenbar funktioniert: Von Montag bis Donnerstag kamen in der zweiten Woche fast 29 Prozent mehr Menschen als im Vorjahr.",
+        "tr": "Похоже, это сработало: с понедельника по четверг на второй неделе пришло почти на 29 процентов больше людей, чем годом ранее."
+       },
+       {
+        "de": "Auch das Wetter spielte mit: Es war meist spätsommerlich warm.",
+        "tr": "Погода тоже не подвела: почти всё время было тепло, по-летнему."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/oidewiesn.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Вход на «Ойде Визн» — историческую часть праздника со старинными каруселями и духовым оркестром.",
+       "credit": "Wiesnlinkscom · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Besonders beliebt war die Oide Wiesn, der historische Teil des Festes mit alten Karussells und Blasmusik.",
+        "tr": "Особенно популярной была «Ойде Визн» — историческая часть праздника со старинными каруселями и духовой музыкой."
+       },
+       {
+        "de": "Dort zählte man 447.000 Gäste, fast ein Viertel mehr als 2025.",
+        "tr": "Там насчитали 447 000 гостей — почти на четверть больше, чем в 2025 году."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Getrunken wurden 6,7 Millionen Maß Bier.",
+        "tr": "Выпито было 6,7 миллиона литровых кружек пива."
+       },
+       {
+        "de": "Gleichzeitig verkauften die Wirte deutlich mehr alkoholfreies Bier: ein Plus von fast elf Prozent.",
+        "tr": "Одновременно хозяева шатров продали заметно больше безалкогольного пива — прирост почти на одиннадцать процентов."
+       },
+       {
+        "de": "Viele Gäste wollten offenbar einen Maßkrug als Andenken mitnehmen: Die Ordner sammelten rund 105.000 Krüge wieder ein.",
+        "tr": "Многие гости, видимо, хотели унести кружку на память: распорядители собрали обратно около 105 000 кружек."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/karussell.jpg",
+       "w": 1200,
+       "h": 853,
+       "cap": "Карусель на Октоберфесте вечером.",
+       "credit": "Martin Falbisoner · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Im Fundbüro landeten rund 4000 Sachen, darunter 700 Geldbeutel und 400 Handys.",
+        "tr": "В бюро находок попало около 4000 вещей, среди них 700 кошельков и 400 мобильных телефонов."
+       },
+       {
+        "de": "Auch ein Akkordeon, eine Krücke und ein Gebiss hat jemand auf der Wiesn vergessen.",
+        "tr": "А ещё кто-то забыл на Визн аккордеон, костыль и вставную челюсть."
+       },
+       {
+        "de": "Getrübt wurde das Fest durch einen tödlichen Unfall an einem Fahrgeschäft.",
+        "tr": "Праздник омрачил смертельный несчастный случай на одном из аттракционов."
+       },
+       {
+        "de": "Insgesamt zog Oberbürgermeister Dominik Krause aber eine sehr positive Bilanz: „Was für eine Bilderbuch-Wiesn! Friedlich, entspannt und gut gelaunt.“",
+        "tr": "Но в целом обербургомистр Доминик Краузе подвёл очень позитивный итог: «Какая образцовая Визн! Мирная, спокойная и в хорошем настроении»."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "7,4 Millionen Gäste: Das Oktoberfest stellt einen neuen Rekord auf",
+    "titleTr": "7,4 мільйона гостей: Октоберфест встановив новий рекорд",
+    "blurb": "7,4 мільйона гостей за 16 днів — рекорд за всю історію Октоберфесту. Випито 6,7 мільйона кухлів пива, а в бюро знахідок опинилися навіть акордеон і вставна щелепа.",
+    "levelNote": "Претерит в оповіді (kamen, war, zählte), порівняння (mehr als, lieber), пасив у претериті (getrunken wurden, getrübt wurde), плюсквамперфект (hatte … gebeten), відокремлювані дієслова (sammelten … ein, spielte … mit) і сталі звороти (einen Rekord aufstellen, Bilanz ziehen).",
+    "license": "Текст — переказ підсумків міста Мюнхена і ZDFheute; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/umzug.jpg",
+       "w": 1200,
+       "h": 668,
+       "cap": "Хода в національних костюмах і стрільців — традиційне відкриття Октоберфесту (знімок 2024 року).",
+       "credit": "Jan Czeczotka · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Das Oktoberfest in München hat einen neuen Rekord aufgestellt.",
+        "tr": "Октоберфест у Мюнхені встановив новий рекорд."
+       },
+       {
+        "de": "In 16 Tagen kamen nach ersten Schätzungen etwa 7,4 Millionen Gäste auf die Theresienwiese.",
+        "tr": "За 16 днів, за першими оцінками, на Терезінвізе прийшли близько 7,4 мільйона гостей."
+       },
+       {
+        "de": "Das sind 900.000 Besucher mehr als im vergangenen Jahr.",
+        "tr": "Це на 900 000 відвідувачів більше, ніж торік."
+       },
+       {
+        "de": "Der alte Rekord stammte aus dem Jahr 2023: Damals waren es 7,2 Millionen.",
+        "tr": "Попередній рекорд було встановлено 2023 року: тоді гостей було 7,2 мільйона."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Stadt hatte die Gäste mit einer Kampagne gebeten, lieber an Werktagen zu kommen.",
+        "tr": "Місто за допомогою кампанії просило гостей краще приходити в будні."
+       },
+       {
+        "de": "Das hat offenbar funktioniert: Von Montag bis Donnerstag kamen in der zweiten Woche fast 29 Prozent mehr Menschen als im Vorjahr.",
+        "tr": "Схоже, це спрацювало: з понеділка по четвер на другому тижні прийшло майже на 29 відсотків більше людей, ніж роком раніше."
+       },
+       {
+        "de": "Auch das Wetter spielte mit: Es war meist spätsommerlich warm.",
+        "tr": "Погода теж не підвела: майже весь час було тепло, по-літньому."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/oidewiesn.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Вхід на «Ойде Візн» — історичну частину свята зі старовинними каруселями й духовим оркестром.",
+       "credit": "Wiesnlinkscom · CC BY-SA 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Besonders beliebt war die Oide Wiesn, der historische Teil des Festes mit alten Karussells und Blasmusik.",
+        "tr": "Особливо популярною була «Ойде Візн» — історична частина свята зі старовинними каруселями й духовою музикою."
+       },
+       {
+        "de": "Dort zählte man 447.000 Gäste, fast ein Viertel mehr als 2025.",
+        "tr": "Там нарахували 447 000 гостей — майже на чверть більше, ніж у 2025 році."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Getrunken wurden 6,7 Millionen Maß Bier.",
+        "tr": "Випито було 6,7 мільйона літрових кухлів пива."
+       },
+       {
+        "de": "Gleichzeitig verkauften die Wirte deutlich mehr alkoholfreies Bier: ein Plus von fast elf Prozent.",
+        "tr": "Водночас господарі наметів продали помітно більше безалкогольного пива — приріст майже на одинадцять відсотків."
+       },
+       {
+        "de": "Viele Gäste wollten offenbar einen Maßkrug als Andenken mitnehmen: Die Ordner sammelten rund 105.000 Krüge wieder ein.",
+        "tr": "Багато гостей, мабуть, хотіли забрати кухоль на згадку: розпорядники зібрали назад близько 105 000 кухлів."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/oktoberfest-rekord-2026/img/karussell.jpg",
+       "w": 1200,
+       "h": 853,
+       "cap": "Карусель на Октоберфесті ввечері.",
+       "credit": "Martin Falbisoner · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Im Fundbüro landeten rund 4000 Sachen, darunter 700 Geldbeutel und 400 Handys.",
+        "tr": "До бюро знахідок потрапило близько 4000 речей, серед них 700 гаманців і 400 мобільних телефонів."
+       },
+       {
+        "de": "Auch ein Akkordeon, eine Krücke und ein Gebiss hat jemand auf der Wiesn vergessen.",
+        "tr": "А ще хтось забув на Візн акордеон, милицю і вставну щелепу."
+       },
+       {
+        "de": "Getrübt wurde das Fest durch einen tödlichen Unfall an einem Fahrgeschäft.",
+        "tr": "Свято затьмарив смертельний нещасний випадок на одному з атракціонів."
+       },
+       {
+        "de": "Insgesamt zog Oberbürgermeister Dominik Krause aber eine sehr positive Bilanz: „Was für eine Bilderbuch-Wiesn! Friedlich, entspannt und gut gelaunt.“",
+        "tr": "Але загалом обербургомістр Домінік Краузе підбив дуже позитивний підсумок: «Яка взірцева Візн! Мирна, спокійна і в доброму настрої»."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "saturn-opposition-2026",
+   "rubric": "astronomy",
+   "level": "B1–B2",
+   "published": "2026-10-04",
+   "added": "2026-10-05",
+   "source": "Astronomy Magazine",
+   "sourceUrl": "https://www.astronomy.com/observing/the-sky-today-sunday-october-4-2026/",
+   "words": 216,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/cover.jpg",
+   "ru": {
+    "title": "Saturn in Opposition: Der Ringplanet zeigt sich die ganze Nacht",
+    "titleTr": "Сатурн в противостоянии: планета с кольцами видна всю ночь",
+    "blurb": "4 октября Земля оказалась точно между Солнцем и Сатурном. Планета видна всю ночь, а её кольца после «невидимого» 2025 года снова раскрываются.",
+    "levelNote": "Короткие предложения и настоящее время; из грамматики B2 — придаточные с dass и wer, конструкция sein + zu + Infinitiv (ist zu sehen, ist zu finden) и превосходная степень (am höchsten).",
+    "license": "Текст — пересказ новости; фото — NASA, ESA, CSA, STScI (CC BY 4.0) и NASA/JPL-Caltech/SSI",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/cassini.jpg",
+       "w": 1200,
+       "h": 466,
+       "cap": "Сатурн на фоне Солнца — панорама зонда «Кассини». Когда Сатурн в противостоянии, мы видим его с обратной стороны: освещённым полностью.",
+       "credit": "NASA/JPL-Caltech/SSI"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 4. Oktober 2026 stand Saturn in Opposition zur Sonne.",
+        "tr": "4 октября 2026 года Сатурн оказался в противостоянии с Солнцем."
+       },
+       {
+        "de": "Das bedeutet, dass die Erde genau zwischen der Sonne und dem Ringplaneten steht.",
+        "tr": "Это значит, что Земля находится точно между Солнцем и окольцованной планетой."
+       },
+       {
+        "de": "Saturn geht deshalb bei Sonnenuntergang auf, bei Sonnenaufgang unter und ist die ganze Nacht zu sehen.",
+        "tr": "Поэтому Сатурн восходит на закате, заходит на рассвете и виден всю ночь."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/webb.jpg",
+       "w": 640,
+       "h": 420,
+       "cap": "Сатурн в инфракрасном свете телескопа «Джеймс Уэбб»: кольца из водяного льда сияют особенно ярко. Снимок опубликован в марте 2026 года.",
+       "credit": "NASA, ESA, CSA, STScI, A. Simon, M. Wong · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In diesen Tagen ist uns Saturn so nah wie sonst im ganzen Jahr nicht.",
+        "tr": "В эти дни Сатурн ближе к нам, чем в любое другое время года."
+       },
+       {
+        "de": "Trotzdem trennen uns rund 1,26 Milliarden Kilometer von ihm.",
+        "tr": "И всё же нас разделяют с ним около 1,26 миллиарда километров."
+       },
+       {
+        "de": "Das Licht, das Saturn zurückwirft, ist bis zur Erde etwa 70 Minuten unterwegs.",
+        "tr": "Свет, отражённый Сатурном, идёт до Земли около 70 минут."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mit einer Helligkeit von 0,3 Magnituden ist Saturn mit bloßem Auge leicht zu finden.",
+        "tr": "При блеске 0,3 звёздной величины Сатурн легко найти невооружённым глазом."
+       },
+       {
+        "de": "Er steht im Sternbild Walfisch, nahe der Grenze zu den Fischen, und leuchtet dort als hellster Punkt.",
+        "tr": "Он находится в созвездии Кита, у границы с Рыбами, и светит там самой яркой точкой."
+       },
+       {
+        "de": "Am höchsten steht er gegen Mitternacht über dem Südhorizont.",
+        "tr": "Выше всего он стоит около полуночи над южным горизонтом."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Wer ein kleines Teleskop besitzt, sollte jetzt unbedingt einen Blick auf die Ringe werfen.",
+        "tr": "Тому, у кого есть небольшой телескоп, сейчас непременно стоит взглянуть на кольца."
+       },
+       {
+        "de": "Im Jahr 2025 blickten wir genau auf ihre Kante, deshalb waren sie fast unsichtbar.",
+        "tr": "В 2025 году мы смотрели точно на их ребро, поэтому они были почти невидимы."
+       },
+       {
+        "de": "Jetzt sind sie wieder um etwa sieben Grad geneigt und öffnen sich von Jahr zu Jahr weiter.",
+        "tr": "Теперь они снова наклонены примерно на семь градусов и год от года раскрываются всё шире."
+       },
+       {
+        "de": "Auch der größte Saturnmond Titan ist in einem kleinen Teleskop als Lichtpunkt neben dem Planeten zu erkennen.",
+        "tr": "Крупнейший спутник Сатурна Титан тоже виден в небольшой телескоп как светлая точка рядом с планетой."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/hubble.jpg",
+       "w": 640,
+       "h": 420,
+       "cap": "Тот же Сатурн в видимом свете — телескоп «Хаббл». Кольца видны почти с ребра.",
+       "credit": "NASA, ESA, STScI, A. Simon, M. Wong · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Wie Saturn aus der Nähe aussieht, zeigen Bilder der beiden großen Weltraumteleskope.",
+        "tr": "Как Сатурн выглядит вблизи, показывают снимки двух больших космических телескопов."
+       },
+       {
+        "de": "Hubble fotografiert ihn im sichtbaren Licht, das James-Webb-Teleskop dagegen im Infrarot.",
+        "tr": "«Хаббл» снимает его в видимом свете, а телескоп «Джеймс Уэбб» — в инфракрасном."
+       },
+       {
+        "de": "Im Infrarot leuchten die eisigen Ringe besonders hell.",
+        "tr": "В инфракрасном свете ледяные кольца сияют особенно ярко."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die nächste Opposition folgt Mitte Oktober 2027, dann sind die Ringe noch etwas weiter geöffnet.",
+        "tr": "Следующее противостояние будет в середине октября 2027 года — тогда кольца раскроются ещё немного шире."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Saturn in Opposition: Der Ringplanet zeigt sich die ganze Nacht",
+    "titleTr": "Сатурн у протистоянні: планету з кільцями видно всю ніч",
+    "blurb": "4 жовтня Земля опинилася точно між Сонцем і Сатурном. Планету видно всю ніч, а її кільця після «невидимого» 2025 року знову розкриваються.",
+    "levelNote": "Короткі речення й теперішній час; із граматики B2 — підрядні з dass і wer, конструкція sein + zu + Infinitiv (ist zu sehen, ist zu finden) і найвищий ступінь (am höchsten).",
+    "license": "Текст — переказ новини; фото — NASA, ESA, CSA, STScI (CC BY 4.0) і NASA/JPL-Caltech/SSI",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/cassini.jpg",
+       "w": 1200,
+       "h": 466,
+       "cap": "Сатурн на тлі Сонця — панорама зонда «Кассіні». Коли Сатурн у протистоянні, ми бачимо його з протилежного боку: освітленим повністю.",
+       "credit": "NASA/JPL-Caltech/SSI"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 4. Oktober 2026 stand Saturn in Opposition zur Sonne.",
+        "tr": "4 жовтня 2026 року Сатурн опинився в протистоянні із Сонцем."
+       },
+       {
+        "de": "Das bedeutet, dass die Erde genau zwischen der Sonne und dem Ringplaneten steht.",
+        "tr": "Це означає, що Земля перебуває точно між Сонцем і планетою з кільцями."
+       },
+       {
+        "de": "Saturn geht deshalb bei Sonnenuntergang auf, bei Sonnenaufgang unter und ist die ganze Nacht zu sehen.",
+        "tr": "Тому Сатурн сходить на заході сонця, заходить на світанку і його видно всю ніч."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/webb.jpg",
+       "w": 640,
+       "h": 420,
+       "cap": "Сатурн в інфрачервоному світлі телескопа «Джеймс Вебб»: кільця з водяного льоду сяють особливо яскраво. Знімок опубліковано в березні 2026 року.",
+       "credit": "NASA, ESA, CSA, STScI, A. Simon, M. Wong · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In diesen Tagen ist uns Saturn so nah wie sonst im ganzen Jahr nicht.",
+        "tr": "Цими днями Сатурн ближче до нас, ніж будь-коли ще цього року."
+       },
+       {
+        "de": "Trotzdem trennen uns rund 1,26 Milliarden Kilometer von ihm.",
+        "tr": "І все ж нас розділяють із ним близько 1,26 мільярда кілометрів."
+       },
+       {
+        "de": "Das Licht, das Saturn zurückwirft, ist bis zur Erde etwa 70 Minuten unterwegs.",
+        "tr": "Світло, відбите Сатурном, іде до Землі близько 70 хвилин."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mit einer Helligkeit von 0,3 Magnituden ist Saturn mit bloßem Auge leicht zu finden.",
+        "tr": "За блиску 0,3 зоряної величини Сатурн легко знайти неозброєним оком."
+       },
+       {
+        "de": "Er steht im Sternbild Walfisch, nahe der Grenze zu den Fischen, und leuchtet dort als hellster Punkt.",
+        "tr": "Він перебуває в сузір’ї Кита, біля межі з Рибами, і світить там найяскравішою точкою."
+       },
+       {
+        "de": "Am höchsten steht er gegen Mitternacht über dem Südhorizont.",
+        "tr": "Найвище він стоїть близько опівночі над південним горизонтом."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Wer ein kleines Teleskop besitzt, sollte jetzt unbedingt einen Blick auf die Ringe werfen.",
+        "tr": "Тому, хто має невеликий телескоп, зараз неодмінно варто поглянути на кільця."
+       },
+       {
+        "de": "Im Jahr 2025 blickten wir genau auf ihre Kante, deshalb waren sie fast unsichtbar.",
+        "tr": "У 2025 році ми дивилися точно на їхнє ребро, тому вони були майже невидимі."
+       },
+       {
+        "de": "Jetzt sind sie wieder um etwa sieben Grad geneigt und öffnen sich von Jahr zu Jahr weiter.",
+        "tr": "Тепер вони знову нахилені приблизно на сім градусів і рік у рік розкриваються дедалі ширше."
+       },
+       {
+        "de": "Auch der größte Saturnmond Titan ist in einem kleinen Teleskop als Lichtpunkt neben dem Planeten zu erkennen.",
+        "tr": "Найбільший супутник Сатурна Титан теж видно в невеликий телескоп як світлу точку поруч із планетою."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/saturn-opposition-2026/img/hubble.jpg",
+       "w": 640,
+       "h": 420,
+       "cap": "Той самий Сатурн у видимому світлі — телескоп «Габбл». Кільця видно майже з ребра.",
+       "credit": "NASA, ESA, STScI, A. Simon, M. Wong · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Wie Saturn aus der Nähe aussieht, zeigen Bilder der beiden großen Weltraumteleskope.",
+        "tr": "Як Сатурн виглядає зблизька, показують знімки двох великих космічних телескопів."
+       },
+       {
+        "de": "Hubble fotografiert ihn im sichtbaren Licht, das James-Webb-Teleskop dagegen im Infrarot.",
+        "tr": "«Габбл» знімає його у видимому світлі, а телескоп «Джеймс Вебб» — в інфрачервоному."
+       },
+       {
+        "de": "Im Infrarot leuchten die eisigen Ringe besonders hell.",
+        "tr": "В інфрачервоному світлі крижані кільця сяють особливо яскраво."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die nächste Opposition folgt Mitte Oktober 2027, dann sind die Ringe noch etwas weiter geöffnet.",
+        "tr": "Наступне протистояння буде в середині жовтня 2027 року — тоді кільця розкриються ще трохи ширше."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "draconiden-2026",
+   "rubric": "astronomy",
+   "level": "B1",
+   "published": "2026-10-03",
+   "added": "2026-10-06",
+   "source": "Hersfelder Zeitung · VOL.AT · Royal Observatory Greenwich",
+   "sourceUrl": "https://www.hersfelder-zeitung.de/panorama/draconiden-2026-wann-und-wo-sie-die-sternschnuppen-sehen-zr-94522820.html",
+   "words": 225,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/cover.jpg",
+   "ru": {
+    "title": "Sternschnuppen am Abendhimmel: Die Draconiden fallen in eine mondlose Nacht",
+    "titleTr": "Падающие звёзды в вечернем небе: Дракониды придутся на безлунную ночь",
+    "blurb": "С 6 по 10 октября активны Дракониды, пик — в ночь с 8 на 9 октября. Луна не помешает: 10 октября новолуние. Смотреть лучше уже ранним вечером.",
+    "levelNote": "Настоящее время и модальные глаголы (kann man, sollte man, können), конструкция scheinen … zu, придаточные с wenn и der, устойчивые обороты (es lohnt sich, am besten, Tausende von).",
+    "license": "Текст — пересказ новостей Hersfelder Zeitung, VOL.AT и Royal Observatory Greenwich; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/komet.jpg",
+       "w": 1200,
+       "h": 845,
+       "cap": "Комета Джакобини — Циннера в сентябре 2018 года. Из её пыли и рождаются Дракониды.",
+       "credit": "Alexander Vasenin · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In diesen Tagen lohnt sich ein Blick in den Himmel: Vom 6. bis zum 10. Oktober sind die Draconiden aktiv.",
+        "tr": "В эти дни стоит посмотреть на небо: с 6 по 10 октября активны Дракониды."
+       },
+       {
+        "de": "Das ist ein Strom von Sternschnuppen, der jedes Jahr im Oktober wiederkehrt.",
+        "tr": "Это поток падающих звёзд, который возвращается каждый год в октябре."
+       },
+       {
+        "de": "Sein Maximum erreicht er in der Nacht vom 8. auf den 9. Oktober.",
+        "tr": "Максимума он достигает в ночь с 8 на 9 октября."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Sternschnuppen scheinen aus dem Sternbild Drache zu kommen – daher der Name.",
+        "tr": "Кажется, будто падающие звёзды вылетают из созвездия Дракона, — отсюда и название."
+       },
+       {
+        "de": "Der Drache steht in Deutschland die ganze Nacht über dem Horizont, am Abend sogar besonders hoch.",
+        "tr": "В Германии Дракон всю ночь стоит над горизонтом, а вечером — даже особенно высоко."
+       },
+       {
+        "de": "Deshalb kann man die Draconiden anders als viele andere Ströme schon am frühen Abend beobachten.",
+        "tr": "Поэтому Дракониды, в отличие от многих других потоков, можно наблюдать уже ранним вечером."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/drache.jpg",
+       "w": 760,
+       "h": 760,
+       "cap": "Карта созвездия Дракона. Метеоры словно вылетают из его «головы» — ромба из четырёх звёзд.",
+       "credit": "IAU and Sky & Telescope · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In diesem Jahr sind die Bedingungen besonders gut: Am 10. Oktober ist Neumond, und kein Mondlicht stört.",
+        "tr": "В этом году условия особенно хороши: 10 октября новолуние, и лунный свет не мешает."
+       },
+       {
+        "de": "Viele Sternschnuppen sollte man trotzdem nicht erwarten.",
+        "tr": "Однако много падающих звёзд ждать не стоит."
+       },
+       {
+        "de": "Unter einem dunklen Himmel sind es wahrscheinlich nur fünf bis zehn pro Stunde.",
+        "tr": "Под тёмным небом их будет, вероятно, всего пять–десять в час."
+       },
+       {
+        "de": "Zwischen zwei Meteoren können also durchaus 15 bis 20 Minuten vergehen.",
+        "tr": "Так что между двумя метеорами вполне могут пройти 15–20 минут."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Draconiden entstehen aus dem Staub des Kometen Giacobini-Zinner.",
+        "tr": "Дракониды возникают из пыли кометы Джакобини — Циннера."
+       },
+       {
+        "de": "Wenn die Erde durch seine Staubspur fliegt, verglühen die winzigen Teilchen in der Atmosphäre.",
+        "tr": "Когда Земля пролетает через его пылевой след, крошечные частицы сгорают в атмосфере."
+       },
+       {
+        "de": "Mit etwa 20 Kilometern pro Sekunde sind sie ungewöhnlich langsam.",
+        "tr": "При скорости около 20 километров в секунду они необычно медленные."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/sturm1933.jpg",
+       "w": 1200,
+       "h": 904,
+       "cap": "Метеорный шторм Драконид 9 октября 1933 года на снимке Фердинанда Кениссе: десятки следов на одной фотопластинке.",
+       "credit": "Ferdinand Quénisset · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Manchmal können die Draconiden aber überraschen.",
+        "tr": "Но иногда Дракониды умеют удивить."
+       },
+       {
+        "de": "In den Jahren 1933 und 1946 sahen Beobachter Tausende von Sternschnuppen pro Stunde – einen echten Meteorsturm.",
+        "tr": "В 1933 и 1946 годах наблюдатели видели тысячи падающих звёзд в час — настоящий метеорный дождь."
+       },
+       {
+        "de": "Ein Fernrohr braucht man nicht: Am besten sucht man sich einen dunklen Ort ohne Straßenlampen und gibt den Augen 20 bis 30 Minuten Zeit.",
+        "tr": "Телескоп не нужен: лучше всего найти тёмное место без фонарей и дать глазам 20–30 минут привыкнуть."
+       },
+       {
+        "de": "Und wer diesmal nichts sieht, hat bald eine neue Chance: In der Nacht vom 21. auf den 22. Oktober erreichen die Orioniden ihr Maximum.",
+        "tr": "А кто в этот раз ничего не увидит, скоро получит новый шанс: в ночь с 21 на 22 октября достигнут максимума Ориониды."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Sternschnuppen am Abendhimmel: Die Draconiden fallen in eine mondlose Nacht",
+    "titleTr": "Падучі зорі у вечірньому небі: Драконіди припадуть на безмісячну ніч",
+    "blurb": "З 6 по 10 жовтня активні Драконіди, пік — у ніч з 8 на 9 жовтня. Місяць не завадить: 10 жовтня новий місяць. Дивитися краще вже раннім вечором.",
+    "levelNote": "Теперішній час і модальні дієслова (kann man, sollte man, können), конструкція scheinen … zu, підрядні з wenn і der, сталі звороти (es lohnt sich, am besten, Tausende von).",
+    "license": "Текст — переказ новин Hersfelder Zeitung, VOL.AT і Royal Observatory Greenwich; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/komet.jpg",
+       "w": 1200,
+       "h": 845,
+       "cap": "Комета Джакобіні — Ціннера у вересні 2018 року. З її пилу й народжуються Драконіди.",
+       "credit": "Alexander Vasenin · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In diesen Tagen lohnt sich ein Blick in den Himmel: Vom 6. bis zum 10. Oktober sind die Draconiden aktiv.",
+        "tr": "Цими днями варто подивитися на небо: з 6 по 10 жовтня активні Драконіди."
+       },
+       {
+        "de": "Das ist ein Strom von Sternschnuppen, der jedes Jahr im Oktober wiederkehrt.",
+        "tr": "Це потік падучих зір, який повертається щороку в жовтні."
+       },
+       {
+        "de": "Sein Maximum erreicht er in der Nacht vom 8. auf den 9. Oktober.",
+        "tr": "Максимуму він досягає в ніч з 8 на 9 жовтня."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Sternschnuppen scheinen aus dem Sternbild Drache zu kommen – daher der Name.",
+        "tr": "Здається, ніби падучі зорі вилітають із сузір'я Дракона, — звідси й назва."
+       },
+       {
+        "de": "Der Drache steht in Deutschland die ganze Nacht über dem Horizont, am Abend sogar besonders hoch.",
+        "tr": "У Німеччині Дракон усю ніч стоїть над горизонтом, а ввечері — навіть особливо високо."
+       },
+       {
+        "de": "Deshalb kann man die Draconiden anders als viele andere Ströme schon am frühen Abend beobachten.",
+        "tr": "Тому Драконіди, на відміну від багатьох інших потоків, можна спостерігати вже раннім вечором."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/drache.jpg",
+       "w": 760,
+       "h": 760,
+       "cap": "Карта сузір'я Дракона. Метеори ніби вилітають з його «голови» — ромба з чотирьох зір.",
+       "credit": "IAU and Sky & Telescope · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In diesem Jahr sind die Bedingungen besonders gut: Am 10. Oktober ist Neumond, und kein Mondlicht stört.",
+        "tr": "Цього року умови особливо добрі: 10 жовтня новий місяць, і місячне світло не заважає."
+       },
+       {
+        "de": "Viele Sternschnuppen sollte man trotzdem nicht erwarten.",
+        "tr": "Утім, багато падучих зір чекати не варто."
+       },
+       {
+        "de": "Unter einem dunklen Himmel sind es wahrscheinlich nur fünf bis zehn pro Stunde.",
+        "tr": "Під темним небом їх буде, ймовірно, лише п'ять–десять на годину."
+       },
+       {
+        "de": "Zwischen zwei Meteoren können also durchaus 15 bis 20 Minuten vergehen.",
+        "tr": "Тож між двома метеорами цілком можуть минути 15–20 хвилин."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Draconiden entstehen aus dem Staub des Kometen Giacobini-Zinner.",
+        "tr": "Драконіди виникають із пилу комети Джакобіні — Ціннера."
+       },
+       {
+        "de": "Wenn die Erde durch seine Staubspur fliegt, verglühen die winzigen Teilchen in der Atmosphäre.",
+        "tr": "Коли Земля пролітає крізь її пиловий слід, крихітні частинки згоряють в атмосфері."
+       },
+       {
+        "de": "Mit etwa 20 Kilometern pro Sekunde sind sie ungewöhnlich langsam.",
+        "tr": "За швидкості близько 20 кілометрів на секунду вони незвично повільні."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/draconiden-2026/img/sturm1933.jpg",
+       "w": 1200,
+       "h": 904,
+       "cap": "Метеорний шторм Драконід 9 жовтня 1933 року на знімку Фердінана Кеніссе: десятки слідів на одній фотопластинці.",
+       "credit": "Ferdinand Quénisset · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Manchmal können die Draconiden aber überraschen.",
+        "tr": "Але іноді Драконіди вміють здивувати."
+       },
+       {
+        "de": "In den Jahren 1933 und 1946 sahen Beobachter Tausende von Sternschnuppen pro Stunde – einen echten Meteorsturm.",
+        "tr": "У 1933 і 1946 роках спостерігачі бачили тисячі падучих зір на годину — справжній метеорний шторм."
+       },
+       {
+        "de": "Ein Fernrohr braucht man nicht: Am besten sucht man sich einen dunklen Ort ohne Straßenlampen und gibt den Augen 20 bis 30 Minuten Zeit.",
+        "tr": "Телескоп не потрібен: найкраще знайти темне місце без ліхтарів і дати очам 20–30 хвилин звикнути."
+       },
+       {
+        "de": "Und wer diesmal nichts sieht, hat bald eine neue Chance: In der Nacht vom 21. auf den 22. Oktober erreichen die Orioniden ihr Maximum.",
+        "tr": "А хто цього разу нічого не побачить, незабаром матиме новий шанс: у ніч з 21 на 22 жовтня максимуму досягнуть Оріоніди."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "homo-erectus-drimolen-2026",
+   "rubric": "science",
+   "level": "B1–B2",
+   "published": "2026-10-01",
+   "added": "2026-10-06",
+   "source": "scinexx · Archaeology Magazine",
+   "sourceUrl": "https://www.scinexx.de/news/archaeologie/aeltestes-erwachsenenfossil-von-homo-erectus-entdeckt/",
+   "words": 222,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/cover.jpg",
+   "ru": {
+    "title": "Zwei Millionen Jahre alt: Forscher finden den ältesten erwachsenen Homo erectus",
+    "titleTr": "Два миллиона лет: учёные нашли древнейшего взрослого Homo erectus",
+    "blurb": "В пещере Дримолен в ЮАР нашли фрагменты черепа взрослого Homo erectus возрастом около 2 млн лет — это древнейшая такая находка. А рядом жил его родственник, которого было в десять раз больше.",
+    "levelNote": "Превосходная степень (älteste, ältesten), пассив в претеритуме (gefunden wurden), плюсквамперфект (hatte … gefunden), придаточные с dass, das, während, отделяемые глаголы (starb … aus), сравнение (mehr als, zehnmal so häufig wie).",
+    "license": "Текст — пересказ новостей scinexx и Archaeology Magazine; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/drimolen.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Раскопки в Дримолене (ЮАР). Здесь нашли и череп ребёнка, и новый фрагмент черепа взрослого Homo erectus.",
+       "credit": "Andy Herries · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Südafrika haben Forscher das älteste bekannte Fossil eines erwachsenen Homo erectus beschrieben.",
+        "tr": "В Южной Африке исследователи описали древнейшее известное ископаемое взрослого Homo erectus."
+       },
+       {
+        "de": "Die Teile des Schädels sind etwa zwei Millionen Jahre alt.",
+        "tr": "Фрагментам черепа около двух миллионов лет."
+       },
+       {
+        "de": "Gefunden wurden sie in der Höhle Drimolen, nicht weit von Johannesburg.",
+        "tr": "Нашли их в пещере Дримолен, недалеко от Йоханнесбурга."
+       },
+       {
+        "de": "Die Studie ist Ende September in einer Fachzeitschrift erschienen.",
+        "tr": "Исследование вышло в конце сентября в научном журнале."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Homo erectus gilt als einer der ersten Vertreter unserer eigenen Gattung Homo.",
+        "tr": "Homo erectus считается одним из первых представителей нашего собственного рода Homo."
+       },
+       {
+        "de": "„Bei dieser Art sind sich die Fachleute weitgehend einig, dass sie zu unserer Gattung gehört“, sagt der Studienleiter Jesse Martin von der La-Trobe-Universität in Australien.",
+        "tr": "«Насчёт этого вида специалисты в целом согласны, что он относится к нашему роду», — говорит руководитель исследования Джесси Мартин из Университета Ла Троба в Австралии."
+       },
+       {
+        "de": "Wahrscheinlich gehört er zu unseren direkten Vorfahren.",
+        "tr": "Вероятно, он относится к нашим прямым предкам."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/erectus.jpg",
+       "w": 482,
+       "h": 640,
+       "cap": "Так мог выглядеть Homo erectus — художественная реконструкция.",
+       "credit": "Tales from the Workshop · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Drimolen hatte man schon früher den Schädel eines Kindes gefunden, das zwei bis vier Jahre alt war.",
+        "tr": "В Дримолене ещё раньше нашли череп ребёнка, которому было от двух до четырёх лет."
+       },
+       {
+        "de": "Der neue Fund stammt dagegen von einem Erwachsenen.",
+        "tr": "А новая находка принадлежит взрослому."
+       },
+       {
+        "de": "Die bisher ältesten Fossilien von erwachsenen Homo erectus kamen aus Georgien und sind nur etwa 1,8 Millionen Jahre alt.",
+        "tr": "Прежние древнейшие ископаемые взрослых Homo erectus были из Грузии, и им лишь около 1,8 миллиона лет."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/paranthropus.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Череп Paranthropus robustus (Музей природы, Фрайбург). Сильные челюсти и огромные коренные зубы, но маленький мозг.",
+       "credit": "Daderot · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Spannend ist auch, wer damals neben Homo erectus lebte.",
+        "tr": "Интересно и то, кто жил тогда рядом с Homo erectus."
+       },
+       {
+        "de": "Von 18 untersuchten Fossilien gehörten 14 zu einer anderen Art: Paranthropus robustus.",
+        "tr": "Из 18 изученных ископаемых 14 принадлежали другому виду — Paranthropus robustus."
+       },
+       {
+        "de": "Dieser Verwandte hatte riesige Backenzähne und starke Kaumuskeln, aber ein Gehirn, das kaum größer war als das eines Schimpansen.",
+        "tr": "У этого родственника были огромные коренные зубы и сильные жевательные мышцы, но мозг едва ли больше, чем у шимпанзе."
+       },
+       {
+        "de": "In Drimolen war er mehr als zehnmal so häufig wie Homo erectus.",
+        "tr": "В Дримолене он встречался более чем в десять раз чаще, чем Homo erectus."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/wiege.jpg",
+       "w": 1200,
+       "h": 618,
+       "cap": "«Колыбель человечества» — район к северо-западу от Йоханнесбурга с десятками мест находок древних людей.",
+       "credit": "Olof Somell (Nobel Museum) · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "„Damals wirkten unsere Vorfahren wie Außenseiter mit geringen Überlebenschancen“, sagt Martin.",
+        "tr": "«Тогда наши предки казались аутсайдерами с небольшими шансами выжить», — говорит Мартин."
+       },
+       {
+        "de": "Doch Paranthropus starb später aus, während die Gattung Homo überlebte – bis heute.",
+        "tr": "Но Paranthropus позже вымер, а род Homo выжил — до сегодняшнего дня."
+       },
+       {
+        "de": "Drimolen liegt in der „Wiege der Menschheit“, einer Region mit vielen Fundstellen, die zum Welterbe der UNESCO gehört.",
+        "tr": "Дримолен находится в «Колыбели человечества» — районе с множеством мест находок, который входит в список Всемирного наследия ЮНЕСКО."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Zwei Millionen Jahre alt: Forscher finden den ältesten erwachsenen Homo erectus",
+    "titleTr": "Два мільйони років: учені знайшли найдавнішого дорослого Homo erectus",
+    "blurb": "У печері Дримолен у ПАР знайшли фрагменти черепа дорослого Homo erectus віком близько 2 млн років — це найдавніша така знахідка. А поруч жив його родич, якого було вдесятеро більше.",
+    "levelNote": "Найвищий ступінь (älteste, ältesten), пасив у претериті (gefunden wurden), плюсквамперфект (hatte … gefunden), підрядні з dass, das, während, відокремлювані дієслова (starb … aus), порівняння (mehr als, zehnmal so häufig wie).",
+    "license": "Текст — переказ новин scinexx і Archaeology Magazine; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/drimolen.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Розкопки в Дримолені (ПАР). Тут знайшли і череп дитини, і новий фрагмент черепа дорослого Homo erectus.",
+       "credit": "Andy Herries · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Südafrika haben Forscher das älteste bekannte Fossil eines erwachsenen Homo erectus beschrieben.",
+        "tr": "У Південній Африці дослідники описали найдавнішу відому скам'янілість дорослого Homo erectus."
+       },
+       {
+        "de": "Die Teile des Schädels sind etwa zwei Millionen Jahre alt.",
+        "tr": "Фрагментам черепа близько двох мільйонів років."
+       },
+       {
+        "de": "Gefunden wurden sie in der Höhle Drimolen, nicht weit von Johannesburg.",
+        "tr": "Знайшли їх у печері Дримолен, неподалік від Йоганнесбурга."
+       },
+       {
+        "de": "Die Studie ist Ende September in einer Fachzeitschrift erschienen.",
+        "tr": "Дослідження вийшло наприкінці вересня в науковому журналі."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Homo erectus gilt als einer der ersten Vertreter unserer eigenen Gattung Homo.",
+        "tr": "Homo erectus вважається одним із перших представників нашого власного роду Homo."
+       },
+       {
+        "de": "„Bei dieser Art sind sich die Fachleute weitgehend einig, dass sie zu unserer Gattung gehört“, sagt der Studienleiter Jesse Martin von der La-Trobe-Universität in Australien.",
+        "tr": "«Щодо цього виду фахівці загалом згодні, що він належить до нашого роду», — каже керівник дослідження Джессі Мартін з Університету Ла Троба в Австралії."
+       },
+       {
+        "de": "Wahrscheinlich gehört er zu unseren direkten Vorfahren.",
+        "tr": "Ймовірно, він належить до наших прямих предків."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/erectus.jpg",
+       "w": 482,
+       "h": 640,
+       "cap": "Так міг виглядати Homo erectus — художня реконструкція.",
+       "credit": "Tales from the Workshop · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Drimolen hatte man schon früher den Schädel eines Kindes gefunden, das zwei bis vier Jahre alt war.",
+        "tr": "У Дримолені ще раніше знайшли череп дитини, якій було від двох до чотирьох років."
+       },
+       {
+        "de": "Der neue Fund stammt dagegen von einem Erwachsenen.",
+        "tr": "А нова знахідка належить дорослому."
+       },
+       {
+        "de": "Die bisher ältesten Fossilien von erwachsenen Homo erectus kamen aus Georgien und sind nur etwa 1,8 Millionen Jahre alt.",
+        "tr": "Попередні найдавніші скам'янілості дорослих Homo erectus були з Грузії, і їм лише близько 1,8 мільйона років."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/paranthropus.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Череп Paranthropus robustus (Музей природи, Фрайбург). Сильні щелепи й величезні кутні зуби, але маленький мозок.",
+       "credit": "Daderot · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Spannend ist auch, wer damals neben Homo erectus lebte.",
+        "tr": "Цікаво й те, хто жив тоді поруч із Homo erectus."
+       },
+       {
+        "de": "Von 18 untersuchten Fossilien gehörten 14 zu einer anderen Art: Paranthropus robustus.",
+        "tr": "З 18 вивчених скам'янілостей 14 належали іншому виду — Paranthropus robustus."
+       },
+       {
+        "de": "Dieser Verwandte hatte riesige Backenzähne und starke Kaumuskeln, aber ein Gehirn, das kaum größer war als das eines Schimpansen.",
+        "tr": "У цього родича були величезні кутні зуби й сильні жувальні м'язи, але мозок ледь більший, ніж у шимпанзе."
+       },
+       {
+        "de": "In Drimolen war er mehr als zehnmal so häufig wie Homo erectus.",
+        "tr": "У Дримолені він траплявся більш ніж удесятеро частіше, ніж Homo erectus."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/homo-erectus-drimolen-2026/img/wiege.jpg",
+       "w": 1200,
+       "h": 618,
+       "cap": "«Колиска людства» — район на північний захід від Йоганнесбурга з десятками місць знахідок давніх людей.",
+       "credit": "Olof Somell (Nobel Museum) · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "„Damals wirkten unsere Vorfahren wie Außenseiter mit geringen Überlebenschancen“, sagt Martin.",
+        "tr": "«Тоді наші предки здавалися аутсайдерами з невеликими шансами вижити», — каже Мартін."
+       },
+       {
+        "de": "Doch Paranthropus starb später aus, während die Gattung Homo überlebte – bis heute.",
+        "tr": "Але Paranthropus згодом вимер, а рід Homo вижив — аж до сьогодні."
+       },
+       {
+        "de": "Drimolen liegt in der „Wiege der Menschheit“, einer Region mit vielen Fundstellen, die zum Welterbe der UNESCO gehört.",
+        "tr": "Дримолен розташований у «Колисці людства» — районі з безліччю місць знахідок, що входить до списку Всесвітньої спадщини ЮНЕСКО."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "wirtschaft-prognose-2026",
+   "rubric": "economy",
+   "level": "B1–B2",
+   "published": "2026-10-01",
+   "added": "2026-10-06",
+   "source": "Reuters · Bloomberg",
+   "sourceUrl": "https://finance.yahoo.com/economy/articles/exclusive-german-government-raises-forecasts-155357353.html",
+   "words": 217,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/cover.jpg",
+   "ru": {
+    "title": "Mehr Wachstum erwartet: Die Bundesregierung hebt ihre Prognose an",
+    "titleTr": "Ждут большего роста: правительство Германии повысило свой прогноз",
+    "blurb": "Правительство ФРГ ждёт в 2026 году роста экономики на 1,3 % вместо 0,5 %. Тянут вверх госинвестиции в дороги, мосты и бундесвер, а вот цены на топливо и пошлины США сдерживают потребление.",
+    "levelNote": "Экономическая лексика (Wachstum, Prognose, Inflation, Konsum), пассив (wurde … angehoben), плюсквамперфект (hatte … erwartet), отделяемые глаголы (gibt … aus, kaufen … ein), Konjunktiv I в косвенной речи (könne) и Konjunktiv II (wäre).",
+    "license": "Текст — пересказ новостей Reuters и Bloomberg; фото — Wikimedia Commons, CC BY-SA 4.0",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/hafen.jpg",
+       "w": 1200,
+       "h": 726,
+       "cap": "Контейнерный терминал Буркхардкай в порту Гамбурга. Экспорт, по прогнозу правительства, вырастет в 2026 году на 3,7 %.",
+       "credit": "Tobiasi0 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Bundesregierung ist für die deutsche Wirtschaft deutlich optimistischer geworden.",
+        "tr": "Федеральное правительство стало заметно оптимистичнее смотреть на экономику Германии."
+       },
+       {
+        "de": "Nach Informationen der Nachrichtenagentur Reuters rechnet sie für das Jahr 2026 jetzt mit einem Wachstum von 1,3 Prozent.",
+        "tr": "По данным агентства Reuters, теперь оно рассчитывает на рост в 2026 году на 1,3 процента."
+       },
+       {
+        "de": "Im Frühjahr hatte sie nur 0,5 Prozent erwartet.",
+        "tr": "Весной оно ожидало лишь 0,5 процента."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch für 2027 wurde die Prognose angehoben: von 0,9 auf 1,1 Prozent.",
+        "tr": "Прогноз на 2027 год тоже повысили: с 0,9 до 1,1 процента."
+       },
+       {
+        "de": "Für 2028 erwartet die Regierung ein Plus von 0,6 Prozent.",
+        "tr": "На 2028 год правительство ожидает прирост в 0,6 процента."
+       },
+       {
+        "de": "Offiziell will sie die neuen Zahlen am 8. Oktober vorstellen.",
+        "tr": "Официально новые цифры оно собирается представить 8 октября."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/bruecke.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Стройка нового автобанного моста через Рейн у Леверкузена. Деньги на дороги, мосты и железные дороги — главный двигатель подъёма.",
+       "credit": "Raimond Spekking · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der wichtigste Grund für den Aufschwung sind die Investitionen des Staates.",
+        "tr": "Главная причина подъёма — государственные инвестиции."
+       },
+       {
+        "de": "Mit neuen Schulden finanziert der Bund Straßen, Brücken und Schienen, außerdem gibt er mehr Geld für die Bundeswehr aus.",
+        "tr": "На новые долги федерация финансирует дороги, мосты и железные дороги, а кроме того тратит больше денег на бундесвер."
+       },
+       {
+        "de": "Davon profitieren vor allem die Bauwirtschaft und die Industrie.",
+        "tr": "Выигрывают от этого прежде всего строительная отрасль и промышленность."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Bei den Exporten rechnet die Regierung in diesem Jahr mit einem Plus von 3,7 Prozent.",
+        "tr": "По экспорту правительство рассчитывает в этом году на прирост в 3,7 процента."
+       },
+       {
+        "de": "Dabei bleibt die Lage schwierig: Die Zölle der USA verunsichern viele Unternehmen, und der Konflikt im Nahen Osten hat das Öl teurer gemacht.",
+        "tr": "При этом ситуация остаётся сложной: пошлины США тревожат многие компании, а конфликт на Ближнем Востоке сделал нефть дороже."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Verbraucher spüren das vor allem an den Preisen.",
+        "tr": "Потребители ощущают это прежде всего по ценам."
+       },
+       {
+        "de": "Benzin und Diesel kosten deutlich mehr als noch vor einem Jahr.",
+        "tr": "Бензин и дизель стоят заметно больше, чем год назад."
+       },
+       {
+        "de": "Die Inflation soll 2026 bei 2,7 Prozent liegen und 2027 sogar auf 3,0 Prozent steigen.",
+        "tr": "Инфляция в 2026 году должна составить 2,7 процента, а в 2027-м даже вырасти до 3,0 процента."
+       },
+       {
+        "de": "Deshalb kaufen viele Menschen vorsichtig ein: Der private Konsum wächst in diesem Jahr voraussichtlich nur um 0,8 Prozent.",
+        "tr": "Поэтому многие покупают осторожно: частное потребление в этом году, по прогнозу, вырастет лишь на 0,8 процента."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/bundesbank.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Штаб-квартира Бундесбанка во Франкфурте-на-Майне (справа) и телебашня Europaturm.",
+       "credit": "Dr. Thomas Liptak · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Auch die Bundesbank ist zuversichtlicher geworden.",
+        "tr": "Бундесбанк тоже стал смотреть в будущее увереннее."
+       },
+       {
+        "de": "Ihr Präsident Joachim Nagel sagte, die Wirtschaft könne in diesem Jahr um etwa ein Prozent wachsen.",
+        "tr": "Его президент Йоахим Нагель сказал, что экономика в этом году может вырасти примерно на один процент."
+       },
+       {
+        "de": "Nach drei Jahren ohne Wachstum wäre das ein kleines, aber wichtiges Signal.",
+        "tr": "После трёх лет без роста это был бы небольшой, но важный сигнал."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Mehr Wachstum erwartet: Die Bundesregierung hebt ihre Prognose an",
+    "titleTr": "Чекають більшого зростання: уряд Німеччини підвищив свій прогноз",
+    "blurb": "Уряд ФРН очікує у 2026 році зростання економіки на 1,3 % замість 0,5 %. Угору тягнуть держінвестиції в дороги, мости й бундесвер, а от ціни на пальне та мита США стримують споживання.",
+    "levelNote": "Економічна лексика (Wachstum, Prognose, Inflation, Konsum), пасив (wurde … angehoben), плюсквамперфект (hatte … erwartet), відокремлювані дієслова (gibt … aus, kaufen … ein), Konjunktiv I у непрямій мові (könne) і Konjunktiv II (wäre).",
+    "license": "Текст — переказ новин Reuters і Bloomberg; фото — Wikimedia Commons, CC BY-SA 4.0",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/hafen.jpg",
+       "w": 1200,
+       "h": 726,
+       "cap": "Контейнерний термінал Буркхардкай у порту Гамбурга. Експорт, за прогнозом уряду, зросте у 2026 році на 3,7 %.",
+       "credit": "Tobiasi0 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Bundesregierung ist für die deutsche Wirtschaft deutlich optimistischer geworden.",
+        "tr": "Федеральний уряд став помітно оптимістичніше дивитися на економіку Німеччини."
+       },
+       {
+        "de": "Nach Informationen der Nachrichtenagentur Reuters rechnet sie für das Jahr 2026 jetzt mit einem Wachstum von 1,3 Prozent.",
+        "tr": "За даними агентства Reuters, тепер він розраховує на зростання у 2026 році на 1,3 відсотка."
+       },
+       {
+        "de": "Im Frühjahr hatte sie nur 0,5 Prozent erwartet.",
+        "tr": "Навесні він очікував лише 0,5 відсотка."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch für 2027 wurde die Prognose angehoben: von 0,9 auf 1,1 Prozent.",
+        "tr": "Прогноз на 2027 рік теж підвищили: з 0,9 до 1,1 відсотка."
+       },
+       {
+        "de": "Für 2028 erwartet die Regierung ein Plus von 0,6 Prozent.",
+        "tr": "На 2028 рік уряд очікує приріст у 0,6 відсотка."
+       },
+       {
+        "de": "Offiziell will sie die neuen Zahlen am 8. Oktober vorstellen.",
+        "tr": "Офіційно нові цифри він збирається представити 8 жовтня."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/bruecke.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Будівництво нового автобанного мосту через Рейн біля Леверкузена. Гроші на дороги, мости й залізниці — головний рушій піднесення.",
+       "credit": "Raimond Spekking · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der wichtigste Grund für den Aufschwung sind die Investitionen des Staates.",
+        "tr": "Головна причина піднесення — державні інвестиції."
+       },
+       {
+        "de": "Mit neuen Schulden finanziert der Bund Straßen, Brücken und Schienen, außerdem gibt er mehr Geld für die Bundeswehr aus.",
+        "tr": "Коштом нових боргів федерація фінансує дороги, мости й залізниці, а крім того, витрачає більше грошей на бундесвер."
+       },
+       {
+        "de": "Davon profitieren vor allem die Bauwirtschaft und die Industrie.",
+        "tr": "Виграють від цього насамперед будівельна галузь і промисловість."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Bei den Exporten rechnet die Regierung in diesem Jahr mit einem Plus von 3,7 Prozent.",
+        "tr": "Щодо експорту уряд розраховує цього року на приріст у 3,7 відсотка."
+       },
+       {
+        "de": "Dabei bleibt die Lage schwierig: Die Zölle der USA verunsichern viele Unternehmen, und der Konflikt im Nahen Osten hat das Öl teurer gemacht.",
+        "tr": "При цьому ситуація залишається складною: мита США непокоять багато компаній, а конфлікт на Близькому Сході зробив нафту дорожчою."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Verbraucher spüren das vor allem an den Preisen.",
+        "tr": "Споживачі відчувають це насамперед за цінами."
+       },
+       {
+        "de": "Benzin und Diesel kosten deutlich mehr als noch vor einem Jahr.",
+        "tr": "Бензин і дизель коштують помітно більше, ніж рік тому."
+       },
+       {
+        "de": "Die Inflation soll 2026 bei 2,7 Prozent liegen und 2027 sogar auf 3,0 Prozent steigen.",
+        "tr": "Інфляція у 2026 році має становити 2,7 відсотка, а у 2027-му навіть зрости до 3,0 відсотка."
+       },
+       {
+        "de": "Deshalb kaufen viele Menschen vorsichtig ein: Der private Konsum wächst in diesem Jahr voraussichtlich nur um 0,8 Prozent.",
+        "tr": "Тому багато хто купує обережно: приватне споживання цього року, за прогнозом, зросте лише на 0,8 відсотка."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/wirtschaft-prognose-2026/img/bundesbank.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Штаб-квартира Бундесбанку у Франкфурті-на-Майні (праворуч) і телевежа Europaturm.",
+       "credit": "Dr. Thomas Liptak · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Auch die Bundesbank ist zuversichtlicher geworden.",
+        "tr": "Бундесбанк теж став дивитися в майбутнє впевненіше."
+       },
+       {
+        "de": "Ihr Präsident Joachim Nagel sagte, die Wirtschaft könne in diesem Jahr um etwa ein Prozent wachsen.",
+        "tr": "Його президент Йоахім Нагель сказав, що економіка цього року може зрости приблизно на один відсоток."
+       },
+       {
+        "de": "Nach drei Jahren ohne Wachstum wäre das ein kleines, aber wichtiges Signal.",
+        "tr": "Після трьох років без зростання це був би невеликий, але важливий сигнал."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "crew-13-iss-2026",
+   "rubric": "astronomy",
+   "level": "B2",
+   "published": "2026-10-01",
+   "added": "2026-10-05",
+   "source": "Spaceflight Now · NASA",
+   "sourceUrl": "https://spaceflightnow.com/2026/10/01/fresh-crew-takes-off-for-six-month-stay-aboard-space-station/",
+   "words": 200,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/cover.jpg",
+   "ru": {
+    "title": "Rekordflug zur ISS: Vier Raumfahrer starten zu einer sechsmonatigen Mission",
+    "titleTr": "Рекордный полёт к МКС: четверо космонавтов отправились в полугодовую миссию",
+    "blurb": "Четверо космонавтов из США, России и Канады долетели до МКС всего за восемь часов — рекорд для экипажей NASA. Впереди полгода работы на орбите.",
+    "levelNote": "Перфект и претеритум рядом, отделяемые глаголы (hob … ab, legte … an), Konjunktiv II (könnten), устойчивые сочетания существительного с глаголом (in Empfang nehmen, auf dem Programm stehen).",
+    "license": "Текст — пересказ новости; фото — NASA (общественное достояние)",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/launch.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Старт ракеты Falcon 9 с кораблём Crew Dragon «Grace» 1 октября 2026 года, мыс Канаверал.",
+       "credit": "NASA/John Kraus"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 1. Oktober 2026 ist die Mission Crew-13 vom Weltraumbahnhof Cape Canaveral in Florida gestartet.",
+        "tr": "1 октября 2026 года с космодрома на мысе Канаверал во Флориде стартовала миссия Crew-13."
+       },
+       {
+        "de": "Eine Falcon-9-Rakete von SpaceX hob um 11:10 Uhr Ortszeit ab.",
+        "tr": "Ракета Falcon 9 компании SpaceX стартовала в 11:10 по местному времени."
+       },
+       {
+        "de": "An Bord der Kapsel Crew Dragon »Grace« saßen vier Raumfahrer aus drei Ländern.",
+        "tr": "На борту капсулы Crew Dragon «Grace» находились четверо космонавтов из трёх стран."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Kommandantin ist die NASA-Astronautin Jessica Watkins, eine Geologin, die bereits zum zweiten Mal ins All fliegt.",
+        "tr": "Командир — астронавт NASA Джессика Уоткинс, геолог, которая летит в космос уже во второй раз."
+       },
+       {
+        "de": "Für Pilot Luke Delaney, den russischen Kosmonauten Sergei Teterjatnikow und den Kanadier Joshua Kutryk ist es der erste Raumflug.",
+        "tr": "Для пилота Люка Делейни, российского космонавта Сергея Тетерятникова и канадца Джошуа Кутрика это первый космический полёт."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/crew.jpg",
+       "w": 1200,
+       "h": 859,
+       "cap": "Экипаж Crew-13 выходит к автобусу перед поездкой на стартовую площадку.",
+       "credit": "NASA/Joel Kowsky"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Schon acht Stunden nach dem Start legte die Kapsel an der Internationalen Raumstation an.",
+        "tr": "Уже через восемь часов после старта капсула пристыковалась к Международной космической станции."
+       },
+       {
+        "de": "Für eine Besatzung der NASA ist das ein Rekord.",
+        "tr": "Для экипажа NASA это рекорд."
+       },
+       {
+        "de": "Die Kopplung erfolgte am Modul Harmony, während die Station über dem Nordostpazifik flog.",
+        "tr": "Стыковка прошла к модулю Harmony, когда станция пролетала над северо-восточной частью Тихого океана."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die vier Raumfahrer bleiben etwa sechs Monate an Bord.",
+        "tr": "Четверо космонавтов пробудут на борту около шести месяцев."
+       },
+       {
+        "de": "Sie sollen die Station warten, mehrere Außeneinsätze absolvieren und Frachtschiffe in Empfang nehmen.",
+        "tr": "Им предстоит обслуживать станцию, совершить несколько выходов в открытый космос и принимать грузовые корабли."
+       },
+       {
+        "de": "Auf dem Programm stehen außerdem zahlreiche Experimente, etwa mit Stammzellen, die bei der Behandlung von Herzkrankheiten und Parkinson helfen könnten.",
+        "tr": "В программе также многочисленные эксперименты — например, со стволовыми клетками, которые могли бы помочь в лечении болезней сердца и Паркинсона."
+       },
+       {
+        "de": "Andere Versuche beschäftigen sich mit dem Anbau von Pflanzen im All.",
+        "tr": "Другие опыты посвящены выращиванию растений в космосе."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/sunset.jpg",
+       "w": 1200,
+       "h": 826,
+       "cap": "Ракета на стартовом комплексе 40 на закате, накануне запуска.",
+       "credit": "NASA/Joel Kowsky"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für Joshua Kutryk ist die Mission auch privat etwas Besonderes, denn seine Frau erwartet in einigen Wochen das dritte Kind.",
+        "tr": "Для Джошуа Кутрика миссия особенная и в личном плане: через несколько недель его жена ждёт третьего ребёнка."
+       },
+       {
+        "de": "Die Geburt wird er also aus dem Weltraum miterleben.",
+        "tr": "Значит, рождение ребёнка он переживёт из космоса."
+       },
+       {
+        "de": "Die bisherige Besatzung Crew-12 soll die Station frühestens am 7. Oktober verlassen.",
+        "tr": "Предыдущий экипаж Crew-12 должен покинуть станцию не раньше 7 октября."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Rekordflug zur ISS: Vier Raumfahrer starten zu einer sechsmonatigen Mission",
+    "titleTr": "Рекордний політ до МКС: четверо космонавтів вирушили в піврічну місію",
+    "blurb": "Четверо космонавтів зі США, Росії та Канади долетіли до МКС лише за вісім годин — рекорд для екіпажів NASA. Попереду пів року роботи на орбіті.",
+    "levelNote": "Перфект і претерит поруч, віддільні дієслова (hob … ab, legte … an), Konjunktiv II (könnten), сталі сполучення іменника з дієсловом (in Empfang nehmen, auf dem Programm stehen).",
+    "license": "Текст — переказ новини; фото — NASA (суспільне надбання)",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/launch.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Старт ракети Falcon 9 з кораблем Crew Dragon «Grace» 1 жовтня 2026 року, мис Канаверал.",
+       "credit": "NASA/John Kraus"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 1. Oktober 2026 ist die Mission Crew-13 vom Weltraumbahnhof Cape Canaveral in Florida gestartet.",
+        "tr": "1 жовтня 2026 року з космодрому на мисі Канаверал у Флориді стартувала місія Crew-13."
+       },
+       {
+        "de": "Eine Falcon-9-Rakete von SpaceX hob um 11:10 Uhr Ortszeit ab.",
+        "tr": "Ракета Falcon 9 компанії SpaceX стартувала об 11:10 за місцевим часом."
+       },
+       {
+        "de": "An Bord der Kapsel Crew Dragon »Grace« saßen vier Raumfahrer aus drei Ländern.",
+        "tr": "На борту капсули Crew Dragon «Grace» перебували четверо космонавтів із трьох країн."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Kommandantin ist die NASA-Astronautin Jessica Watkins, eine Geologin, die bereits zum zweiten Mal ins All fliegt.",
+        "tr": "Командир — астронавтка NASA Джессіка Воткінс, геологиня, яка летить у космос уже вдруге."
+       },
+       {
+        "de": "Für Pilot Luke Delaney, den russischen Kosmonauten Sergei Teterjatnikow und den Kanadier Joshua Kutryk ist es der erste Raumflug.",
+        "tr": "Для пілота Люка Делейні, російського космонавта Сергія Тетерятникова й канадця Джошуа Кутрика це перший космічний політ."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/crew.jpg",
+       "w": 1200,
+       "h": 859,
+       "cap": "Екіпаж Crew-13 виходить до автобуса перед поїздкою на стартовий майданчик.",
+       "credit": "NASA/Joel Kowsky"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Schon acht Stunden nach dem Start legte die Kapsel an der Internationalen Raumstation an.",
+        "tr": "Уже через вісім годин після старту капсула пристикувалася до Міжнародної космічної станції."
+       },
+       {
+        "de": "Für eine Besatzung der NASA ist das ein Rekord.",
+        "tr": "Для екіпажу NASA це рекорд."
+       },
+       {
+        "de": "Die Kopplung erfolgte am Modul Harmony, während die Station über dem Nordostpazifik flog.",
+        "tr": "Стикування відбулося до модуля Harmony, коли станція пролітала над північно-східною частиною Тихого океану."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die vier Raumfahrer bleiben etwa sechs Monate an Bord.",
+        "tr": "Четверо космонавтів пробудуть на борту близько шести місяців."
+       },
+       {
+        "de": "Sie sollen die Station warten, mehrere Außeneinsätze absolvieren und Frachtschiffe in Empfang nehmen.",
+        "tr": "Їм належить обслуговувати станцію, здійснити кілька виходів у відкритий космос і приймати вантажні кораблі."
+       },
+       {
+        "de": "Auf dem Programm stehen außerdem zahlreiche Experimente, etwa mit Stammzellen, die bei der Behandlung von Herzkrankheiten und Parkinson helfen könnten.",
+        "tr": "У програмі також численні експерименти — наприклад, зі стовбуровими клітинами, які могли б допомогти в лікуванні хвороб серця й Паркінсона."
+       },
+       {
+        "de": "Andere Versuche beschäftigen sich mit dem Anbau von Pflanzen im All.",
+        "tr": "Інші досліди присвячені вирощуванню рослин у космосі."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/crew-13-iss-2026/img/sunset.jpg",
+       "w": 1200,
+       "h": 826,
+       "cap": "Ракета на стартовому комплексі 40 на заході сонця, напередодні запуску.",
+       "credit": "NASA/Joel Kowsky"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für Joshua Kutryk ist die Mission auch privat etwas Besonderes, denn seine Frau erwartet in einigen Wochen das dritte Kind.",
+        "tr": "Для Джошуа Кутрика місія особлива й в особистому плані: за кілька тижнів його дружина чекає на третю дитину."
+       },
+       {
+        "de": "Die Geburt wird er also aus dem Weltraum miterleben.",
+        "tr": "Отже, народження дитини він переживе з космосу."
+       },
+       {
+        "de": "Die bisherige Besatzung Crew-12 soll die Station frühestens am 7. Oktober verlassen.",
+        "tr": "Попередній екіпаж Crew-12 має залишити станцію не раніше 7 жовтня."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "juice-erde-2026",
+   "rubric": "astronomy",
+   "level": "B2–C1",
+   "published": "2026-09-28",
+   "added": "2026-10-05",
+   "source": "ESA — Европейское космическое агентство",
+   "sourceUrl": "https://www.esa.int/Science_Exploration/Space_Science/Juice/Successful_Earth_flyby_improves_Juice_s_course_to_Jupiter",
+   "words": 226,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/cover.jpg",
+   "ru": {
+    "title": "Mit Schwung zum Jupiter: Juice fliegt knapp an der Erde vorbei",
+    "titleTr": "С разгона к Юпитеру: зонд Juice пролетел совсем рядом с Землёй",
+    "blurb": "Зонд ЕКА Juice прошёл в 8640 км над Индийским океаном, разогнался на 3,5 км/с и взял курс на Юпитер. По пути он сфотографировал Африку, Мадагаскар и Луну.",
+    "levelNote": "Плюсквамперфект (hatte … aufgenommen), причастия в роли определений (geplanten Kurskorrekturen, geladene Teilchen), отделяемые глаголы с далёкой приставкой (lenkte … ab, schalteten … ein), научная лексика.",
+    "license": "Текст — пересказ новости ЕКА; фото — ESA, CC BY-SA 3.0 IGO",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/earth.jpg",
+       "w": 1024,
+       "h": 640,
+       "cap": "Земля глазами Juice: контрольная камера сняла Африку и Мадагаскар вскоре после максимального сближения. Справа — крошечная точка Луны.",
+       "credit": "ESA/Juice/JMC (Simeon Schmauß) · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die europäische Raumsonde Juice ist am 28. September 2026 erneut an der Erde vorbeigeflogen.",
+        "tr": "Европейский зонд Juice 28 сентября 2026 года снова пролетел мимо Земли."
+       },
+       {
+        "de": "Um 13:45 Uhr mitteleuropäischer Sommerzeit näherte sie sich unserem Planeten bis auf 8640 Kilometer.",
+        "tr": "В 13:45 по центральноевропейскому летнему времени он приблизился к нашей планете на расстояние 8640 километров."
+       },
+       {
+        "de": "Dabei flog sie über den Indischen Ozean.",
+        "tr": "При этом он пролетал над Индийским океаном."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Das Manöver war kein Zufall, sondern ein sogenannter Swing-by.",
+        "tr": "Манёвр не был случайностью — это был так называемый гравитационный манёвр."
+       },
+       {
+        "de": "Die Schwerkraft der Erde lenkte die Sonde um etwa 20 Grad ab und machte sie um 3,5 Kilometer pro Sekunde schneller.",
+        "tr": "Притяжение Земли отклонило зонд примерно на 20 градусов и ускорило его на 3,5 километра в секунду."
+       },
+       {
+        "de": "Auf diese Weise spart die Mission wertvollen Treibstoff.",
+        "tr": "Так миссия экономит драгоценное топливо."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "»Der Vorbeiflug erforderte eine hochpräzise Navigation in Echtzeit«, sagte Angela Dietz, die bei der ESA für den Betrieb der Sonde verantwortlich ist.",
+        "tr": "«Пролёт потребовал сверхточной навигации в реальном времени», — сказала Ангела Диц, которая отвечает в ЕКА за управление зондом."
+       },
+       {
+        "de": "Von sechs geplanten Kurskorrekturen war nur eine einzige nötig.",
+        "tr": "Из шести запланированных коррекций курса понадобилась лишь одна."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Während des Vorbeiflugs schalteten die Ingenieure mehrere Kameras und Messinstrumente ein.",
+        "tr": "Во время пролёта инженеры включили несколько камер и измерительных приборов."
+       },
+       {
+        "de": "Eine Überwachungskamera fotografierte Afrika und Madagaskar, und in der Ecke des Bildes ist sogar der Mond als winziger grauer Punkt zu erkennen.",
+        "tr": "Контрольная камера сфотографировала Африку и Мадагаскар, а в углу снимка можно различить даже Луну — крошечную серую точку."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/madagascar.jpg",
+       "w": 1023,
+       "h": 422,
+       "cap": "Мадагаскар в объективе навигационной камеры — снимок сделан через две минуты после максимального сближения.",
+       "credit": "ESA/Juice/NavCam · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Navigationskamera hatte den Mond schon acht Stunden vor der größten Annäherung als schmale Sichel aufgenommen.",
+        "tr": "Навигационная камера сняла Луну узким серпом ещё за восемь часов до максимального сближения."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/moon.jpg",
+       "w": 520,
+       "h": 520,
+       "cap": "Серп Луны: навигационная камера сняла его примерно за восемь часов до пролёта мимо Земли.",
+       "credit": "ESA/Juice/NavCam · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Forscher ist ein solcher Vorbeiflug eine seltene Gelegenheit, die Instrumente unter bekannten Bedingungen zu testen.",
+        "tr": "Для учёных такой пролёт — редкая возможность проверить приборы в известных условиях."
+       },
+       {
+        "de": "Im Erdschatten musste Juice allein mit Batteriestrom auskommen.",
+        "tr": "В тени Земли Juice пришлось обходиться одними аккумуляторами."
+       },
+       {
+        "de": "Außerdem durchquerte die Sonde den Magnetschweif der Erde und maß dort Magnetfelder und geladene Teilchen.",
+        "tr": "Кроме того, зонд пересёк магнитный хвост Земли и измерил там магнитные поля и заряженные частицы."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/path.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Схема пролёта: с 17 августа зонд вели к Земле, 28 сентября — максимальное сближение на высоте 8640 км.",
+       "credit": "ESA (ATG Europe) · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Juice ist seit April 2023 unterwegs.",
+        "tr": "Juice находится в пути с апреля 2023 года."
+       },
+       {
+        "de": "Im Januar 2029 soll die Sonde noch einmal an der Erde vorbeifliegen, im Juli 2031 erreicht sie dann den Jupiter.",
+        "tr": "В январе 2029 года зонд должен ещё раз пролететь мимо Земли, а в июле 2031-го он достигнет Юпитера."
+       },
+       {
+        "de": "Dort soll sie die Eismonde Ganymed, Kallisto und Europa untersuchen, unter deren Oberfläche Ozeane vermutet werden.",
+        "tr": "Там ему предстоит изучать ледяные спутники Ганимед, Каллисто и Европу, под поверхностью которых предполагают океаны."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Mit Schwung zum Jupiter: Juice fliegt knapp an der Erde vorbei",
+    "titleTr": "З розгону до Юпітера: зонд Juice пролетів зовсім поруч із Землею",
+    "blurb": "Зонд ЄКА Juice пройшов за 8640 км над Індійським океаном, розігнався на 3,5 км/с і взяв курс на Юпітер. Дорогою він сфотографував Африку, Мадагаскар і Місяць.",
+    "levelNote": "Плюсквамперфект (hatte … aufgenommen), дієприкметники в ролі означень (geplanten Kurskorrekturen, geladene Teilchen), віддільні дієслова з далеким префіксом (lenkte … ab, schalteten … ein), наукова лексика.",
+    "license": "Текст — переказ новини ЄКА; фото — ESA, CC BY-SA 3.0 IGO",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/earth.jpg",
+       "w": 1024,
+       "h": 640,
+       "cap": "Земля очима Juice: контрольна камера зняла Африку й Мадагаскар невдовзі після максимального зближення. Праворуч — крихітна цятка Місяця.",
+       "credit": "ESA/Juice/JMC (Simeon Schmauß) · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die europäische Raumsonde Juice ist am 28. September 2026 erneut an der Erde vorbeigeflogen.",
+        "tr": "Європейський зонд Juice 28 вересня 2026 року знову пролетів повз Землю."
+       },
+       {
+        "de": "Um 13:45 Uhr mitteleuropäischer Sommerzeit näherte sie sich unserem Planeten bis auf 8640 Kilometer.",
+        "tr": "О 13:45 за центральноєвропейським літнім часом він наблизився до нашої планети на відстань 8640 кілометрів."
+       },
+       {
+        "de": "Dabei flog sie über den Indischen Ozean.",
+        "tr": "При цьому він пролітав над Індійським океаном."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Das Manöver war kein Zufall, sondern ein sogenannter Swing-by.",
+        "tr": "Маневр не був випадковістю — це був так званий гравітаційний маневр."
+       },
+       {
+        "de": "Die Schwerkraft der Erde lenkte die Sonde um etwa 20 Grad ab und machte sie um 3,5 Kilometer pro Sekunde schneller.",
+        "tr": "Притягання Землі відхилило зонд приблизно на 20 градусів і прискорило його на 3,5 кілометра за секунду."
+       },
+       {
+        "de": "Auf diese Weise spart die Mission wertvollen Treibstoff.",
+        "tr": "Так місія заощаджує цінне пальне."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "»Der Vorbeiflug erforderte eine hochpräzise Navigation in Echtzeit«, sagte Angela Dietz, die bei der ESA für den Betrieb der Sonde verantwortlich ist.",
+        "tr": "«Проліт вимагав надточної навігації в реальному часі», — сказала Анґела Дітц, яка відповідає в ЄКА за керування зондом."
+       },
+       {
+        "de": "Von sechs geplanten Kurskorrekturen war nur eine einzige nötig.",
+        "tr": "Із шести запланованих корекцій курсу знадобилася лише одна."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Während des Vorbeiflugs schalteten die Ingenieure mehrere Kameras und Messinstrumente ein.",
+        "tr": "Під час прольоту інженери ввімкнули кілька камер і вимірювальних приладів."
+       },
+       {
+        "de": "Eine Überwachungskamera fotografierte Afrika und Madagaskar, und in der Ecke des Bildes ist sogar der Mond als winziger grauer Punkt zu erkennen.",
+        "tr": "Контрольна камера сфотографувала Африку й Мадагаскар, а в кутку знімка можна розгледіти навіть Місяць — крихітну сіру цятку."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/madagascar.jpg",
+       "w": 1023,
+       "h": 422,
+       "cap": "Мадагаскар в об’єктиві навігаційної камери — знімок зроблено через дві хвилини після максимального зближення.",
+       "credit": "ESA/Juice/NavCam · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Navigationskamera hatte den Mond schon acht Stunden vor der größten Annäherung als schmale Sichel aufgenommen.",
+        "tr": "Навігаційна камера зняла Місяць вузьким серпом ще за вісім годин до максимального зближення."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/moon.jpg",
+       "w": 520,
+       "h": 520,
+       "cap": "Серп Місяця: навігаційна камера зняла його приблизно за вісім годин до прольоту повз Землю.",
+       "credit": "ESA/Juice/NavCam · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Forscher ist ein solcher Vorbeiflug eine seltene Gelegenheit, die Instrumente unter bekannten Bedingungen zu testen.",
+        "tr": "Для науковців такий проліт — рідкісна нагода перевірити прилади у відомих умовах."
+       },
+       {
+        "de": "Im Erdschatten musste Juice allein mit Batteriestrom auskommen.",
+        "tr": "У тіні Землі Juice довелося обходитися самими акумуляторами."
+       },
+       {
+        "de": "Außerdem durchquerte die Sonde den Magnetschweif der Erde und maß dort Magnetfelder und geladene Teilchen.",
+        "tr": "Крім того, зонд перетнув магнітний хвіст Землі й виміряв там магнітні поля та заряджені частинки."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/juice-erde-2026/img/path.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Схема прольоту: від 17 серпня зонд вели до Землі, 28 вересня — максимальне зближення на висоті 8640 км.",
+       "credit": "ESA (ATG Europe) · CC BY-SA 3.0 IGO"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Juice ist seit April 2023 unterwegs.",
+        "tr": "Juice перебуває в дорозі з квітня 2023 року."
+       },
+       {
+        "de": "Im Januar 2029 soll die Sonde noch einmal an der Erde vorbeifliegen, im Juli 2031 erreicht sie dann den Jupiter.",
+        "tr": "У січні 2029 року зонд має ще раз пролетіти повз Землю, а в липні 2031-го він досягне Юпітера."
+       },
+       {
+        "de": "Dort soll sie die Eismonde Ganymed, Kallisto und Europa untersuchen, unter deren Oberfläche Ozeane vermutet werden.",
+        "tr": "Там йому належить вивчати крижані супутники Ганімед, Каллісто і Європу, під поверхнею яких припускають океани."
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

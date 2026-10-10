@@ -12,6 +12,8 @@ import re
 from html import escape
 from pathlib import Path
 
+import content
+
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://vanguar.github.io/german-morning/"
 BOT = "https://t.me/GermanMorningBot"
@@ -20,6 +22,15 @@ CONTACT = "https://t.me/ObiVan1978"
 CONTACT_NAME = "@ObiVan1978"
 FEEDBACK = {"uk": "Зауваження та пропозиції", "ru": "Замечания и предложения", "de": "Feedback und Vorschläge"}
 OG_IMAGE = BASE + "assets/img/og-image.png"
+# Search-engine ownership codes (Google Search Console / Bing Webmaster Tools → "HTML tag").
+# Paste only the content="…" value; the tag goes into the root page.
+VERIFY = {"google-site-verification": "", "msvalidate.01": ""}
+
+
+def bot_link(src):
+    """Bot link with a /start payload: the bot stores it as the user's source (see /stats)."""
+    return f"{BOT}?start={src}"
+
 # Cache busting is content-based, so nothing has to be bumped by hand:
 #   ASSET_V  — hash of styles.css + main.js, appended as ?v= to their URLs;
 #   build id — hash of every generated page, written to <html data-build> and
@@ -271,10 +282,18 @@ def linkify(text):
     return s.replace(BOT_NAME, f'<a href="{BOT}" rel="noopener">{BOT_NAME}</a>', 1)
 
 
-def head(lang, *, title, desc, og_title, og_desc, og_alt, canonical, prefix, ld):
-    alts = "".join(f'  <link rel="alternate" hreflang="{l}" href="{BASE}{l}/">\n' for l in ORDER)
+def head(lang, *, title, desc, og_title, og_desc, og_alt, canonical, prefix, ld,
+         alternates=None, og_type="website", image=None):
+    """alternates: {hreflang: url}; None means the three landing pages + root."""
+    if alternates is None:
+        alternates = {l: f"{BASE}{l}/" for l in ORDER}
+        alternates["x-default"] = BASE
+    alts = "".join(f'  <link rel="alternate" hreflang="{l}" href="{u}">\n' for l, u in alternates.items())
     loc_alt = "".join(f'  <meta property="og:locale:alternate" content="{OG_LOCALE[l]}">\n'
-                      for l in ORDER if l != lang)
+                      for l in ORDER if l != lang and l in alternates)
+    img, img_w, img_h = image or (OG_IMAGE, 1200, 630)
+    verify = "".join(f'  <meta name="{k}" content="{escape(v)}">\n' for k, v in VERIFY.items()
+                     if v and canonical == BASE)
     return f"""<!doctype html>
 <html lang="{lang}" data-build="{BUILD_PLACEHOLDER}">
 <head>
@@ -283,31 +302,30 @@ def head(lang, *, title, desc, og_title, og_desc, og_alt, canonical, prefix, ld)
   <title>{escape(title)}</title>
   <meta name="description" content="{escape(desc)}">
   <meta name="robots" content="index, follow">
-  <meta name="color-scheme" content="light dark">
+{verify}  <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#faf7f2" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#0f1620" media="(prefers-color-scheme: dark)">
   {THEME_BOOT}
   <link rel="canonical" href="{canonical}">
-{alts}  <link rel="alternate" hreflang="x-default" href="{BASE}">
-  <link rel="icon" href="{prefix}assets/img/icon.svg" type="image/svg+xml">
+{alts}  <link rel="icon" href="{prefix}assets/img/icon.svg" type="image/svg+xml">
   <link rel="icon" href="{prefix}assets/img/favicon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="{prefix}assets/img/apple-touch-icon.png">
   <link rel="stylesheet" href="{prefix}assets/css/styles.css?v={ASSET_V}">
 
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="{og_type}">
   <meta property="og:site_name" content="German Morning">
   <meta property="og:locale" content="{OG_LOCALE[lang]}">
 {loc_alt}  <meta property="og:title" content="{escape(og_title)}">
   <meta property="og:description" content="{escape(og_desc)}">
   <meta property="og:url" content="{canonical}">
-  <meta property="og:image" content="{OG_IMAGE}">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
+  <meta property="og:image" content="{img}">
+  <meta property="og:image:width" content="{img_w}">
+  <meta property="og:image:height" content="{img_h}">
   <meta property="og:image:alt" content="{escape(og_alt)}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{escape(og_title)}">
   <meta name="twitter:description" content="{escape(og_desc)}">
-  <meta name="twitter:image" content="{OG_IMAGE}">
+  <meta name="twitter:image" content="{img}">
 
   <script type="application/ld+json">
 {json.dumps(ld, ensure_ascii=False, indent=2)}
@@ -358,12 +376,13 @@ CHAT_ICON = ('<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><pat
              '1.3 1.3 0 0 1 0 2.6Z"/></svg>')
 
 
-def footer(lang, prefix, label):
+def footer(lang, prefix, label, src=None):
     f = FOOT[lang]
+    src = src or f"site_{lang}"
     items = []
     for l in ORDER:
         if l == lang:
-            href = "./" if prefix else f"{l}/"
+            href = f"{prefix}{l}/"
             cur = ' aria-current="page"' if prefix else ""
             items.append(f'<li><a href="{href}" hreflang="{l}"{cur}>{NAMES[l]}</a></li>')
         else:
@@ -374,7 +393,7 @@ def footer(lang, prefix, label):
         <div class="foot-card foot-about">
           <p class="foot-logo"><img src="{prefix}assets/img/icon.svg" alt="" width="44" height="44"><span><strong>German Morning</strong> <span class="flag" aria-hidden="true"></span></span></p>
           <p class="foot-tag">{escape(f["tag"])}</p>
-          <a class="btn btn-primary btn-sm" href="{BOT}" rel="noopener">{TG_ICON}{BOT_NAME}</a>
+          <a class="btn btn-primary btn-sm" href="{bot_link(src)}" rel="noopener">{TG_ICON}{BOT_NAME}</a>
         </div>
         <a class="foot-card feedback-card" href="{CONTACT}" rel="noopener">
           <span class="fb-ico">{CHAT_ICON}</span>
@@ -470,7 +489,7 @@ def page(lang):
           <h1 id="hero-title">{escape(h1a)}<span class="hl">{escape(h1b)}</span>{escape(h1c)}</h1>
           <p class="lead">{escape(t["lead"])}</p>
           <div class="btn-row">
-            <a class="btn btn-primary" id="hero-cta" href="{BOT}" rel="noopener">{TG_ICON}{escape(t["cta"])}</a>
+            <a class="btn btn-primary" id="hero-cta" href="{bot_link('site_' + lang)}" rel="noopener">{TG_ICON}{escape(t["cta"])}</a>
             <a class="btn btn-ghost" href="#features">{escape(t["cta2"])}</a>
           </div>
           <ul class="trust">{chips}</ul>
@@ -522,11 +541,13 @@ def page(lang):
         </div>
         <ul class="rubrics">
 {rubrics}        </ul>
-        <p class="news-note">{escape(t["news_note"])}</p>
+{latest_news(lang, p)}        <p class="news-note">{escape(t["news_note"])}</p>
       </div>
     </section>
 
-    <section class="section section-alt" aria-labelledby="how-title">
+{program_section(lang)}
+
+    <section class="section" aria-labelledby="how-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="how-title">{t["how_title"]}</h2>
@@ -536,7 +557,7 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section" aria-labelledby="who-title">
+    <section class="section section-alt" aria-labelledby="who-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="who-title">{t["who_title"]}</h2>
@@ -546,7 +567,7 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section section-alt" aria-labelledby="langs-title">
+    <section class="section" aria-labelledby="langs-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="langs-title">{t["langs_title"]}</h2>
@@ -557,7 +578,7 @@ def page(lang):
       </div>
     </section>
 
-    <section class="section" aria-labelledby="faq-title">
+    <section class="section section-alt" aria-labelledby="faq-title">
       <div class="wrap">
         <div class="section-head">
           <h2 id="faq-title">{t["faq_title"]}</h2>
@@ -573,7 +594,7 @@ def page(lang):
           <h2 id="final-title">{escape(t["final_title"])}</h2>
           <p>{escape(t["final_text"])}</p>
           <div class="btn-row">
-            <a class="btn btn-primary" id="final-cta" href="{BOT}" rel="noopener">{TG_ICON}{escape(t["final_cta"])}</a>
+            <a class="btn btn-primary" id="final-cta" href="{bot_link('site_' + lang)}" rel="noopener">{TG_ICON}{escape(t["final_cta"])}</a>
           </div>
         </div>
       </div>
@@ -582,7 +603,7 @@ def page(lang):
 
 {footer(lang, p, t["foot_label"])}
   <div class="sticky-cta" id="sticky-cta">
-    <a class="btn btn-primary" href="{BOT}" rel="noopener">{TG_ICON}{escape(t["sticky"])}</a>
+    <a class="btn btn-primary" href="{bot_link('site_' + lang)}" rel="noopener">{TG_ICON}{escape(t["sticky"])}</a>
   </div>
   <script src="{p}assets/js/main.js?v={ASSET_V}" defer></script>
 </body>
@@ -633,29 +654,340 @@ def root_page():
       </nav>
 
       <div class="btn-row picker-tg">
-        <a class="btn btn-tg" href="{BOT}" rel="noopener">{TG_ICON}Відкрити {BOT_NAME}</a>
+        <a class="btn btn-tg" href="{bot_link('site')}" rel="noopener">{TG_ICON}Відкрити {BOT_NAME}</a>
       </div>
       <p class="hero-note">Інтерфейс українською та російською · <span lang="ru">Интерфейс на украинском и русском</span></p>
     </div>
   </main>
 
-{footer("uk", "", "Мова сторінки")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
+{footer("uk", "", "Мова сторінки", "site")}  <script src="assets/js/main.js?v={ASSET_V}" defer></script>
 </body>
 </html>
 """
     return out
 
 
+# ── Course programme and news pages ───────────────────────────────────────────
+NEWS = content.load_news()
+
+S = {
+    "uk": dict(
+        prog_title="Програма курсу: 68 уроків",
+        prog_lead="Теми всіх уроків від A1 до B2. У кожному — нові слова з озвученням, граматика, вправи та диктант.",
+        lesson="Урок", lessons="уроків",
+        news_more="Усі статті з перекладом", news_latest="Свіжі статті",
+        news_h1="Новини німецькою з перекладом",
+        news_title="Новини німецькою з перекладом — тексти для рівнів A1–B2 · German Morning",
+        news_desc="Свіжі новини німецькою мовою з перекладом українською: астрономія, наука, технології, економіка та події. Рівень біля кожної статті.",
+        news_lead="Короткі статті німецькою про те, що відбувається у світі, — з перекладом кожного абзацу українською. "
+                  "У боті ті самі тексти мають підказки до кожного слова, підрядник та озвучення.",
+        art_suffix="новина німецькою з перекладом",
+        published="Опубліковано в джерелі", added="На German Morning", source="Джерело",
+        minutes="хв читання", level="Рівень", grammar="Граматика в статті",
+        cta_title="Читайте з підказками до кожного слова",
+        cta_text="У Telegram-боті German Morning ця стаття відкривається з підрядним перекладом, підказками до слів, "
+                 "озвученням і словником — а ще там 68 уроків німецької від A1 до B2.",
+        cta_btn="Читати в боті", more="Інші статті", crumbs="Навігація", home="Головна",
+        tr_label="Переклад", other_lang="Читати російською", photo="Фото",
+    ),
+    "ru": dict(
+        prog_title="Программа курса: 68 уроков",
+        prog_lead="Темы всех уроков от A1 до B2. В каждом — новые слова с озвучкой, грамматика, упражнения и диктант.",
+        lesson="Урок", lessons="уроков",
+        news_more="Все статьи с переводом", news_latest="Свежие статьи",
+        news_h1="Новости на немецком с переводом",
+        news_title="Новости на немецком с переводом — тексты для уровней A1–B2 · German Morning",
+        news_desc="Свежие новости на немецком языке с переводом на русский: астрономия, наука, технологии, экономика и события. Уровень у каждой статьи.",
+        news_lead="Короткие статьи на немецком о том, что происходит в мире, — с переводом каждого абзаца на русский. "
+                  "В боте те же тексты с подсказками к каждому слову, подстрочником и озвучкой.",
+        art_suffix="новость на немецком с переводом",
+        published="Опубликовано в источнике", added="На German Morning", source="Источник",
+        minutes="мин чтения", level="Уровень", grammar="Грамматика в статье",
+        cta_title="Читайте с подсказками к каждому слову",
+        cta_text="В Telegram-боте German Morning эта статья открывается с подстрочным переводом, подсказками к словам, "
+                 "озвучкой и словарём — а ещё там 68 уроков немецкого от A1 до B2.",
+        cta_btn="Читать в боте", more="Другие статьи", crumbs="Навигация", home="Главная",
+        tr_label="Перевод", other_lang="Читати українською", photo="Фото",
+    ),
+    "de": dict(
+        prog_title="Kursprogramm: 68 Lektionen",
+        prog_lead="Die Themen aller Lektionen von A1 bis B2. Jede enthält neue Wörter mit Audio, Grammatik, Übungen und ein Diktat.",
+        lesson="Lektion", lessons="Lektionen",
+    ),
+}
+MONTHS = {
+    "uk": ["січня", "лютого", "березня", "квітня", "травня", "червня", "липня", "серпня",
+           "вересня", "жовтня", "листопада", "грудня"],
+    "ru": ["января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа",
+           "сентября", "октября", "ноября", "декабря"],
+}
+
+
+def human_date(iso, lang):
+    y, m, d = iso.split("-")
+    return f"{int(d)} {MONTHS[lang][int(m) - 1]} {y}"
+
+
+def program_section(lang):
+    s = S[lang]
+    tr_idx = {"ru": 1, "uk": 2}.get(lang)
+    groups = []
+    for i, (level, items) in enumerate(content.PROGRAM.items()):
+        lis = "".join(
+            f'            <li><span class="pg-n">{n}</span><span class="pg-de" lang="de">{escape(de_t)}</span>'
+            + (f'<span class="pg-tr">{escape(row[tr_idx])}</span>' if tr_idx else "")
+            + "</li>\n"
+            for n, row in enumerate(items, 1) for de_t in [row[0]])
+        note = content.PROGRAM_LEVEL_NOTE[lang][level]
+        groups.append(f"""        <details class="pg-level"{" open" if i == 0 else ""}>
+          <summary><b>{level}</b> <span>{escape(note)} · {len(items)} {s["lessons"]}</span></summary>
+          <ol class="pg-list">
+{"".join(lis)}          </ol>
+        </details>
+""")
+    return f"""    <section class="section section-alt" id="program" aria-labelledby="program-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="program-title">{s["prog_title"]}</h2>
+          <p>{escape(s["prog_lead"])}</p>
+        </div>
+        <div class="program">
+{"".join(groups)}        </div>
+      </div>
+    </section>
+"""
+
+
+def news_card(it, lang, href, heading="h3"):
+    a = it[lang]
+    rubric = content.RUBRIC_NAMES[lang][it["rubric"]]
+    return (f'          <li class="news-card"><a href="{href}">'
+            f'<img src="{it["cover"]}" alt="" width="640" height="360" loading="lazy" decoding="async">'
+            f'<span class="nc-body"><span class="nc-meta">{escape(rubric)} · {escape(it["level"])} · '
+            f'{human_date(it["added"], lang)}</span>'
+            f'<{heading} lang="de">{escape(a["title"])}</{heading}>'
+            f'<span class="nc-tr">{escape(a["titleTr"])}</span></span></a></li>\n')
+
+
+def latest_news(lang, prefix):
+    """Three newest articles + link to the archive (uk/ru only: translations exist there)."""
+    items = [it for it in NEWS if lang in it]
+    if lang not in content.NEWS_LANGS or not items:
+        return ""
+    s = S[lang]
+    cards = "".join(news_card(it, lang, f"news/{it['id']}/") for it in items[:3])
+    return (f'        <h3 class="news-latest">{s["news_latest"]}</h3>\n'
+            f'        <ul class="news-grid">\n{cards}        </ul>\n'
+            f'        <p class="news-more"><a class="btn btn-ghost" href="news/">{s["news_more"]} →</a></p>\n')
+
+
+def sub_header(lang, prefix, home_href, switch):
+    """Header for inner pages: brand → language home, link to the other language."""
+    t = T[lang]
+    sw = (f'<a class="lang-other" href="{switch[1]}" hreflang="{switch[0]}" lang="{switch[0]}">'
+          f'{CODES[switch[0]]}</a>') if switch else ""
+    return f"""<body class="has-sticky">
+  <a class="skip-link" href="#main">{t["skip"]}</a>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="{home_href}" aria-label="{t["home_label"]}">
+        <img src="{prefix}assets/img/icon.svg" alt="" width="36" height="36">
+        <span>German Morning</span>
+      </a>
+      <div class="header-tools">
+        {sw}
+        <button class="theme-toggle" type="button" aria-label="{t["theme_label"]}" aria-pressed="false">{THEME_ICONS}</button>
+      </div>
+    </div>
+  </header>
+"""
+
+
+def crumbs_html(lang, trail):
+    s = S[lang]
+    lis = "".join(
+        f'<li><a href="{href}">{escape(name)}</a></li>' if href else f'<li aria-current="page">{escape(name)}</li>'
+        for name, href in trail)
+    return f'      <nav class="crumbs" aria-label="{s["crumbs"]}"><ol>{lis}</ol></nav>\n'
+
+
+def crumbs_ld(trail_abs):
+    return {"@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": i, "name": n, **({"item": u} if u else {})}
+        for i, (n, u) in enumerate(trail_abs, 1)]}
+
+
+def page_tail(lang, prefix, src):
+    t = T[lang]
+    return f"""
+{footer(lang, prefix, t["foot_label"], src)}
+  <div class="sticky-cta" id="sticky-cta">
+    <a class="btn btn-primary" href="{bot_link(src)}" rel="noopener">{TG_ICON}{escape(t["sticky"])}</a>
+  </div>
+  <script src="{prefix}assets/js/main.js?v={ASSET_V}" defer></script>
+</body>
+</html>
+"""
+
+
+def news_index_page(lang):
+    s, t = S[lang], T[lang]
+    p = "../../"
+    url = f"{BASE}{lang}/news/"
+    items = [it for it in NEWS if lang in it]
+    alternates = {l: f"{BASE}{l}/news/" for l in content.NEWS_LANGS}
+    alternates["x-default"] = f"{BASE}uk/news/"
+    other = [l for l in content.NEWS_LANGS if l != lang][0]
+    trail = [(s["home"], f"{BASE}{lang}/"), (s["news_h1"], None)]
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "CollectionPage", "name": s["news_h1"], "description": s["news_desc"], "url": url,
+         "inLanguage": lang, "isPartOf": {"@id": BASE + "#website"},
+         "mainEntity": {"@type": "ItemList", "itemListElement": [
+             {"@type": "ListItem", "position": i, "url": f"{url}{it['id']}/", "name": it[lang]["title"]}
+             for i, it in enumerate(items, 1)]}},
+        crumbs_ld(trail),
+    ]}
+    out = head(lang, title=s["news_title"], desc=s["news_desc"], og_title=s["news_h1"], og_desc=s["news_desc"],
+               og_alt=s["news_h1"], canonical=url, prefix=p, ld=ld, alternates=alternates)
+    out += sub_header(lang, p, "../", (other, f"../../{other}/news/"))
+    by_rubric = []
+    for rid, rname in content.RUBRIC_NAMES[lang].items():
+        group = [it for it in items if it["rubric"] == rid]
+        if not group:
+            continue
+        cards = "".join(news_card(it, lang, f"{it['id']}/") for it in group)
+        by_rubric.append(f'      <h2 class="news-rubric" id="{rid}">{escape(rname)}</h2>\n'
+                         f'      <ul class="news-grid">\n{cards}      </ul>\n')
+    out += f"""
+  <main id="main" class="article-page">
+    <div class="wrap">
+{crumbs_html(lang, [(s["home"], "../"), (s["news_h1"], None)])}      <h1>{escape(s["news_h1"])}</h1>
+      <p class="lead">{escape(s["news_lead"])}</p>
+{"".join(by_rubric)}{cta_box(lang, "news_" + lang)}    </div>
+  </main>
+"""
+    return out + page_tail(lang, p, "news_" + lang)
+
+
+def cta_box(lang, src):
+    s = S[lang]
+    return f"""      <aside class="read-cta">
+        <h2>{escape(s["cta_title"])}</h2>
+        <p>{escape(s["cta_text"])}</p>
+        <a class="btn btn-primary" href="{bot_link(src)}" rel="noopener">{TG_ICON}{escape(s["cta_btn"])}</a>
+      </aside>
+"""
+
+
+def article_page(it, lang):
+    s = S[lang]
+    a = it[lang]
+    p = "../../../"
+    aid = it["id"]
+    url = f"{BASE}{lang}/news/{aid}/"
+    langs = [l for l in content.NEWS_LANGS if l in it]
+    alternates = {l: f"{BASE}{l}/news/{aid}/" for l in langs}
+    alternates["x-default"] = alternates.get("uk", url)
+    other = [l for l in langs if l != lang]
+    rubric = content.RUBRIC_NAMES[lang][it["rubric"]]
+    title = f"{a['title']} — {s['art_suffix']} · German Morning"
+    desc = a["blurb"]
+    trail = [(s["home"], f"{BASE}{lang}/"), (s["news_h1"], f"{BASE}{lang}/news/"), (a["titleTr"], None)]
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "Article", "headline": a["title"][:110], "alternativeHeadline": a["titleTr"],
+         "description": desc, "inLanguage": "de", "url": url, "mainEntityOfPage": url,
+         "image": it["cover"], "datePublished": it["added"], "dateModified": it["added"],
+         "articleSection": rubric, "educationalLevel": it["level"], "wordCount": it["words"],
+         "isBasedOn": it["sourceUrl"],
+         "author": {"@type": "Organization", "name": "German Morning", "url": BASE},
+         "publisher": {"@type": "Organization", "name": "German Morning", "url": BASE,
+                       "logo": {"@type": "ImageObject", "url": BASE + "assets/img/apple-touch-icon.png"}}},
+        crumbs_ld(trail),
+    ]}
+    out = head(lang, title=title, desc=desc, og_title=a["title"], og_desc=f'{a["titleTr"]}. {desc}',
+               og_alt=a["titleTr"], canonical=url, prefix=p, ld=ld, alternates=alternates,
+               og_type="article", image=(it["cover"], 640, 360))
+    out += sub_header(lang, p, "../../", (other[0], f"../../../{other[0]}/news/{aid}/") if other else None)
+    body = []
+    for para in a["paragraphs"]:
+        if "fig" in para:
+            f = para["fig"]
+            body.append(f'      <figure class="art-fig"><img src="{f["src"]}" alt="{escape(f["cap"])}" '
+                        f'width="{f["w"]}" height="{f["h"]}" loading="lazy" decoding="async">'
+                        f'<figcaption>{escape(f["cap"])} <small>{s["photo"]}: {escape(f["credit"])}</small>'
+                        f'</figcaption></figure>\n')
+        else:
+            de = " ".join(x["de"] for x in para["s"])
+            tr = " ".join(x["tr"] for x in para["s"])
+            body.append(f'      <div class="art-par"><p class="art-de" lang="de">{escape(de)}</p>'
+                        f'<p class="art-tr"><span class="sr-only">{s["tr_label"]}: </span>{escape(tr)}</p></div>\n')
+    more = [x for x in NEWS if x["id"] != aid and lang in x][:6]
+    more_cards = "".join(news_card(x, lang, f"../{x['id']}/") for x in more)
+    out += f"""
+  <main id="main" class="article-page">
+    <div class="wrap wrap-narrow">
+{crumbs_html(lang, [(s["home"], "../../"), (s["news_h1"], "../"), (a["titleTr"], None)])}      <article>
+        <p class="eyebrow">{escape(rubric)} · {s["level"]} {escape(it["level"])} · {it["minutes"]} {s["minutes"]}</p>
+        <h1 lang="de">{escape(a["title"])}</h1>
+        <p class="lead">{escape(a["titleTr"])}</p>
+        <p class="art-meta">{s["published"]}: {human_date(it["published"], lang)} · {s["source"]}: <a href="{escape(it["sourceUrl"])}" rel="nofollow noopener">{escape(it["source"])}</a><br>{s["added"]}: {human_date(it["added"], lang)}</p>
+{"".join(body)}        <p class="art-grammar"><b>{s["grammar"]}:</b> {escape(a["levelNote"])}</p>
+        <p class="art-license">{escape(a["license"])}</p>
+      </article>
+{cta_box(lang, "news_" + lang)}      <h2 class="news-rubric">{s["more"]}</h2>
+      <ul class="news-grid">
+{more_cards}      </ul>
+    </div>
+  </main>
+"""
+    return out + page_tail(lang, p, "news_" + lang)
+
+
+def sitemap(urls):
+    """urls: [(loc, lastmod, {hreflang: href})]."""
+    rows = []
+    for loc, lastmod, alts in urls:
+        links = "".join(f'\n    <xhtml:link rel="alternate" hreflang="{l}" href="{h}"/>' for l, h in alts.items())
+        rows.append(f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{lastmod}</lastmod>{links}\n  </url>")
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
+            '        xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(rows) + "\n</urlset>\n")
+
+
 def main():
+    global NEWS
+    if content.sync_news():
+        print("news: synced from ../deutsch-meister")
+    NEWS = content.load_news()
     pages = {f"{l}/index.html": page(l) for l in ORDER}
     pages["index.html"] = root_page()
+    newest = max([it["added"] for it in NEWS] or ["2026-10-07"])
+    land_alts = {l: f"{BASE}{l}/" for l in ORDER}
+    land_alts["x-default"] = BASE
+    urls = [(BASE, newest, land_alts)] + [(f"{BASE}{l}/", newest, land_alts) for l in ORDER]
+    for lang in content.NEWS_LANGS:
+        if not any(lang in it for it in NEWS):
+            continue
+        pages[f"{lang}/news/index.html"] = news_index_page(lang)
+        idx_alts = {l: f"{BASE}{l}/news/" for l in content.NEWS_LANGS}
+        idx_alts["x-default"] = f"{BASE}uk/news/"
+        urls.append((f"{BASE}{lang}/news/", newest, idx_alts))
+        for it in NEWS:
+            if lang not in it:
+                continue
+            pages[f"{lang}/news/{it['id']}/index.html"] = article_page(it, lang)
+            alts = {l: f"{BASE}{l}/news/{it['id']}/" for l in content.NEWS_LANGS if l in it}
+            alts["x-default"] = alts.get("uk", f"{BASE}{lang}/news/{it['id']}/")
+            urls.append((f"{BASE}{lang}/news/{it['id']}/", it["added"], alts))
+    (ROOT / "sitemap.xml").write_text(sitemap(urls), encoding="utf-8", newline="\n")
     digest = hashlib.sha1()
     for name in sorted(pages):
         digest.update(name.encode() + b"\0" + pages[name].encode("utf-8"))
     build_id = digest.hexdigest()[:10]
     for name, html in pages.items():
         out = ROOT / name
-        out.parent.mkdir(exist_ok=True)
+        out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(html.replace(BUILD_PLACEHOLDER, build_id), encoding="utf-8", newline="\n")
     nf = ROOT / "404.html"  # hand-written page: only keep its stylesheet version in sync
     nf.write_text(re.sub(r"styles\.css\?v=[0-9a-f]+", f"styles.css?v={ASSET_V}", nf.read_text(encoding="utf-8")),

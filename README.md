@@ -26,3 +26,16 @@ Pages are generated from one template so the uk / ru / de versions stay in sync:
 ```sh
 python tools/build.py   # rewrites index.html, uk/, ru/, de/
 ```
+
+## Indexable content and search engines
+
+- `tools/content.py` — course programme (68 lesson topics) and news articles.
+  `build.py` copies the news from the sibling checkout `../deutsch-meister`
+  into `data/news.json` and generates `uk/news/…`, `ru/news/…` (German text
+  paragraph by paragraph with a translation) plus `sitemap.xml`.
+  New article in the app → just run `python tools/build.py` here and push.
+- Bot links carry a `/start` payload (`site_uk`, `news_ru`, …): the bot stores
+  it as the user's source, visible in `/stats`.
+- `VERIFY` in `build.py` — Google Search Console / Bing ownership codes.
+- `python tools/indexnow.py` — after a deploy, pings Bing, Yandex & co. with
+  every sitemap URL (key file `<key>.txt` in the site root).
