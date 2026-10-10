@@ -17,6 +17,8 @@ APP = Path(os.environ.get("DEUTSCH_MEISTER_DIR") or ROOT.parent / "deutsch-meist
 APP_URL = "https://vanguar.github.io/deutsch-meister/"
 NEWS_JSON = ROOT / "data" / "news.json"
 NEWS_LANGS = ["uk", "ru"]                       # translations that exist for news
+BOOKS_JSON = ROOT / "data" / "books.json"
+BOOK_LANGS = ["uk", "ru"]                       # translations that exist for books
 
 # (German title, Russian, Ukrainian) — topics as they appear in the course
 PROGRAM = {
@@ -151,6 +153,51 @@ def sync_news():
     NEWS_JSON.write_text(json.dumps({"items": items}, ensure_ascii=False, indent=1) + "\n",
                          encoding="utf-8", newline="\n")
     return True
+
+
+def _book(card, meta, chapters):
+    """One language of a book: every chapter, German line by line with a translation."""
+    return {"titleTr": meta["titleRu"], "blurb": card["blurb"], "levelNote": meta["levelNote"],
+            "source": meta["source"],
+            "chapters": [{"title": ch["title"], "titleTr": ch["titleRu"],
+                          "paragraphs": [[{"de": s["de"], "tr": s["ru"]} for s in p["s"]]
+                                         for p in ch["paragraphs"]]}
+                         for ch in chapters]}
+
+
+def sync_books():
+    """Refresh data/books.json from ../deutsch-meister when that checkout exists."""
+    index = APP / "data" / "books" / "index.json"
+    if not index.is_file():
+        return False
+    uk_index = APP / "i18n" / "uk" / "books" / "index.json"
+    uk_cards = {b["id"]: b for b in _read(uk_index)["books"]} if uk_index.is_file() else {}
+    items = []
+    for card in _read(index)["books"]:
+        bid = card["id"]
+        src = APP / "data" / "books" / bid
+        meta = _read(src / "meta.json")
+        n = meta["chapters"]
+        item = {k: meta[k] for k in ("id", "title", "author", "level", "year", "chapters", "words",
+                                    "minutes", "cover", "sourceUrl", "license")}
+        item["verse"] = bool(meta.get("verse"))
+        item["ru"] = _book(card, meta, [_read(src / f"ch-{i:02d}.json") for i in range(1, n + 1)])
+        uk = APP / "i18n" / "uk" / "books" / bid
+        if bid in uk_cards and all((uk / f).is_file() for f in
+                                   ["meta.json"] + [f"ch-{i:02d}.json" for i in range(1, n + 1)]):
+            item["uk"] = _book(uk_cards[bid], _read(uk / "meta.json"),
+                               [_read(uk / f"ch-{i:02d}.json") for i in range(1, n + 1)])
+        items.append(item)
+    BOOKS_JSON.parent.mkdir(exist_ok=True)
+    BOOKS_JSON.write_text(json.dumps({"items": items}, ensure_ascii=False, indent=1) + "\n",
+                          encoding="utf-8", newline="\n")
+    return True
+
+
+def load_books():
+    if not BOOKS_JSON.is_file():
+        return []
+    return _read(BOOKS_JSON)["items"]
 
 
 def load_news():

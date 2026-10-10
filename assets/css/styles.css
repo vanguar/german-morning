@@ -551,6 +551,12 @@ p { margin: 0 0 1em; }
 .news-card h2, .news-card h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
 .nc-tr { color: var(--muted); font-size: .93rem; line-height: 1.45; }
 .news-more { margin: 22px 0 0; }
+.book-cover {
+  display: grid; place-items: center; aspect-ratio: 16 / 7; font-size: 3.4rem; line-height: 1;
+  background: linear-gradient(135deg, var(--t1), var(--t2));
+}
+.book-card:nth-child(3n+2) .book-cover { background: linear-gradient(135deg, var(--t3), var(--t7)); }
+.book-card:nth-child(3n) .book-cover { background: linear-gradient(135deg, var(--t5), var(--t4)); }
 .news-rubric { margin: 40px 0 16px; font-size: 1.4rem; }
 
 /* ---------- inner pages: archive and article ---------- */
@@ -576,6 +582,14 @@ p { margin: 0 0 1em; }
 .art-fig small { display: block; opacity: .85; }
 .art-grammar { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 16px; }
 .art-license { color: var(--muted); font-size: .85rem; }
+.art-license a { color: var(--accent); }
+.book-blurb { font-size: 1.05rem; line-height: 1.6; }
+.book-toc { margin: 24px 0 8px; padding: 16px 18px; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; }
+.book-toc h2 { margin: 0 0 8px; font-size: 1.05rem; }
+.book-toc ol { margin: 0; padding-left: 1.4em; line-height: 1.7; }
+.book-toc a { color: var(--accent); }
+.book-ch { margin: 40px 0 18px; font-size: 1.45rem; line-height: 1.25; }
+.book-ch small { display: block; margin-top: 4px; color: var(--muted); font-size: .95rem; font-weight: 600; }
 .read-cta {
   margin: 32px 0 8px; padding: 24px; border-radius: var(--radius);
   background: var(--accent-soft); border: 1px solid var(--line);

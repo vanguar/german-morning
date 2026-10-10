@@ -544,7 +544,7 @@ def page(lang):
 {latest_news(lang, p)}        <p class="news-note">{escape(t["news_note"])}</p>
       </div>
     </section>
-
+{books_section(lang)}
 {program_section(lang)}
 
     <section class="section" aria-labelledby="how-title">
@@ -689,6 +689,20 @@ S = {
                  "озвученням і словником — а ще там 68 уроків німецької від A1 до B2.",
         cta_btn="Читати в боті", more="Інші статті", crumbs="Навігація", home="Головна",
         tr_label="Переклад", other_lang="Читати російською", photo="Фото",
+        books_title="Книжки німецькою з перекладом",
+        books_lead="Класика німецької літератури повністю: {authors}. "
+                   "Кожне речення — з перекладом українською, біля кожної книжки вказано рівень.",
+        and_more="та інші",
+        books_more="Усі книжки", books_h1="Книжки німецькою з перекладом",
+        books_meta_title="Книжки німецькою з перекладом українською — читання для рівнів {levels} · German Morning",
+        books_desc="Повні тексти німецької класики з перекладом кожного речення українською: {authors}. Рівень, обсяг і час читання біля кожної книжки.",
+        book_suffix="читати німецькою з перекладом",
+        chapters_word="розд.", words_word="слів",
+        book_cta_title="Читайте з підказками до кожного слова",
+        book_cta_text="У Telegram-боті German Morning ця книжка відкривається в читалці: підказки до слів, підрядник, "
+                      "переклад, озвучення та картки для повторення — а ще там 68 уроків німецької від A1 до B2.",
+        more_books="Інші книжки", text_source="Джерело тексту", pd="суспільне надбання",
+        contents="Зміст",
     ),
     "ru": dict(
         prog_title="Программа курса: 68 уроков",
@@ -708,6 +722,20 @@ S = {
                  "озвучкой и словарём — а ещё там 68 уроков немецкого от A1 до B2.",
         cta_btn="Читать в боте", more="Другие статьи", crumbs="Навигация", home="Главная",
         tr_label="Перевод", other_lang="Читати українською", photo="Фото",
+        books_title="Книги на немецком с переводом",
+        books_lead="Классика немецкой литературы целиком: {authors}. "
+                   "Каждое предложение — с переводом на русский, у каждой книги указан уровень.",
+        and_more="и другие",
+        books_more="Все книги", books_h1="Книги на немецком с переводом",
+        books_meta_title="Книги на немецком с переводом на русский — чтение для уровней {levels} · German Morning",
+        books_desc="Полные тексты немецкой классики с переводом каждого предложения на русский: {authors}. Уровень, объём и время чтения у каждой книги.",
+        book_suffix="читать на немецком с переводом",
+        chapters_word="гл.", words_word="слов",
+        book_cta_title="Читайте с подсказками к каждому слову",
+        book_cta_text="В Telegram-боте German Morning эта книга открывается в читалке: подсказки к словам, подстрочник, "
+                      "перевод, озвучка и карточки для повторения — а ещё там 68 уроков немецкого от A1 до B2.",
+        more_books="Другие книги", text_source="Источник текста", pd="общественное достояние",
+        contents="Содержание",
     ),
     "de": dict(
         prog_title="Kursprogramm: 68 Lektionen",
@@ -870,11 +898,11 @@ def news_index_page(lang):
     return out + page_tail(lang, p, "news_" + lang)
 
 
-def cta_box(lang, src):
+def cta_box(lang, src, kind=""):
     s = S[lang]
     return f"""      <aside class="read-cta">
-        <h2>{escape(s["cta_title"])}</h2>
-        <p>{escape(s["cta_text"])}</p>
+        <h2>{escape(s[kind + "cta_title"])}</h2>
+        <p>{escape(s[kind + "cta_text"])}</p>
         <a class="btn btn-primary" href="{bot_link(src)}" rel="noopener">{TG_ICON}{escape(s["cta_btn"])}</a>
       </aside>
 """
@@ -944,22 +972,173 @@ def article_page(it, lang):
     return out + page_tail(lang, p, "news_" + lang)
 
 
+# ── Books ─────────────────────────────────────────────────────────────────────
+BOOKS = content.load_books()
+
+
+CEFR = ["A1", "A2", "B1", "B2", "C1", "C2"]
+
+
+def books_text(lang, key):
+    """Catalogue-dependent strings: authors and level range follow whatever books exist."""
+    s = S[lang]
+    items = [b for b in BOOKS if lang in b]
+    authors = list(dict.fromkeys(b["author"] for b in items))
+    names = ", ".join(authors[:7]) + (f' {s["and_more"]}' if len(authors) > 7 else "")
+    lv = sorted({x for b in items for x in b["level"].split("–") if x in CEFR}, key=CEFR.index)
+    levels = f"{lv[0]}–{lv[-1]}" if len(lv) > 1 else "".join(lv)
+    return s[key].format(authors=names, levels=levels)
+
+
+def book_card(b, lang, href, heading="h3"):
+    s = S[lang]
+    return (f'          <li class="news-card book-card"><a href="{href}">'
+            f'<span class="book-cover" aria-hidden="true">{b["cover"]}</span>'
+            f'<span class="nc-body"><span class="nc-meta">{escape(b["author"])} · {escape(b["level"])} · '
+            f'{b["minutes"]} {s["minutes"]}</span>'
+            f'<{heading} lang="de">{escape(b["title"])}</{heading}>'
+            f'<span class="nc-tr">{escape(b[lang]["titleTr"])}</span></span></a></li>\n')
+
+
+def books_section(lang):
+    """Home page block: the first books of the catalogue + link to all (uk/ru: translations exist there)."""
+    items = [b for b in BOOKS if lang in b]
+    if lang not in content.BOOK_LANGS or not items:
+        return ""
+    s = S[lang]
+    cards = "".join(book_card(b, lang, f"books/{b['id']}/") for b in items[:6])
+    return f"""
+    <section class="section section-alt" id="books" aria-labelledby="books-title">
+      <div class="wrap">
+        <div class="section-head">
+          <h2 id="books-title">{s["books_title"]}</h2>
+          <p>{escape(books_text(lang, "books_lead"))}</p>
+        </div>
+        <ul class="news-grid">
+{cards}        </ul>
+        <p class="news-more"><a class="btn btn-ghost" href="books/">{s["books_more"]} →</a></p>
+      </div>
+    </section>
+"""
+
+
+def books_index_page(lang):
+    s = S[lang]
+    p = "../../"
+    url = f"{BASE}{lang}/books/"
+    items = [b for b in BOOKS if lang in b]
+    alternates = {l: f"{BASE}{l}/books/" for l in content.BOOK_LANGS}
+    alternates["x-default"] = f"{BASE}uk/books/"
+    other = [l for l in content.BOOK_LANGS if l != lang][0]
+    trail = [(s["home"], f"{BASE}{lang}/"), (s["books_h1"], None)]
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "CollectionPage", "name": s["books_h1"], "description": books_text(lang, "books_desc"), "url": url,
+         "inLanguage": lang, "isPartOf": {"@id": BASE + "#website"},
+         "mainEntity": {"@type": "ItemList", "itemListElement": [
+             {"@type": "ListItem", "position": i, "url": f"{url}{b['id']}/", "name": b["title"]}
+             for i, b in enumerate(items, 1)]}},
+        crumbs_ld(trail),
+    ]}
+    out = head(lang, title=books_text(lang, "books_meta_title"), desc=books_text(lang, "books_desc"), og_title=s["books_h1"],
+               og_desc=books_text(lang, "books_desc"), og_alt=s["books_h1"], canonical=url, prefix=p, ld=ld,
+               alternates=alternates)
+    out += sub_header(lang, p, "../", (other, f"../../{other}/books/"))
+    cards = "".join(book_card(b, lang, f"{b['id']}/", "h2") for b in items)
+    out += f"""
+  <main id="main" class="article-page">
+    <div class="wrap">
+{crumbs_html(lang, [(s["home"], "../"), (s["books_h1"], None)])}      <h1>{escape(s["books_h1"])}</h1>
+      <p class="lead">{escape(books_text(lang, "books_lead"))}</p>
+      <ul class="news-grid">
+{cards}      </ul>
+{cta_box(lang, "books_" + lang, "book_")}    </div>
+  </main>
+"""
+    return out + page_tail(lang, p, "books_" + lang)
+
+
+def book_page(b, lang):
+    s = S[lang]
+    a = b[lang]
+    p = "../../../"
+    bid = b["id"]
+    url = f"{BASE}{lang}/books/{bid}/"
+    langs = [l for l in content.BOOK_LANGS if l in b]
+    alternates = {l: f"{BASE}{l}/books/{bid}/" for l in langs}
+    alternates["x-default"] = alternates.get("uk", url)
+    other = [l for l in langs if l != lang]
+    title = f"{b['title']} ({b['author']}) — {s['book_suffix']} · German Morning"
+    desc = a["blurb"]
+    trail = [(s["home"], f"{BASE}{lang}/"), (s["books_h1"], f"{BASE}{lang}/books/"), (a["titleTr"], None)]
+    ld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "Book", "name": b["title"], "alternateName": a["titleTr"], "description": desc,
+         "author": {"@type": "Person", "name": b["author"]}, "inLanguage": "de", "url": url,
+         "datePublished": str(b["year"]), "educationalLevel": b["level"], "wordCount": b["words"],
+         "isAccessibleForFree": True, "isBasedOn": b["sourceUrl"],
+         "publisher": {"@type": "Organization", "name": "German Morning", "url": BASE}},
+        crumbs_ld(trail),
+    ]}
+    out = head(lang, title=title, desc=desc, og_title=f'{b["title"]} — {b["author"]}',
+               og_desc=f'{a["titleTr"]}. {desc}', og_alt=a["titleTr"], canonical=url, prefix=p, ld=ld,
+               alternates=alternates, og_type="book")
+    out += sub_header(lang, p, "../../", (other[0], f"../../../{other[0]}/books/{bid}/") if other else None)
+    sep = "<br>" if b["verse"] else " "   # verse: one line of the poem per sentence entry
+    toc, body = [], []
+    for n, ch in enumerate(a["chapters"], 1):
+        toc.append(f'<li><a href="#ch-{n}"><span lang="de">{escape(ch["title"])}</span> — '
+                   f'{escape(ch["titleTr"])}</a></li>')
+        body.append(f'      <h2 class="book-ch" id="ch-{n}"><span lang="de">{escape(ch["title"])}</span>'
+                    f'<small>{escape(ch["titleTr"])}</small></h2>\n')
+        for para in ch["paragraphs"]:
+            de = sep.join(escape(x["de"]) for x in para)
+            tr = sep.join(escape(x["tr"]) for x in para)
+            body.append(f'      <div class="art-par"><p class="art-de" lang="de">{de}</p>'
+                        f'<p class="art-tr"><span class="sr-only">{s["tr_label"]}: </span>{tr}</p></div>\n')
+    toc_html = (f'        <nav class="book-toc" aria-label="{s["contents"]}"><h2>{s["contents"]}</h2>'
+                f'<ol>{"".join(toc)}</ol></nav>\n') if len(toc) > 1 else ""
+    lic = s["pd"] if b["license"] == "public domain" else b["license"]
+    more = [x for x in BOOKS if x["id"] != bid and lang in x][:6]
+    more_cards = "".join(book_card(x, lang, f"../{x['id']}/") for x in more)
+    out += f"""
+  <main id="main" class="article-page">
+    <div class="wrap wrap-narrow">
+{crumbs_html(lang, [(s["home"], "../../"), (s["books_h1"], "../"), (a["titleTr"], None)])}      <article>
+        <p class="eyebrow">{escape(b["author"])} · {b["year"]} · {s["level"]} {escape(b["level"])} · {b["chapters"]} {s["chapters_word"]} · {b["words"]} {s["words_word"]} · {b["minutes"]} {s["minutes"]}</p>
+        <h1 lang="de">{escape(b["title"])}</h1>
+        <p class="lead">{escape(a["titleTr"])}</p>
+        <p class="book-blurb">{escape(desc)}</p>
+{toc_html}{"".join(body)}        <p class="art-grammar"><b>{s["level"]} {escape(b["level"])}:</b> {escape(a["levelNote"])}</p>
+        <p class="art-license">{s["text_source"]}: <a href="{escape(b["sourceUrl"])}" rel="nofollow noopener">{escape(a["source"])}</a> · {escape(lic)}</p>
+      </article>
+{cta_box(lang, "books_" + lang, "book_")}      <h2 class="news-rubric">{s["more_books"]}</h2>
+      <ul class="news-grid">
+{more_cards}      </ul>
+    </div>
+  </main>
+"""
+    return out + page_tail(lang, p, "books_" + lang)
+
+
 def sitemap(urls):
     """urls: [(loc, lastmod, {hreflang: href})]."""
     rows = []
     for loc, lastmod, alts in urls:
         links = "".join(f'\n    <xhtml:link rel="alternate" hreflang="{l}" href="{h}"/>' for l, h in alts.items())
-        rows.append(f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{lastmod}</lastmod>{links}\n  </url>")
+        mod = f"\n    <lastmod>{lastmod}</lastmod>" if lastmod else ""
+        rows.append(f"  <url>\n    <loc>{loc}</loc>{mod}{links}\n  </url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
             '        xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(rows) + "\n</urlset>\n")
 
 
 def main():
-    global NEWS
+    global NEWS, BOOKS
     if content.sync_news():
-        print("news: synced from ../deutsch-meister")
+        print("news: synced from", content.APP)
+    if content.sync_books():
+        print("books: synced from", content.APP)
     NEWS = content.load_news()
+    BOOKS = content.load_books()
     pages = {f"{l}/index.html": page(l) for l in ORDER}
     pages["index.html"] = root_page()
     newest = max([it["added"] for it in NEWS] or ["2026-10-07"])
@@ -980,6 +1159,20 @@ def main():
             alts = {l: f"{BASE}{l}/news/{it['id']}/" for l in content.NEWS_LANGS if l in it}
             alts["x-default"] = alts.get("uk", f"{BASE}{lang}/news/{it['id']}/")
             urls.append((f"{BASE}{lang}/news/{it['id']}/", it["added"], alts))
+    for lang in content.BOOK_LANGS:
+        if not any(lang in b for b in BOOKS):
+            continue
+        pages[f"{lang}/books/index.html"] = books_index_page(lang)
+        idx_alts = {l: f"{BASE}{l}/books/" for l in content.BOOK_LANGS}
+        idx_alts["x-default"] = f"{BASE}uk/books/"
+        urls.append((f"{BASE}{lang}/books/", None, idx_alts))
+        for b in BOOKS:
+            if lang not in b:
+                continue
+            pages[f"{lang}/books/{b['id']}/index.html"] = book_page(b, lang)
+            alts = {l: f"{BASE}{l}/books/{b['id']}/" for l in content.BOOK_LANGS if l in b}
+            alts["x-default"] = alts.get("uk", f"{BASE}{lang}/books/{b['id']}/")
+            urls.append((f"{BASE}{lang}/books/{b['id']}/", None, alts))
     (ROOT / "sitemap.xml").write_text(sitemap(urls), encoding="utf-8", newline="\n")
     digest = hashlib.sha1()
     for name in sorted(pages):

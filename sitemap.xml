@@ -271,4 +271,112 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/juice-erde-2026/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/juice-erde-2026/"/>
   </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/bremer/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/bremer/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/bremer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/bremer/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/kafka/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/kafka/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/kafka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/kafka/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/hebel/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/hebel/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/hebel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/hebel/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/busch/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/busch/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/busch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/busch/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/storm/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/storm/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/storm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/storm/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/kleist/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/kleist/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/kleist/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/kleist/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/hauff/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/hauff/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/hauff/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/hauff/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/poe/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/poe/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/bremer/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/bremer/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/bremer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/bremer/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/kafka/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/kafka/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/kafka/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/kafka/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/hebel/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/hebel/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/hebel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/hebel/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/busch/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/busch/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/busch/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/busch/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/storm/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/storm/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/storm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/storm/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/kleist/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/kleist/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/kleist/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/kleist/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/hauff/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/hauff/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/hauff/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/hauff/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/poe/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/poe/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
+  </url>
 </urlset>

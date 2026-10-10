@@ -1,11 +1,11 @@
-# Новости бота → лендинг, без ручной пересборки.
+# Новости и книги бота → лендинг, без ручной пересборки.
 #
-# Раз в час (и по кнопке Run workflow) берёт свежие статьи из публичного
+# Раз в час (и по кнопке Run workflow) берёт свежие статьи и книги из публичного
 # репо vanguar/deutsch-meister, пересобирает страницы tools/build.py и,
 # если что-то изменилось, коммитит, просит Pages пересобрать сайт и
 # сообщает новые адреса поисковикам через IndexNow.
-# Нет новых статей — сборка даёт те же файлы, коммита не будет.
-name: Sync news from the bot
+# Нет нового контента — сборка даёт те же файлы, коммита не будет.
+name: Sync news and books from the bot
 
 on:
   schedule:
@@ -36,6 +36,8 @@ jobs:
           sparse-checkout: |
             data/news
             i18n/uk/news
+            data/books
+            i18n/uk/books
 
       - uses: actions/setup-python@v5
         with:
@@ -52,13 +54,13 @@ jobs:
           echo "_app/" >> .git/info/exclude
           git add -A
           if git diff --cached --quiet; then
-            echo "Новых статей нет"
+            echo "Нового контента нет"
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(news): sync articles from deutsch-meister"
+          git commit -m "chore(content): sync news and books from deutsch-meister"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
