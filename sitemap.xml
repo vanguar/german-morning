@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vanguar.github.io/german-morning/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/uk/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/ru/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/de/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -35,10 +35,45 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/uk/news/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/schiffswrack-kekova-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/schiffswrack-kekova-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/schiffswrack-kekova-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/schiffswrack-kekova-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/d-you-wallet-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/d-you-wallet-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/d-you-wallet-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/d-you-wallet-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/inflation-september-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/inflation-september-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/inflation-september-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/inflation-september-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/zwiebelmarkt-weimar-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/zwiebelmarkt-weimar-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/zwiebelmarkt-weimar-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/zwiebelmarkt-weimar-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/weisse-zwerge-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/weisse-zwerge-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/weisse-zwerge-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/weisse-zwerge-2026/"/>
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/uk/news/mars-krippe-2026/</loc>
@@ -154,10 +189,45 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/ru/news/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/schiffswrack-kekova-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/schiffswrack-kekova-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/schiffswrack-kekova-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/schiffswrack-kekova-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/d-you-wallet-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/d-you-wallet-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/d-you-wallet-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/d-you-wallet-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/inflation-september-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/inflation-september-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/inflation-september-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/inflation-september-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/zwiebelmarkt-weimar-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/zwiebelmarkt-weimar-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/zwiebelmarkt-weimar-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/zwiebelmarkt-weimar-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/weisse-zwerge-2026/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/weisse-zwerge-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/weisse-zwerge-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/weisse-zwerge-2026/"/>
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/ru/news/mars-krippe-2026/</loc>
@@ -326,6 +396,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
   </url>
   <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/sterntaler/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/sterntaler/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
+  </url>
+  <url>
     <loc>https://vanguar.github.io/german-morning/ru/books/</loc>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/"/>
@@ -378,5 +454,11 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/poe/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/poe/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/sterntaler/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/sterntaler/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
   </url>
 </urlset>

@@ -11587,6 +11587,560 @@
      }
     ]
    }
+  },
+  {
+   "id": "sterntaler",
+   "title": "Die Sterntaler und andere kleine Märchen",
+   "author": "Brüder Grimm",
+   "level": "A2–B1",
+   "year": 1857,
+   "chapters": 4,
+   "words": 1336,
+   "minutes": 10,
+   "cover": "⭐",
+   "sourceUrl": "https://de.wikisource.org/wiki/Die_Sternthaler_(1857)",
+   "license": "public domain",
+   "verse": false,
+   "ru": {
+    "titleTr": "Звёздные талеры и другие маленькие сказки",
+    "blurb": "Четыре коротких сказки братьев Гримм. Сирота раздаёт всё до последней рубашки — и с неба падают звёзды-талеры. Волшебный горшочек варит кашу, пока она не заливает весь город. Ночью сапожнику шьют башмаки голые человечки. Внук мастерит корытце для родителей — и те понимают, как обходились с дедом. Самая короткая книга ридера.",
+    "levelNote": "A2–B1: четыре короткие сказки с простым сюжетом и повторами («Töpfchen, koche» / «Töpfchen, steh», «gab es ihm», «Paar Schuhe»). Почти сплошной Präteritum, в «Сладкой каше» — переход в настоящее время прямо посреди рассказа (da kocht es, und sie isst sich satt). Выше A2 тянут длинные предложения на und и da, Konjunktiv II (wir müssten uns … bezeigen, wie wär's, wenn wir … aufblieben), опущенный вспомогательный глагол (ob es gleich sein Hemdlein weggegeben) и десяток устаревших слов, помеченных old.",
+    "source": "Kinder- und Haus-Märchen, 7. Auflage, Dieterich, Göttingen 1857, орфография приведена к современной норме",
+    "chapters": [
+     {
+      "title": "Die Sterntaler",
+      "titleTr": "Звёздные талеры",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war einmal ein kleines Mädchen, dem war Vater und Mutter gestorben, und es war so arm, dass es kein Kämmerchen mehr hatte darin zu wohnen und kein Bettchen mehr darin zu schlafen und endlich gar nichts mehr als die Kleider auf dem Leib und ein Stückchen Brot in der Hand, das ihm ein mitleidiges Herz geschenkt hatte.",
+         "tr": "Жила-была маленькая девочка, у неё умерли отец и мать, и была она так бедна, что не было у неё больше ни каморки, чтобы жить, ни кроватки, чтобы спать, и в конце концов ничего, кроме одежды на теле и кусочка хлеба в руке, который подарило ей чьё-то жалостливое сердце."
+        },
+        {
+         "de": "Es war aber gut und fromm.",
+         "tr": "Но она была добрая и благочестивая."
+        },
+        {
+         "de": "Und weil es so von aller Welt verlassen war, ging es im Vertrauen auf den lieben Gott hinaus ins Feld.",
+         "tr": "И раз уж весь свет её покинул, пошла она, уповая на Господа Бога, в чистое поле."
+        }
+       ],
+       [
+        {
+         "de": "Da begegnete ihm ein armer Mann, der sprach: »Ach, gib mir etwas zu essen, ich bin so hungrig.«",
+         "tr": "Встретился ей бедный человек и сказал: «Ах, дай мне что-нибудь поесть, я так голоден»."
+        },
+        {
+         "de": "Es reichte ihm das ganze Stückchen Brot und sagte: »Gott segne dir's«, und ging weiter.",
+         "tr": "Она протянула ему весь кусочек хлеба, сказала: «Благослови тебя Бог», — и пошла дальше."
+        },
+        {
+         "de": "Da kam ein Kind, das jammerte und sprach: »Es friert mich so an meinem Kopfe, schenk mir etwas, womit ich ihn bedecken kann.«",
+         "tr": "Тут подошёл ребёнок, жалобно плакал и говорил: «У меня так мёрзнет голова, подари мне что-нибудь, чем её прикрыть»."
+        },
+        {
+         "de": "Da tat es seine Mütze ab und gab sie ihm.",
+         "tr": "Тогда она сняла свою шапочку и отдала ему."
+        }
+       ],
+       [
+        {
+         "de": "Und als es noch eine Weile gegangen war, kam wieder ein Kind und hatte kein Leibchen an und fror: da gab es ihm seins; und noch weiter, da bat eins um ein Röcklein, das gab es auch von sich hin.",
+         "tr": "А когда она прошла ещё немного, пришёл ещё один ребёнок — на нём не было лифчика-безрукавки, и он мёрз; тогда она отдала ему свою; а ещё дальше один попросил юбочку — она отдала и её."
+        },
+        {
+         "de": "Endlich gelangte es in einen Wald, und es war schon dunkel geworden, da kam noch eins und bat um ein Hemdlein, und das fromme Mädchen dachte: »Es ist dunkle Nacht, da sieht dich niemand, du kannst wohl dein Hemd weggeben«, und zog das Hemd ab und gab es auch noch hin.",
+         "tr": "Наконец она пришла в лес, и уже стемнело, когда подошёл ещё один и попросил рубашку, и благочестивая девочка подумала: «Ночь тёмная, тебя никто не увидит, можешь и рубашку отдать», — сняла рубашку и отдала и её."
+        }
+       ],
+       [
+        {
+         "de": "Und wie es so stand und gar nichts mehr hatte, fielen auf einmal die Sterne vom Himmel und waren lauter harte, blanke Taler; und ob es gleich sein Hemdlein weggegeben, so hatte es ein neues an, und das war vom allerfeinsten Linnen.",
+         "tr": "И когда она так стояла и у неё совсем ничего не осталось, вдруг с неба упали звёзды, и это были сплошь твёрдые блестящие талеры; и хотя она отдала свою рубашечку, на ней оказалась новая — из тончайшего льна."
+        },
+        {
+         "de": "Da sammelte es sich die Taler hinein und war reich für sein Lebtag.",
+         "tr": "Она собрала в неё талеры и была богата до конца своих дней."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der süße Brei",
+      "titleTr": "Сладкая каша",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war einmal ein armes, frommes Mädchen, das lebte mit seiner Mutter allein, und sie hatten nichts mehr zu essen.",
+         "tr": "Жила-была бедная благочестивая девочка, она жила с матерью одна, и есть им было больше нечего."
+        },
+        {
+         "de": "Da ging das Kind hinaus in den Wald, und begegnete ihm da eine alte Frau, die wusste seinen Jammer schon und schenkte ihm ein Töpfchen, zu dem sollt es sagen: »Töpfchen, koche«, so kochte es guten, süßen Hirsenbrei, und wenn es sagte: »Töpfchen, steh«, so hörte es wieder auf zu kochen.",
+         "tr": "Пошла девочка в лес, и встретилась ей там старушка, которая уже знала о её горе и подарила ей горшочек: скажешь ему «Горшочек, вари» — и он сварит хорошую сладкую пшённую кашу, а скажешь «Горшочек, стой» — и он перестанет варить."
+        }
+       ],
+       [
+        {
+         "de": "Das Mädchen brachte den Topf seiner Mutter heim, und nun waren sie ihrer Armut und ihres Hungers ledig und aßen süßen Brei, so oft sie wollten.",
+         "tr": "Девочка принесла горшок матери домой, и теперь они избавились от бедности и голода и ели сладкую кашу, сколько хотели."
+        }
+       ],
+       [
+        {
+         "de": "Auf eine Zeit war das Mädchen ausgegangen, da sprach die Mutter: »Töpfchen, koche«, da kocht es, und sie isst sich satt; nun will sie, dass das Töpfchen wieder aufhören soll, aber sie weiß das Wort nicht.",
+         "tr": "Как-то раз девочка ушла из дому, и мать сказала: «Горшочек, вари», — он варит, и она наедается досыта; теперь она хочет, чтобы горшочек снова перестал, но не знает слова."
+        },
+        {
+         "de": "Also kocht es fort, und der Brei steigt über den Rand hinaus und kocht immer zu, die Küche und das ganze Haus voll, und das zweite Haus und dann die Straße, als wollt's die ganze Welt satt machen, und ist die größte Not, und kein Mensch weiß sich da zu helfen.",
+         "tr": "И горшочек всё варит, и каша лезет через край и всё варится — полная кухня и весь дом, и второй дом, и потом улица, будто хочет накормить весь мир, и беда великая, и ни один человек не знает, что тут делать."
+        }
+       ],
+       [
+        {
+         "de": "Endlich, wie nur noch ein einziges Haus übrig ist, da kommt das Kind heim und spricht nur: »Töpfchen, steh«, da steht es und hört auf zu kochen; und wer wieder in die Stadt wollte, der musste sich durchessen.",
+         "tr": "Наконец, когда оставался только один-единственный дом, девочка приходит домой и говорит лишь: «Горшочек, стой», — и он останавливается и перестаёт варить; а кто хотел снова попасть в город, тому пришлось проедать себе дорогу."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Die Wichtelmänner",
+      "titleTr": "Человечки-помощники",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war ein Schuster ohne seine Schuld so arm geworden, dass ihm endlich nichts mehr übrig blieb als Leder zu einem einzigen Paar Schuhe.",
+         "tr": "Один сапожник без всякой своей вины так обеднел, что у него в конце концов не осталось ничего, кроме кожи на одну-единственную пару башмаков."
+        },
+        {
+         "de": "Nun schnitt er am Abend die Schuhe zu, die wollte er den nächsten Morgen in Arbeit nehmen; und weil er ein gutes Gewissen hatte, so legte er sich ruhig zu Bett, befahl sich dem lieben Gott und schlief ein.",
+         "tr": "Вот вечером он раскроил башмаки, чтобы на следующее утро взяться за работу; и так как совесть у него была чиста, он спокойно лёг в постель, поручил себя Господу Богу и уснул."
+        }
+       ],
+       [
+        {
+         "de": "Morgens, nachdem er sein Gebet verrichtet hatte und sich zur Arbeit niedersetzen wollte, so standen die beiden Schuhe ganz fertig auf seinem Tisch.",
+         "tr": "Утром, когда он прочёл молитву и хотел сесть за работу, оба башмака стояли совсем готовые у него на столе."
+        },
+        {
+         "de": "Er verwunderte sich und wusste nicht, was er dazu sagen sollte.",
+         "tr": "Он удивился и не знал, что и сказать."
+        },
+        {
+         "de": "Er nahm die Schuhe in die Hand, um sie näher zu betrachten: sie waren so sauber gearbeitet, dass kein Stich daran falsch war, gerade als wenn es ein Meisterstück sein sollte.",
+         "tr": "Он взял башмаки в руки, чтобы рассмотреть их получше: они были сделаны так чисто, что ни один стежок не был неверным, — прямо как будто это был образец мастерства."
+        }
+       ],
+       [
+        {
+         "de": "Bald darauf trat auch schon ein Käufer ein, und weil ihm die Schuhe so gut gefielen, so bezahlte er mehr als gewöhnlich dafür, und der Schuster konnte von dem Geld Leder zu zwei Paar Schuhen erhandeln.",
+         "tr": "Вскоре зашёл и покупатель, и так как башмаки ему очень понравились, он заплатил за них больше обычного, и сапожник смог на эти деньги выторговать кожи на две пары башмаков."
+        },
+        {
+         "de": "Er schnitt sie abends zu und wollte den nächsten Morgen mit frischem Mut an die Arbeit gehen, aber er brauchte es nicht, denn als er aufstand, waren sie schon fertig, und es blieben auch nicht die Käufer aus, die ihm so viel Geld gaben, dass er Leder zu vier Paar Schuhen einkaufen konnte.",
+         "tr": "Вечером он их раскроил и хотел на следующее утро со свежими силами приняться за работу, но ему это было не нужно: когда он встал, они уже были готовы, и не было отбоя и от покупателей, которые давали ему столько денег, что он смог закупить кожи на четыре пары башмаков."
+        },
+        {
+         "de": "Er fand früh morgens auch die vier Paar fertig; und so ging's immer fort, was er abends zuschnitt, das war am Morgen verarbeitet, also dass er bald wieder sein ehrliches Auskommen hatte und endlich ein wohlhabender Mann ward.",
+         "tr": "Рано утром он нашёл и четыре пары готовыми; и так шло всё время: что он вечером раскраивал, то к утру было сделано, так что вскоре у него снова был честный заработок, и в конце концов он стал зажиточным человеком."
+        }
+       ],
+       [
+        {
+         "de": "Nun geschah es eines Abends nicht lange vor Weihnachten, als der Mann wieder zugeschnitten hatte, dass er vor Schlafengehen zu seiner Frau sprach: »Wie wär's, wenn wir diese Nacht aufblieben, um zu sehen, wer uns solche hilfreiche Hand leistet?«",
+         "tr": "Вот однажды вечером, незадолго до Рождества, когда сапожник снова раскроил кожу, он перед сном сказал жене: «А что, если мы этой ночью не ляжем спать и посмотрим, кто нам так помогает?»"
+        },
+        {
+         "de": "Die Frau war's zufrieden und steckte ein Licht an; darauf verbargen sie sich in den Stubenecken, hinter den Kleidern, die da aufgehängt waren, und gaben acht.",
+         "tr": "Жена согласилась и зажгла свечу; потом они спрятались по углам комнаты, за одеждой, которая там висела, и стали следить."
+        }
+       ],
+       [
+        {
+         "de": "Als es Mitternacht war, da kamen zwei kleine, niedliche, nackte Männlein, setzten sich vor des Schusters Tisch, nahmen alle zugeschnittene Arbeit zu sich und fingen an, mit ihren Fingerlein so behänd und schnell zu stechen, zu nähen, zu klopfen, dass der Schuster vor Verwunderung die Augen nicht abwenden konnte.",
+         "tr": "Когда настала полночь, пришли два маленьких, миленьких, голеньких человечка, уселись за стол сапожника, взяли к себе всю раскроенную работу и принялись своими пальчиками так проворно и быстро колоть, шить, стучать, что сапожник от удивления не мог отвести глаз."
+        },
+        {
+         "de": "Sie ließen nicht nach, bis alles zu Ende gebracht war und fertig auf dem Tische stand, dann sprangen sie schnell fort.",
+         "tr": "Они не останавливались, пока всё не было закончено и не стояло готовым на столе, а потом быстро убежали."
+        }
+       ],
+       [
+        {
+         "de": "Am andern Morgen sprach die Frau: »Die kleinen Männer haben uns reich gemacht, wir müssten uns doch dankbar dafür bezeigen.",
+         "tr": "На другое утро жена сказала: «Маленькие человечки сделали нас богатыми, нам бы надо отблагодарить их."
+        },
+        {
+         "de": "Sie laufen so herum, haben nichts am Leib und müssen frieren.",
+         "tr": "Они бегают так, на теле у них ничего нет, им, наверно, холодно."
+        },
+        {
+         "de": "Weißt du was?",
+         "tr": "Знаешь что?"
+        },
+        {
+         "de": "Ich will Hemdlein, Rock, Wams und Höslein für sie nähen, auch jedem ein Paar Strümpfe stricken; mach du jedem ein Paar Schühlein dazu.«",
+         "tr": "Я сошью им рубашечки, курточки, жилетки и штанишки, да ещё свяжу каждому по паре чулок; а ты сделай каждому по паре башмачков»."
+        },
+        {
+         "de": "Der Mann sprach: »Das bin ich wohl zufrieden«, und abends, wie sie alles fertig hatten, legten sie die Geschenke statt der zugeschnittenen Arbeit zusammen auf den Tisch und versteckten sich dann, um mit anzusehen, wie sich die Männlein dazu anstellen würden.",
+         "tr": "Муж сказал: «Я охотно согласен», — и вечером, когда у них всё было готово, они положили подарки вместо раскроенной работы на стол и потом спрятались, чтобы посмотреть, как поведут себя человечки."
+        }
+       ],
+       [
+        {
+         "de": "Um Mitternacht kamen sie herangesprungen und wollten sich gleich an die Arbeit machen; als sie aber kein zugeschnittenes Leder, sondern die niedlichen Kleidungsstücke fanden, verwunderten sie sich erst, dann aber bezeigten sie eine gewaltige Freude.",
+         "tr": "В полночь они прибежали вприпрыжку и хотели сразу приняться за работу; но когда нашли не раскроенную кожу, а миленькие наряды, сначала удивились, а потом очень обрадовались."
+        },
+        {
+         "de": "Mit der größten Geschwindigkeit zogen sie sich an, strichen die schönen Kleider am Leib und sangen: »Sind wir nicht Knaben glatt und fein?",
+         "tr": "С величайшей быстротой они оделись, разгладили на себе красивую одежду и запели: «Разве мы не мальчики гладкие и нарядные?"
+        },
+        {
+         "de": "Was sollen wir länger Schuster sein!«",
+         "tr": "Зачем нам дальше быть сапожниками!»"
+        }
+       ],
+       [
+        {
+         "de": "Dann hüpften und tanzten sie und sprangen über Stühle und Bänke.",
+         "tr": "Потом они прыгали и плясали и скакали через стулья и скамейки."
+        },
+        {
+         "de": "Endlich tanzten sie zur Türe hinaus.",
+         "tr": "Наконец они, танцуя, выбежали за дверь."
+        },
+        {
+         "de": "Von nun an kamen sie nicht wieder, dem Schuster aber ging es wohl, so lang er lebte, und es glückte ihm alles, was er unternahm.",
+         "tr": "С тех пор они больше не приходили, а сапожнику жилось хорошо, пока он был жив, и удавалось ему всё, за что он брался."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der alte Großvater und der Enkel",
+      "titleTr": "Старый дедушка и внук",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war einmal ein steinalter Mann, dem waren die Augen trüb geworden, die Ohren taub, und die Knie zitterten ihm.",
+         "tr": "Жил-был один дряхлый старик: глаза у него помутнели, уши оглохли, и колени дрожали."
+        },
+        {
+         "de": "Wenn er nun bei Tische saß und den Löffel kaum halten konnte, schüttete er Suppe auf das Tischtuch, und es floss ihm auch etwas wieder aus dem Mund.",
+         "tr": "Когда он сидел за столом и едва мог удержать ложку, он проливал суп на скатерть, и у него кое-что вытекало обратно изо рта."
+        }
+       ],
+       [
+        {
+         "de": "Sein Sohn und dessen Frau ekelten sich davor, und deswegen musste sich der alte Großvater endlich hinter den Ofen in die Ecke setzen, und sie gaben ihm sein Essen in ein irdenes Schüsselchen und noch dazu nicht einmal satt; da sah er betrübt nach dem Tisch, und die Augen wurden ihm nass.",
+         "tr": "Сыну и его жене это было противно, и потому старому дедушке в конце концов пришлось сесть за печку в угол, а еду ему давали в глиняной мисочке, да ещё и не досыта; и он печально смотрел на стол, и глаза у него становились мокрыми."
+        },
+        {
+         "de": "Einmal auch konnten seine zitterigen Hände das Schüsselchen nicht festhalten, es fiel zur Erde und zerbrach.",
+         "tr": "Однажды его дрожащие руки не удержали мисочку, она упала на пол и разбилась."
+        },
+        {
+         "de": "Die junge Frau schalt, er sagte aber nichts und seufzte nur.",
+         "tr": "Молодая жена бранилась, а он ничего не говорил, только вздыхал."
+        },
+        {
+         "de": "Da kaufte sie ihm ein hölzernes Schüsselchen für ein paar Heller, daraus musste er nun essen.",
+         "tr": "Тогда она купила ему деревянную мисочку за пару грошей, и из неё ему теперь пришлось есть."
+        }
+       ],
+       [
+        {
+         "de": "Wie sie da so sitzen, so trägt der kleine Enkel von vier Jahren auf der Erde kleine Brettlein zusammen.",
+         "tr": "Вот сидят они так, а маленький внук четырёх лет собирает на полу дощечки."
+        },
+        {
+         "de": "»Was machst du da?«, fragte der Vater.",
+         "tr": "«Что это ты делаешь?» — спросил отец."
+        },
+        {
+         "de": "»Ich mache ein Tröglein«, antwortete das Kind, »daraus sollen Vater und Mutter essen, wenn ich groß bin.«",
+         "tr": "«Я делаю корытце, — ответил ребёнок, — из него будут есть отец и мать, когда я вырасту»."
+        },
+        {
+         "de": "Da sahen sich Mann und Frau eine Weile an, fingen endlich an zu weinen, holten alsofort den alten Großvater an den Tisch und ließen ihn von nun an immer mitessen, sagten auch nichts, wenn er ein wenig verschüttete.",
+         "tr": "Тогда муж и жена переглянулись, наконец заплакали, тотчас привели старого дедушку к столу и с тех пор всегда сажали его есть вместе с собой, и ничего не говорили, если он немного проливал."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "titleTr": "Зоряні талери та інші маленькі казки",
+    "blurb": "Чотири короткі казки братів Грімм. Сирота роздає все до останньої сорочки — і з неба падають зорі-талери. Чарівний горщик варить кашу, доки вона не заливає все місто. Уночі шевцеві шиють черевики голі чоловічки. Онук майструє корито для батьків — і ті розуміють, як поводилися з дідом. Найкоротша книжка рідера.",
+    "levelNote": "A2–B1: чотири короткі казки з простим сюжетом і повторами («Töpfchen, koche» / «Töpfchen, steh», «gab es ihm», «Paar Schuhe»). Майже суцільний Präteritum, у «Солодкій каші» — перехід у теперішній час просто посеред розповіді (da kocht es, und sie isst sich satt). Вище A2 тягнуть довгі речення на und і da, Konjunktiv II (wir müssten uns … bezeigen, wie wär's, wenn wir … aufblieben), пропущене допоміжне дієслово (ob es gleich sein Hemdlein weggegeben) і десяток застарілих слів, позначених old.",
+    "source": "Kinder- und Haus-Märchen, 7. Auflage, Dieterich, Göttingen 1857, орфографію приведено до сучасної норми",
+    "chapters": [
+     {
+      "title": "Die Sterntaler",
+      "titleTr": "Зоряні талери",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war einmal ein kleines Mädchen, dem war Vater und Mutter gestorben, und es war so arm, dass es kein Kämmerchen mehr hatte darin zu wohnen und kein Bettchen mehr darin zu schlafen und endlich gar nichts mehr als die Kleider auf dem Leib und ein Stückchen Brot in der Hand, das ihm ein mitleidiges Herz geschenkt hatte.",
+         "tr": "Жила-була маленька дівчинка, у неї померли батько й мати, і була вона така бідна, що не мала вже ні комірчини, щоб жити, ні ліжечка, щоб спати, і зрештою нічого, крім одягу на тілі та шматочка хліба в руці, який подарувало їй чиєсь жалісливе серце."
+        },
+        {
+         "de": "Es war aber gut und fromm.",
+         "tr": "Але вона була добра й побожна."
+        },
+        {
+         "de": "Und weil es so von aller Welt verlassen war, ging es im Vertrauen auf den lieben Gott hinaus ins Feld.",
+         "tr": "І через те, що весь світ її покинув, пішла вона, уповаючи на Господа Бога, у чисте поле."
+        }
+       ],
+       [
+        {
+         "de": "Da begegnete ihm ein armer Mann, der sprach: »Ach, gib mir etwas zu essen, ich bin so hungrig.«",
+         "tr": "Зустрівся їй бідний чоловік і сказав: «Ах, дай мені щось поїсти, я такий голодний»."
+        },
+        {
+         "de": "Es reichte ihm das ganze Stückchen Brot und sagte: »Gott segne dir's«, und ging weiter.",
+         "tr": "Вона простягла йому весь шматочок хліба, сказала: «Благослови тебе Бог», — і пішла далі."
+        },
+        {
+         "de": "Da kam ein Kind, das jammerte und sprach: »Es friert mich so an meinem Kopfe, schenk mir etwas, womit ich ihn bedecken kann.«",
+         "tr": "Тут підійшла дитина, жалібно плакала й казала: «У мене так мерзне голова, подаруй мені щось, чим її прикрити»."
+        },
+        {
+         "de": "Da tat es seine Mütze ab und gab sie ihm.",
+         "tr": "Тоді вона зняла свою шапочку й віддала їй."
+        }
+       ],
+       [
+        {
+         "de": "Und als es noch eine Weile gegangen war, kam wieder ein Kind und hatte kein Leibchen an und fror: da gab es ihm seins; und noch weiter, da bat eins um ein Röcklein, das gab es auch von sich hin.",
+         "tr": "А коли вона пройшла ще трохи, прийшла ще одна дитина — на ній не було безрукавки, і вона мерзла; тоді дівчинка віддала їй свою; а ще далі одна попросила спідничку — вона віддала й її."
+        },
+        {
+         "de": "Endlich gelangte es in einen Wald, und es war schon dunkel geworden, da kam noch eins und bat um ein Hemdlein, und das fromme Mädchen dachte: »Es ist dunkle Nacht, da sieht dich niemand, du kannst wohl dein Hemd weggeben«, und zog das Hemd ab und gab es auch noch hin.",
+         "tr": "Нарешті вона прийшла в ліс, і вже стемніло, коли підійшла ще одна дитина й попросила сорочку, і побожна дівчинка подумала: «Ніч темна, тебе ніхто не побачить, можеш і сорочку віддати», — зняла сорочку й віддала і її."
+        }
+       ],
+       [
+        {
+         "de": "Und wie es so stand und gar nichts mehr hatte, fielen auf einmal die Sterne vom Himmel und waren lauter harte, blanke Taler; und ob es gleich sein Hemdlein weggegeben, so hatte es ein neues an, und das war vom allerfeinsten Linnen.",
+         "tr": "І коли вона так стояла й у неї зовсім нічого не лишилося, раптом з неба впали зорі, і це були суцільно тверді блискучі талери; і хоча вона віддала свою сорочечку, на ній опинилася нова — з найтоншого льону."
+        },
+        {
+         "de": "Da sammelte es sich die Taler hinein und war reich für sein Lebtag.",
+         "tr": "Вона зібрала в неї талери й була багата до кінця своїх днів."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der süße Brei",
+      "titleTr": "Солодка каша",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war einmal ein armes, frommes Mädchen, das lebte mit seiner Mutter allein, und sie hatten nichts mehr zu essen.",
+         "tr": "Жила-була бідна побожна дівчинка, вона жила з матір'ю сама, і їсти їм уже не було чого."
+        },
+        {
+         "de": "Da ging das Kind hinaus in den Wald, und begegnete ihm da eine alte Frau, die wusste seinen Jammer schon und schenkte ihm ein Töpfchen, zu dem sollt es sagen: »Töpfchen, koche«, so kochte es guten, süßen Hirsenbrei, und wenn es sagte: »Töpfchen, steh«, so hörte es wieder auf zu kochen.",
+         "tr": "Пішла дівчинка в ліс, і зустрілася їй там бабуся, яка вже знала про її горе й подарувала їй горщик: скажеш йому «Горщику, вари» — і він зварить добру солодку пшоняну кашу, а скажеш «Горщику, стій» — і він перестане варити."
+        }
+       ],
+       [
+        {
+         "de": "Das Mädchen brachte den Topf seiner Mutter heim, und nun waren sie ihrer Armut und ihres Hungers ledig und aßen süßen Brei, so oft sie wollten.",
+         "tr": "Дівчинка принесла горщик матері додому, і тепер вони позбулися бідності й голоду та їли солодку кашу, скільки хотіли."
+        }
+       ],
+       [
+        {
+         "de": "Auf eine Zeit war das Mädchen ausgegangen, da sprach die Mutter: »Töpfchen, koche«, da kocht es, und sie isst sich satt; nun will sie, dass das Töpfchen wieder aufhören soll, aber sie weiß das Wort nicht.",
+         "tr": "Якось дівчинка пішла з дому, і мати сказала: «Горщику, вари», — він варить, і вона наїдається досхочу; тепер вона хоче, щоб горщик знову перестав, але не знає слова."
+        },
+        {
+         "de": "Also kocht es fort, und der Brei steigt über den Rand hinaus und kocht immer zu, die Küche und das ganze Haus voll, und das zweite Haus und dann die Straße, als wollt's die ganze Welt satt machen, und ist die größte Not, und kein Mensch weiß sich da zu helfen.",
+         "tr": "І горщик усе варить, і каша лізе через край і все вариться — повна кухня й увесь дім, і другий дім, і потім вулиця, ніби хоче нагодувати весь світ, і біда велика, і жодна людина не знає, що тут робити."
+        }
+       ],
+       [
+        {
+         "de": "Endlich, wie nur noch ein einziges Haus übrig ist, da kommt das Kind heim und spricht nur: »Töpfchen, steh«, da steht es und hört auf zu kochen; und wer wieder in die Stadt wollte, der musste sich durchessen.",
+         "tr": "Нарешті, коли лишався тільки один-єдиний дім, дівчинка приходить додому й каже лише: «Горщику, стій», — і він зупиняється й перестає варити; а хто хотів знову потрапити в місто, мусив проїдати собі дорогу."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Die Wichtelmänner",
+      "titleTr": "Чоловічки-помічники",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war ein Schuster ohne seine Schuld so arm geworden, dass ihm endlich nichts mehr übrig blieb als Leder zu einem einzigen Paar Schuhe.",
+         "tr": "Один швець без жодної своєї провини так збіднів, що в нього зрештою не лишилося нічого, крім шкіри на одну-єдину пару черевиків."
+        },
+        {
+         "de": "Nun schnitt er am Abend die Schuhe zu, die wollte er den nächsten Morgen in Arbeit nehmen; und weil er ein gutes Gewissen hatte, so legte er sich ruhig zu Bett, befahl sich dem lieben Gott und schlief ein.",
+         "tr": "Ось увечері він розкроїв черевики, щоб наступного ранку взятися до роботи; і оскільки сумління в нього було чисте, він спокійно ліг у ліжко, доручив себе Господу Богу й заснув."
+        }
+       ],
+       [
+        {
+         "de": "Morgens, nachdem er sein Gebet verrichtet hatte und sich zur Arbeit niedersetzen wollte, so standen die beiden Schuhe ganz fertig auf seinem Tisch.",
+         "tr": "Уранці, коли він помолився й хотів сісти до роботи, обидва черевики стояли зовсім готові в нього на столі."
+        },
+        {
+         "de": "Er verwunderte sich und wusste nicht, was er dazu sagen sollte.",
+         "tr": "Він здивувався й не знав, що й сказати."
+        },
+        {
+         "de": "Er nahm die Schuhe in die Hand, um sie näher zu betrachten: sie waren so sauber gearbeitet, dass kein Stich daran falsch war, gerade als wenn es ein Meisterstück sein sollte.",
+         "tr": "Він узяв черевики в руки, щоб роздивитися їх ближче: вони були зроблені так чисто, що жоден стібок не був хибним, — ніби це був зразок майстерності."
+        }
+       ],
+       [
+        {
+         "de": "Bald darauf trat auch schon ein Käufer ein, und weil ihm die Schuhe so gut gefielen, so bezahlte er mehr als gewöhnlich dafür, und der Schuster konnte von dem Geld Leder zu zwei Paar Schuhen erhandeln.",
+         "tr": "Невдовзі зайшов і покупець, і оскільки черевики йому дуже сподобалися, він заплатив за них більше, ніж звичайно, і швець зміг на ці гроші виторгувати шкіри на дві пари черевиків."
+        },
+        {
+         "de": "Er schnitt sie abends zu und wollte den nächsten Morgen mit frischem Mut an die Arbeit gehen, aber er brauchte es nicht, denn als er aufstand, waren sie schon fertig, und es blieben auch nicht die Käufer aus, die ihm so viel Geld gaben, dass er Leder zu vier Paar Schuhen einkaufen konnte.",
+         "tr": "Увечері він їх розкроїв і хотів наступного ранку з новими силами взятися до роботи, але йому це було не потрібно: коли він устав, вони вже були готові, і не бракувало й покупців, які давали йому стільки грошей, що він зміг закупити шкіри на чотири пари черевиків."
+        },
+        {
+         "de": "Er fand früh morgens auch die vier Paar fertig; und so ging's immer fort, was er abends zuschnitt, das war am Morgen verarbeitet, also dass er bald wieder sein ehrliches Auskommen hatte und endlich ein wohlhabender Mann ward.",
+         "tr": "Рано-вранці він знайшов і чотири пари готовими; і так тривало весь час: що він увечері розкроював, те до ранку було зроблено, тож невдовзі він знову мав чесний заробіток, а зрештою став заможною людиною."
+        }
+       ],
+       [
+        {
+         "de": "Nun geschah es eines Abends nicht lange vor Weihnachten, als der Mann wieder zugeschnitten hatte, dass er vor Schlafengehen zu seiner Frau sprach: »Wie wär's, wenn wir diese Nacht aufblieben, um zu sehen, wer uns solche hilfreiche Hand leistet?«",
+         "tr": "Ось одного вечора, незадовго до Різдва, коли швець знову розкроїв шкіру, він перед сном сказав дружині: «А що, як ми цієї ночі не ляжемо спати й подивимося, хто нам так допомагає?»"
+        },
+        {
+         "de": "Die Frau war's zufrieden und steckte ein Licht an; darauf verbargen sie sich in den Stubenecken, hinter den Kleidern, die da aufgehängt waren, und gaben acht.",
+         "tr": "Дружина погодилася й запалила свічку; потім вони сховалися по кутках кімнати, за одягом, що там висів, і стали стежити."
+        }
+       ],
+       [
+        {
+         "de": "Als es Mitternacht war, da kamen zwei kleine, niedliche, nackte Männlein, setzten sich vor des Schusters Tisch, nahmen alle zugeschnittene Arbeit zu sich und fingen an, mit ihren Fingerlein so behänd und schnell zu stechen, zu nähen, zu klopfen, dass der Schuster vor Verwunderung die Augen nicht abwenden konnte.",
+         "tr": "Коли настала північ, прийшли два маленькі, гарненькі, голенькі чоловічки, сіли за стіл шевця, узяли до себе всю розкроєну роботу й почали своїми пальчиками так спритно й швидко колоти, шити, стукати, що швець від подиву не міг відвести очей."
+        },
+        {
+         "de": "Sie ließen nicht nach, bis alles zu Ende gebracht war und fertig auf dem Tische stand, dann sprangen sie schnell fort.",
+         "tr": "Вони не зупинялися, доки все не було закінчено й не стояло готовим на столі, а потім швидко втекли."
+        }
+       ],
+       [
+        {
+         "de": "Am andern Morgen sprach die Frau: »Die kleinen Männer haben uns reich gemacht, wir müssten uns doch dankbar dafür bezeigen.",
+         "tr": "Наступного ранку дружина сказала: «Маленькі чоловічки зробили нас багатими, нам би слід їм віддячити."
+        },
+        {
+         "de": "Sie laufen so herum, haben nichts am Leib und müssen frieren.",
+         "tr": "Вони бігають отак, на тілі в них нічого немає, їм, мабуть, холодно."
+        },
+        {
+         "de": "Weißt du was?",
+         "tr": "Знаєш що?"
+        },
+        {
+         "de": "Ich will Hemdlein, Rock, Wams und Höslein für sie nähen, auch jedem ein Paar Strümpfe stricken; mach du jedem ein Paar Schühlein dazu.«",
+         "tr": "Я пошию їм сорочечки, курточки, камізельки й штанці, та ще й сплету кожному по парі панчіх; а ти зроби кожному по парі черевичків»."
+        },
+        {
+         "de": "Der Mann sprach: »Das bin ich wohl zufrieden«, und abends, wie sie alles fertig hatten, legten sie die Geschenke statt der zugeschnittenen Arbeit zusammen auf den Tisch und versteckten sich dann, um mit anzusehen, wie sich die Männlein dazu anstellen würden.",
+         "tr": "Чоловік сказав: «Я охоче згоден», — і ввечері, коли в них усе було готове, вони поклали подарунки замість розкроєної роботи на стіл і потім сховалися, щоб подивитися, як поведуться чоловічки."
+        }
+       ],
+       [
+        {
+         "de": "Um Mitternacht kamen sie herangesprungen und wollten sich gleich an die Arbeit machen; als sie aber kein zugeschnittenes Leder, sondern die niedlichen Kleidungsstücke fanden, verwunderten sie sich erst, dann aber bezeigten sie eine gewaltige Freude.",
+         "tr": "Опівночі вони прибігли вистрибом і хотіли одразу взятися до роботи; але коли знайшли не розкроєну шкіру, а гарненькі вбрання, спершу здивувалися, а потім дуже зраділи."
+        },
+        {
+         "de": "Mit der größten Geschwindigkeit zogen sie sich an, strichen die schönen Kleider am Leib und sangen: »Sind wir nicht Knaben glatt und fein?",
+         "tr": "З найбільшою швидкістю вони вдяглися, розгладили на собі гарний одяг і заспівали: «Хіба ми не хлопчики гладенькі й ошатні?"
+        },
+        {
+         "de": "Was sollen wir länger Schuster sein!«",
+         "tr": "Навіщо нам далі бути шевцями!»"
+        }
+       ],
+       [
+        {
+         "de": "Dann hüpften und tanzten sie und sprangen über Stühle und Bänke.",
+         "tr": "Потім вони стрибали й танцювали та скакали через стільці й лавки."
+        },
+        {
+         "de": "Endlich tanzten sie zur Türe hinaus.",
+         "tr": "Нарешті вони, танцюючи, вибігли за двері."
+        },
+        {
+         "de": "Von nun an kamen sie nicht wieder, dem Schuster aber ging es wohl, so lang er lebte, und es glückte ihm alles, was er unternahm.",
+         "tr": "Відтоді вони більше не приходили, а шевцеві жилося добре, доки він був живий, і вдавалося йому все, за що він брався."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der alte Großvater und der Enkel",
+      "titleTr": "Старий дідусь і онук",
+      "paragraphs": [
+       [
+        {
+         "de": "Es war einmal ein steinalter Mann, dem waren die Augen trüb geworden, die Ohren taub, und die Knie zitterten ihm.",
+         "tr": "Жив-був один старезний дід: очі в нього потьмяніли, вуха оглухли, і коліна тремтіли."
+        },
+        {
+         "de": "Wenn er nun bei Tische saß und den Löffel kaum halten konnte, schüttete er Suppe auf das Tischtuch, und es floss ihm auch etwas wieder aus dem Mund.",
+         "tr": "Коли він сидів за столом і ледве міг утримати ложку, він проливав суп на скатертину, і в нього дещо витікало назад із рота."
+        }
+       ],
+       [
+        {
+         "de": "Sein Sohn und dessen Frau ekelten sich davor, und deswegen musste sich der alte Großvater endlich hinter den Ofen in die Ecke setzen, und sie gaben ihm sein Essen in ein irdenes Schüsselchen und noch dazu nicht einmal satt; da sah er betrübt nach dem Tisch, und die Augen wurden ihm nass.",
+         "tr": "Синові та його дружині це було гидко, і тому старому дідусеві зрештою довелося сісти за піч у куток, а їжу йому давали в глиняній мисочці, та ще й не досхочу; і він сумно дивився на стіл, і очі в нього ставали мокрими."
+        },
+        {
+         "de": "Einmal auch konnten seine zitterigen Hände das Schüsselchen nicht festhalten, es fiel zur Erde und zerbrach.",
+         "tr": "Одного разу його тремтячі руки не втримали мисочку, вона впала на підлогу й розбилася."
+        },
+        {
+         "de": "Die junge Frau schalt, er sagte aber nichts und seufzte nur.",
+         "tr": "Молода дружина лаялася, а він нічого не казав, тільки зітхав."
+        },
+        {
+         "de": "Da kaufte sie ihm ein hölzernes Schüsselchen für ein paar Heller, daraus musste er nun essen.",
+         "tr": "Тоді вона купила йому дерев'яну мисочку за кілька грошів, і з неї йому тепер довелося їсти."
+        }
+       ],
+       [
+        {
+         "de": "Wie sie da so sitzen, so trägt der kleine Enkel von vier Jahren auf der Erde kleine Brettlein zusammen.",
+         "tr": "Ось сидять вони так, а маленький онук чотирьох років збирає на підлозі дощечки."
+        },
+        {
+         "de": "»Was machst du da?«, fragte der Vater.",
+         "tr": "«Що це ти робиш?» — спитав батько."
+        },
+        {
+         "de": "»Ich mache ein Tröglein«, antwortete das Kind, »daraus sollen Vater und Mutter essen, wenn ich groß bin.«",
+         "tr": "«Я роблю корито, — відповіла дитина, — з нього їстимуть батько й мати, коли я виросту»."
+        },
+        {
+         "de": "Da sahen sich Mann und Frau eine Weile an, fingen endlich an zu weinen, holten alsofort den alten Großvater an den Tisch und ließen ihn von nun an immer mitessen, sagten auch nichts, wenn er ein wenig verschüttete.",
+         "tr": "Тоді чоловік і дружина перезирнулися, нарешті заплакали, одразу привели старого дідуся до столу й відтоді завжди садовили його їсти разом із собою, і нічого не казали, якщо він трохи проливав."
+        }
+       ]
+      ]
+     }
+    ]
+   }
   }
  ]
 }

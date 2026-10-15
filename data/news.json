@@ -1,6 +1,1234 @@
 {
  "items": [
   {
+   "id": "schiffswrack-kekova-2026",
+   "rubric": "science",
+   "level": "B1–B2",
+   "published": "2026-10-15",
+   "added": "2026-10-15",
+   "source": "watson · dpa · GMX",
+   "sourceUrl": "https://www.watson.ch/international/tuerkei/418393649-mutmasslich-aeltestes-schiffswrack-der-welt-entdeckt",
+   "words": 218,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/cover.jpg",
+   "ru": {
+    "title": "Aus der Zeit der Pyramiden: Archäologen finden das wohl älteste Schiffswrack der Welt",
+    "titleTr": "Ровесник пирамид: археологи нашли, вероятно, древнейшее затонувшее судно в мире",
+    "blurb": "У турецкого острова Кекова на глубине 30 метров нашли груз торгового судна, затонувшего 4400–4700 лет назад: три каменных якоря и больше 30 амфор из долины Иордана.",
+    "levelNote": "Перфект и претерит (haben entdeckt, sank, fanden, verglichen), пассив в прошедшем (gebaut wurden), конструкция sein + zu + Infinitiv (sind zu sehen), относительные придаточные (das …, deren Alter …), превосходная степень (das älteste).",
+    "license": "Текст — пересказ новостей watson и GMX по данным dpa; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/kekova.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Остров Кекова и деревня Калекёй на юге Турции. Где-то у этих берегов на дне лежит древний корабль.",
+       "credit": "Bjørn Christian Tørrissen · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Vor der Südküste der Türkei haben Archäologen ein Schiffswrack entdeckt, das wahrscheinlich das älteste der Welt ist.",
+        "tr": "У южного побережья Турции археологи обнаружили затонувший корабль — вероятно, самый древний в мире."
+       },
+       {
+        "de": "Es liegt in etwa 30 Metern Tiefe in der Nähe der Insel Kekova in der Provinz Antalya.",
+        "tr": "Он лежит на глубине около 30 метров недалеко от острова Кекова в провинции Анталья."
+       },
+       {
+        "de": "Das Schiff sank vor 4400 bis 4700 Jahren – also ungefähr zu der Zeit, als in Ägypten die Pyramiden von Gizeh gebaut wurden.",
+        "tr": "Корабль затонул 4400–4700 лет назад — то есть примерно тогда, когда в Египте строили пирамиды Гизы."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Vom Schiff selbst ist nichts übrig geblieben: Das Holz ist längst verschwunden.",
+        "tr": "От самого корабля ничего не осталось: дерево давно исчезло."
+       },
+       {
+        "de": "Es war ein Handelsschiff und etwa zehn Meter lang.",
+        "tr": "Это было торговое судно длиной около десяти метров."
+       },
+       {
+        "de": "Die Taucher fanden aber drei große Steinanker und mehr als 30 Amphoren aus Keramik.",
+        "tr": "Зато водолазы нашли три больших каменных якоря и больше 30 керамических амфор."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/ruinen.jpg",
+       "w": 900,
+       "h": 1200,
+       "cap": "Прозрачная вода у острова Кекова. Здесь под водой лежат и руины античного города, затонувшего после землетрясения.",
+       "credit": "Josep Renalias · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Weil kein Holz erhalten ist, konnten die Forscher die Radiokarbonmethode nicht nutzen.",
+        "tr": "Поскольку дерево не сохранилось, исследователи не смогли применить радиоуглеродный метод."
+       },
+       {
+        "de": "Stattdessen verglichen sie die Form der Gefäße mit anderen Funden, deren Alter schon bekannt ist.",
+        "tr": "Вместо этого они сравнили форму сосудов с другими находками, возраст которых уже известен."
+       },
+       {
+        "de": "„Das Wrack ist eine Zeitkapsel auf dem Meeresgrund“, sagt Expeditionsleiter Hakan Öniz von der Akdeniz-Universität.",
+        "tr": "«Этот корабль — капсула времени на морском дне», — говорит руководитель экспедиции Хакан Ёниз из университета Акдениз."
+       },
+       {
+        "de": "Das bisher älteste bekannte Wrack liegt vor der griechischen Insel Dokos und ist etwa 4200 Jahre alt.",
+        "tr": "Самый древний из известных до сих пор затонувших кораблей лежит у греческого острова Докос, ему около 4200 лет."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Spannend ist auch die Ladung.",
+        "tr": "Интересен и груз."
+       },
+       {
+        "de": "Der Ton der Amphoren stammt wahrscheinlich aus dem Jordantal, und ähnliche Gefäße hat man in Ägypten, Troja und auf Kreta gefunden.",
+        "tr": "Глина амфор, вероятно, из долины Иордана, а похожие сосуды находили в Египте, Трое и на Крите."
+       },
+       {
+        "de": "Das zeigt, wie weit der Handel schon damals reichte.",
+        "tr": "Это показывает, как далеко уже тогда простиралась торговля."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/pyramiden.jpg",
+       "w": 1200,
+       "h": 798,
+       "cap": "Пирамиды Гизы в Египте. Корабль у Кековы затонул примерно тогда, когда их строили.",
+       "credit": "Ricardo Liberato · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In einigen Gefäßen sind noch Reste zu sehen, vielleicht von Olivenöl, Wein oder Baumharz.",
+        "tr": "В некоторых сосудах ещё видны остатки — возможно, оливкового масла, вина или древесной смолы."
+       },
+       {
+        "de": "Eine Amphore mit neun Markierungen und zwei Löchern diente möglicherweise zur Herstellung von Butter oder Käse.",
+        "tr": "Одна амфора с девятью отметками и двумя отверстиями, возможно, служила для приготовления масла или сыра."
+       },
+       {
+        "de": "Vielleicht hatten die Seeleute sogar Ziegen an Bord.",
+        "tr": "Может быть, у моряков на борту даже были козы."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Aus der Zeit der Pyramiden: Archäologen finden das wohl älteste Schiffswrack der Welt",
+    "titleTr": "Ровесник пірамід: археологи знайшли, імовірно, найдавніше затонуле судно у світі",
+    "blurb": "Біля турецького острова Кекова на глибині 30 метрів знайшли вантаж торговельного судна, що затонуло 4400–4700 років тому: три кам'яні якорі й понад 30 амфор із долини Йордану.",
+    "levelNote": "Перфект і претерит (haben entdeckt, sank, fanden, verglichen), пасив у минулому (gebaut wurden), конструкція sein + zu + Infinitiv (sind zu sehen), відносні підрядні (das …, deren Alter …), найвищий ступінь (das älteste).",
+    "license": "Текст — переказ новин watson і GMX за даними dpa; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/kekova.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Острів Кекова й село Калекьой на півдні Туреччини. Десь біля цих берегів на дні лежить стародавній корабель.",
+       "credit": "Bjørn Christian Tørrissen · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Vor der Südküste der Türkei haben Archäologen ein Schiffswrack entdeckt, das wahrscheinlich das älteste der Welt ist.",
+        "tr": "Біля південного узбережжя Туреччини археологи виявили затонулий корабель — імовірно, найдавніший у світі."
+       },
+       {
+        "de": "Es liegt in etwa 30 Metern Tiefe in der Nähe der Insel Kekova in der Provinz Antalya.",
+        "tr": "Він лежить на глибині близько 30 метрів неподалік від острова Кекова в провінції Анталія."
+       },
+       {
+        "de": "Das Schiff sank vor 4400 bis 4700 Jahren – also ungefähr zu der Zeit, als in Ägypten die Pyramiden von Gizeh gebaut wurden.",
+        "tr": "Корабель затонув 4400–4700 років тому — тобто приблизно тоді, коли в Єгипті будували піраміди Гізи."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Vom Schiff selbst ist nichts übrig geblieben: Das Holz ist längst verschwunden.",
+        "tr": "Від самого корабля нічого не залишилося: дерево давно зникло."
+       },
+       {
+        "de": "Es war ein Handelsschiff und etwa zehn Meter lang.",
+        "tr": "Це було торговельне судно завдовжки близько десяти метрів."
+       },
+       {
+        "de": "Die Taucher fanden aber drei große Steinanker und mehr als 30 Amphoren aus Keramik.",
+        "tr": "Зате водолази знайшли три великі кам'яні якорі й понад 30 керамічних амфор."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/ruinen.jpg",
+       "w": 900,
+       "h": 1200,
+       "cap": "Прозора вода біля острова Кекова. Тут під водою лежать і руїни античного міста, що затонуло після землетрусу.",
+       "credit": "Josep Renalias · CC BY 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Weil kein Holz erhalten ist, konnten die Forscher die Radiokarbonmethode nicht nutzen.",
+        "tr": "Оскільки дерево не збереглося, дослідники не змогли застосувати радіовуглецевий метод."
+       },
+       {
+        "de": "Stattdessen verglichen sie die Form der Gefäße mit anderen Funden, deren Alter schon bekannt ist.",
+        "tr": "Натомість вони порівняли форму посудин з іншими знахідками, вік яких уже відомий."
+       },
+       {
+        "de": "„Das Wrack ist eine Zeitkapsel auf dem Meeresgrund“, sagt Expeditionsleiter Hakan Öniz von der Akdeniz-Universität.",
+        "tr": "«Цей корабель — капсула часу на морському дні», — каже керівник експедиції Хакан Йоніз з університету Акденіз."
+       },
+       {
+        "de": "Das bisher älteste bekannte Wrack liegt vor der griechischen Insel Dokos und ist etwa 4200 Jahre alt.",
+        "tr": "Найдавніший з досі відомих затонулих кораблів лежить біля грецького острова Докос, йому близько 4200 років."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Spannend ist auch die Ladung.",
+        "tr": "Цікавий і вантаж."
+       },
+       {
+        "de": "Der Ton der Amphoren stammt wahrscheinlich aus dem Jordantal, und ähnliche Gefäße hat man in Ägypten, Troja und auf Kreta gefunden.",
+        "tr": "Глина амфор, імовірно, з долини Йордану, а схожі посудини знаходили в Єгипті, Трої та на Криті."
+       },
+       {
+        "de": "Das zeigt, wie weit der Handel schon damals reichte.",
+        "tr": "Це показує, як далеко вже тоді сягала торгівля."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/schiffswrack-kekova-2026/img/pyramiden.jpg",
+       "w": 1200,
+       "h": 798,
+       "cap": "Піраміди Гізи в Єгипті. Корабель біля Кекови затонув приблизно тоді, коли їх будували.",
+       "credit": "Ricardo Liberato · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In einigen Gefäßen sind noch Reste zu sehen, vielleicht von Olivenöl, Wein oder Baumharz.",
+        "tr": "У деяких посудинах ще видно залишки — можливо, оливкової олії, вина чи деревної смоли."
+       },
+       {
+        "de": "Eine Amphore mit neun Markierungen und zwei Löchern diente möglicherweise zur Herstellung von Butter oder Käse.",
+        "tr": "Одна амфора з дев'ятьма позначками й двома отворами, можливо, слугувала для виготовлення масла чи сиру."
+       },
+       {
+        "de": "Vielleicht hatten die Seeleute sogar Ziegen an Bord.",
+        "tr": "Можливо, у моряків на борту навіть були кози."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "d-you-wallet-2026",
+   "rubric": "tech",
+   "level": "B1–B2",
+   "published": "2026-10-14",
+   "added": "2026-10-15",
+   "source": "beck-aktuell · teltarif.de · t3n",
+   "sourceUrl": "https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/gesetzentwurf-digitale-identitaet-eudi-wallet-d-you-datenschutz-eu-2026-10-14",
+   "words": 182,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/cover.jpg",
+   "ru": {
+    "title": "Der Ausweis im Handy: Die digitale Brieftasche „d-you“ kommt im Januar",
+    "titleTr": "Документы в телефоне: цифровой кошелёк d-you появится в январе",
+    "blurb": "С 2 января 2027 года в Германии заработает приложение d-you: удостоверение личности, возраст, банковский счёт — со смартфона. Для настройки подойдёт и электронный ВНЖ.",
+    "levelNote": "Модальные глаголы (soll starten, darf man nutzen, möchten), возвратные и отделяемые глаголы (sich ausweisen, sich ausgeben, dazukommen), перфект (hat gebilligt, haben versprochen), инфинитив с zu, конъюнктив II (könnten), лексика документов.",
+    "license": "Текст — пересказ новостей beck-aktuell, teltarif.de и t3n; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/ausweis.jpg",
+       "w": 1000,
+       "h": 631,
+       "cap": "Образец немецкого удостоверения личности (Personalausweis). Его данные можно будет перенести в приложение d-you.",
+       "credit": "Bundesministerium des Innern · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Bald kann man sich in Deutschland mit dem Smartphone ausweisen.",
+        "tr": "Скоро в Германии можно будет удостоверять личность с помощью смартфона."
+       },
+       {
+        "de": "Am 2. Januar 2027 soll die staatliche App „d-you“ starten – die deutsche Version der europäischen digitalen Brieftasche, der EUDI-Wallet.",
+        "tr": "2 января 2027 года должно заработать государственное приложение d-you — немецкая версия европейского цифрового кошелька EUDI-Wallet."
+       },
+       {
+        "de": "Am 14. Oktober hat der Digitalausschuss des Bundestages das Gesetz dafür gebilligt.",
+        "tr": "14 октября комитет бундестага по цифровым делам одобрил закон об этом."
+       },
+       {
+        "de": "Union und SPD stimmten dafür, die Opposition dagegen.",
+        "tr": "ХДС/ХСС и СДПГ проголосовали за, оппозиция — против."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mit der App kann man zum Beispiel sein Alter nachweisen, Verträge abschließen oder ein Bankkonto eröffnen.",
+        "tr": "С помощью приложения можно, например, подтвердить свой возраст, заключить договор или открыть банковский счёт."
+       },
+       {
+        "de": "Später sollen auch der Führerschein und andere Dokumente dazukommen.",
+        "tr": "Позже туда должны добавиться и водительские права, и другие документы."
+       },
+       {
+        "de": "Die App ist kostenlos, und ihre Nutzung bleibt freiwillig.",
+        "tr": "Приложение бесплатное, а пользоваться им — по желанию."
+       },
+       {
+        "de": "Für die Einrichtung braucht man einen Personalausweis oder einen elektronischen Aufenthaltstitel mit Online-Funktion.",
+        "tr": "Для настройки нужно удостоверение личности (Personalausweis) или электронный вид на жительство с включённой онлайн-функцией."
+       },
+       {
+        "de": "Die Online-Ausweisfunktion darf man schon ab 13 Jahren nutzen.",
+        "tr": "Пользоваться онлайн-удостоверением можно уже с 13 лет."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/smartphone.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Приложение d-you будет бесплатным и работать на обычном смартфоне. Пользоваться им — по желанию.",
+       "credit": "Dennis Cortés · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Laut einer Umfrage des Digitalverbands Bitkom möchten 53 Prozent der Erwachsenen die Wallet nutzen.",
+        "tr": "Согласно опросу цифровой ассоциации Bitkom, 53 процента взрослых хотят пользоваться кошельком."
+       },
+       {
+        "de": "Doch 46 Prozent haben noch nie davon gehört.",
+        "tr": "Однако 46 процентов о нём ещё никогда не слышали."
+       },
+       {
+        "de": "Mehr als 180 Unternehmen haben schon versprochen, „d-you“ zu akzeptieren.",
+        "tr": "Больше 180 компаний уже пообещали принимать d-you."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/reichstag.jpg",
+       "w": 1200,
+       "h": 707,
+       "cap": "Здание Рейхстага в Берлине — здесь заседает бундестаг. Закон о цифровой идентичности одобрил его комитет по цифровым делам.",
+       "credit": "Jörg Braukmann · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Es gibt aber auch Kritik.",
+        "tr": "Но есть и критика."
+       },
+       {
+        "de": "Verbraucherschützer fordern mehr Datenschutz: Man soll die App auch unter einem Pseudonym nutzen können.",
+        "tr": "Защитники прав потребителей требуют больше защиты данных: приложением должно быть можно пользоваться и под псевдонимом."
+       },
+       {
+        "de": "Fachleute warnen außerdem, dass mehr als die Hälfte aller Android-Handys weltweit keine Sicherheitsupdates mehr bekommt.",
+        "tr": "Кроме того, специалисты предупреждают, что больше половины всех Android-телефонов в мире уже не получают обновлений безопасности."
+       },
+       {
+        "de": "Auf einem infizierten Gerät könnten Betrüger sich als eine andere Person ausgeben und zum Beispiel einen Kredit beantragen.",
+        "tr": "На заражённом устройстве мошенники могли бы выдать себя за другого человека и, например, оформить кредит."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Der Ausweis im Handy: Die digitale Brieftasche „d-you“ kommt im Januar",
+    "titleTr": "Документи в телефоні: цифровий гаманець d-you з'явиться в січні",
+    "blurb": "З 2 січня 2027 року в Німеччині запрацює застосунок d-you: посвідчення особи, вік, банківський рахунок — зі смартфона. Для налаштування підійде й електронна посвідка на проживання.",
+    "levelNote": "Модальні дієслова (soll starten, darf man nutzen, möchten), зворотні й відокремлювані дієслова (sich ausweisen, sich ausgeben, dazukommen), перфект (hat gebilligt, haben versprochen), інфінітив із zu, кон'юнктив II (könnten), лексика документів.",
+    "license": "Текст — переказ новин beck-aktuell, teltarif.de і t3n; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/ausweis.jpg",
+       "w": 1000,
+       "h": 631,
+       "cap": "Зразок німецького посвідчення особи (Personalausweis). Його дані можна буде перенести в застосунок d-you.",
+       "credit": "Bundesministerium des Innern · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Bald kann man sich in Deutschland mit dem Smartphone ausweisen.",
+        "tr": "Незабаром у Німеччині можна буде посвідчувати особу за допомогою смартфона."
+       },
+       {
+        "de": "Am 2. Januar 2027 soll die staatliche App „d-you“ starten – die deutsche Version der europäischen digitalen Brieftasche, der EUDI-Wallet.",
+        "tr": "2 січня 2027 року має запрацювати державний застосунок d-you — німецька версія європейського цифрового гаманця EUDI-Wallet."
+       },
+       {
+        "de": "Am 14. Oktober hat der Digitalausschuss des Bundestages das Gesetz dafür gebilligt.",
+        "tr": "14 жовтня комітет бундестагу з цифрових питань схвалив закон про це."
+       },
+       {
+        "de": "Union und SPD stimmten dafür, die Opposition dagegen.",
+        "tr": "ХДС/ХСС і СДПН проголосували «за», опозиція — «проти»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mit der App kann man zum Beispiel sein Alter nachweisen, Verträge abschließen oder ein Bankkonto eröffnen.",
+        "tr": "За допомогою застосунку можна, наприклад, підтвердити свій вік, укласти договір або відкрити банківський рахунок."
+       },
+       {
+        "de": "Später sollen auch der Führerschein und andere Dokumente dazukommen.",
+        "tr": "Пізніше туди мають додатися і водійське посвідчення, і інші документи."
+       },
+       {
+        "de": "Die App ist kostenlos, und ihre Nutzung bleibt freiwillig.",
+        "tr": "Застосунок безплатний, а користуватися ним — за бажанням."
+       },
+       {
+        "de": "Für die Einrichtung braucht man einen Personalausweis oder einen elektronischen Aufenthaltstitel mit Online-Funktion.",
+        "tr": "Для налаштування потрібне посвідчення особи (Personalausweis) або електронна посвідка на проживання з увімкненою онлайн-функцією."
+       },
+       {
+        "de": "Die Online-Ausweisfunktion darf man schon ab 13 Jahren nutzen.",
+        "tr": "Користуватися онлайн-посвідченням можна вже з 13 років."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/smartphone.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Застосунок d-you буде безплатним і працюватиме на звичайному смартфоні. Користуватися ним — за бажанням.",
+       "credit": "Dennis Cortés · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Laut einer Umfrage des Digitalverbands Bitkom möchten 53 Prozent der Erwachsenen die Wallet nutzen.",
+        "tr": "Згідно з опитуванням цифрової асоціації Bitkom, 53 відсотки дорослих хочуть користуватися гаманцем."
+       },
+       {
+        "de": "Doch 46 Prozent haben noch nie davon gehört.",
+        "tr": "Однак 46 відсотків про нього ще ніколи не чули."
+       },
+       {
+        "de": "Mehr als 180 Unternehmen haben schon versprochen, „d-you“ zu akzeptieren.",
+        "tr": "Понад 180 компаній уже пообіцяли приймати d-you."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/d-you-wallet-2026/img/reichstag.jpg",
+       "w": 1200,
+       "h": 707,
+       "cap": "Будівля Рейхстагу в Берліні — тут засідає бундестаг. Закон про цифрову ідентичність схвалив його комітет з цифрових питань.",
+       "credit": "Jörg Braukmann · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Es gibt aber auch Kritik.",
+        "tr": "Але є й критика."
+       },
+       {
+        "de": "Verbraucherschützer fordern mehr Datenschutz: Man soll die App auch unter einem Pseudonym nutzen können.",
+        "tr": "Захисники прав споживачів вимагають більшого захисту даних: застосунком має бути можна користуватися і під псевдонімом."
+       },
+       {
+        "de": "Fachleute warnen außerdem, dass mehr als die Hälfte aller Android-Handys weltweit keine Sicherheitsupdates mehr bekommt.",
+        "tr": "Крім того, фахівці попереджають, що понад половина всіх Android-телефонів у світі вже не отримує оновлень безпеки."
+       },
+       {
+        "de": "Auf einem infizierten Gerät könnten Betrüger sich als eine andere Person ausgeben und zum Beispiel einen Kredit beantragen.",
+        "tr": "На зараженому пристрої шахраї могли б видати себе за іншу людину і, наприклад, оформити кредит."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "inflation-september-2026",
+   "rubric": "economy",
+   "level": "B1",
+   "published": "2026-10-13",
+   "added": "2026-10-15",
+   "source": "Statistisches Bundesamt (Destatis)",
+   "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html",
+   "words": 155,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/cover.jpg",
+   "ru": {
+    "title": "Teures Tanken: Die Inflation steigt auf 3,3 Prozent",
+    "titleTr": "Дорогой бензин: инфляция выросла до 3,3 процента",
+    "blurb": "В сентябре цены в Германии выросли на 3,3 % — больше всего с декабря 2023 года. Бензин подорожал на 37 %, печное топливо — на 75 %, а масло подешевело почти на треть.",
+    "levelNote": "Сравнительная степень (teurer, billiger, höher als, mehr als), werden + прилагательное (wurden teurer), плюсквамперфект (hatte … gelegen), проценты и числа, экономическая лексика (Verbraucherpreise, Inflationsrate, Dienstleistungen).",
+    "license": "Текст — пересказ пресс-релиза Destatis; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/markt.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Брюссельская капуста на рынке в Мюнстере. Свежие овощи за год подорожали на 12 процентов.",
+       "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Das Leben in Deutschland wird wieder spürbar teurer.",
+        "tr": "Жизнь в Германии снова заметно дорожает."
+       },
+       {
+        "de": "Im September 2026 lagen die Verbraucherpreise um 3,3 Prozent höher als ein Jahr zuvor.",
+        "tr": "В сентябре 2026 года потребительские цены были на 3,3 процента выше, чем годом раньше."
+       },
+       {
+        "de": "Das hat das Statistische Bundesamt am 13. Oktober mitgeteilt.",
+        "tr": "Об этом 13 октября сообщило Федеральное статистическое ведомство."
+       },
+       {
+        "de": "Im August hatte die Inflationsrate noch bei 2,9 Prozent gelegen – jetzt ist sie so hoch wie seit Dezember 2023 nicht mehr.",
+        "tr": "В августе уровень инфляции был ещё 2,9 процента — теперь он самый высокий с декабря 2023 года."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/tankstelle.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Заправка в Лейпциге. Бензин и дизель за год подорожали больше чем на треть.",
+       "credit": "Frank Eritt · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der wichtigste Grund ist die Energie: Sie kostete fast 15 Prozent mehr als im Vorjahr.",
+        "tr": "Главная причина — энергия: она стоила почти на 15 процентов больше, чем год назад."
+       },
+       {
+        "de": "Benzin und Diesel wurden um 37,1 Prozent teurer, leichtes Heizöl sogar um 74,9 Prozent.",
+        "tr": "Бензин и дизель подорожали на 37,1 процента, лёгкое печное топливо — даже на 74,9 процента."
+       },
+       {
+        "de": "Der Grund sind die stark gestiegenen Preise auf dem Ölmarkt.",
+        "tr": "Причина — сильно выросшие цены на нефтяном рынке."
+       },
+       {
+        "de": "Strom und Gas wurden dagegen etwas billiger.",
+        "tr": "А вот электричество и газ немного подешевели."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/eier.jpg",
+       "w": 1200,
+       "h": 972,
+       "cap": "Упаковка из десяти яиц. Яйца в сентябре стоили на 15 процентов больше, чем год назад.",
+       "credit": "Frank C. Müller · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Bei den Lebensmitteln sieht es gemischt aus: Insgesamt stiegen ihre Preise nur um 0,4 Prozent.",
+        "tr": "С продуктами картина неоднозначная: в целом цены на них выросли всего на 0,4 процента."
+       },
+       {
+        "de": "Eier kosteten 15,2 Prozent mehr, frisches Gemüse 12 Prozent mehr.",
+        "tr": "Яйца стоили на 15,2 процента больше, свежие овощи — на 12 процентов больше."
+       },
+       {
+        "de": "Butter wurde dagegen fast ein Drittel billiger: minus 29,5 Prozent.",
+        "tr": "Зато сливочное масло подешевело почти на треть: минус 29,5 процента."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch Dienstleistungen wurden teurer, im Durchschnitt um 2,7 Prozent.",
+        "tr": "Подорожали и услуги — в среднем на 2,7 процента."
+       },
+       {
+        "de": "Für einen Friseurbesuch zahlte man 4,3 Prozent mehr, die Mieten stiegen um 1,9 Prozent.",
+        "tr": "За поход к парикмахеру платили на 4,3 процента больше, арендная плата выросла на 1,9 процента."
+       },
+       {
+        "de": "Ohne Energie und Lebensmittel lag die Inflation bei 2,4 Prozent – Fachleute nennen das die Kerninflation.",
+        "tr": "Без учёта энергии и продуктов инфляция составила 2,4 процента — специалисты называют это базовой инфляцией."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Teures Tanken: Die Inflation steigt auf 3,3 Prozent",
+    "titleTr": "Дорогий бензин: інфляція зросла до 3,3 відсотка",
+    "blurb": "У вересні ціни в Німеччині зросли на 3,3 % — найбільше від грудня 2023 року. Бензин подорожчав на 37 %, пічне паливо — на 75 %, а вершкове масло подешевшало майже на третину.",
+    "levelNote": "Вищий ступінь порівняння (teurer, billiger, höher als, mehr als), werden + прикметник (wurden teurer), плюсквамперфект (hatte … gelegen), відсотки й числа, економічна лексика (Verbraucherpreise, Inflationsrate, Dienstleistungen).",
+    "license": "Текст — переказ пресрелізу Destatis; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/markt.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Брюссельська капуста на ринку в Мюнстері. Свіжі овочі за рік подорожчали на 12 відсотків.",
+       "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Das Leben in Deutschland wird wieder spürbar teurer.",
+        "tr": "Життя в Німеччині знову помітно дорожчає."
+       },
+       {
+        "de": "Im September 2026 lagen die Verbraucherpreise um 3,3 Prozent höher als ein Jahr zuvor.",
+        "tr": "У вересні 2026 року споживчі ціни були на 3,3 відсотка вищими, ніж роком раніше."
+       },
+       {
+        "de": "Das hat das Statistische Bundesamt am 13. Oktober mitgeteilt.",
+        "tr": "Про це 13 жовтня повідомило Федеральне статистичне відомство."
+       },
+       {
+        "de": "Im August hatte die Inflationsrate noch bei 2,9 Prozent gelegen – jetzt ist sie so hoch wie seit Dezember 2023 nicht mehr.",
+        "tr": "У серпні рівень інфляції був ще 2,9 відсотка — тепер він найвищий від грудня 2023 року."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/tankstelle.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Заправка в Лейпцигу. Бензин і дизель за рік подорожчали більш ніж на третину.",
+       "credit": "Frank Eritt · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der wichtigste Grund ist die Energie: Sie kostete fast 15 Prozent mehr als im Vorjahr.",
+        "tr": "Головна причина — енергія: вона коштувала майже на 15 відсотків більше, ніж рік тому."
+       },
+       {
+        "de": "Benzin und Diesel wurden um 37,1 Prozent teurer, leichtes Heizöl sogar um 74,9 Prozent.",
+        "tr": "Бензин і дизель подорожчали на 37,1 відсотка, легке пічне паливо — навіть на 74,9 відсотка."
+       },
+       {
+        "de": "Der Grund sind die stark gestiegenen Preise auf dem Ölmarkt.",
+        "tr": "Причина — ціни на нафтовому ринку, що сильно зросли."
+       },
+       {
+        "de": "Strom und Gas wurden dagegen etwas billiger.",
+        "tr": "А от електрика й газ трохи подешевшали."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-september-2026/img/eier.jpg",
+       "w": 1200,
+       "h": 972,
+       "cap": "Упаковка з десяти яєць. Яйця у вересні коштували на 15 відсотків більше, ніж рік тому.",
+       "credit": "Frank C. Müller · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Bei den Lebensmitteln sieht es gemischt aus: Insgesamt stiegen ihre Preise nur um 0,4 Prozent.",
+        "tr": "З продуктами картина неоднозначна: загалом ціни на них зросли лише на 0,4 відсотка."
+       },
+       {
+        "de": "Eier kosteten 15,2 Prozent mehr, frisches Gemüse 12 Prozent mehr.",
+        "tr": "Яйця коштували на 15,2 відсотка більше, свіжі овочі — на 12 відсотків більше."
+       },
+       {
+        "de": "Butter wurde dagegen fast ein Drittel billiger: minus 29,5 Prozent.",
+        "tr": "Зате вершкове масло подешевшало майже на третину: мінус 29,5 відсотка."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch Dienstleistungen wurden teurer, im Durchschnitt um 2,7 Prozent.",
+        "tr": "Подорожчали й послуги — у середньому на 2,7 відсотка."
+       },
+       {
+        "de": "Für einen Friseurbesuch zahlte man 4,3 Prozent mehr, die Mieten stiegen um 1,9 Prozent.",
+        "tr": "За похід до перукаря платили на 4,3 відсотка більше, орендна плата зросла на 1,9 відсотка."
+       },
+       {
+        "de": "Ohne Energie und Lebensmittel lag die Inflation bei 2,4 Prozent – Fachleute nennen das die Kerninflation.",
+        "tr": "Без урахування енергії та продуктів інфляція становила 2,4 відсотка — фахівці називають це базовою інфляцією."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "zwiebelmarkt-weimar-2026",
+   "rubric": "events",
+   "level": "B1",
+   "published": "2026-10-11",
+   "added": "2026-10-15",
+   "source": "Stadt Weimar · weimar-kennenlernen.de · Polizei Weimar",
+   "sourceUrl": "https://www.weimar.de/kultur/veranstaltungen/maerkte-und-feste/zwiebelmarkt/",
+   "words": 148,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/cover.jpg",
+   "ru": {
+    "title": "Zwiebeln, Zöpfe und Goethe: Weimar feiert seinen 373. Zwiebelmarkt",
+    "titleTr": "Лук, косы и Гёте: Веймар отпраздновал 373-й Луковый рынок",
+    "blurb": "С 9 по 11 октября Веймар отмечал 373-й Луковый рынок: 450 торговцев, девять сцен, луковый пирог и знаменитые луковые косы из Хельдрунгена — их любил даже Гёте.",
+    "levelNote": "Претерит (drehte sich, fand … statt, verkauften, schmückte), пассив (werden geflochten, wurde erwähnt), отделяемые глаголы (fand … statt, bauten … auf), плюсквамперфект (hatte gerechnet), sollen в значении «говорят» (soll gewesen sein).",
+    "license": "Текст — пересказ материалов города Веймар, weimar-kennenlernen.de и полиции Веймара; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/zwiebeln.jpg",
+       "w": 1200,
+       "h": 709,
+       "cap": "Луковые косы с сухими цветами — главный товар Лукового рынка в Веймаре.",
+       "credit": "Kora27 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Drei Tage lang drehte sich in Weimar alles um die Zwiebel.",
+        "tr": "Три дня в Веймаре всё вращалось вокруг лука."
+       },
+       {
+        "de": "Vom 9. bis 11. Oktober fand in der Altstadt der 373. Zwiebelmarkt statt – eines der ältesten Volksfeste in Thüringen.",
+        "tr": "С 9 по 11 октября в старом городе прошёл 373-й Луковый рынок — один из старейших народных праздников Тюрингии."
+       },
+       {
+        "de": "Die Stadt hatte mit rund 250.000 Gästen gerechnet.",
+        "tr": "Город рассчитывал примерно на 250 000 гостей."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Rund 450 Händler bauten ihre Stände auf, und auf neun Bühnen gab es Musik und Programm.",
+        "tr": "Около 450 торговцев поставили свои палатки, а на девяти сценах шли музыка и программа."
+       },
+       {
+        "de": "Das Herz des Marktes sind aber die Zwiebelbauern aus Heldrungen.",
+        "tr": "Но сердце рынка — луководы из Хельдрунгена."
+       },
+       {
+        "de": "Etwa 40 von ihnen verkauften in der Schillerstraße ihre berühmten Zwiebelzöpfe.",
+        "tr": "Около 40 из них продавали на Шиллерштрассе свои знаменитые луковые косы."
+       },
+       {
+        "de": "Übrigens werden diese Zöpfe nicht geflochten, sondern gewickelt.",
+        "tr": "Кстати, эти косы не заплетают, а наматывают."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/markt.jpg",
+       "w": 1200,
+       "h": 746,
+       "cap": "Сувениры на Луковом рынке: человечки из луковиц в платочках.",
+       "credit": "Kora27 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Zum Zwiebelmarkt gehört auch ein Klassiker: der Zwiebelkuchen.",
+        "tr": "К Луковому рынку относится и классика — луковый пирог."
+       },
+       {
+        "de": "Traditionell beginnt das Fest mit dem Anschnitt eines Zwiebelkuchens.",
+        "tr": "По традиции праздник начинается с того, что разрезают луковый пирог."
+       },
+       {
+        "de": "Außerdem gab es Knoblauch, frische Kräuter, Obst und Gemüse.",
+        "tr": "Кроме того, продавали чеснок, свежую зелень, фрукты и овощи."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Markt hat eine lange Geschichte: Zum ersten Mal wurde er 1653 erwähnt, damals als Vieh- und Zwiebelmarkt.",
+        "tr": "У рынка долгая история: впервые его упомянули в 1653 году — тогда как скотный и луковый рынок."
+       },
+       {
+        "de": "Auch Goethe soll ein Fan gewesen sein: Er schmückte angeblich seinen Schreibtisch mit Zwiebelzöpfen.",
+        "tr": "Говорят, поклонником был и Гёте: он будто бы украшал свой письменный стол луковыми косами."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/gartenhaus.jpg",
+       "w": 1200,
+       "h": 803,
+       "cap": "Садовый домик Гёте в парке на Ильме в Веймаре. Поэт прожил в Веймаре больше пятидесяти лет.",
+       "credit": "Rolf Kranz · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Polizei zog am Ende eine positive Bilanz: Die Stimmung war entspannt und friedlich.",
+        "tr": "Полиция в итоге подвела положительные итоги: атмосфера была спокойной и мирной."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Zwiebeln, Zöpfe und Goethe: Weimar feiert seinen 373. Zwiebelmarkt",
+    "titleTr": "Цибуля, коси й Гете: Веймар відсвяткував 373-й Цибулевий ярмарок",
+    "blurb": "З 9 по 11 жовтня Веймар святкував 373-й Цибулевий ярмарок: 450 торговців, дев'ять сцен, цибулевий пиріг і знамениті цибулеві коси з Гельдрунгена — їх любив навіть Гете.",
+    "levelNote": "Претерит (drehte sich, fand … statt, verkauften, schmückte), пасив (werden geflochten, wurde erwähnt), відокремлювані дієслова (fand … statt, bauten … auf), плюсквамперфект (hatte gerechnet), sollen у значенні «кажуть» (soll gewesen sein).",
+    "license": "Текст — переказ матеріалів міста Веймар, weimar-kennenlernen.de і поліції Веймара; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/zwiebeln.jpg",
+       "w": 1200,
+       "h": 709,
+       "cap": "Цибулеві коси із сухими квітами — головний товар Цибулевого ярмарку у Веймарі.",
+       "credit": "Kora27 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Drei Tage lang drehte sich in Weimar alles um die Zwiebel.",
+        "tr": "Три дні у Веймарі все оберталося навколо цибулі."
+       },
+       {
+        "de": "Vom 9. bis 11. Oktober fand in der Altstadt der 373. Zwiebelmarkt statt – eines der ältesten Volksfeste in Thüringen.",
+        "tr": "З 9 по 11 жовтня в старому місті відбувся 373-й Цибулевий ярмарок — одне з найстаріших народних свят Тюрингії."
+       },
+       {
+        "de": "Die Stadt hatte mit rund 250.000 Gästen gerechnet.",
+        "tr": "Місто розраховувало приблизно на 250 000 гостей."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Rund 450 Händler bauten ihre Stände auf, und auf neun Bühnen gab es Musik und Programm.",
+        "tr": "Близько 450 торговців поставили свої намети, а на дев'яти сценах звучали музика й програма."
+       },
+       {
+        "de": "Das Herz des Marktes sind aber die Zwiebelbauern aus Heldrungen.",
+        "tr": "Але серце ярмарку — цибулярі з Гельдрунгена."
+       },
+       {
+        "de": "Etwa 40 von ihnen verkauften in der Schillerstraße ihre berühmten Zwiebelzöpfe.",
+        "tr": "Близько 40 із них продавали на Шиллерштрасе свої знамениті цибулеві коси."
+       },
+       {
+        "de": "Übrigens werden diese Zöpfe nicht geflochten, sondern gewickelt.",
+        "tr": "До речі, ці коси не заплітають, а намотують."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/markt.jpg",
+       "w": 1200,
+       "h": 746,
+       "cap": "Сувеніри на Цибулевому ярмарку: чоловічки з цибулин у хустинках.",
+       "credit": "Kora27 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Zum Zwiebelmarkt gehört auch ein Klassiker: der Zwiebelkuchen.",
+        "tr": "До Цибулевого ярмарку належить і класика — цибулевий пиріг."
+       },
+       {
+        "de": "Traditionell beginnt das Fest mit dem Anschnitt eines Zwiebelkuchens.",
+        "tr": "За традицією свято починається з того, що розрізають цибулевий пиріг."
+       },
+       {
+        "de": "Außerdem gab es Knoblauch, frische Kräuter, Obst und Gemüse.",
+        "tr": "Крім того, продавали часник, свіжу зелень, фрукти й овочі."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Markt hat eine lange Geschichte: Zum ersten Mal wurde er 1653 erwähnt, damals als Vieh- und Zwiebelmarkt.",
+        "tr": "Ярмарок має довгу історію: уперше його згадали 1653 року — тоді як ярмарок худоби й цибулі."
+       },
+       {
+        "de": "Auch Goethe soll ein Fan gewesen sein: Er schmückte angeblich seinen Schreibtisch mit Zwiebelzöpfen.",
+        "tr": "Кажуть, шанувальником був і Гете: він нібито прикрашав свій письмовий стіл цибулевими косами."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/zwiebelmarkt-weimar-2026/img/gartenhaus.jpg",
+       "w": 1200,
+       "h": 803,
+       "cap": "Садовий будиночок Гете в парку на Ільмі у Веймарі. Поет прожив у Веймарі понад п'ятдесят років.",
+       "credit": "Rolf Kranz · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Polizei zog am Ende eine positive Bilanz: Die Stimmung war entspannt und friedlich.",
+        "tr": "Поліція зрештою підбила позитивні підсумки: атмосфера була спокійною й мирною."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "weisse-zwerge-2026",
+   "rubric": "astronomy",
+   "level": "B2",
+   "published": "2026-10-10",
+   "added": "2026-10-15",
+   "source": "scinexx · Indian Institute of Science",
+   "sourceUrl": "https://www.scinexx.de/news/kosmos/weisse-zwerge-koennen-dank-starker-magnetfelder-die-chandrasekhar-grenze-knacken/",
+   "words": 205,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/cover.jpg",
+   "ru": {
+    "title": "Schwerer als erlaubt? Magnetfelder könnten Weiße Zwerge wachsen lassen",
+    "titleTr": "Тяжелее положенного? Магнитные поля могут дать белым карликам вырасти",
+    "blurb": "Считалось, что белый карлик не может быть тяжелее 1,4 массы Солнца. Модели индийских астрофизиков показывают: сильное магнитное поле может поднять предел до 2,4.",
+    "levelNote": "Конъюнктив II (könnten anheben, könnten erklären), придаточные с wenn, dass, ob, als, перфект (ist erschienen, haben berechnet), инфинитив с zu (hilft, … standzuhalten), сравнение (schwerer, immer stärker), научная лексика.",
+    "license": "Текст — пересказ новости scinexx по данным IISc и The Astrophysical Journal Letters; иллюстрации — NASA/ESA, общественное достояние",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/zwergnova.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Так художник представляет белого карлика (слева), который забирает вещество у соседней звезды. Вокруг карлика образуется светящийся диск.",
+       "credit": "NASA, L. Hustak (STScI) · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Weiße Zwerge sind die Reste von Sternen, die ihre äußeren Hüllen verloren haben.",
+        "tr": "Белые карлики — это остатки звёзд, которые потеряли свои внешние оболочки."
+       },
+       {
+        "de": "Sie sind ungefähr so groß wie die Erde, aber extrem dicht.",
+        "tr": "По размеру они примерно как Земля, но чрезвычайно плотные."
+       },
+       {
+        "de": "Bisher galt: Ein Weißer Zwerg kann höchstens etwa 1,4 Sonnenmassen schwer sein.",
+        "tr": "До сих пор считалось: белый карлик может весить не больше примерно 1,4 массы Солнца."
+       },
+       {
+        "de": "Diese Obergrenze heißt Chandrasekhar-Grenze.",
+        "tr": "Этот верхний предел называется пределом Чандрасекара."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Forscher des Indian Institute of Science in Bengaluru haben nun gezeigt, dass starke Magnetfelder diese Grenze deutlich anheben könnten.",
+        "tr": "Исследователи из Индийского института науки в Бенгалуру теперь показали, что сильные магнитные поля могли бы заметно поднять этот предел."
+       },
+       {
+        "de": "In ihren Computersimulationen erreichte ein Weißer Zwerg rund 2,4 Sonnenmassen.",
+        "tr": "В их компьютерных моделях белый карлик достиг примерно 2,4 массы Солнца."
+       },
+       {
+        "de": "Die Studie ist in der Fachzeitschrift „The Astrophysical Journal Letters“ erschienen.",
+        "tr": "Исследование вышло в научном журнале «The Astrophysical Journal Letters»."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/sirius.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Сириус A и его спутник — белый карлик Сириус B (маленькая голубая точка справа). Рисунок художника.",
+       "credit": "NASA, ESA, G. Bacon (STScI) · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Wie funktioniert das?",
+        "tr": "Как это работает?"
+       },
+       {
+        "de": "Wenn ein Weißer Zwerg Materie von einem Nachbarstern aufnimmt, wird er schwerer und schrumpft.",
+        "tr": "Когда белый карлик забирает вещество у соседней звезды, он становится тяжелее и сжимается."
+       },
+       {
+        "de": "Dabei wird sein Magnetfeld im Inneren immer stärker.",
+        "tr": "При этом его магнитное поле внутри становится всё сильнее."
+       },
+       {
+        "de": "Es drückt nach außen und hilft dem Stern, der eigenen Schwerkraft standzuhalten.",
+        "tr": "Оно давит наружу и помогает звезде противостоять собственной гравитации."
+       },
+       {
+        "de": "Ohne Magnetfeld lag die Grenze im Modell wieder bei etwa 1,4 Sonnenmassen.",
+        "tr": "Без магнитного поля предел в модели снова оказывался около 1,4 массы Солнца."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "„Die Idee entstand 2011, als ein Sommerstudent zu mir kam“, erzählt Professor Banibrata Mukhopadhyay.",
+        "tr": "«Идея родилась в 2011 году, когда ко мне пришёл студент на летнюю практику», — рассказывает профессор Банибрата Мукхопадхьяй."
+       },
+       {
+        "de": "Er sollte prüfen, ob ein Magnetfeld die Grenze verschieben kann.",
+        "tr": "Тот должен был проверить, может ли магнитное поле сдвинуть предел."
+       },
+       {
+        "de": "Fünfzehn Jahre später liegen nun die Berechnungen vor.",
+        "tr": "Пятнадцать лет спустя расчёты наконец готовы."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/supernova.jpg",
+       "w": 652,
+       "h": 652,
+       "cap": "Сверхновая типа Ia SN 1994D (яркая точка внизу слева) на окраине галактики NGC 4526. Снимок телескопа «Хаббл».",
+       "credit": "NASA/ESA, The Hubble Key Project Team, The High-Z Supernova Search Team · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Ergebnisse könnten besonders helle Sternexplosionen erklären, sogenannte Supernovae vom Typ Ia.",
+        "tr": "Результаты могли бы объяснить особенно яркие звёздные взрывы — так называемые сверхновые типа Ia."
+       },
+       {
+        "de": "Mit solchen Explosionen messen Astronomen Entfernungen im Weltall.",
+        "tr": "С помощью таких взрывов астрономы измеряют расстояния во Вселенной."
+       },
+       {
+        "de": "Einen Beweis gibt es aber noch nicht: Die Forscher haben vereinfachte Modelle ohne Rotation berechnet.",
+        "tr": "Но доказательства пока нет: исследователи рассчитали упрощённые модели без вращения."
+       },
+       {
+        "de": "Und einen so schweren Weißen Zwerg hat am Himmel bisher noch niemand beobachtet.",
+        "tr": "И такого тяжёлого белого карлика на небе до сих пор ещё никто не наблюдал."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Schwerer als erlaubt? Magnetfelder könnten Weiße Zwerge wachsen lassen",
+    "titleTr": "Важчі, ніж дозволено? Магнітні поля можуть дати білим карликам вирости",
+    "blurb": "Вважалося, що білий карлик не може бути важчим за 1,4 маси Сонця. Моделі індійських астрофізиків показують: сильне магнітне поле може підняти межу до 2,4.",
+    "levelNote": "Кон'юнктив II (könnten anheben, könnten erklären), підрядні з wenn, dass, ob, als, перфект (ist erschienen, haben berechnet), інфінітив із zu (hilft, … standzuhalten), порівняння (schwerer, immer stärker), наукова лексика.",
+    "license": "Текст — переказ новини scinexx за даними IISc і The Astrophysical Journal Letters; ілюстрації — NASA/ESA, суспільне надбання",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/zwergnova.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Так художник уявляє білого карлика (ліворуч), який забирає речовину в сусідньої зорі. Навколо карлика утворюється світний диск.",
+       "credit": "NASA, L. Hustak (STScI) · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Weiße Zwerge sind die Reste von Sternen, die ihre äußeren Hüllen verloren haben.",
+        "tr": "Білі карлики — це залишки зір, які втратили свої зовнішні оболонки."
+       },
+       {
+        "de": "Sie sind ungefähr so groß wie die Erde, aber extrem dicht.",
+        "tr": "За розміром вони приблизно як Земля, але надзвичайно щільні."
+       },
+       {
+        "de": "Bisher galt: Ein Weißer Zwerg kann höchstens etwa 1,4 Sonnenmassen schwer sein.",
+        "tr": "Досі вважалося: білий карлик може важити не більше ніж приблизно 1,4 маси Сонця."
+       },
+       {
+        "de": "Diese Obergrenze heißt Chandrasekhar-Grenze.",
+        "tr": "Ця верхня межа називається межею Чандрасекара."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Forscher des Indian Institute of Science in Bengaluru haben nun gezeigt, dass starke Magnetfelder diese Grenze deutlich anheben könnten.",
+        "tr": "Дослідники з Індійського інституту науки в Бенгалуру тепер показали, що сильні магнітні поля могли б помітно підняти цю межу."
+       },
+       {
+        "de": "In ihren Computersimulationen erreichte ein Weißer Zwerg rund 2,4 Sonnenmassen.",
+        "tr": "У їхніх комп'ютерних моделях білий карлик досяг приблизно 2,4 маси Сонця."
+       },
+       {
+        "de": "Die Studie ist in der Fachzeitschrift „The Astrophysical Journal Letters“ erschienen.",
+        "tr": "Дослідження вийшло в науковому журналі «The Astrophysical Journal Letters»."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/sirius.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Сіріус A і його супутник — білий карлик Сіріус B (маленька блакитна цятка праворуч). Малюнок художника.",
+       "credit": "NASA, ESA, G. Bacon (STScI) · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Wie funktioniert das?",
+        "tr": "Як це працює?"
+       },
+       {
+        "de": "Wenn ein Weißer Zwerg Materie von einem Nachbarstern aufnimmt, wird er schwerer und schrumpft.",
+        "tr": "Коли білий карлик забирає речовину в сусідньої зорі, він стає важчим і стискається."
+       },
+       {
+        "de": "Dabei wird sein Magnetfeld im Inneren immer stärker.",
+        "tr": "При цьому його магнітне поле всередині стає дедалі сильнішим."
+       },
+       {
+        "de": "Es drückt nach außen und hilft dem Stern, der eigenen Schwerkraft standzuhalten.",
+        "tr": "Воно тисне назовні й допомагає зорі протистояти власній гравітації."
+       },
+       {
+        "de": "Ohne Magnetfeld lag die Grenze im Modell wieder bei etwa 1,4 Sonnenmassen.",
+        "tr": "Без магнітного поля межа в моделі знову опинялася близько 1,4 маси Сонця."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "„Die Idee entstand 2011, als ein Sommerstudent zu mir kam“, erzählt Professor Banibrata Mukhopadhyay.",
+        "tr": "«Ідея народилася 2011 року, коли до мене прийшов студент на літню практику», — розповідає професор Банібрата Мукгопадг'яй."
+       },
+       {
+        "de": "Er sollte prüfen, ob ein Magnetfeld die Grenze verschieben kann.",
+        "tr": "Той мав перевірити, чи може магнітне поле зсунути межу."
+       },
+       {
+        "de": "Fünfzehn Jahre später liegen nun die Berechnungen vor.",
+        "tr": "П'ятнадцять років потому розрахунки нарешті готові."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/weisse-zwerge-2026/img/supernova.jpg",
+       "w": 652,
+       "h": 652,
+       "cap": "Наднова типу Ia SN 1994D (яскрава цятка внизу ліворуч) на околиці галактики NGC 4526. Знімок телескопа «Габбл».",
+       "credit": "NASA/ESA, The Hubble Key Project Team, The High-Z Supernova Search Team · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die Ergebnisse könnten besonders helle Sternexplosionen erklären, sogenannte Supernovae vom Typ Ia.",
+        "tr": "Результати могли б пояснити особливо яскраві вибухи зір — так звані наднові типу Ia."
+       },
+       {
+        "de": "Mit solchen Explosionen messen Astronomen Entfernungen im Weltall.",
+        "tr": "За допомогою таких вибухів астрономи вимірюють відстані у Всесвіті."
+       },
+       {
+        "de": "Einen Beweis gibt es aber noch nicht: Die Forscher haben vereinfachte Modelle ohne Rotation berechnet.",
+        "tr": "Але доказу поки немає: дослідники розрахували спрощені моделі без обертання."
+       },
+       {
+        "de": "Und einen so schweren Weißen Zwerg hat am Himmel bisher noch niemand beobachtet.",
+        "tr": "І такого важкого білого карлика на небі досі ще ніхто не спостерігав."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
    "id": "mars-krippe-2026",
    "rubric": "astronomy",
    "level": "B1",
