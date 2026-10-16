@@ -253,6 +253,306 @@
    }
   },
   {
+   "id": "asteroiden-erdnaehe-2026",
+   "rubric": "astronomy",
+   "level": "B1–B2",
+   "published": "2026-10-14",
+   "added": "2026-10-16",
+   "source": "NASA/JPL · Sky TG24",
+   "sourceUrl": "https://tg24.sky.it/scienze/2026/10/14/asteroidi-terra",
+   "words": 261,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/cover.jpg",
+   "ru": {
+    "title": "Näher als der Mond: Zwei kleine Asteroiden fliegen an der Erde vorbei",
+    "titleTr": "Ближе Луны: два небольших астероида пролетели мимо Земли",
+    "blurb": "Астероиды 2026 TG9 и 2026 TP6 размером с дом с разницей в 19 часов прошли примерно на полпути между Землёй и Луной. Их открыли всего за несколько дней до этого.",
+    "levelNote": "Перфект и претерит (sind vorbeigeflogen, flog vorbei, kam heran), пассив (wurde beobachtet, wurden verletzt), конъюнктив II в прошедшем (Hätten sie … getroffen, wären sie … zerplatzt), je … desto, отделяемые приставки, числа и время.",
+    "license": "Текст — пересказ по данным NASA/JPL (Close-Approach Database) и Sky TG24; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/bennu.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Так выглядит астероид вблизи: Бенну, снятый зондом OSIRIS-REx. Он намного больше (около 500 метров), а 2026 TG9 и 2026 TP6 размером всего с дом.",
+       "credit": "NASA/Goddard/University of Arizona · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 14. Oktober sind zwei kleine Asteroiden an der Erde vorbeigeflogen – näher als der Mond.",
+        "tr": "14 октября мимо Земли пролетели два небольших астероида — ближе, чем Луна."
+       },
+       {
+        "de": "Zwischen den beiden Vorbeiflügen lagen nur etwa 19 Stunden.",
+        "tr": "Между двумя пролётами прошло всего около 19 часов."
+       },
+       {
+        "de": "Für die Erde bestand keine Gefahr.",
+        "tr": "Земле ничего не угрожало."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der erste Asteroid heißt 2026 TG9.",
+        "tr": "Первый астероид называется 2026 TG9."
+       },
+       {
+        "de": "Er flog am Mittwochmorgen um 6:58 Uhr deutscher Zeit in rund 228.000 Kilometern Entfernung an uns vorbei.",
+        "tr": "Он пролетел мимо нас в среду утром, в 6:58 по немецкому времени, на расстоянии около 228 000 километров."
+       },
+       {
+        "de": "Der zweite, 2026 TP6, folgte in der Nacht zum Donnerstag gegen 2 Uhr.",
+        "tr": "Второй, 2026 TP6, последовал за ним в ночь на четверг, около двух часов."
+       },
+       {
+        "de": "Er kam sogar bis auf etwa 219.000 Kilometer heran.",
+        "tr": "Он подошёл ещё ближе — примерно на 219 000 километров."
+       },
+       {
+        "de": "Zum Vergleich: Der Mond ist im Durchschnitt rund 384.000 Kilometer von der Erde entfernt.",
+        "tr": "Для сравнения: Луна в среднем находится на расстоянии около 384 000 километров от Земли."
+       },
+       {
+        "de": "Beide Asteroiden flogen also ungefähr auf halbem Weg zwischen Erde und Mond vorbei.",
+        "tr": "Значит, оба астероида пролетели примерно на полпути между Землёй и Луной."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/catalina.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Купол одного из телескопов обзора Catalina Sky Survey в горах Аризоны. Такие телескопы каждую ночь ищут астероиды, сближающиеся с Землёй.",
+       "credit": "Daniel Oberhaus · CC BY-SA 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Entdeckt wurden die beiden Brocken erst wenige Tage vorher, von Teleskopen in Arizona in den USA.",
+        "tr": "Обе глыбы обнаружили лишь за несколько дней до этого — телескопы в Аризоне, в США."
+       },
+       {
+        "de": "2026 TP6 wurde am 6. Oktober zum ersten Mal beobachtet, 2026 TG9 sogar erst am 9. Oktober.",
+        "tr": "2026 TP6 впервые заметили 6 октября, а 2026 TG9 — только 9 октября."
+       },
+       {
+        "de": "Nach Daten der NASA sind die Asteroiden etwa 10 bis 20 Meter groß – ungefähr so groß wie ein Haus.",
+        "tr": "По данным NASA, размер астероидов — примерно 10–20 метров, примерно с дом."
+       },
+       {
+        "de": "Sie flogen mit einer Geschwindigkeit von etwa 40.000 Kilometern pro Stunde.",
+        "tr": "Они летели со скоростью около 40 000 километров в час."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mit bloßem Auge konnte man sie nicht sehen: Dafür waren sie viel zu klein und zu dunkel.",
+        "tr": "Невооружённым глазом их увидеть было нельзя: для этого они были слишком маленькими и тёмными."
+       },
+       {
+        "de": "Hätten sie die Erde getroffen, wären sie wohl schon hoch in der Atmosphäre zerplatzt.",
+        "tr": "Если бы они попали в Землю, то, скорее всего, разрушились бы ещё высоко в атмосфере."
+       },
+       {
+        "de": "Harmlos ist das aber nicht immer.",
+        "tr": "Но это не всегда безобидно."
+       },
+       {
+        "de": "Im Jahr 2013 explodierte ein etwa 18 Meter großer Asteroid über der Stadt Tscheljabinsk.",
+        "tr": "В 2013 году над городом Челябинском взорвался астероид размером около 18 метров."
+       },
+       {
+        "de": "Die Druckwelle zerstörte tausende Fensterscheiben, rund 1500 Menschen wurden verletzt.",
+        "tr": "Ударная волна выбила тысячи оконных стёкол, около 1500 человек получили ранения."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/bok.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Национальная обсерватория Китт-Пик в Аризоне. Справа — башня телескопа Бок, на снимках которого впервые заметили 2026 TP6.",
+       "credit": "KPNO/NOIRLab/NSF/AURA/D. Wilmarth · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Solche nahen Begegnungen sind gar nicht so selten.",
+        "tr": "Такие близкие встречи вовсе не так уж редки."
+       },
+       {
+        "de": "Jedes Jahr entdecken Teleskope Dutzende Asteroiden, die näher als der Mond an der Erde vorbeifliegen.",
+        "tr": "Каждый год телескопы находят десятки астероидов, которые пролетают мимо Земли ближе Луны."
+       },
+       {
+        "de": "Deshalb suchen Observatorien in Arizona, Chile, Hawaii und an anderen Orten jede Nacht den Himmel ab.",
+        "tr": "Поэтому обсерватории в Аризоне, Чили, на Гавайях и в других местах каждую ночь прочёсывают небо."
+       },
+       {
+        "de": "Denn je früher man einen gefährlichen Brocken findet, desto mehr Zeit bleibt, um zu reagieren.",
+        "tr": "Ведь чем раньше найдёшь опасную глыбу, тем больше останется времени, чтобы отреагировать."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Näher als der Mond: Zwei kleine Asteroiden fliegen an der Erde vorbei",
+    "titleTr": "Ближче за Місяць: два невеликі астероїди пролетіли повз Землю",
+    "blurb": "Астероїди 2026 TG9 і 2026 TP6 завбільшки з будинок з різницею в 19 годин пройшли приблизно на півдорозі між Землею і Місяцем. Їх відкрили лише за кілька днів до цього.",
+    "levelNote": "Перфект і претерит (sind vorbeigeflogen, flog vorbei, kam heran), пасив (wurde beobachtet, wurden verletzt), кон'юнктив II у минулому (Hätten sie … getroffen, wären sie … zerplatzt), je … desto, відокремлювані префікси, числа й час.",
+    "license": "Текст — переказ за даними NASA/JPL (Close-Approach Database) і Sky TG24; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/bennu.jpg",
+       "w": 1200,
+       "h": 675,
+       "cap": "Ось який вигляд має астероїд зблизька: Бенну, знятий зондом OSIRIS-REx. Він значно більший (близько 500 метрів), а 2026 TG9 і 2026 TP6 завбільшки лише з будинок.",
+       "credit": "NASA/Goddard/University of Arizona · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 14. Oktober sind zwei kleine Asteroiden an der Erde vorbeigeflogen – näher als der Mond.",
+        "tr": "14 жовтня повз Землю пролетіли два невеликі астероїди — ближче, ніж Місяць."
+       },
+       {
+        "de": "Zwischen den beiden Vorbeiflügen lagen nur etwa 19 Stunden.",
+        "tr": "Між двома прольотами минуло всього близько 19 годин."
+       },
+       {
+        "de": "Für die Erde bestand keine Gefahr.",
+        "tr": "Землі ніщо не загрожувало."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der erste Asteroid heißt 2026 TG9.",
+        "tr": "Перший астероїд називається 2026 TG9."
+       },
+       {
+        "de": "Er flog am Mittwochmorgen um 6:58 Uhr deutscher Zeit in rund 228.000 Kilometern Entfernung an uns vorbei.",
+        "tr": "Він пролетів повз нас у середу вранці, о 6:58 за німецьким часом, на відстані близько 228 000 кілометрів."
+       },
+       {
+        "de": "Der zweite, 2026 TP6, folgte in der Nacht zum Donnerstag gegen 2 Uhr.",
+        "tr": "Другий, 2026 TP6, пролетів слідом за ним у ніч на четвер, близько другої години."
+       },
+       {
+        "de": "Er kam sogar bis auf etwa 219.000 Kilometer heran.",
+        "tr": "Він підійшов ще ближче — приблизно на 219 000 кілометрів."
+       },
+       {
+        "de": "Zum Vergleich: Der Mond ist im Durchschnitt rund 384.000 Kilometer von der Erde entfernt.",
+        "tr": "Для порівняння: Місяць у середньому перебуває на відстані близько 384 000 кілометрів від Землі."
+       },
+       {
+        "de": "Beide Asteroiden flogen also ungefähr auf halbem Weg zwischen Erde und Mond vorbei.",
+        "tr": "Отже, обидва астероїди пролетіли приблизно на півдорозі між Землею і Місяцем."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/catalina.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Купол одного з телескопів огляду Catalina Sky Survey у горах Аризони. Такі телескопи щоночі шукають астероїди, що зближуються із Землею.",
+       "credit": "Daniel Oberhaus · CC BY-SA 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Entdeckt wurden die beiden Brocken erst wenige Tage vorher, von Teleskopen in Arizona in den USA.",
+        "tr": "Обидві брили виявили лише за кілька днів до цього — телескопи в Аризоні, у США."
+       },
+       {
+        "de": "2026 TP6 wurde am 6. Oktober zum ersten Mal beobachtet, 2026 TG9 sogar erst am 9. Oktober.",
+        "tr": "2026 TP6 уперше помітили 6 жовтня, а 2026 TG9 — лише 9 жовтня."
+       },
+       {
+        "de": "Nach Daten der NASA sind die Asteroiden etwa 10 bis 20 Meter groß – ungefähr so groß wie ein Haus.",
+        "tr": "За даними NASA, розмір астероїдів — приблизно 10–20 метрів, приблизно з будинок."
+       },
+       {
+        "de": "Sie flogen mit einer Geschwindigkeit von etwa 40.000 Kilometern pro Stunde.",
+        "tr": "Вони летіли зі швидкістю близько 40 000 кілометрів на годину."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mit bloßem Auge konnte man sie nicht sehen: Dafür waren sie viel zu klein und zu dunkel.",
+        "tr": "Неозброєним оком їх побачити було неможливо: для цього вони були надто маленькими і темними."
+       },
+       {
+        "de": "Hätten sie die Erde getroffen, wären sie wohl schon hoch in der Atmosphäre zerplatzt.",
+        "tr": "Якби вони влучили в Землю, то, найімовірніше, зруйнувалися б ще високо в атмосфері."
+       },
+       {
+        "de": "Harmlos ist das aber nicht immer.",
+        "tr": "Але це не завжди безпечно."
+       },
+       {
+        "de": "Im Jahr 2013 explodierte ein etwa 18 Meter großer Asteroid über der Stadt Tscheljabinsk.",
+        "tr": "У 2013 році над містом Челябінськом вибухнув астероїд розміром близько 18 метрів."
+       },
+       {
+        "de": "Die Druckwelle zerstörte tausende Fensterscheiben, rund 1500 Menschen wurden verletzt.",
+        "tr": "Ударна хвиля вибила тисячі віконних шибок, близько 1500 людей дістали поранення."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/asteroiden-erdnaehe-2026/img/bok.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Національна обсерваторія Кітт-Пік в Аризоні. Праворуч — вежа телескопа Бок, на знімках якого вперше помітили 2026 TP6.",
+       "credit": "KPNO/NOIRLab/NSF/AURA/D. Wilmarth · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Solche nahen Begegnungen sind gar nicht so selten.",
+        "tr": "Такі близькі зустрічі зовсім не такі вже й рідкісні."
+       },
+       {
+        "de": "Jedes Jahr entdecken Teleskope Dutzende Asteroiden, die näher als der Mond an der Erde vorbeifliegen.",
+        "tr": "Щороку телескопи знаходять десятки астероїдів, які пролітають повз Землю ближче за Місяць."
+       },
+       {
+        "de": "Deshalb suchen Observatorien in Arizona, Chile, Hawaii und an anderen Orten jede Nacht den Himmel ab.",
+        "tr": "Тому обсерваторії в Аризоні, Чилі, на Гаваях та в інших місцях щоночі прочісують небо."
+       },
+       {
+        "de": "Denn je früher man einen gefährlichen Brocken findet, desto mehr Zeit bleibt, um zu reagieren.",
+        "tr": "Адже що раніше знайдеш небезпечну брилу, то більше залишиться часу, щоб відреагувати."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
    "id": "d-you-wallet-2026",
    "rubric": "tech",
    "level": "B1–B2",
