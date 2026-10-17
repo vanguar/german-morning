@@ -1,6 +1,338 @@
 {
  "items": [
   {
+   "id": "trump-iran-atomwaffen-2026",
+   "rubric": "events",
+   "level": "B1",
+   "published": "2026-10-16",
+   "added": "2026-10-17",
+   "source": "Newsmax · Reuters · wallstreet-online · Tagesspiegel",
+   "sourceUrl": "https://www.wallstreet-online.de/nachricht/21534607-oel-105-hormus-blutet-trump-regierung-prueft-mutter-bomben-iran-droht-angriffen",
+   "words": 278,
+   "minutes": 3,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/cover.jpg",
+   "ru": {
+    "title": "Keine Atomwaffen, keine Bodentruppen: Trump spricht über den Krieg mit dem Iran",
+    "titleTr": "Без ядерного оружия и сухопутных войск: Трамп о войне с Ираном",
+    "blurb": "Трамп заявил, что не применит против Ирана ядерное оружие и не пошлёт туда сухопутные войска. Тегеран отвечает, что бомбами его не заставить сдаться, а нефть из-за обстановки в Ормузском проливе подорожала до 105 долларов за баррель.",
+    "levelNote": "Модальные глаголы с инфинитивом в конце (will … einsetzen, können … zwingen), пассив (wurden angegriffen, sind getötet worden), безличный пассив (wird gekämpft), претерит (griffen an, brach zusammen, starben), плюсквамперфект (hatte … geäußert), конъюнктив II (könnte enden), придаточные с dass.",
+    "license": "Текст — пересказ сообщений Newsmax, Reuters, wallstreet-online и Tagesspiegel; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/trump.jpg",
+       "w": 1000,
+       "h": 800,
+       "cap": "Дональд Трамп на официальном портрете 2025 года. Война с Ираном идёт с конца февраля 2026 года.",
+       "credit": "Daniel Torok / The White House · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "US-Präsident Donald Trump will im Krieg gegen den Iran keine Atomwaffen einsetzen.",
+        "tr": "Президент США Дональд Трамп не собирается применять ядерное оружие в войне против Ирана."
+       },
+       {
+        "de": "Das hat er am Donnerstag in einem Interview mit dem Fernsehsender Newsmax gesagt.",
+        "tr": "Об этом он сказал в четверг в интервью телеканалу Newsmax."
+       },
+       {
+        "de": "„Wir müssen das nicht. Wir sind die größte Atommacht der Welt“, sagte Trump.",
+        "tr": "«Нам это не нужно. Мы — крупнейшая ядерная держава мира», — сказал Трамп."
+       },
+       {
+        "de": "Auch Bodentruppen will er nicht in den Iran schicken: „Nein, das sehe ich nicht.“",
+        "tr": "Отправлять в Иран сухопутные войска он тоже не хочет: «Нет, я этого не вижу»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Krieg hat am 28. Februar 2026 begonnen.",
+        "tr": "Война началась 28 февраля 2026 года."
+       },
+       {
+        "de": "Damals griffen die USA und Israel den Iran aus der Luft an.",
+        "tr": "Тогда США и Израиль нанесли удары по Ирану с воздуха."
+       },
+       {
+        "de": "Der Iran antwortete mit Raketen und Drohnen.",
+        "tr": "Иран ответил ракетами и дронами."
+       },
+       {
+        "de": "Im April vermittelte Pakistan eine Waffenruhe, doch im Juli brach sie zusammen.",
+        "tr": "В апреле при посредничестве Пакистана заключили перемирие, но в июле оно рухнуло."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Anfang der Woche hatte Trump bei einer Wahlkampfveranstaltung in Ohio auch Zweifel geäußert.",
+        "tr": "В начале недели на предвыборном мероприятии в Огайо Трамп высказал и сомнения."
+       },
+       {
+        "de": "„Ich denke, wir sind zu weit gegangen“, sagte er über die Angriffe auf die Führung des Iran.",
+        "tr": "«Думаю, мы зашли слишком далеко», — сказал он об ударах по руководству Ирана."
+       },
+       {
+        "de": "Viele iranische Politiker und Generäle sind in diesem Krieg getötet worden.",
+        "tr": "Многие иранские политики и генералы были убиты в этой войне."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/moab.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "GBU-43/B, «мать всех бомб», перед испытанием. Это самая мощная неядерная бомба в арсенале США.",
+       "credit": "U.S. Department of Defense · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Nach Medienberichten prüft das US-Militär trotzdem neue Pläne für Angriffe.",
+        "tr": "По сообщениям СМИ, американские военные тем не менее изучают новые планы ударов."
+       },
+       {
+        "de": "Dabei geht es auch um die „Mutter aller Bomben“ – die größte Bombe der USA ohne Atomsprengkopf.",
+        "tr": "Речь идёт и о «матери всех бомб» — самой большой бомбе США без ядерной боеголовки."
+       },
+       {
+        "de": "Vor der Wahl zum US-Kongress am 3. November will Trump aber keine neuen Angriffe befehlen.",
+        "tr": "Но до выборов в Конгресс США 3 ноября Трамп не собирается приказывать о новых ударах."
+       },
+       {
+        "de": "Danach könnte der Krieg nach seinen Worten „sehr schnell“ enden.",
+        "tr": "После этого, по его словам, война может закончиться «очень быстро»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der iranische Präsident Massud Peseschkian sagte: „Bomben und Raketen können ein Volk nicht zur Kapitulation zwingen.“",
+        "tr": "Президент Ирана Масуд Пезешкиан заявил: «Бомбы и ракеты не могут заставить народ капитулировать»."
+       },
+       {
+        "de": "Gleichzeitig betonte er, dass der Iran keine Atomwaffen bauen will und zu Gesprächen bereit ist.",
+        "tr": "Одновременно он подчеркнул, что Иран не хочет создавать ядерное оружие и готов к переговорам."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/hormus.jpg",
+       "w": 1200,
+       "h": 674,
+       "cap": "Ормузский пролив, вид с МКС. Он соединяет Персидский залив с Оманским заливом — это главный морской путь для нефти из стран Залива.",
+       "credit": "NASA · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Besonders angespannt ist die Lage in der Straße von Hormus.",
+        "tr": "Особенно напряжённая обстановка — в Ормузском проливе."
+       },
+       {
+        "de": "Durch diese Meerenge transportieren Tanker normalerweise etwa ein Fünftel des Öls der Welt.",
+        "tr": "Через этот пролив танкеры обычно перевозят около пятой части всей нефти мира."
+       },
+       {
+        "de": "Innerhalb einer Woche wurden dort zehn Schiffe angegriffen.",
+        "tr": "За одну неделю там были атакованы десять судов."
+       },
+       {
+        "de": "Deshalb steigt der Ölpreis: Am Freitag kostete ein Barrel der Sorte Brent über 105 Dollar.",
+        "tr": "Поэтому нефть дорожает: в пятницу баррель нефти марки Brent стоил больше 105 долларов."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch im Jemen wird gekämpft.",
+        "tr": "Бои идут и в Йемене."
+       },
+       {
+        "de": "Die Huthi-Miliz griff den Präsidentenpalast in der Stadt Aden mit Raketen an.",
+        "tr": "Хуситы атаковали ракетами президентский дворец в городе Аден."
+       },
+       {
+        "de": "Dabei starben mindestens vier Menschen.",
+        "tr": "При этом погибли по меньшей мере четыре человека."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Keine Atomwaffen, keine Bodentruppen: Trump spricht über den Krieg mit dem Iran",
+    "titleTr": "Без ядерної зброї та сухопутних військ: Трамп про війну з Іраном",
+    "blurb": "Трамп заявив, що не застосує проти Ірану ядерну зброю і не пошле туди сухопутні війська. Тегеран відповідає, що бомбами його не змусити здатися, а нафта через ситуацію в Ормузькій протоці подорожчала до 105 доларів за барель.",
+    "levelNote": "Модальні дієслова з інфінітивом у кінці (will … einsetzen, können … zwingen), пасив (wurden angegriffen, sind getötet worden), безособовий пасив (wird gekämpft), претерит (griffen an, brach zusammen, starben), плюсквамперфект (hatte … geäußert), кон'юнктив II (könnte enden), підрядні речення з dass.",
+    "license": "Текст — переказ повідомлень Newsmax, Reuters, wallstreet-online і Tagesspiegel; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/trump.jpg",
+       "w": 1000,
+       "h": 800,
+       "cap": "Дональд Трамп на офіційному портреті 2025 року. Війна з Іраном триває з кінця лютого 2026 року.",
+       "credit": "Daniel Torok / The White House · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "US-Präsident Donald Trump will im Krieg gegen den Iran keine Atomwaffen einsetzen.",
+        "tr": "Президент США Дональд Трамп не збирається застосовувати ядерну зброю у війні проти Ірану."
+       },
+       {
+        "de": "Das hat er am Donnerstag in einem Interview mit dem Fernsehsender Newsmax gesagt.",
+        "tr": "Про це він сказав у четвер в інтерв'ю телеканалу Newsmax."
+       },
+       {
+        "de": "„Wir müssen das nicht. Wir sind die größte Atommacht der Welt“, sagte Trump.",
+        "tr": "«Нам це не потрібно. Ми — найбільша ядерна держава світу», — сказав Трамп."
+       },
+       {
+        "de": "Auch Bodentruppen will er nicht in den Iran schicken: „Nein, das sehe ich nicht.“",
+        "tr": "Відправляти в Іран сухопутні війська він теж не хоче: «Ні, я цього не бачу»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Krieg hat am 28. Februar 2026 begonnen.",
+        "tr": "Війна почалася 28 лютого 2026 року."
+       },
+       {
+        "de": "Damals griffen die USA und Israel den Iran aus der Luft an.",
+        "tr": "Тоді США та Ізраїль завдали ударів по Ірану з повітря."
+       },
+       {
+        "de": "Der Iran antwortete mit Raketen und Drohnen.",
+        "tr": "Іран відповів ракетами та дронами."
+       },
+       {
+        "de": "Im April vermittelte Pakistan eine Waffenruhe, doch im Juli brach sie zusammen.",
+        "tr": "У квітні за посередництва Пакистану уклали перемир'я, але в липні воно зірвалося."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Anfang der Woche hatte Trump bei einer Wahlkampfveranstaltung in Ohio auch Zweifel geäußert.",
+        "tr": "На початку тижня на передвиборчому заході в Огайо Трамп висловив і сумніви."
+       },
+       {
+        "de": "„Ich denke, wir sind zu weit gegangen“, sagte er über die Angriffe auf die Führung des Iran.",
+        "tr": "«Думаю, ми зайшли надто далеко», — сказав він про удари по керівництву Ірану."
+       },
+       {
+        "de": "Viele iranische Politiker und Generäle sind in diesem Krieg getötet worden.",
+        "tr": "Багато іранських політиків і генералів були вбиті в цій війні."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/moab.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "GBU-43/B, «мати всіх бомб», перед випробуванням. Це найпотужніша неядерна бомба в арсеналі США.",
+       "credit": "U.S. Department of Defense · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Nach Medienberichten prüft das US-Militär trotzdem neue Pläne für Angriffe.",
+        "tr": "За повідомленнями ЗМІ, американські військові попри це вивчають нові плани ударів."
+       },
+       {
+        "de": "Dabei geht es auch um die „Mutter aller Bomben“ – die größte Bombe der USA ohne Atomsprengkopf.",
+        "tr": "Ідеться і про «матір усіх бомб» — найбільшу бомбу США без ядерної боєголовки."
+       },
+       {
+        "de": "Vor der Wahl zum US-Kongress am 3. November will Trump aber keine neuen Angriffe befehlen.",
+        "tr": "Але до виборів до Конгресу США 3 листопада Трамп не збирається наказувати про нові удари."
+       },
+       {
+        "de": "Danach könnte der Krieg nach seinen Worten „sehr schnell“ enden.",
+        "tr": "Після цього, за його словами, війна може закінчитися «дуже швидко»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der iranische Präsident Massud Peseschkian sagte: „Bomben und Raketen können ein Volk nicht zur Kapitulation zwingen.“",
+        "tr": "Президент Ірану Масуд Пезешкіан заявив: «Бомби й ракети не можуть змусити народ капітулювати»."
+       },
+       {
+        "de": "Gleichzeitig betonte er, dass der Iran keine Atomwaffen bauen will und zu Gesprächen bereit ist.",
+        "tr": "Водночас він наголосив, що Іран не хоче створювати ядерну зброю і готовий до переговорів."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/trump-iran-atomwaffen-2026/img/hormus.jpg",
+       "w": 1200,
+       "h": 674,
+       "cap": "Ормузька протока, вигляд з МКС. Вона з'єднує Перську затоку з Оманською затокою — це головний морський шлях для нафти з країн Затоки.",
+       "credit": "NASA · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Besonders angespannt ist die Lage in der Straße von Hormus.",
+        "tr": "Особливо напружена ситуація — в Ормузькій протоці."
+       },
+       {
+        "de": "Durch diese Meerenge transportieren Tanker normalerweise etwa ein Fünftel des Öls der Welt.",
+        "tr": "Через цю протоку танкери зазвичай перевозять близько п'ятої частини всієї нафти світу."
+       },
+       {
+        "de": "Innerhalb einer Woche wurden dort zehn Schiffe angegriffen.",
+        "tr": "За один тиждень там були атаковані десять суден."
+       },
+       {
+        "de": "Deshalb steigt der Ölpreis: Am Freitag kostete ein Barrel der Sorte Brent über 105 Dollar.",
+        "tr": "Тому нафта дорожчає: у п'ятницю барель нафти марки Brent коштував понад 105 доларів."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch im Jemen wird gekämpft.",
+        "tr": "Бої точаться і в Ємені."
+       },
+       {
+        "de": "Die Huthi-Miliz griff den Präsidentenpalast in der Stadt Aden mit Raketen an.",
+        "tr": "Хусити атакували ракетами президентський палац у місті Аден."
+       },
+       {
+        "de": "Dabei starben mindestens vier Menschen.",
+        "tr": "При цьому загинули щонайменше четверо людей."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
    "id": "schiffswrack-kekova-2026",
    "rubric": "science",
    "level": "B1–B2",
@@ -790,6 +1122,330 @@
        {
         "de": "Auf einem infizierten Gerät könnten Betrüger sich als eine andere Person ausgeben und zum Beispiel einen Kredit beantragen.",
         "tr": "На зараженому пристрої шахраї могли б видати себе за іншу людину і, наприклад, оформити кредит."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "korea-humanoide-fabrik-2026",
+   "rubric": "tech",
+   "level": "B1",
+   "published": "2026-10-13",
+   "added": "2026-10-17",
+   "source": "Kyunghyang Shinmun · Humanoids Daily · Origin of Bots",
+   "sourceUrl": "https://www.khan.co.kr/en/article/202610131633027",
+   "words": 270,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/cover.jpg",
+   "ru": {
+    "title": "Ohne Schutzzaun: In Südkorea arbeiten Roboter bald direkt neben Menschen",
+    "titleTr": "Без защитного ограждения: в Южной Корее роботы будут работать рядом с людьми",
+    "blurb": "Южная Корея впервые разрешила человекоподобным роботам с ИИ работать на заводах, верфи и складе без защитного ограждения: 20 двуногих роботов компании Robros проходят испытание рядом с людьми. А в Чхонане парки будут патрулировать роботы на четырёх ногах.",
+    "levelNote": "Модальные глаголы (dürfen, müssen, sollen, wollen) с инфинитивом в конце, отделяемые глаголы (fällt … weg, schreibt … vor, kommen … hinauf), косвенные вопросы (welche, wie lange, ob, wie oft), косвенная речь с конъюнктивом (sagte, die Regeln müssten …), претерит (mussten, trennte), лексика ИИ и производства.",
+    "license": "Текст — пересказ сообщений Kyunghyang Shinmun, Humanoids Daily и Origin of Bots; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/hubo.jpg",
+       "w": 1200,
+       "h": 799,
+       "cap": "Человекоподобный робот HUBO из корейского института KAIST на соревновании DARPA в 2015 году. Южная Корея давно развивает таких роботов.",
+       "credit": "John Williams / U.S. Navy · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Südkorea dürfen Roboter, die wie Menschen aussehen, bald direkt neben Menschen in Fabriken arbeiten.",
+        "tr": "В Южной Корее роботы, похожие на людей, скоро смогут работать на заводах прямо рядом с людьми."
+       },
+       {
+        "de": "Das hat das Industrieministerium am 13. Oktober erlaubt.",
+        "tr": "Это 13 октября разрешило министерство промышленности."
+       },
+       {
+        "de": "Bisher mussten Industrieroboter fest am Boden stehen, und ein Schutzzaun trennte sie von den Arbeitern.",
+        "tr": "До сих пор промышленные роботы должны были быть закреплены на полу, а от рабочих их отделяло защитное ограждение."
+       },
+       {
+        "de": "Für einen Test fällt diese Regel jetzt weg.",
+        "tr": "На время испытания это правило теперь отменяется."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Firma Robros darf 20 Roboter mit zwei Beinen in vier Unternehmen einsetzen.",
+        "tr": "Компания Robros может задействовать 20 двуногих роботов на четырёх предприятиях."
+       },
+       {
+        "de": "Die Maschinen haben Kameras und künstliche Intelligenz: So erkennen sie, was um sie herum passiert.",
+        "tr": "У машин есть камеры и искусственный интеллект: так они распознают, что происходит вокруг них."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "In einer Chipfabrik sollen die Roboter kleine Bauteile von Schmutz befreien.",
+        "tr": "На заводе микросхем роботы должны очищать мелкие детали от загрязнений."
+       },
+       {
+        "de": "In einem Autowerk legen sie Teile der Karosserie an die richtige Stelle.",
+        "tr": "На автозаводе они укладывают детали кузова на нужное место."
+       },
+       {
+        "de": "Auf einer Werft stapeln sie Material für den Schiffbau, in einem Lager tragen sie Kühlboxen.",
+        "tr": "На верфи они складывают в штабеля материалы для судостроения, на складе — носят термоконтейнеры."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/fabrik.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Роботы KUKA собирают кузова на заводе Ford в Кёльне. Такие роботы закреплены на месте и огорожены сеткой: людям в эту зону входить нельзя.",
+       "credit": "GillyBerlin · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ganz ohne Regeln geht es aber nicht.",
+        "tr": "Однако совсем без правил не обойтись."
+       },
+       {
+        "de": "Vorher müssen die Firmen prüfen, welche Gefahren es für die Menschen gibt.",
+        "tr": "Сначала компании должны проверить, какие опасности существуют для людей."
+       },
+       {
+        "de": "Außerdem schreibt das Arbeitsministerium Maßnahmen zum Schutz der Arbeiter vor.",
+        "tr": "Кроме того, министерство труда предписывает меры по защите рабочих."
+       },
+       {
+        "de": "Wie lange der Test dauert, hat die Regierung noch nicht gesagt.",
+        "tr": "Сколько продлится испытание, правительство пока не сообщило."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Industrieminister Kim Jeong-kwan sagte, die Regeln müssten sich zusammen mit der Technik verändern.",
+        "tr": "Министр промышленности Ким Чон Гван сказал, что правила должны меняться вместе с техникой."
+       },
+       {
+        "de": "Ob die Roboter wirklich gut arbeiten, ist noch nicht klar.",
+        "tr": "Действительно ли роботы хорошо работают, пока не ясно."
+       },
+       {
+        "de": "Der Test soll zeigen, wie oft Menschen ihnen noch helfen müssen.",
+        "tr": "Испытание должно показать, как часто людям ещё придётся им помогать."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Robros will in der ersten Hälfte des Jahres 2027 ein eigenes KI-Modell für Roboter vorstellen.",
+        "tr": "Robros собирается в первой половине 2027 года представить собственную ИИ-модель для роботов."
+       },
+       {
+        "de": "Dafür sammelt die Firma 800.000 Stunden Daten aus Simulationen und 200.000 Stunden Videos von Menschen.",
+        "tr": "Для этого компания собирает 800 000 часов данных из симуляций и 200 000 часов видео с людьми."
+       },
+       {
+        "de": "Aus diesen Daten soll der Roboter lernen, wie man sich bewegt und Dinge greift.",
+        "tr": "На этих данных робот должен научиться, как двигаться и брать предметы."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/spot.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Робот на четырёх ногах на лесной тропе. Такие роботы проходят там, где не проедут колёсные: по ступенькам и бездорожью.",
+       "credit": "Jonte · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am selben Tag hat das Ministerium noch ein anderes Projekt erlaubt.",
+        "tr": "В тот же день министерство разрешило ещё один проект."
+       },
+       {
+        "de": "In der Stadt Cheonan sollen Roboter mit vier Beinen an einem Fluss und in Parks patrouillieren.",
+        "tr": "В городе Чхонан роботы на четырёх ногах будут патрулировать берег реки и парки."
+       },
+       {
+        "de": "Bei einem Notfall geben sie über Lautsprecher Hinweise.",
+        "tr": "В чрезвычайной ситуации они дают указания через громкоговоритель."
+       },
+       {
+        "de": "Anders als Roboter auf Rädern kommen sie auch Treppen hinauf.",
+        "tr": "В отличие от роботов на колёсах, они могут подниматься и по лестницам."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Ohne Schutzzaun: In Südkorea arbeiten Roboter bald direkt neben Menschen",
+    "titleTr": "Без захисної огорожі: у Південній Кореї роботи працюватимуть поруч із людьми",
+    "blurb": "Південна Корея вперше дозволила людиноподібним роботам із ШІ працювати на заводах, верфі та складі без захисної огорожі: 20 двоногих роботів компанії Robros проходять випробування поруч із людьми. А в Чхонані парки патрулюватимуть роботи на чотирьох ногах.",
+    "levelNote": "Модальні дієслова (dürfen, müssen, sollen, wollen) з інфінітивом у кінці, відокремлювані дієслова (fällt … weg, schreibt … vor, kommen … hinauf), непрямі питання (welche, wie lange, ob, wie oft), непряма мова з кон'юнктивом (sagte, die Regeln müssten …), претерит (mussten, trennte), лексика ШІ та виробництва.",
+    "license": "Текст — переказ повідомлень Kyunghyang Shinmun, Humanoids Daily і Origin of Bots; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/hubo.jpg",
+       "w": 1200,
+       "h": 799,
+       "cap": "Людиноподібний робот HUBO з корейського інституту KAIST на змаганні DARPA у 2015 році. Південна Корея давно розвиває таких роботів.",
+       "credit": "John Williams / U.S. Navy · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Südkorea dürfen Roboter, die wie Menschen aussehen, bald direkt neben Menschen in Fabriken arbeiten.",
+        "tr": "У Південній Кореї роботи, схожі на людей, незабаром зможуть працювати на заводах просто поруч із людьми."
+       },
+       {
+        "de": "Das hat das Industrieministerium am 13. Oktober erlaubt.",
+        "tr": "Це 13 жовтня дозволило міністерство промисловості."
+       },
+       {
+        "de": "Bisher mussten Industrieroboter fest am Boden stehen, und ein Schutzzaun trennte sie von den Arbeitern.",
+        "tr": "Досі промислові роботи мали бути закріплені на підлозі, а від робітників їх відділяла захисна огорожа."
+       },
+       {
+        "de": "Für einen Test fällt diese Regel jetzt weg.",
+        "tr": "На час випробування це правило тепер скасовується."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Die Firma Robros darf 20 Roboter mit zwei Beinen in vier Unternehmen einsetzen.",
+        "tr": "Компанія Robros може задіяти 20 двоногих роботів на чотирьох підприємствах."
+       },
+       {
+        "de": "Die Maschinen haben Kameras und künstliche Intelligenz: So erkennen sie, was um sie herum passiert.",
+        "tr": "У машин є камери і штучний інтелект: так вони розпізнають, що відбувається навколо них."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "In einer Chipfabrik sollen die Roboter kleine Bauteile von Schmutz befreien.",
+        "tr": "На заводі мікросхем роботи мають очищати дрібні деталі від забруднень."
+       },
+       {
+        "de": "In einem Autowerk legen sie Teile der Karosserie an die richtige Stelle.",
+        "tr": "На автозаводі вони кладуть деталі кузова на потрібне місце."
+       },
+       {
+        "de": "Auf einer Werft stapeln sie Material für den Schiffbau, in einem Lager tragen sie Kühlboxen.",
+        "tr": "На верфі вони складають у штабелі матеріали для суднобудування, на складі — носять термоконтейнери."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/fabrik.jpg",
+       "w": 1200,
+       "h": 900,
+       "cap": "Роботи KUKA збирають кузови на заводі Ford у Кельні. Такі роботи закріплені на місці й обгороджені сіткою: людям у цю зону заходити не можна.",
+       "credit": "GillyBerlin · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Ganz ohne Regeln geht es aber nicht.",
+        "tr": "Проте зовсім без правил не обійтися."
+       },
+       {
+        "de": "Vorher müssen die Firmen prüfen, welche Gefahren es für die Menschen gibt.",
+        "tr": "Спочатку компанії мають перевірити, які небезпеки існують для людей."
+       },
+       {
+        "de": "Außerdem schreibt das Arbeitsministerium Maßnahmen zum Schutz der Arbeiter vor.",
+        "tr": "Крім того, міністерство праці приписує заходи із захисту робітників."
+       },
+       {
+        "de": "Wie lange der Test dauert, hat die Regierung noch nicht gesagt.",
+        "tr": "Скільки триватиме випробування, уряд поки не повідомив."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Industrieminister Kim Jeong-kwan sagte, die Regeln müssten sich zusammen mit der Technik verändern.",
+        "tr": "Міністр промисловості Кім Чон Гван сказав, що правила мають змінюватися разом із технікою."
+       },
+       {
+        "de": "Ob die Roboter wirklich gut arbeiten, ist noch nicht klar.",
+        "tr": "Чи справді роботи добре працюють, поки не ясно."
+       },
+       {
+        "de": "Der Test soll zeigen, wie oft Menschen ihnen noch helfen müssen.",
+        "tr": "Випробування має показати, як часто людям ще доведеться їм допомагати."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Robros will in der ersten Hälfte des Jahres 2027 ein eigenes KI-Modell für Roboter vorstellen.",
+        "tr": "Robros збирається в першій половині 2027 року представити власну ШІ-модель для роботів."
+       },
+       {
+        "de": "Dafür sammelt die Firma 800.000 Stunden Daten aus Simulationen und 200.000 Stunden Videos von Menschen.",
+        "tr": "Для цього компанія збирає 800 000 годин даних із симуляцій і 200 000 годин відео з людьми."
+       },
+       {
+        "de": "Aus diesen Daten soll der Roboter lernen, wie man sich bewegt und Dinge greift.",
+        "tr": "На цих даних робот має навчитися, як рухатися і брати предмети."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/korea-humanoide-fabrik-2026/img/spot.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Робот на чотирьох ногах на лісовій стежці. Такі роботи проходять там, де не проїдуть колісні: сходами й бездоріжжям.",
+       "credit": "Jonte · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am selben Tag hat das Ministerium noch ein anderes Projekt erlaubt.",
+        "tr": "Того ж дня міністерство дозволило ще один проєкт."
+       },
+       {
+        "de": "In der Stadt Cheonan sollen Roboter mit vier Beinen an einem Fluss und in Parks patrouillieren.",
+        "tr": "У місті Чхонан роботи на чотирьох ногах патрулюватимуть берег річки й парки."
+       },
+       {
+        "de": "Bei einem Notfall geben sie über Lautsprecher Hinweise.",
+        "tr": "У надзвичайній ситуації вони дають вказівки через гучномовець."
+       },
+       {
+        "de": "Anders als Roboter auf Rädern kommen sie auch Treppen hinauf.",
+        "tr": "На відміну від роботів на колесах, вони можуть підніматися і сходами."
        }
       ]
      }
