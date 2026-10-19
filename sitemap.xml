@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vanguar.github.io/german-morning/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/uk/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -19,7 +19,7 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/ru/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/de/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://vanguar.github.io/german-morning/de/"/>
@@ -35,10 +35,45 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/uk/news/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/sparkassen-krypto-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/sparkassen-krypto-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/sparkassen-krypto-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/sparkassen-krypto-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/autosalon-paris-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/autosalon-paris-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/autosalon-paris-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/autosalon-paris-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/riesenpilz-d-rex-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/riesenpilz-d-rex-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/riesenpilz-d-rex-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/riesenpilz-d-rex-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/neptun-ringboegen-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/neptun-ringboegen-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/neptun-ringboegen-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/neptun-ringboegen-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/uk/news/kartoffelernte-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/kartoffelernte-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/kartoffelernte-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/kartoffelernte-2026/"/>
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/uk/news/trump-iran-atomwaffen-2026/</loc>
@@ -210,10 +245,45 @@
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/ru/news/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/sparkassen-krypto-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/sparkassen-krypto-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/sparkassen-krypto-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/sparkassen-krypto-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/autosalon-paris-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/autosalon-paris-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/autosalon-paris-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/autosalon-paris-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/riesenpilz-d-rex-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/riesenpilz-d-rex-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/riesenpilz-d-rex-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/riesenpilz-d-rex-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/neptun-ringboegen-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/neptun-ringboegen-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/neptun-ringboegen-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/neptun-ringboegen-2026/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/news/kartoffelernte-2026/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/news/kartoffelernte-2026/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/news/kartoffelernte-2026/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/news/kartoffelernte-2026/"/>
   </url>
   <url>
     <loc>https://vanguar.github.io/german-morning/ru/news/trump-iran-atomwaffen-2026/</loc>
@@ -444,6 +514,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
   </url>
   <url>
+    <loc>https://vanguar.github.io/german-morning/uk/books/muenchhausen/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/muenchhausen/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/muenchhausen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/muenchhausen/"/>
+  </url>
+  <url>
     <loc>https://vanguar.github.io/german-morning/ru/books/</loc>
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/"/>
@@ -502,5 +578,11 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/sterntaler/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/sterntaler/"/>
+  </url>
+  <url>
+    <loc>https://vanguar.github.io/german-morning/ru/books/muenchhausen/</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://vanguar.github.io/german-morning/uk/books/muenchhausen/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vanguar.github.io/german-morning/ru/books/muenchhausen/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vanguar.github.io/german-morning/uk/books/muenchhausen/"/>
   </url>
 </urlset>

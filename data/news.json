@@ -1,6 +1,1094 @@
 {
  "items": [
   {
+   "id": "sparkassen-krypto-2026",
+   "rubric": "tech",
+   "level": "B1",
+   "published": "2026-10-19",
+   "added": "2026-10-19",
+   "source": "t3n · WinFuture",
+   "sourceUrl": "https://t3n.de/news/sparkassen-kryptohandel-bitcoin-warnung-1768795/",
+   "words": 168,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/cover.jpg",
+   "ru": {
+    "title": "Bitcoin in der Sparkassen-App: Erste Sparkassen starten den Kryptohandel",
+    "titleTr": "Биткоин в приложении: первые сберкассы Sparkasse запустили торговлю криптовалютой",
+    "blurb": "С 19 октября первые немецкие сберкассы позволяют покупать Bitcoin, Ethereum и ещё три криптовалюты прямо в своём приложении. Консультаций не будет, а сами Sparkassen предупреждают: это высокоспекулятивные вложения, деньги можно потерять полностью.",
+    "levelNote": "Отделяемые глаголы (bieten … an, dazukommen), модальные глаголы с инфинитивом в конце (sollen … dazukommen, kann … verlieren), es gibt … nicht, возвратный глагол (richtet sich an), косвенная речь с конъюнктивом I (seien), относительное придаточное (die selbst handeln wollen), лексика финансов и банков.",
+    "license": "Текст — пересказ сообщений t3n и WinFuture; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/sparkasse.jpg",
+       "w": 567,
+       "h": 378,
+       "cap": "Здание сберкассы в Тауберфранкене (Баден-Вюртемберг). Sparkassen — местные банки, они есть почти в каждом немецком городе.",
+       "credit": "Biest55 · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Bei den Sparkassen kann man jetzt auch Bitcoin kaufen.",
+        "tr": "В сберкассах Sparkasse теперь можно покупать и биткоины."
+       },
+       {
+        "de": "Seit dem 19. Oktober bieten die ersten Sparkassen den Handel mit Kryptowährungen in ihrer App an.",
+        "tr": "С 19 октября первые сберкассы предлагают торговлю криптовалютами в своём приложении."
+       },
+       {
+        "de": "Einen gemeinsamen Starttermin für ganz Deutschland gibt es nicht: Jede Sparkasse entscheidet selbst.",
+        "tr": "Единой даты старта для всей Германии нет: каждая сберкасса решает сама."
+       },
+       {
+        "de": "Jeden Monat sollen 30 bis 40 weitere Sparkassen dazukommen.",
+        "tr": "Каждый месяц должны подключаться ещё 30–40 сберкасс."
+       },
+       {
+        "de": "In der ersten Hälfte des Jahres 2027 soll ein großer Teil der interessierten Sparkassen dabei sein.",
+        "tr": "В первой половине 2027 года должна подключиться большая часть заинтересованных сберкасс."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Kunden können fünf Kryptowährungen kaufen, verkaufen und aufbewahren: Bitcoin, Ethereum, Ripple, Solana und Polygon.",
+        "tr": "Клиенты могут покупать, продавать и хранить пять криптовалют: Bitcoin, Ethereum, Ripple, Solana и Polygon."
+       },
+       {
+        "de": "Die Technik kommt von der DekaBank, dem Wertpapierhaus der Sparkassen.",
+        "tr": "Техническую часть обеспечивает DekaBank — компания сберкасс по работе с ценными бумагами."
+       },
+       {
+        "de": "Die digitalen Münzen verwahrt sie zusammen mit der Börse Stuttgart.",
+        "tr": "Цифровые монеты она хранит вместе со Штутгартской биржей."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/bitcoin.jpg",
+       "w": 1200,
+       "h": 801,
+       "cap": "Сувенирная монета с символом биткоина. Настоящие биткоины существуют только в цифровом виде.",
+       "credit": "Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Eine Beratung in der Filiale gibt es dabei aber nicht.",
+        "tr": "Однако консультаций в отделении при этом не будет."
+       },
+       {
+        "de": "Das Angebot richtet sich nur an Menschen, die selbst handeln wollen.",
+        "tr": "Предложение рассчитано только на тех, кто хочет торговать сам."
+       },
+       {
+        "de": "Werbung wollen die Sparkassen dafür nicht machen.",
+        "tr": "Рекламировать это предложение сберкассы не собираются."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Gleichzeitig warnen die Sparkassen ihre Kunden.",
+        "tr": "В то же время сберкассы предупреждают своих клиентов."
+       },
+       {
+        "de": "Kryptowährungen seien hochspekulative Anlagen, heißt es.",
+        "tr": "Криптовалюты, как говорится в сообщении, — высокоспекулятивные вложения."
+       },
+       {
+        "de": "Ihr Kurs kann stark schwanken, und man kann das ganze Geld verlieren.",
+        "tr": "Их курс может сильно колебаться, и можно потерять все деньги."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/boerse.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Здание Штутгартской биржи. Вместе с ней DekaBank хранит криптовалюты клиентов сберкасс.",
+       "credit": "Fred Romero · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Sparkassen ist das ein großer Schritt.",
+        "tr": "Для сберкасс это большой шаг."
+       },
+       {
+        "de": "Andere Anbieter wie Trade Republic, Revolut und die Volksbanken bieten den Kryptohandel schon länger an.",
+        "tr": "Другие компании, например Trade Republic, Revolut и народные банки Volksbanken, предлагают торговлю криптовалютой уже давно."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Bitcoin in der Sparkassen-App: Erste Sparkassen starten den Kryptohandel",
+    "titleTr": "Біткоїн у застосунку: перші ощадні каси Sparkasse запустили торгівлю криптовалютою",
+    "blurb": "З 19 жовтня перші німецькі ощадні каси дають змогу купувати Bitcoin, Ethereum і ще три криптовалюти просто у своєму застосунку. Консультацій не буде, а самі Sparkassen попереджають: це високоспекулятивні вкладення, гроші можна втратити повністю.",
+    "levelNote": "Відокремлювані дієслова (bieten … an, dazukommen), модальні дієслова з інфінітивом у кінці (sollen … dazukommen, kann … verlieren), es gibt … nicht, зворотне дієслово (richtet sich an), непряма мова з кон'юнктивом I (seien), відносне підрядне речення (die selbst handeln wollen), лексика фінансів і банків.",
+    "license": "Текст — переказ повідомлень t3n і WinFuture; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/sparkasse.jpg",
+       "w": 567,
+       "h": 378,
+       "cap": "Будівля ощадної каси в Тауберфранкені (Баден-Вюртемберг). Sparkassen — місцеві банки, вони є майже в кожному німецькому місті.",
+       "credit": "Biest55 · CC0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Bei den Sparkassen kann man jetzt auch Bitcoin kaufen.",
+        "tr": "В ощадних касах Sparkasse тепер можна купувати й біткоїни."
+       },
+       {
+        "de": "Seit dem 19. Oktober bieten die ersten Sparkassen den Handel mit Kryptowährungen in ihrer App an.",
+        "tr": "З 19 жовтня перші ощадні каси пропонують торгівлю криптовалютами у своєму застосунку."
+       },
+       {
+        "de": "Einen gemeinsamen Starttermin für ganz Deutschland gibt es nicht: Jede Sparkasse entscheidet selbst.",
+        "tr": "Єдиної дати старту для всієї Німеччини немає: кожна ощадна каса вирішує сама."
+       },
+       {
+        "de": "Jeden Monat sollen 30 bis 40 weitere Sparkassen dazukommen.",
+        "tr": "Щомісяця мають підключатися ще 30–40 ощадних кас."
+       },
+       {
+        "de": "In der ersten Hälfte des Jahres 2027 soll ein großer Teil der interessierten Sparkassen dabei sein.",
+        "tr": "У першій половині 2027 року має підключитися більша частина зацікавлених ощадних кас."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Kunden können fünf Kryptowährungen kaufen, verkaufen und aufbewahren: Bitcoin, Ethereum, Ripple, Solana und Polygon.",
+        "tr": "Клієнти можуть купувати, продавати й зберігати п'ять криптовалют: Bitcoin, Ethereum, Ripple, Solana і Polygon."
+       },
+       {
+        "de": "Die Technik kommt von der DekaBank, dem Wertpapierhaus der Sparkassen.",
+        "tr": "Технічну частину забезпечує DekaBank — компанія ощадних кас, що працює з цінними паперами."
+       },
+       {
+        "de": "Die digitalen Münzen verwahrt sie zusammen mit der Börse Stuttgart.",
+        "tr": "Цифрові монети вона зберігає разом зі Штутгартською біржею."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/bitcoin.jpg",
+       "w": 1200,
+       "h": 801,
+       "cap": "Сувенірна монета із символом біткоїна. Справжні біткоїни існують лише в цифровому вигляді.",
+       "credit": "Shixart1985 · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Eine Beratung in der Filiale gibt es dabei aber nicht.",
+        "tr": "Однак консультацій у відділенні при цьому не буде."
+       },
+       {
+        "de": "Das Angebot richtet sich nur an Menschen, die selbst handeln wollen.",
+        "tr": "Пропозиція розрахована лише на тих, хто хоче торгувати самостійно."
+       },
+       {
+        "de": "Werbung wollen die Sparkassen dafür nicht machen.",
+        "tr": "Рекламувати цю пропозицію ощадні каси не збираються."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Gleichzeitig warnen die Sparkassen ihre Kunden.",
+        "tr": "Водночас ощадні каси попереджають своїх клієнтів."
+       },
+       {
+        "de": "Kryptowährungen seien hochspekulative Anlagen, heißt es.",
+        "tr": "Криптовалюти, як ідеться в повідомленні, — високоспекулятивні вкладення."
+       },
+       {
+        "de": "Ihr Kurs kann stark schwanken, und man kann das ganze Geld verlieren.",
+        "tr": "Їхній курс може сильно коливатися, і можна втратити всі гроші."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/sparkassen-krypto-2026/img/boerse.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Будівля Штутгартської біржі. Разом із нею DekaBank зберігає криптовалюти клієнтів ощадних кас.",
+       "credit": "Fred Romero · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Sparkassen ist das ein großer Schritt.",
+        "tr": "Для ощадних кас це великий крок."
+       },
+       {
+        "de": "Andere Anbieter wie Trade Republic, Revolut und die Volksbanken bieten den Kryptohandel schon länger an.",
+        "tr": "Інші компанії, наприклад Trade Republic, Revolut і народні банки Volksbanken, пропонують торгівлю криптовалютою вже давно."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "autosalon-paris-2026",
+   "rubric": "events",
+   "level": "B1",
+   "published": "2026-10-18",
+   "added": "2026-10-19",
+   "source": "Mondial de l’Auto · Senior Actu · centre-europe.com · heise",
+   "sourceUrl": "https://mondial.paris/actualites/auto-mondial/le-mondial-de-l-auto-2026-a-rassemble-518-372-visiteurs-autour-de-la-passion-automobile-99228.html",
+   "words": 159,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/cover.jpg",
+   "ru": {
+    "title": "Über eine halbe Million Besucher: Der Autosalon in Paris ist zu Ende",
+    "titleTr": "Больше полумиллиона посетителей: в Париже завершился автосалон",
+    "blurb": "Парижский автосалон за шесть дней посетили 518 372 человека — немного больше, чем в 2024 году. Рекорд поставили китайские марки: их было 25. Главной звездой стал концепт электрической Citroën 2CV — наследницы знаменитой «утки».",
+    "levelNote": "Перфект с sein (ist zu Ende gegangen), претерит (kamen, zeigten, fehlten, wurde, gab, wollten), устойчивые выражения (zu Ende gehen, auf den Markt kommen, stattfinden), nicht nur … sondern auch, сравнения (mehr als, so viele wie nie zuvor), модальный глагол sollen (soll … kommen, soll … dauern).",
+    "license": "Текст — пересказ сообщений организаторов Mondial de l’Auto, Senior Actu, centre-europe.com и heise; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/ente.jpg",
+       "w": 1096,
+       "h": 730,
+       "cap": "Концепт электрической Citroën 2CV на автосалоне 2026 года. Первая 2CV, прозванная «уткой», появилась в 1948 году.",
+       "credit": "2cv2026 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am Sonntag ist in Paris die große Automesse zu Ende gegangen.",
+        "tr": "В воскресенье в Париже завершился большой автосалон."
+       },
+       {
+        "de": "Sechs Tage lang kamen 518.372 Besucher zum Pariser Autosalon.",
+        "tr": "За шесть дней на Парижский автосалон пришли 518 372 посетителя."
+       },
+       {
+        "de": "Das sind etwa zwei Prozent mehr als vor zwei Jahren.",
+        "tr": "Это примерно на два процента больше, чем два года назад."
+       },
+       {
+        "de": "Jeden Tag kamen mehr als 86.000 Menschen in die Hallen.",
+        "tr": "Каждый день в павильоны приходило больше 86 000 человек."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mehr als 60 Autohersteller zeigten ihre neuen Modelle.",
+        "tr": "Больше 60 автопроизводителей показали свои новые модели."
+       },
+       {
+        "de": "Besonders viele kamen aus China: 25 chinesische Marken waren dabei, so viele wie nie zuvor.",
+        "tr": "Особенно много их приехало из Китая: 25 китайских марок — столько ещё никогда не было."
+       },
+       {
+        "de": "In Frankreich verkaufen sie aber bisher nur etwa fünf Prozent aller Autos.",
+        "tr": "Однако во Франции на них пока приходится лишь около пяти процентов всех проданных автомобилей."
+       },
+       {
+        "de": "Einige bekannte Marken fehlten, zum Beispiel BMW und Mini.",
+        "tr": "Некоторых известных марок не было, например BMW и Mini."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/eingang.jpg",
+       "w": 1200,
+       "h": 927,
+       "cap": "Вход в выставочный центр Paris Expo у ворот Порт-де-Версаль. Здесь проходит Парижский автосалон.",
+       "credit": "Mbzt · CC BY 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Star der Messe kam aber aus Frankreich: ein neuer Citroën 2CV.",
+        "tr": "Но звездой выставки стал французский автомобиль — новый Citroën 2CV."
+       },
+       {
+        "de": "Das alte Modell, die „Ente“, kam 1948 auf den Markt und wurde in Frankreich sehr beliebt.",
+        "tr": "Старая модель, «утка», появилась в продаже в 1948 году и стала во Франции очень популярной."
+       },
+       {
+        "de": "Die neue Version ist ein Elektroauto und nur 3,76 Meter lang.",
+        "tr": "Новая версия — электромобиль длиной всего 3,76 метра."
+       },
+       {
+        "de": "Noch ist es nur ein Konzept, ein fertiges Auto soll Ende 2028 kommen.",
+        "tr": "Пока это лишь концепт; серийная машина должна появиться в конце 2028 года."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/alfa.jpg",
+       "w": 1200,
+       "h": 574,
+       "cap": "Концепт-кар Alfa Romeo Cuorerosso 2026 года. Концерн Stellantis показал в Париже сразу несколько концептов своих марок.",
+       "credit": "2cv2026 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Viele Besucher wollten die Autos nicht nur ansehen, sondern auch fahren.",
+        "tr": "Многие посетители хотели не только посмотреть на машины, но и проехаться на них."
+       },
+       {
+        "de": "Es gab rund 6.000 Probefahrten.",
+        "tr": "Было около 6000 пробных поездок."
+       },
+       {
+        "de": "Die nächste Automesse in Paris findet im Oktober 2028 statt.",
+        "tr": "Следующий автосалон в Париже пройдёт в октябре 2028 года."
+       },
+       {
+        "de": "Dann soll sie zwei Wochenenden dauern.",
+        "tr": "Тогда он должен продлиться два уик-энда."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Über eine halbe Million Besucher: Der Autosalon in Paris ist zu Ende",
+    "titleTr": "Понад пів мільйона відвідувачів: у Парижі завершився автосалон",
+    "blurb": "Паризький автосалон за шість днів відвідали 518 372 людини — трохи більше, ніж у 2024 році. Рекорд поставили китайські марки: їх було 25. Головною зіркою став концепт електричного Citroën 2CV — спадкоємця знаменитої «качки».",
+    "levelNote": "Перфект із sein (ist zu Ende gegangen), претерит (kamen, zeigten, fehlten, wurde, gab, wollten), сталі вирази (zu Ende gehen, auf den Markt kommen, stattfinden), nicht nur … sondern auch, порівняння (mehr als, so viele wie nie zuvor), модальне дієслово sollen (soll … kommen, soll … dauern).",
+    "license": "Текст — переказ повідомлень організаторів Mondial de l’Auto, Senior Actu, centre-europe.com і heise; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/ente.jpg",
+       "w": 1096,
+       "h": 730,
+       "cap": "Концепт електричного Citroën 2CV на автосалоні 2026 року. Перший 2CV, прозваний «качкою», з'явився в 1948 році.",
+       "credit": "2cv2026 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am Sonntag ist in Paris die große Automesse zu Ende gegangen.",
+        "tr": "У неділю в Парижі завершився великий автосалон."
+       },
+       {
+        "de": "Sechs Tage lang kamen 518.372 Besucher zum Pariser Autosalon.",
+        "tr": "За шість днів на Паризький автосалон прийшли 518 372 відвідувачі."
+       },
+       {
+        "de": "Das sind etwa zwei Prozent mehr als vor zwei Jahren.",
+        "tr": "Це приблизно на два відсотки більше, ніж два роки тому."
+       },
+       {
+        "de": "Jeden Tag kamen mehr als 86.000 Menschen in die Hallen.",
+        "tr": "Щодня до павільйонів приходило понад 86 000 людей."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Mehr als 60 Autohersteller zeigten ihre neuen Modelle.",
+        "tr": "Понад 60 автовиробників показали свої нові моделі."
+       },
+       {
+        "de": "Besonders viele kamen aus China: 25 chinesische Marken waren dabei, so viele wie nie zuvor.",
+        "tr": "Особливо багато їх приїхало з Китаю: 25 китайських марок — стільки ще ніколи не було."
+       },
+       {
+        "de": "In Frankreich verkaufen sie aber bisher nur etwa fünf Prozent aller Autos.",
+        "tr": "Однак у Франції на них поки припадає лише близько п'яти відсотків усіх проданих автомобілів."
+       },
+       {
+        "de": "Einige bekannte Marken fehlten, zum Beispiel BMW und Mini.",
+        "tr": "Деяких відомих марок не було, наприклад BMW і Mini."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/eingang.jpg",
+       "w": 1200,
+       "h": 927,
+       "cap": "Вхід до виставкового центру Paris Expo біля брами Порт-де-Версаль. Тут проходить Паризький автосалон.",
+       "credit": "Mbzt · CC BY 3.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Star der Messe kam aber aus Frankreich: ein neuer Citroën 2CV.",
+        "tr": "Але зіркою виставки став французький автомобіль — новий Citroën 2CV."
+       },
+       {
+        "de": "Das alte Modell, die „Ente“, kam 1948 auf den Markt und wurde in Frankreich sehr beliebt.",
+        "tr": "Стара модель, «качка», з'явилася в продажу в 1948 році й стала у Франції дуже популярною."
+       },
+       {
+        "de": "Die neue Version ist ein Elektroauto und nur 3,76 Meter lang.",
+        "tr": "Нова версія — електромобіль завдовжки лише 3,76 метра."
+       },
+       {
+        "de": "Noch ist es nur ein Konzept, ein fertiges Auto soll Ende 2028 kommen.",
+        "tr": "Поки що це лише концепт; серійна машина має з'явитися наприкінці 2028 року."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/autosalon-paris-2026/img/alfa.jpg",
+       "w": 1200,
+       "h": 574,
+       "cap": "Концепт-кар Alfa Romeo Cuorerosso 2026 року. Концерн Stellantis показав у Парижі одразу кілька концептів своїх марок.",
+       "credit": "2cv2026 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Viele Besucher wollten die Autos nicht nur ansehen, sondern auch fahren.",
+        "tr": "Багато відвідувачів хотіли не лише подивитися на машини, а й проїхатися на них."
+       },
+       {
+        "de": "Es gab rund 6.000 Probefahrten.",
+        "tr": "Було близько 6000 пробних поїздок."
+       },
+       {
+        "de": "Die nächste Automesse in Paris findet im Oktober 2028 statt.",
+        "tr": "Наступний автосалон у Парижі відбудеться в жовтні 2028 року."
+       },
+       {
+        "de": "Dann soll sie zwei Wochenenden dauern.",
+        "tr": "Тоді він має тривати два вікенди."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "riesenpilz-d-rex-2026",
+   "rubric": "science",
+   "level": "B1",
+   "published": "2026-10-18",
+   "added": "2026-10-19",
+   "source": "scinexx · Frontiers",
+   "sourceUrl": "https://www.scinexx.de/news/biowissen/d-rex-riesenpilz-aus-china-koennte-zur-zeit-des-dinosauriersterbens-entstanden-sein/",
+   "words": 234,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/cover.jpg",
+   "ru": {
+    "title": "D-rex aus dem Wald: Forscher entdecken einen Riesenpilz in China",
+    "titleTr": "D-rex из леса: в Китае нашли гигантский гриб",
+    "blurb": "В провинции Юньнань учёные нашли гриб высотой до 50 сантиметров и весом до 2,2 килограмма — самый крупный среди сумчатых грибов. Его назвали D-rex, а для него пришлось выделить новое семейство: оно возникло вскоре после вымирания динозавров.",
+    "levelNote": "Перфект (haben entdeckt, hat gesammelt, ist entstanden, ist erschienen), претерит (wuchsen, kannte, waren), относительные придаточные (den bisher niemand kannte, die gerade absterben), косвенный вопрос (wie alt … ist), dass-придаточное, so … dass, сложные существительные (Schlauchpilz, Pilzfamilie, Fachzeitschrift), лексика биологии.",
+    "license": "Текст — пересказ сообщений scinexx и Frontiers; фото — Senanayake et al., Frontiers in Fungal Biology (CC BY 4.0) и Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/pilz.jpg",
+       "w": 885,
+       "h": 1135,
+       "cap": "Плодовые тела D-rex у корней дерева в лесу провинции Юньнань. Они светлые и растут вертикально, как толстые пальцы.",
+       "credit": "Senanayake et al. 2026, Frontiers in Fungal Biology · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Forscher haben im Südwesten Chinas einen riesigen Pilz entdeckt, den bisher niemand kannte.",
+        "tr": "Исследователи нашли на юго-западе Китая огромный гриб, которого до сих пор никто не знал."
+       },
+       {
+        "de": "Er heißt Dianjunus rex, kurz D-rex.",
+        "tr": "Он называется Dianjunus rex, сокращённо D-rex."
+       },
+       {
+        "de": "Das Team vom Botanischen Institut in Kunming hat die Pilze zwischen August 2024 und Juli 2025 in der Provinz Yunnan gesammelt.",
+        "tr": "Команда Ботанического института в Куньмине собирала эти грибы с августа 2024 по июль 2025 года в провинции Юньнань."
+       },
+       {
+        "de": "Sie wuchsen in Nadelwäldern und tropischen Regenwäldern.",
+        "tr": "Они росли в хвойных лесах и во влажных тропических лесах."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "D-rex ist hell, fast weiß, und wächst wie eine dicke Keule aus dem Boden.",
+        "tr": "D-rex светлый, почти белый, и растёт из земли, как толстая дубинка."
+       },
+       {
+        "de": "Er wird bis zu 50 Zentimeter hoch und bis zu 2,2 Kilogramm schwer.",
+        "tr": "Он вырастает до 50 сантиметров в высоту и весит до 2,2 килограмма."
+       },
+       {
+        "de": "Meistens wiegt ein Pilz aber nur 250 bis 600 Gramm.",
+        "tr": "Но обычно один гриб весит всего 250–600 граммов."
+       },
+       {
+        "de": "Er wächst an den Wurzeln von Bäumen, die gerade absterben, vor allem an der Chinesischen Korkeiche.",
+        "tr": "Он растёт на корнях отмирающих деревьев, прежде всего китайского пробкового дуба."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/waage.jpg",
+       "w": 800,
+       "h": 660,
+       "cap": "Несколько грибов D-rex на весах. Одно плодовое тело может весить до 2,2 килограмма.",
+       "credit": "Senanayake et al. 2026, Frontiers in Fungal Biology · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "D-rex gehört zu den Schlauchpilzen.",
+        "tr": "D-rex относится к сумчатым грибам."
+       },
+       {
+        "de": "Zu dieser großen Gruppe gehören zum Beispiel auch Morcheln und Trüffel.",
+        "tr": "К этой большой группе относятся, например, также сморчки и трюфели."
+       },
+       {
+        "de": "Kein anderer bekannter Schlauchpilz ist so groß: Die bisherigen Rekordhalter waren nur 20 bis 30 Zentimeter hoch.",
+        "tr": "Ни один другой известный сумчатый гриб не бывает таким большим: прежние рекордсмены были высотой всего 20–30 сантиметров."
+       },
+       {
+        "de": "Der Pilz ist sogar so besonders, dass die Forscher für ihn eine neue Familie gegründet haben: Dianjunaceae.",
+        "tr": "Гриб настолько особенный, что исследователи выделили для него новое семейство — Dianjunaceae."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Name hat eine Geschichte.",
+        "tr": "У названия есть своя история."
+       },
+       {
+        "de": "„Dian“ erinnert an ein altes Königreich in Yunnan, „jun“ ist das chinesische Wort für Pilz.",
+        "tr": "«Dian» напоминает о древнем царстве в Юньнани, а «jun» — китайское слово, означающее «гриб»."
+       },
+       {
+        "de": "„Rex“ ist Latein und bedeutet König – wie beim Dinosaurier Tyrannosaurus rex.",
+        "tr": "«Rex» по-латыни значит «король» — как у динозавра тираннозавра рекса."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/trex.jpg",
+       "w": 1200,
+       "h": 848,
+       "cap": "Скелет тираннозавра «Сью» в Музее естественной истории Филда в Чикаго. Слово rex в названии гриба — то же, что у тираннозавра: «король».",
+       "credit": "Michael Gray · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Mit einer sogenannten molekularen Uhr haben die Forscher berechnet, wie alt die Pilzfamilie ist.",
+        "tr": "С помощью так называемых молекулярных часов исследователи рассчитали, сколько лет этому семейству грибов."
+       },
+       {
+        "de": "Dafür haben sie das Erbgut von D-rex mit dem Erbgut vieler anderer Pilze verglichen.",
+        "tr": "Для этого они сравнили ДНК D-rex с ДНК многих других грибов."
+       },
+       {
+        "de": "Das Ergebnis: Die Familie ist vor etwa 65 Millionen Jahren entstanden.",
+        "tr": "Результат: семейство возникло около 65 миллионов лет назад."
+       },
+       {
+        "de": "Das war nur ungefähr eine Million Jahre nach dem Aussterben der Dinosaurier.",
+        "tr": "Это было всего примерно через миллион лет после вымирания динозавров."
+       },
+       {
+        "de": "Die Studie ist in der Fachzeitschrift „Frontiers in Fungal Biology“ erschienen.",
+        "tr": "Исследование опубликовано в научном журнале «Frontiers in Fungal Biology»."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "D-rex aus dem Wald: Forscher entdecken einen Riesenpilz in China",
+    "titleTr": "D-rex із лісу: у Китаї знайшли гігантський гриб",
+    "blurb": "У провінції Юньнань науковці знайшли гриб заввишки до 50 сантиметрів і вагою до 2,2 кілограма — найбільший серед сумчастих грибів. Його назвали D-rex, а для нього довелося виділити нову родину: вона виникла невдовзі після вимирання динозаврів.",
+    "levelNote": "Перфект (haben entdeckt, hat gesammelt, ist entstanden, ist erschienen), претерит (wuchsen, kannte, waren), відносні підрядні речення (den bisher niemand kannte, die gerade absterben), непряме питання (wie alt … ist), підрядне з dass, so … dass, складні іменники (Schlauchpilz, Pilzfamilie, Fachzeitschrift), лексика біології.",
+    "license": "Текст — переказ повідомлень scinexx і Frontiers; фото — Senanayake et al., Frontiers in Fungal Biology (CC BY 4.0) і Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/pilz.jpg",
+       "w": 885,
+       "h": 1135,
+       "cap": "Плодові тіла D-rex біля коріння дерева в лісі провінції Юньнань. Вони світлі й ростуть вертикально, як товсті пальці.",
+       "credit": "Senanayake et al. 2026, Frontiers in Fungal Biology · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Forscher haben im Südwesten Chinas einen riesigen Pilz entdeckt, den bisher niemand kannte.",
+        "tr": "Дослідники знайшли на південному заході Китаю величезний гриб, якого досі ніхто не знав."
+       },
+       {
+        "de": "Er heißt Dianjunus rex, kurz D-rex.",
+        "tr": "Він називається Dianjunus rex, скорочено D-rex."
+       },
+       {
+        "de": "Das Team vom Botanischen Institut in Kunming hat die Pilze zwischen August 2024 und Juli 2025 in der Provinz Yunnan gesammelt.",
+        "tr": "Команда Ботанічного інституту в Куньміні збирала ці гриби з серпня 2024 по липень 2025 року в провінції Юньнань."
+       },
+       {
+        "de": "Sie wuchsen in Nadelwäldern und tropischen Regenwäldern.",
+        "tr": "Вони росли в хвойних лісах і у вологих тропічних лісах."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "D-rex ist hell, fast weiß, und wächst wie eine dicke Keule aus dem Boden.",
+        "tr": "D-rex світлий, майже білий, і росте із землі, як товста палиця."
+       },
+       {
+        "de": "Er wird bis zu 50 Zentimeter hoch und bis zu 2,2 Kilogramm schwer.",
+        "tr": "Він виростає до 50 сантиметрів у висоту і важить до 2,2 кілограма."
+       },
+       {
+        "de": "Meistens wiegt ein Pilz aber nur 250 bis 600 Gramm.",
+        "tr": "Але зазвичай один гриб важить лише 250–600 грамів."
+       },
+       {
+        "de": "Er wächst an den Wurzeln von Bäumen, die gerade absterben, vor allem an der Chinesischen Korkeiche.",
+        "tr": "Він росте на корінні дерев, що відмирають, насамперед китайського коркового дуба."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/waage.jpg",
+       "w": 800,
+       "h": 660,
+       "cap": "Кілька грибів D-rex на вагах. Одне плодове тіло може важити до 2,2 кілограма.",
+       "credit": "Senanayake et al. 2026, Frontiers in Fungal Biology · CC BY 4.0"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "D-rex gehört zu den Schlauchpilzen.",
+        "tr": "D-rex належить до сумчастих грибів."
+       },
+       {
+        "de": "Zu dieser großen Gruppe gehören zum Beispiel auch Morcheln und Trüffel.",
+        "tr": "До цієї великої групи належать, наприклад, також зморшки і трюфелі."
+       },
+       {
+        "de": "Kein anderer bekannter Schlauchpilz ist so groß: Die bisherigen Rekordhalter waren nur 20 bis 30 Zentimeter hoch.",
+        "tr": "Жоден інший відомий сумчастий гриб не буває таким великим: попередні рекордсмени мали висоту лише 20–30 сантиметрів."
+       },
+       {
+        "de": "Der Pilz ist sogar so besonders, dass die Forscher für ihn eine neue Familie gegründet haben: Dianjunaceae.",
+        "tr": "Гриб настільки особливий, що дослідники виділили для нього нову родину — Dianjunaceae."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Der Name hat eine Geschichte.",
+        "tr": "Назва має свою історію."
+       },
+       {
+        "de": "„Dian“ erinnert an ein altes Königreich in Yunnan, „jun“ ist das chinesische Wort für Pilz.",
+        "tr": "«Dian» нагадує про давнє царство в Юньнані, а «jun» — китайське слово, що означає «гриб»."
+       },
+       {
+        "de": "„Rex“ ist Latein und bedeutet König – wie beim Dinosaurier Tyrannosaurus rex.",
+        "tr": "«Rex» латиною означає «король» — як у динозавра тиранозавра рекса."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/riesenpilz-d-rex-2026/img/trex.jpg",
+       "w": 1200,
+       "h": 848,
+       "cap": "Скелет тиранозавра «Сью» в Музеї природничої історії Філда в Чикаго. Слово rex у назві гриба — те саме, що в тиранозавра: «король».",
+       "credit": "Michael Gray · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Mit einer sogenannten molekularen Uhr haben die Forscher berechnet, wie alt die Pilzfamilie ist.",
+        "tr": "За допомогою так званого молекулярного годинника дослідники розрахували, скільки років цій родині грибів."
+       },
+       {
+        "de": "Dafür haben sie das Erbgut von D-rex mit dem Erbgut vieler anderer Pilze verglichen.",
+        "tr": "Для цього вони порівняли ДНК D-rex із ДНК багатьох інших грибів."
+       },
+       {
+        "de": "Das Ergebnis: Die Familie ist vor etwa 65 Millionen Jahren entstanden.",
+        "tr": "Результат: родина виникла близько 65 мільйонів років тому."
+       },
+       {
+        "de": "Das war nur ungefähr eine Million Jahre nach dem Aussterben der Dinosaurier.",
+        "tr": "Це було лише приблизно через мільйон років після вимирання динозаврів."
+       },
+       {
+        "de": "Die Studie ist in der Fachzeitschrift „Frontiers in Fungal Biology“ erschienen.",
+        "tr": "Дослідження опубліковано в науковому журналі «Frontiers in Fungal Biology»."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "neptun-ringboegen-2026",
+   "rubric": "astronomy",
+   "level": "B1",
+   "published": "2026-10-16",
+   "added": "2026-10-19",
+   "source": "Observatoire de Paris · forschung-und-wissen.de",
+   "sourceUrl": "https://forschung-und-wissen.de/nachrichten/astronomie/neptuns-ring-verliert-zwei-boegen-und-bildet-einen-neuen-133714586",
+   "words": 235,
+   "minutes": 2,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/cover.jpg",
+   "ru": {
+    "title": "Zwei Bögen weg, ein neuer da: Neptuns Ring verändert sich",
+    "titleTr": "Две дуги пропали, одна появилась: кольцо Нептуна меняется",
+    "blurb": "В кольце Адамса у Нептуна с 1989 года были четыре яркие дуги. Две из них исчезли, третья ослабла, зато появилась новая — Sincerity. Почему вещество не расходится по всему кольцу, учёные пока точно не знают.",
+    "levelNote": "Перфект с sein (sind verschwunden, ist entstanden, ist geworden), претерит (entdeckte, bekamen, sahen, fotografierte), пассив состояния (ist verteilt), конъюнктив II (müsste … verteilen), сравнительная степень (dichter, schwächer, kürzer, heller), отделяемые глаголы (hält … zusammen), лексика астрономии.",
+    "license": "Текст — пересказ сообщений Парижской обсерватории и forschung-und-wissen.de; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/neptun.jpg",
+       "w": 900,
+       "h": 899,
+       "cap": "Нептун на снимке «Вояджера-2», август 1989 года. Это единственный зонд, который пролетел мимо этой планеты.",
+       "credit": "NASA/JPL · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Planet Neptun hat einen neuen Bogen in einem seiner Ringe.",
+        "tr": "У планеты Нептун появилась новая дуга в одном из её колец."
+       },
+       {
+        "de": "Das hat ein internationales Forscherteam am 16. Oktober bekannt gegeben.",
+        "tr": "Об этом 16 октября сообщила международная группа исследователей."
+       },
+       {
+        "de": "Zu dem Team gehören Astronomen der Pariser Sternwarte und aus den USA.",
+        "tr": "В команду входят астрономы Парижской обсерватории и учёные из США."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Neptun ist der äußerste Planet unseres Sonnensystems und etwa 4,5 Milliarden Kilometer von der Sonne entfernt.",
+        "tr": "Нептун — самая дальняя планета нашей Солнечной системы, до Солнца от него примерно 4,5 миллиарда километров."
+       },
+       {
+        "de": "Er hat mehrere dünne, dunkle Ringe.",
+        "tr": "У него несколько тонких тёмных колец."
+       },
+       {
+        "de": "Im äußersten Ring, dem Adams-Ring, entdeckte die Raumsonde Voyager 2 im August 1989 vier helle Bögen.",
+        "tr": "В самом внешнем кольце, кольце Адамса, зонд «Вояджер-2» в августе 1989 года обнаружил четыре яркие дуги."
+       },
+       {
+        "de": "Dort ist das Material nicht gleichmäßig verteilt, sondern an einigen Stellen dichter.",
+        "tr": "Вещество там распределено не равномерно: в некоторых местах оно гуще."
+       },
+       {
+        "de": "Die Bögen bekamen französische Namen: Courage, Liberté, Égalité und Fraternité – Mut, Freiheit, Gleichheit und Brüderlichkeit.",
+        "tr": "Дуги получили французские названия: Courage, Liberté, Égalité и Fraternité — мужество, свобода, равенство и братство."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/boegen.jpg",
+       "w": 1125,
+       "h": 889,
+       "cap": "Кольца Нептуна на снимке «Вояджера-2». На внешнем кольце, кольце Адамса, видны яркие сгущения вещества — дуги.",
+       "credit": "NASA/JPL, Voyager 2 Team · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Seitdem hat sich viel verändert.",
+        "tr": "С тех пор многое изменилось."
+       },
+       {
+        "de": "Schon nach dem Jahr 2000 sind die Bögen Courage und Liberté verschwunden.",
+        "tr": "Уже после 2000 года дуги Courage и Liberté исчезли."
+       },
+       {
+        "de": "Égalité ist schwächer geworden, nur Fraternité ist noch gut zu sehen.",
+        "tr": "Égalité стала слабее, и только Fraternité всё ещё хорошо видна."
+       },
+       {
+        "de": "Dafür ist ein neuer Bogen entstanden.",
+        "tr": "Зато появилась новая дуга."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Zuerst sahen ihn die Forscher im Oktober 2021 mit dem Keck-Teleskop auf Hawaii.",
+        "tr": "Впервые исследователи увидели её в октябре 2021 года в телескоп Кека на Гавайях."
+       },
+       {
+        "de": "Damals war das Material über etwa 20 Grad des Rings verteilt.",
+        "tr": "Тогда вещество было растянуто примерно на 20 градусов кольца."
+       },
+       {
+        "de": "Im Juli 2022 fotografierte das James-Webb-Weltraumteleskop den Ring.",
+        "tr": "В июле 2022 года космический телескоп «Джеймс Уэбб» сфотографировал кольцо."
+       },
+       {
+        "de": "Auf diesen Bildern ist der neue Bogen schon kürzer und heller.",
+        "tr": "На этих снимках новая дуга уже короче и ярче."
+       },
+       {
+        "de": "Er heißt Sincerity, auf Deutsch Aufrichtigkeit.",
+        "tr": "Она называется Sincerity, по-немецки — Aufrichtigkeit (искренность)."
+       },
+       {
+        "de": "Die Internationale Astronomische Union hat den Namen im Juni 2024 bestätigt.",
+        "tr": "Международный астрономический союз утвердил это название в июне 2024 года."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/webb.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Нептун и его тонкие кольца на снимке телескопа «Джеймс Уэбб» 2022 года. В инфракрасном свете планета тёмная, поэтому кольца хорошо видны.",
+       "credit": "NASA, ESA, CSA, STScI · общественное достояние"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Forscher bleibt das ein Rätsel.",
+        "tr": "Для исследователей это остаётся загадкой."
+       },
+       {
+        "de": "Eigentlich müsste sich das Material in wenigen Monaten über den ganzen Ring verteilen.",
+        "tr": "Вообще-то вещество должно было бы за несколько месяцев разойтись по всему кольцу."
+       },
+       {
+        "de": "Vielleicht hält der kleine Mond Galatea die Bögen mit seiner Schwerkraft zusammen.",
+        "tr": "Возможно, маленький спутник Галатея удерживает дуги своим притяжением."
+       },
+       {
+        "de": "Doch die Messungen passen nicht ganz zu dieser Erklärung.",
+        "tr": "Однако измерения не совсем согласуются с этим объяснением."
+       },
+       {
+        "de": "Klar ist nur: Neptuns Ringe verändern sich schon innerhalb weniger Jahrzehnte.",
+        "tr": "Ясно одно: кольца Нептуна меняются уже за несколько десятилетий."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Zwei Bögen weg, ein neuer da: Neptuns Ring verändert sich",
+    "titleTr": "Дві дуги зникли, одна з'явилася: кільце Нептуна змінюється",
+    "blurb": "У кільці Адамса в Нептуна з 1989 року були чотири яскраві дуги. Дві з них зникли, третя ослабла, натомість з'явилася нова — Sincerity. Чому речовина не розходиться по всьому кільцю, науковці поки точно не знають.",
+    "levelNote": "Перфект із sein (sind verschwunden, ist entstanden, ist geworden), претерит (entdeckte, bekamen, sahen, fotografierte), пасив стану (ist verteilt), кон'юнктив II (müsste … verteilen), вищий ступінь порівняння (dichter, schwächer, kürzer, heller), відокремлювані дієслова (hält … zusammen), лексика астрономії.",
+    "license": "Текст — переказ повідомлень Паризької обсерваторії та forschung-und-wissen.de; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/neptun.jpg",
+       "w": 900,
+       "h": 899,
+       "cap": "Нептун на знімку «Вояджера-2», серпень 1989 року. Це єдиний зонд, який пролетів повз цю планету.",
+       "credit": "NASA/JPL · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Der Planet Neptun hat einen neuen Bogen in einem seiner Ringe.",
+        "tr": "У планети Нептун з'явилася нова дуга в одному з її кілець."
+       },
+       {
+        "de": "Das hat ein internationales Forscherteam am 16. Oktober bekannt gegeben.",
+        "tr": "Про це 16 жовтня повідомила міжнародна група дослідників."
+       },
+       {
+        "de": "Zu dem Team gehören Astronomen der Pariser Sternwarte und aus den USA.",
+        "tr": "До команди входять астрономи Паризької обсерваторії та науковці зі США."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Neptun ist der äußerste Planet unseres Sonnensystems und etwa 4,5 Milliarden Kilometer von der Sonne entfernt.",
+        "tr": "Нептун — найвіддаленіша планета нашої Сонячної системи, до Сонця від нього приблизно 4,5 мільярда кілометрів."
+       },
+       {
+        "de": "Er hat mehrere dünne, dunkle Ringe.",
+        "tr": "У нього кілька тонких темних кілець."
+       },
+       {
+        "de": "Im äußersten Ring, dem Adams-Ring, entdeckte die Raumsonde Voyager 2 im August 1989 vier helle Bögen.",
+        "tr": "У найзовнішньому кільці, кільці Адамса, зонд «Вояджер-2» у серпні 1989 року виявив чотири яскраві дуги."
+       },
+       {
+        "de": "Dort ist das Material nicht gleichmäßig verteilt, sondern an einigen Stellen dichter.",
+        "tr": "Речовина там розподілена нерівномірно: у деяких місцях вона густіша."
+       },
+       {
+        "de": "Die Bögen bekamen französische Namen: Courage, Liberté, Égalité und Fraternité – Mut, Freiheit, Gleichheit und Brüderlichkeit.",
+        "tr": "Дуги отримали французькі назви: Courage, Liberté, Égalité і Fraternité — мужність, свобода, рівність і братерство."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/boegen.jpg",
+       "w": 1125,
+       "h": 889,
+       "cap": "Кільця Нептуна на знімку «Вояджера-2». На зовнішньому кільці, кільці Адамса, видно яскраві згущення речовини — дуги.",
+       "credit": "NASA/JPL, Voyager 2 Team · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Seitdem hat sich viel verändert.",
+        "tr": "Відтоді багато що змінилося."
+       },
+       {
+        "de": "Schon nach dem Jahr 2000 sind die Bögen Courage und Liberté verschwunden.",
+        "tr": "Уже після 2000 року дуги Courage і Liberté зникли."
+       },
+       {
+        "de": "Égalité ist schwächer geworden, nur Fraternité ist noch gut zu sehen.",
+        "tr": "Égalité стала слабшою, і лише Fraternité досі добре видно."
+       },
+       {
+        "de": "Dafür ist ein neuer Bogen entstanden.",
+        "tr": "Натомість з'явилася нова дуга."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Zuerst sahen ihn die Forscher im Oktober 2021 mit dem Keck-Teleskop auf Hawaii.",
+        "tr": "Уперше дослідники побачили її в жовтні 2021 року в телескоп Кека на Гаваях."
+       },
+       {
+        "de": "Damals war das Material über etwa 20 Grad des Rings verteilt.",
+        "tr": "Тоді речовина була розтягнута приблизно на 20 градусів кільця."
+       },
+       {
+        "de": "Im Juli 2022 fotografierte das James-Webb-Weltraumteleskop den Ring.",
+        "tr": "У липні 2022 року космічний телескоп «Джеймс Вебб» сфотографував кільце."
+       },
+       {
+        "de": "Auf diesen Bildern ist der neue Bogen schon kürzer und heller.",
+        "tr": "На цих знімках нова дуга вже коротша і яскравіша."
+       },
+       {
+        "de": "Er heißt Sincerity, auf Deutsch Aufrichtigkeit.",
+        "tr": "Вона називається Sincerity, німецькою — Aufrichtigkeit (щирість)."
+       },
+       {
+        "de": "Die Internationale Astronomische Union hat den Namen im Juni 2024 bestätigt.",
+        "tr": "Міжнародний астрономічний союз затвердив цю назву в червні 2024 року."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/neptun-ringboegen-2026/img/webb.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Нептун і його тонкі кільця на знімку телескопа «Джеймс Вебб» 2022 року. В інфрачервоному світлі планета темна, тому кільця добре видно.",
+       "credit": "NASA, ESA, CSA, STScI · суспільне надбання"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Forscher bleibt das ein Rätsel.",
+        "tr": "Для дослідників це залишається загадкою."
+       },
+       {
+        "de": "Eigentlich müsste sich das Material in wenigen Monaten über den ganzen Ring verteilen.",
+        "tr": "Взагалі-то речовина мала б за кілька місяців розійтися по всьому кільцю."
+       },
+       {
+        "de": "Vielleicht hält der kleine Mond Galatea die Bögen mit seiner Schwerkraft zusammen.",
+        "tr": "Можливо, маленький супутник Галатея утримує дуги своїм тяжінням."
+       },
+       {
+        "de": "Doch die Messungen passen nicht ganz zu dieser Erklärung.",
+        "tr": "Однак вимірювання не зовсім узгоджуються з цим поясненням."
+       },
+       {
+        "de": "Klar ist nur: Neptuns Ringe verändern sich schon innerhalb weniger Jahrzehnte.",
+        "tr": "Зрозуміло одне: кільця Нептуна змінюються вже за кілька десятиліть."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
    "id": "trump-iran-atomwaffen-2026",
    "rubric": "events",
    "level": "B1",
@@ -326,6 +1414,258 @@
        {
         "de": "Dabei starben mindestens vier Menschen.",
         "tr": "При цьому загинули щонайменше четверо людей."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "kartoffelernte-2026",
+   "rubric": "economy",
+   "level": "B1",
+   "published": "2026-10-15",
+   "added": "2026-10-19",
+   "source": "Statistisches Bundesamt · agrarheute",
+   "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N070_61.html",
+   "words": 158,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/cover.jpg",
+   "ru": {
+    "title": "Hitze und Trockenheit: Die Kartoffelernte fällt um ein Viertel kleiner aus",
+    "titleTr": "Жара и засуха: урожай картофеля стал меньше на четверть",
+    "blurb": "Германия собрала в 2026 году около 10,4 миллиона тонн картофеля — почти на четверть меньше, чем годом раньше. Виноваты жаркое сухое лето и меньшие посевные площади. В магазинах картофель подорожал на 11 процентов, а замороженная картошка фри, наоборот, подешевела.",
+    "levelNote": "Плюсквамперфект (hatten … geerntet), перфект с sein (ist kleiner geworden, sind gestiegen), претерит (war, wuchsen, kosteten, bekamen), сравнительная степень (weniger, teurer, billiger, kleiner), сравнения с als, es gibt, порядковые наречия (erstens, zweitens), лексика сельского хозяйства и цен.",
+    "license": "Текст — пересказ сообщений Федерального статистического ведомства и agrarheute; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/feld.jpg",
+       "w": 640,
+       "h": 480,
+       "cap": "Уборка картофеля в Баварии: комбайн выкапывает клубни, трактор везёт прицеп с урожаем.",
+       "credit": "Hubert F · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Deutschland gibt es in diesem Jahr deutlich weniger Kartoffeln.",
+        "tr": "В этом году в Германии заметно меньше картофеля."
+       },
+       {
+        "de": "Das Statistische Bundesamt schätzt die Ernte auf 10,4 Millionen Tonnen.",
+        "tr": "Федеральное статистическое ведомство оценивает урожай в 10,4 миллиона тонн."
+       },
+       {
+        "de": "Das ist fast ein Viertel weniger als im Jahr 2025.",
+        "tr": "Это почти на четверть меньше, чем в 2025 году."
+       },
+       {
+        "de": "Damals hatten die Bauern sehr viele Kartoffeln geerntet: 13,9 Millionen Tonnen.",
+        "tr": "Тогда фермеры собрали очень много картофеля — 13,9 миллиона тонн."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Dafür gibt es zwei Gründe.",
+        "tr": "Тому есть две причины."
+       },
+       {
+        "de": "Erstens haben die Landwirte weniger Kartoffeln angebaut: Die Fläche ist um elf Prozent kleiner geworden.",
+        "tr": "Во-первых, фермеры посадили меньше картофеля: площадь сократилась на 11 процентов."
+       },
+       {
+        "de": "Zweitens war der Sommer extrem heiß und trocken.",
+        "tr": "Во-вторых, лето было очень жарким и сухим."
+       },
+       {
+        "de": "Deshalb wuchsen auf jedem Hektar weniger Kartoffeln: im Durchschnitt 38,9 statt 46 Tonnen.",
+        "tr": "Поэтому с каждого гектара собрали меньше: в среднем 38,9 тонны вместо 46."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/ernte.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Свежий картофель прямо с поля. В 2026 году с каждого гектара в Германии собрали в среднем на 15 процентов меньше, чем годом раньше.",
+       "credit": "Maja Dumat · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Kunden im Supermarkt werden Kartoffeln teurer.",
+        "tr": "Для покупателей в супермаркете картофель дорожает."
+       },
+       {
+        "de": "Im September kosteten sie 11,3 Prozent mehr als ein Jahr vorher.",
+        "tr": "В сентябре он стоил на 11,3 процента больше, чем годом раньше."
+       },
+       {
+        "de": "Die Bauern bekamen für Speisekartoffeln im August sogar 61,5 Prozent mehr Geld.",
+        "tr": "Фермеры в августе получали за столовый картофель даже на 61,5 процента больше денег."
+       },
+       {
+        "de": "So stark sind die Preise seit drei Jahren nicht gestiegen.",
+        "tr": "Так сильно цены не росли уже три года."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Es gibt aber auch eine gute Nachricht.",
+        "tr": "Но есть и хорошая новость."
+       },
+       {
+        "de": "Tiefgekühlte Pommes frites sind billiger geworden: Sie kosten 4,7 Prozent weniger als vor einem Jahr.",
+        "tr": "Замороженная картошка фри подешевела: она стоит на 4,7 процента меньше, чем год назад."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/pommes.jpg",
+       "w": 900,
+       "h": 1200,
+       "cap": "Картошка фри на рождественской ярмарке. Замороженная фри в магазинах в сентябре стоила меньше, чем год назад.",
+       "credit": "Triplec85 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Normalerweise erntet Deutschland viel mehr Kartoffeln, als es selbst braucht – fast anderthalbmal so viele.",
+        "tr": "Обычно Германия собирает гораздо больше картофеля, чем потребляет сама, — почти в полтора раза больше."
+       },
+       {
+        "de": "Den Rest verkauft das Land ins Ausland.",
+        "tr": "Остальное страна продаёт за границу."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Hitze und Trockenheit: Die Kartoffelernte fällt um ein Viertel kleiner aus",
+    "titleTr": "Спека й посуха: урожай картоплі зменшився на чверть",
+    "blurb": "Німеччина зібрала у 2026 році близько 10,4 мільйона тонн картоплі — майже на чверть менше, ніж роком раніше. Причина — спекотне сухе літо й менші посівні площі. У магазинах картопля подорожчала на 11 відсотків, а заморожена картопля фрі, навпаки, подешевшала.",
+    "levelNote": "Плюсквамперфект (hatten … geerntet), перфект із sein (ist kleiner geworden, sind gestiegen), претерит (war, wuchsen, kosteten, bekamen), вищий ступінь порівняння (weniger, teurer, billiger, kleiner), порівняння з als, es gibt, порядкові прислівники (erstens, zweitens), лексика сільського господарства й цін.",
+    "license": "Текст — переказ повідомлень Федерального статистичного відомства та agrarheute; фото — Wikimedia Commons",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/feld.jpg",
+       "w": 640,
+       "h": 480,
+       "cap": "Збирання картоплі в Баварії: комбайн викопує бульби, трактор везе причіп з урожаєм.",
+       "credit": "Hubert F · CC BY-SA 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In Deutschland gibt es in diesem Jahr deutlich weniger Kartoffeln.",
+        "tr": "Цього року в Німеччині помітно менше картоплі."
+       },
+       {
+        "de": "Das Statistische Bundesamt schätzt die Ernte auf 10,4 Millionen Tonnen.",
+        "tr": "Федеральне статистичне відомство оцінює врожай у 10,4 мільйона тонн."
+       },
+       {
+        "de": "Das ist fast ein Viertel weniger als im Jahr 2025.",
+        "tr": "Це майже на чверть менше, ніж у 2025 році."
+       },
+       {
+        "de": "Damals hatten die Bauern sehr viele Kartoffeln geerntet: 13,9 Millionen Tonnen.",
+        "tr": "Тоді фермери зібрали дуже багато картоплі — 13,9 мільйона тонн."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Dafür gibt es zwei Gründe.",
+        "tr": "Цьому є дві причини."
+       },
+       {
+        "de": "Erstens haben die Landwirte weniger Kartoffeln angebaut: Die Fläche ist um elf Prozent kleiner geworden.",
+        "tr": "По-перше, фермери посадили менше картоплі: площа скоротилася на 11 відсотків."
+       },
+       {
+        "de": "Zweitens war der Sommer extrem heiß und trocken.",
+        "tr": "По-друге, літо було дуже спекотним і сухим."
+       },
+       {
+        "de": "Deshalb wuchsen auf jedem Hektar weniger Kartoffeln: im Durchschnitt 38,9 statt 46 Tonnen.",
+        "tr": "Тому з кожного гектара зібрали менше: у середньому 38,9 тонни замість 46."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/ernte.jpg",
+       "w": 1200,
+       "h": 800,
+       "cap": "Свіжа картопля просто з поля. У 2026 році з кожного гектара в Німеччині зібрали в середньому на 15 відсотків менше, ніж роком раніше.",
+       "credit": "Maja Dumat · CC BY 2.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Für die Kunden im Supermarkt werden Kartoffeln teurer.",
+        "tr": "Для покупців у супермаркеті картопля дорожчає."
+       },
+       {
+        "de": "Im September kosteten sie 11,3 Prozent mehr als ein Jahr vorher.",
+        "tr": "У вересні вона коштувала на 11,3 відсотка більше, ніж роком раніше."
+       },
+       {
+        "de": "Die Bauern bekamen für Speisekartoffeln im August sogar 61,5 Prozent mehr Geld.",
+        "tr": "Фермери в серпні отримували за столову картоплю навіть на 61,5 відсотка більше грошей."
+       },
+       {
+        "de": "So stark sind die Preise seit drei Jahren nicht gestiegen.",
+        "tr": "Так сильно ціни не зростали вже три роки."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Es gibt aber auch eine gute Nachricht.",
+        "tr": "Але є й добра новина."
+       },
+       {
+        "de": "Tiefgekühlte Pommes frites sind billiger geworden: Sie kosten 4,7 Prozent weniger als vor einem Jahr.",
+        "tr": "Заморожена картопля фрі подешевшала: вона коштує на 4,7 відсотка менше, ніж рік тому."
+       }
+      ]
+     },
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/kartoffelernte-2026/img/pommes.jpg",
+       "w": 900,
+       "h": 1200,
+       "cap": "Картопля фрі на різдвяному ярмарку. Заморожена фрі в магазинах у вересні коштувала менше, ніж рік тому.",
+       "credit": "Triplec85 · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Normalerweise erntet Deutschland viel mehr Kartoffeln, als es selbst braucht – fast anderthalbmal so viele.",
+        "tr": "Зазвичай Німеччина збирає набагато більше картоплі, ніж споживає сама, — майже в півтора раза більше."
+       },
+       {
+        "de": "Den Rest verkauft das Land ins Ausland.",
+        "tr": "Решту країна продає за кордон."
        }
       ]
      }

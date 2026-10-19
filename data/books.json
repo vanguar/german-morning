@@ -12141,6 +12141,980 @@
      }
     ]
    }
+  },
+  {
+   "id": "muenchhausen",
+   "title": "Münchhausens wunderbare Reisen",
+   "author": "Gottfried August Bürger",
+   "level": "B2",
+   "year": 1786,
+   "chapters": 6,
+   "words": 2381,
+   "minutes": 22,
+   "cover": "🐎",
+   "sourceUrl": "https://de.wikisource.org/wiki/Des_Freyherrn_von_M%C3%BCnchhausen_Wunderbare_Reisen",
+   "license": "public domain",
+   "verse": false,
+   "ru": {
+    "titleTr": "Удивительные путешествия Мюнхгаузена",
+    "blurb": "Барон рассказывает о себе — и ни одному слову нельзя верить. Конь, привязанный на ночь к столбику в снегу, утром висит на церковной колокольне. Волк, съевший лошадь, сам бежит в упряжке до Петербурга. Утки на одной верёвке уносят охотника по воздуху, у оленя между рогами растёт вишня, полконя пьёт и не напьётся, а из болота барон вытаскивает себя сам — за собственную косицу.",
+    "levelNote": "B2: короткие истории, но длинные периоды XVIII века — придаточные цепочкой через точку с запятой, рамка «so … dass», Konjunktiv II в нереальных условиях (hätte umkommen müssen, wenn nicht …), обращения к слушателям (meine Herren, stellt euch vor). Сюжеты простые и знакомые, поэтому текст читается легче, чем выглядит. Устаревшие слова и формы помечены old.",
+    "source": "Wunderbare Reisen zu Wasser und zu Lande, Feldzüge und lustige Abentheuer des Freyherrn von Münchhausen, Dieterich, Göttingen 1786 (на титуле «London»), орфография приведена к современной норме",
+    "chapters": [
+     {
+      "title": "Das Pferd auf dem Kirchturm",
+      "titleTr": "Конь на колокольне",
+      "paragraphs": [
+       [
+        {
+         "de": "Ich trat meine Reise nach Russland von Haus ab mitten im Winter an, weil ich ganz richtig schloss, dass Frost und Schnee die Wege durch die nördlichen Gegenden von Deutschland, Polen, Kur- und Livland, welche jeder Reisende als fast noch elender wie die nach dem Tempel der Tugend beschreibt, endlich ohne besondere Kosten hochpreislicher, wohlfürsorgender Landesregierungen ausbessern müsste.",
+         "tr": "Я отправился в путешествие в Россию прямо из дома посреди зимы, ибо совершенно верно рассудил, что мороз и снег в конце концов сами исправят дороги через северные области Германии, Польши, Курляндии и Лифляндии, которые всякий путешественник описывает как едва ли не более жалкие, чем дороги к храму добродетели, — и без особых затрат со стороны высокочтимых и заботливых правительств."
+        },
+        {
+         "de": "Ich reiste zu Pferde, welches, wenn es sonst nur gut um Gaul und Reiter steht, die bequemste Art zu reisen ist.",
+         "tr": "Я ехал верхом — а это, если только с конём и всадником всё в порядке, самый удобный способ путешествовать."
+        },
+        {
+         "de": "Ich war nur leicht bekleidet, welches ich ziemlich übel empfand, je weiter ich gegen Nordost hin kam.",
+         "tr": "Одет я был легко и чувствовал это тем сильнее, чем дальше продвигался на северо-восток."
+        },
+        {
+         "de": "Nun kann man sich einbilden, wie bei so strengem Wetter, unter dem rauesten Himmelsstriche, einem armen alten Manne zumute sein musste, den ich in Polen unter einem Haselbusche an der Heerstraße antraf, wie er so hilflos und schaudernd dalag und kaum hatte, womit er seine Schamblöße bedecken konnte.",
+         "tr": "Можно себе представить, каково было при такой суровой погоде, под самым суровым небом бедному старику, которого я встретил в Польше под кустом орешника у большой дороги: он лежал там беспомощный и дрожащий, и ему едва было чем прикрыть наготу."
+        }
+       ],
+       [
+        {
+         "de": "Der arme Teufel dauerte mich von ganzer Seele.",
+         "tr": "Мне всей душой было жаль беднягу."
+        },
+        {
+         "de": "Ob mir nun gleich selbst das Herz im Leibe fror, so warf ich dennoch meinen Reisemantel über ihn her.",
+         "tr": "Хотя у меня самого сердце в груди мёрзло, я всё же набросил на него свой дорожный плащ."
+        },
+        {
+         "de": "Plötzlich erscholl eine Stimme vom Himmel, die dieses Liebeswerk ganz ausnehmend herausstrich und mir zurief: »Hol mich der Teufel, mein Sohn, das soll dir nicht unvergolten bleiben!«",
+         "tr": "Вдруг с неба раздался голос, который превознёс это доброе дело до небес и прокричал мне: «Чёрт меня побери, сын мой, это тебе зачтётся!»"
+        }
+       ],
+       [
+        {
+         "de": "Ich ließ das gut sein und ritt weiter, bis Nacht und Dunkelheit mich überfielen.",
+         "tr": "Я не стал над этим задумываться и поехал дальше, пока меня не застигли ночь и темнота."
+        },
+        {
+         "de": "Nirgends war ein Dorf zu hören, noch zu sehen.",
+         "tr": "Нигде не было ни слышно, ни видно ни одной деревни."
+        },
+        {
+         "de": "Das ganze Land lag unter Schnee, und ich wusste weder Weg noch Steg.",
+         "tr": "Вся земля лежала под снегом, и я не знал ни дороги, ни тропы."
+        }
+       ],
+       [
+        {
+         "de": "Des Reitens müde, stieg ich endlich ab und band mein Pferd an eine Art von spitzem Baumstaken, der über dem Schnee hervorragte.",
+         "tr": "Устав от езды, я наконец спешился и привязал коня к чему-то вроде острого древесного кола, торчавшего из снега."
+        },
+        {
+         "de": "Zur Sicherheit nahm ich meine Pistolen unter den Arm, legte mich nicht weit davon in den Schnee nieder und tat ein so gesundes Schläfchen, dass mir die Augen nicht eher wieder aufgingen, als bis es heller, lichter Tag war.",
+         "tr": "Для верности я взял пистолеты под мышку, улёгся неподалёку в снег и так крепко уснул, что глаза у меня открылись не раньше, чем настал ясный белый день."
+        },
+        {
+         "de": "Wie groß war aber mein Erstaunen, als ich fand, dass ich mitten in einem Dorfe auf dem Kirchhofe lag!",
+         "tr": "Но как же велико было моё изумление, когда я обнаружил, что лежу посреди деревни на кладбище!"
+        },
+        {
+         "de": "Mein Pferd war anfänglich nirgends zu sehen; doch hörte ich's bald darauf irgendwo über mir.",
+         "tr": "Коня сначала нигде не было видно; но вскоре я услышал его где-то над собой."
+        },
+        {
+         "de": "Als ich nun empor sah, so wurde ich gewahr, dass es an den Wetterhahn des Kirchturms gebunden war und von da herunterhing.",
+         "tr": "Подняв глаза, я увидел, что он привязан к флюгеру церковной колокольни и висит оттуда."
+        },
+        {
+         "de": "Nun wusste ich sogleich, wie ich dran war.",
+         "tr": "Тут я сразу понял, в чём дело."
+        },
+        {
+         "de": "Das Dorf war nämlich die Nacht über ganz und gar zugeschneit gewesen; das Wetter hatte sich auf einmal umgesetzt; ich war im Schlafe nach und nach, so wie der Schnee zusammengeschmolzen war, ganz sanft herabgesunken; und was ich in der Dunkelheit für den Stummel eines Bäumchens, der über dem Schnee hervorragte, gehalten und daran mein Pferd gebunden hatte, das war das Kreuz oder der Wetterhahn des Kirchturmes gewesen.",
+         "tr": "Дело в том, что за ночь деревню совсем занесло снегом; погода вдруг переменилась; я во сне понемногу, по мере того как таял снег, совсем мягко опустился вниз; а то, что я в темноте принял за торчащий из снега пенёк деревца и к чему привязал коня, было крестом или флюгером церковной колокольни."
+        }
+       ],
+       [
+        {
+         "de": "Ohne mich nun lange zu bedenken, nahm ich eine von meinen Pistolen, schoss nach dem Halfter, kam glücklich auf die Art wieder an mein Pferd und verfolgte meine Reise.",
+         "tr": "Недолго думая, я взял один из пистолетов, выстрелил в недоуздок, благополучно вернул себе таким образом коня и продолжил путь."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der Wolf im Geschirr",
+      "titleTr": "Волк в упряжке",
+      "paragraphs": [
+       [
+        {
+         "de": "Hierauf ging alles gut, bis ich nach Russland kam, wo es eben nicht Mode ist, des Winters zu Pferde zu reisen.",
+         "tr": "Дальше всё шло хорошо, пока я не прибыл в Россию, где зимой ездить верхом как раз не принято."
+        },
+        {
+         "de": "Wie es nun immer meine Maxime ist, mich nach dem bekannten »ländlich, sittlich« zu richten, so nahm ich dort einen kleinen Rennschlitten auf ein einzelnes Pferd und fuhr wohlgemut auf St. Petersburg los.",
+         "tr": "А так как я всегда держусь правила «что ни край, то обычай», то взял там маленькие беговые санки на одну лошадь и бодро покатил в Петербург."
+        },
+        {
+         "de": "Nun weiß ich nicht mehr recht, ob es in Estland oder in Ingermanland war, so viel aber besinne ich mich noch wohl: Es war mitten in einem fürchterlichen Walde, als ich einen entsetzlichen Wolf mit aller Schnelligkeit des gefräßigsten Winterhungers hinter mir ansetzen sah.",
+         "tr": "Теперь уж я толком не помню, было это в Эстляндии или в Ингерманландии, но вот что я помню хорошо: это было посреди страшного леса, когда я увидел, как за мной во всю прыть, какую даёт самый прожорливый зимний голод, гонится жуткий волк."
+        },
+        {
+         "de": "Er holte mich bald ein, und es war schlechterdings unmöglich, ihm zu entkommen.",
+         "tr": "Он скоро догнал меня, и уйти от него было решительно невозможно."
+        },
+        {
+         "de": "Mechanisch legte ich mich platt in den Schlitten nieder und ließ mein Pferd zu unserm beiderseitigen Besten ganz allein agieren.",
+         "tr": "Машинально я лёг плашмя в сани и предоставил коню действовать в одиночку — к нашей обоюдной пользе."
+        },
+        {
+         "de": "Was ich zwar vermutete, aber kaum zu hoffen und zu erwarten wagte, das geschah unmittelbar.",
+         "tr": "И то, что я предполагал, но едва смел надеяться и ожидать, произошло тотчас же."
+        },
+        {
+         "de": "Der Wolf bekümmerte sich nicht im mindesten um meine Wenigkeit, sondern sprang über mich hinweg, fiel wütend auf das Pferd, riss ab und verschlang auf einmal den ganzen Hinterteil des armen Tieres, welches vor Schrecken und Schmerz nur desto schneller lief.",
+         "tr": "Волк ничуть не заинтересовался моей скромной особой, а перепрыгнул через меня, яростно набросился на коня, оторвал и разом проглотил всю заднюю часть бедного животного, которое от ужаса и боли побежало только быстрее."
+        },
+        {
+         "de": "Wie ich nun auf die Art selbst so unbemerkt und gut davongekommen war, so erhob ich ganz verstohlen mein Gesicht und nahm mit Entsetzen wahr, dass der Wolf sich beinahe über und über in das Pferd hineingefressen hatte.",
+         "tr": "Отделавшись таким образом сам незаметно и удачно, я украдкой поднял лицо и с ужасом увидел, что волк почти целиком вгрызся в коня."
+        },
+        {
+         "de": "Kaum aber hatte er sich so hübsch hineingezwängt, so nahm ich mein Tempo wahr und fiel ihm tüchtig mit meiner Peitschenschnur auf das Fell.",
+         "tr": "Но едва он так славно туда втиснулся, как я улучил момент и хорошенько прошёлся кнутом по его шкуре."
+        },
+        {
+         "de": "Solch ein unerwarteter Überfall in diesem Futteral verursachte ihm keinen geringen Schreck; er strebte mit aller Macht vorwärts, der Leichnam des Pferdes fiel zu Boden, und siehe! an seiner Statt steckte mein Wolf in dem Geschirre.",
+         "tr": "Такое неожиданное нападение в этом футляре изрядно его напугало; он изо всех сил рванулся вперёд, труп коня упал на землю, и — глядите-ка! — вместо него в упряжке оказался мой волк."
+        },
+        {
+         "de": "Ich meines Orts hörte nun noch weniger auf zu peitschen, und wir langten in vollem Galopp gesund und wohlbehalten in St. Petersburg an, ganz gegen unsere beiderseitigen respektiven Erwartungen und zu nicht geringem Erstaunen aller Zuschauer.",
+         "tr": "Я же со своей стороны теперь хлестал ещё пуще, и мы полным галопом прибыли в Петербург целыми и невредимыми — совершенно вопреки обоюдным ожиданиям и к немалому изумлению всех зрителей."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Die Enten an der Schnur",
+      "titleTr": "Утки на верёвке",
+      "paragraphs": [
+       [
+        {
+         "de": "Eines Morgens sah ich durch das Fenster meines Schlafgemachs, dass ein großer Teich, der nicht weit davon lag, mit wilden Enten gleichsam überdeckt war.",
+         "tr": "Однажды утром я увидел из окна своей спальни, что большой пруд неподалёку прямо-таки покрыт дикими утками."
+        },
+        {
+         "de": "Flugs nahm ich mein Gewehr aus dem Winkel, sprang zur Treppe hinab, und das so über Hals und Kopf, dass ich unvorsichtigerweise mit dem Gesichte gegen die Türpfoste rennte.",
+         "tr": "Мигом я схватил из угла ружьё и сбежал вниз по лестнице, да так сломя голову, что по неосторожности налетел лицом на дверной косяк."
+        },
+        {
+         "de": "Feuer und Funken stoben mir aus den Augen, aber das hielt mich keinen Augenblick zurück.",
+         "tr": "Искры посыпались у меня из глаз, но это ни на миг меня не задержало."
+        },
+        {
+         "de": "Ich kam bald zum Schuss; allein wie ich anlegte, wurde ich zu meinem großen Verdrusse gewahr, dass durch den soeben empfangenen heftigen Stoß sogar der Stein von dem Flintenhahne abgesprungen war.",
+         "tr": "Скоро я подобрался на выстрел; но едва я прицелился, как к великой своей досаде заметил, что от только что полученного сильного удара даже кремень отскочил от курка ружья."
+        },
+        {
+         "de": "Was sollte ich nun tun?",
+         "tr": "Что же мне было делать?"
+        },
+        {
+         "de": "Denn Zeit war hier nicht zu verlieren.",
+         "tr": "Ведь терять время было нельзя."
+        },
+        {
+         "de": "Glücklicherweise fiel mir ein, was sich soeben mit meinen Augen zugetragen hatte.",
+         "tr": "К счастью, мне пришло в голову то, что только что случилось с моими глазами."
+        },
+        {
+         "de": "Ich riss also die Pfanne auf, legte mein Gewehr gegen das wilde Geflügel an und ballte die Faust gegen eins von meinen Augen.",
+         "tr": "Итак, я открыл полку, навёл ружьё на дичь и замахнулся кулаком на собственный глаз."
+        },
+        {
+         "de": "Von einem derben Schlage flogen wieder Funken genug heraus, der Schuss ging los, und ich traf fünf Paar Enten, vier Rothälse und ein Paar Wasserhühner.",
+         "tr": "От крепкого удара снова вылетело довольно искр, ружьё выстрелило, и я подстрелил пять пар уток, четырёх красношеек и пару лысух."
+        },
+        {
+         "de": "Gegenwart des Geistes ist die Seele mannhafter Taten.",
+         "tr": "Присутствие духа — душа мужественных дел."
+        }
+       ],
+       [
+        {
+         "de": "So schwammen einst auf einem Landsee, an welchen ich auf einer Jagdstreiferei geriet, einige Dutzend wilder Enten allzu weit voneinander zerstreut umher, als dass ich mehr denn eine einzige auf einen Schuss zu erlegen hoffen konnte; und zum Unglück hatte ich meinen letzten Schuss schon in der Flinte.",
+         "tr": "Как-то раз на озере, к которому я вышел во время охотничьей вылазки, плавали несколько дюжин диких уток — так далеко друг от друга, что я не мог надеяться уложить одним выстрелом больше одной; а на беду последний заряд был у меня уже в ружье."
+        },
+        {
+         "de": "Gleichwohl hätte ich sie gern alle gehabt, weil ich nächstens eine ganze Menge guter Freunde und Bekannten bei mir zu bewirten willens war.",
+         "tr": "А мне всё-таки хотелось заполучить их всех: вскоре я собирался угощать у себя целую толпу добрых друзей и знакомых."
+        },
+        {
+         "de": "Da besann ich mich auf ein Stückchen Schinkenspeck, welches von meinem mitgenommenen Mundvorrat in meiner Jagdtasche noch übrig geblieben war.",
+         "tr": "Тут я вспомнил о кусочке окорочного сала, что ещё оставался в охотничьей сумке от взятых с собой припасов."
+        },
+        {
+         "de": "Dieses befestigte ich an eine ziemlich lange Hundeleine, die ich aufdrehte und so wenigstens noch um viermal verlängerte.",
+         "tr": "Его я привязал к довольно длинной собачьей сворке, которую расплёл и так удлинил ещё по меньшей мере вчетверо."
+        },
+        {
+         "de": "Nun verbarg ich mich im Schilfgesträuch am Ufer, warf meinen Speckbrocken aus und hatte das Vergnügen zu sehen, wie die nächste Ente hurtig herbeischwamm und ihn verschlang.",
+         "tr": "Затем я спрятался в камышах у берега, забросил свой кусок сала и с удовольствием увидел, как ближайшая утка проворно подплыла и проглотила его."
+        },
+        {
+         "de": "Der ersten folgten bald alle übrigen nach, und da der glatte Brocken am Faden gar bald unverdaut hinten wieder herauskam, so verschlang ihn die nächste, und so immer weiter.",
+         "tr": "За первой вскоре последовали и все остальные, а так как скользкий кусок на нитке очень скоро выходил сзади непереваренным, его глотала следующая, и так далее."
+        },
+        {
+         "de": "Kurz, der Brocken machte die Reise durch alle Enten samt und sonders hindurch, ohne von seinem Faden loszureißen.",
+         "tr": "Короче, кусок прошёл через всех уток до единой, не оторвавшись от нитки."
+        },
+        {
+         "de": "So saßen sie denn alle daran wie Perlen an der Schnur.",
+         "tr": "Так все они и сидели на ней, как жемчужины на нитке."
+        },
+        {
+         "de": "Ich zog sie gar allerliebst ans Land, schlang mir die Schnur ein halbes Dutzendmal um Schultern und Leib und ging meines Weges nach Hause zu.",
+         "tr": "Я премило вытянул их на берег, обмотал шнур полдюжины раз вокруг плеч и туловища и отправился восвояси домой."
+        }
+       ],
+       [
+        {
+         "de": "Da ich noch eine ziemliche Strecke davon entfernt war und mir die Last von einer solchen Menge Enten ziemlich beschwerlich fiel, so wollte es mir fast leid tun, ihrer allzu viele eingefangen zu haben.",
+         "tr": "Так как до дома было ещё порядочно, а тяжесть такого количества уток становилась довольно обременительной, я уже почти пожалел, что наловил их слишком много."
+        },
+        {
+         "de": "Da kam mir aber ein seltsamer Vorfall zustatten, der mich anfangs in nicht geringe Verlegenheit setzte.",
+         "tr": "Но тут мне на руку сыграло одно странное происшествие, поначалу немало меня смутившее."
+        },
+        {
+         "de": "Die Enten waren nämlich noch alle lebendig, fingen, als sie von der ersten Bestürzung sich erholt hatten, gar mächtig an, mit den Flügeln zu schlagen und sich mit mir hoch in die Luft zu erheben.",
+         "tr": "Дело в том, что утки были ещё живы и, оправившись от первого испуга, принялись изо всех сил бить крыльями и поднимать меня с собой высоко в воздух."
+        },
+        {
+         "de": "Nun wäre bei manchem wohl guter Rat teuer gewesen.",
+         "tr": "Иной на моём месте тут растерялся бы."
+        },
+        {
+         "de": "Allein ich benutzte diesen Umstand, so gut ich konnte, zu meinem Vorteil und ruderte mich mit meinen Rockschößen nach der Gegend meiner Behausung durch die Luft.",
+         "tr": "Но я, как только мог, обратил это обстоятельство себе на пользу и погрёб полами сюртука по воздуху в сторону своего жилища."
+        },
+        {
+         "de": "Als ich nun gerade über meiner Wohnung angelangt war und es darauf ankam, ohne Schaden mich herunterzulassen, so drückte ich einer Ente nach der andern den Kopf ein, sank dadurch ganz sanft und allmählich gerade durch den Schornstein meines Hauses mitten auf den Küchenherd, auf welchem zum Glück noch kein Feuer angezündet war, zu nicht geringem Schreck und Erstaunen meines Koches.",
+         "tr": "Когда я оказался прямо над своим жилищем и нужно было спуститься без вреда для себя, я стал одной утке за другой сворачивать голову и благодаря этому совсем мягко и постепенно опустился прямо через дымовую трубу своего дома на кухонный очаг, где, к счастью, ещё не развели огонь, — к немалому испугу и изумлению моего повара."
+        },
+        {
+         "de": "Wie gesagt, man muss sich nur in der Welt zu helfen wissen.",
+         "tr": "Как говорится, надо только уметь найтись на этом свете."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der Kirschbaum auf dem Hirsch",
+      "titleTr": "Вишня на олене",
+      "paragraphs": [
+       [
+        {
+         "de": "Einst, als ich all mein Blei verschossen hatte, stieß mir ganz wider mein Vermuten der stattlichste Hirsch von der Welt auf.",
+         "tr": "Однажды, когда я расстрелял весь свинец, мне совершенно неожиданно повстречался самый статный олень на свете."
+        },
+        {
+         "de": "Er blickte mir so, mir nichts, dir nichts, ins Auge, als ob er's auswendig gewusst hätte, dass mein Beutel leer war.",
+         "tr": "Он глядел мне в глаза как ни в чём не бывало, словно знал наизусть, что сумка моя пуста."
+        },
+        {
+         "de": "Augenblicklich lud ich indessen meine Flinte mit Pulver und darüber her eine ganze Hand voll Kirschsteine, wovon ich, so hurtig sich das tun ließ, das Fleisch abgesogen hatte.",
+         "tr": "Я тотчас зарядил ружьё порохом, а поверх него — целой горстью вишнёвых косточек, с которых я на скорую руку обсосал мякоть."
+        },
+        {
+         "de": "Und so gab ich ihm die volle Ladung mitten auf seine Stirn zwischen das Geweih.",
+         "tr": "И вот я всадил ему весь заряд прямо в лоб, между рогами."
+        },
+        {
+         "de": "Der Schuss betäubte ihn zwar – er taumelte –, machte sich aber doch aus dem Staube.",
+         "tr": "Выстрел его, правда, оглушил — он зашатался, — но всё-таки олень удрал."
+        },
+        {
+         "de": "Ein oder zwei Jahre danach war ich in ebendemselben Walde auf der Jagd; und siehe! zum Vorschein kam ein stattlicher Hirsch mit einem voll ausgewachsenen Kirschbaume, mehr denn zehn Fuß hoch, zwischen seinem Geweihe.",
+         "tr": "Год или два спустя я охотился в том же самом лесу — и вот, глядь, появляется статный олень, а между рогами у него взрослая вишня высотой больше десяти футов."
+        },
+        {
+         "de": "Mir fiel gleich mein voriges Abenteuer wieder ein; ich betrachtete den Hirsch als mein längst wohlerworbenes Eigentum und legte ihn mit einem Schusse zu Boden, wodurch ich denn auf einmal an Braten und Kirschtunke zugleich geriet.",
+         "tr": "Мне сразу вспомнилось моё прежнее приключение; я счёл оленя своей давно и честно заработанной собственностью и уложил его одним выстрелом — так разом обзавёлся и жарким, и вишнёвым соусом."
+        },
+        {
+         "de": "Denn der Baum hing reichlich voll Früchte, die ich in meinem ganzen Leben so delikat nicht gegessen hatte.",
+         "tr": "Ведь дерево было густо увешано плодами — таких вкусных я за всю жизнь не едал."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Das halbe Pferd",
+      "titleTr": "Половина коня",
+      "paragraphs": [
+       [
+        {
+         "de": "Einst, als wir die Türken in Otschakow hineintrieben, ging's bei der Avantgarde sehr heiß her.",
+         "tr": "Однажды, когда мы гнали турок в Очаков, в авангарде было очень жарко."
+        },
+        {
+         "de": "Mein feuriger Litauer hätte mich beinahe in des Teufels Küche gebracht.",
+         "tr": "Мой горячий литовский конь чуть было не завёз меня к чёрту в пекло."
+        },
+        {
+         "de": "Wir zerstreuten den Feind völlig, richteten eine gewaltige Niederlage an und trieben ihn nicht allein in seine Festung zu Loche, sondern auch durch und durch.",
+         "tr": "Мы полностью рассеяли врага, учинили ему страшный разгром и загнали не только в его крепость, но и насквозь через неё."
+        }
+       ],
+       [
+        {
+         "de": "Weil nun mein Litauer so außerordentlich geschwind war, so war ich der Vorderste beim Nachsetzen, und da ich sah, dass der Feind so hübsch zum gegenseitigen Tore wieder hinausfloh, so hielt ich's für ratsam, auf dem Marktplatze anzuhalten und da zum Rendezvous blasen zu lassen.",
+         "tr": "Мой литовец был необычайно быстр, и в погоне я оказался впереди всех; а видя, что враг преспокойно убегает через противоположные ворота, я счёл благоразумным остановиться на рыночной площади и велеть трубить сбор."
+        },
+        {
+         "de": "Ich hielt an, aber stellt euch, ihr Herren, mein Erstaunen vor, als ich weder Trompeter noch irgendeine lebendige Seele von meinen Husaren um mich sah.",
+         "tr": "Я остановился — но представьте себе, господа, моё изумление, когда я не увидел вокруг ни трубача, ни единой живой души из моих гусар."
+        },
+        {
+         "de": "»Sprengen sie etwa durch andere Straßen? Oder was ist aus ihnen geworden?«, dachte ich.",
+         "tr": "«Может, они скачут по другим улицам? Или что с ними сталось?» — подумал я."
+        },
+        {
+         "de": "Indessen konnten sie meiner Meinung nach unmöglich fern sein und mussten mich bald einholen.",
+         "tr": "Впрочем, по моему разумению, они никак не могли быть далеко и должны были вскоре меня нагнать."
+        },
+        {
+         "de": "In dieser Erwartung ritt ich meinen atemlosen Litauer zu einem Brunnen auf dem Marktplatze und ließ ihn trinken.",
+         "tr": "В ожидании их я подъехал на своём запыхавшемся литовце к колодцу на рыночной площади и дал ему напиться."
+        },
+        {
+         "de": "Er soff ganz unmäßig und mit einem Heißdurste, der gar nicht zu löschen war.",
+         "tr": "Он пил без всякой меры, с такой жгучей жаждой, которую ничем было не утолить."
+        },
+        {
+         "de": "Allein das ging ganz natürlich zu.",
+         "tr": "Но объяснялось это вполне естественно."
+        },
+        {
+         "de": "Denn als ich mich nach meinen Leuten umsah, was meint Ihr wohl, Ihr Herren, was ich da erblickte?",
+         "tr": "Ведь когда я оглянулся, высматривая своих людей, — как вы думаете, господа, что я увидел?"
+        },
+        {
+         "de": "Der ganze Hinterteil des armen Tieres, Kreuz und Lenden waren fort und wie rein abgeschnitten.",
+         "tr": "Вся задняя часть бедного животного — круп и поясница — исчезла, будто начисто отрезанная."
+        },
+        {
+         "de": "So lief denn hinten das Wasser ebenso wieder heraus, als es von vorn hineingekommen war, ohne dass es dem Gaul zugute kam oder ihn erfrischte.",
+         "tr": "Вот вода и выливалась сзади так же, как попадала спереди, не принося коню ни пользы, ни прохлады."
+        },
+        {
+         "de": "Wie das zugegangen sein mochte, blieb mir ein völliges Rätsel, bis ich zum Stadttore zurückritt.",
+         "tr": "Как такое могло случиться, оставалось для меня полной загадкой, пока я не вернулся к городским воротам."
+        },
+        {
+         "de": "Da sah ich nun, dass man, als ich pêle-mêle mit dem fliehenden Feinde hereingedrungen war, das Schutzgatter, ohne dass ich's wahrgenommen, fallen gelassen hatte, wodurch denn der Hinterteil, der noch zuckend an der Außenseite des Tores lag, rein abgeschlagen war.",
+         "tr": "Тут-то я и увидел, что, когда я вперемешку с бегущим врагом ворвался в город, решётку ворот незаметно для меня опустили, и ею-то задняя часть коня, ещё вздрагивавшая по ту сторону ворот, и была начисто отрублена."
+        }
+       ],
+       [
+        {
+         "de": "Der Verlust würde unersetzlich gewesen sein, wenn nicht unser Kurschmied ein Mittel ausgesonnen hätte, beide Teile, solange sie noch warm waren, wieder zusammenzusetzen.",
+         "tr": "Потеря была бы невосполнимой, если бы наш коновал не придумал способ соединить обе половины, пока они ещё не остыли."
+        },
+        {
+         "de": "Er heftete sie nämlich mit jungen Lorbeersprösslingen, die gerade bei der Hand waren, zusammen.",
+         "tr": "А именно — он скрепил их молодыми побегами лавра, которые как раз оказались под рукой."
+        },
+        {
+         "de": "Die Wunde heilte zu, und es begab sich etwas, das nur einem so ruhmvollen Pferde begegnen konnte.",
+         "tr": "Рана зажила, и случилось то, что могло случиться только с таким славным конём."
+        },
+        {
+         "de": "Nämlich, die Sprossen schlugen Wurzel in seinem Leibe, wuchsen empor und wölbten eine Laube über mir, sodass ich hernach manchen ehrlichen Ritt im Schatten meiner sowohl als meines Rosses Lorbeeren tun konnte.",
+         "tr": "Побеги пустили корни в его теле, разрослись ввысь и сомкнулись надо мной беседкой, так что потом я не раз совершал славные прогулки верхом в тени лавров — как своих, так и моего коня."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Auf der Kanonenkugel",
+      "titleTr": "Верхом на ядре",
+      "paragraphs": [
+       [
+        {
+         "de": "Einem Manne, meine Herren, der einen Gaul, wie mein Litauer war, zu reiten vermochte, können Sie auch wohl noch ein anderes Voltigier- und Reiterstückchen zutrauen, welches außerdem vielleicht ein wenig fabelhaft klingen möchte.",
+         "tr": "Человеку, господа, который умел ездить на таком коне, как мой литовец, вы, пожалуй, поверите и в ещё один вольтижёрский и наезднический трюк, который иначе, быть может, прозвучал бы немного сказочно."
+        },
+        {
+         "de": "Wir belagerten nämlich, ich weiß nicht mehr welche Stadt, und dem Feldmarschall war ganz erstaunlich viel an genauer Kundschaft gelegen, wie die Sachen in der Festung stünden.",
+         "tr": "Дело в том, что мы осаждали — уж не помню какой — город, и фельдмаршалу было необычайно важно получить точные сведения о том, как обстоят дела в крепости."
+        },
+        {
+         "de": "Es schien äußerst schwer, ja fast unmöglich, durch alle Vorposten, Wachen und Festungswerke hineinzugelangen; auch war eben kein tüchtiges Subjekt vorhanden, wodurch man so was glücklich auszurichten hätte hoffen können.",
+         "tr": "Пробраться внутрь мимо всех аванпостов, караулов и укреплений казалось крайне трудно, почти невозможно; да и не нашлось подходящего человека, на которого можно было бы надеяться, что он успешно справится с таким делом."
+        },
+        {
+         "de": "Vor Mut und Diensteifer fast ein wenig allzu rasch, stellte ich mich neben eine der größten Kanonen, die soeben nach der Festung abgefeuert ward, und sprang im Hui auf die Kugel, in der Absicht, mich in die Festung hineintragen zu lassen.",
+         "tr": "От отваги и служебного рвения, пожалуй, чересчур поспешный, я встал рядом с одной из самых больших пушек, из которой как раз выстрелили по крепости, и мигом вскочил на ядро, намереваясь дать ему внести себя в крепость."
+        },
+        {
+         "de": "Als ich aber halbwegs durch die Luft geritten war, stiegen mir allerlei nicht unerhebliche Bedenklichkeiten zu Kopfe.",
+         "tr": "Но когда я проскакал по воздуху полпути, мне в голову полезли всякие немаловажные сомнения."
+        },
+        {
+         "de": "»Hm«, dachte ich, »hinein kommst du nun wohl, allein wie hernach sogleich wieder heraus?",
+         "tr": "«Хм, — подумал я, — внутрь-то ты попадёшь, а как потом сразу же выбраться обратно?"
+        },
+        {
+         "de": "Und wie kann's dir in der Festung ergehen?",
+         "tr": "И что с тобой будет в крепости?"
+        },
+        {
+         "de": "Man wird dich sogleich als einen Spion erkennen und an den nächsten Galgen hängen.",
+         "tr": "Тебя тут же опознают как шпиона и вздёрнут на ближайшей виселице."
+        },
+        {
+         "de": "Ein solches Bette der Ehren wollte ich mir denn doch wohl verbitten.«",
+         "tr": "От такого ложа чести я уж, пожалуй, откажусь»."
+        },
+        {
+         "de": "Nach diesen und ähnlichen Betrachtungen entschloss ich mich kurz, nahm die glückliche Gelegenheit wahr, als eine Kanonenkugel aus der Festung einige Schritte weit vor mir vorüber nach unserm Lager flog, sprang von der meinigen auf diese hinüber und kam, zwar unverrichteter Sache, jedoch wohlbehalten bei den lieben Unsrigen wieder an.",
+         "tr": "После этих и подобных размышлений я быстро решился: улучив момент, когда ядро из крепости пролетало в нескольких шагах от меня к нашему лагерю, я перескочил со своего на него и вернулся к нашим милым — хоть и не солоно хлебавши, зато целым и невредимым."
+        }
+       ],
+       [
+        {
+         "de": "So leicht und fertig ich im Springen war, so war es auch mein Pferd.",
+         "tr": "Насколько ловок и проворен в прыжках был я, настолько же был и мой конь."
+        },
+        {
+         "de": "Weder Graben noch Zäune hielten mich jemals ab, überall den geradesten Weg zu reiten.",
+         "tr": "Ни канавы, ни заборы никогда не мешали мне ездить везде самой прямой дорогой."
+        },
+        {
+         "de": "Einst setzte ich darauf hinter einem Hasen her, der querfeldein über die Heerstraße lief.",
+         "tr": "Как-то я гнался на нём за зайцем, который бежал напрямик через большую дорогу."
+        },
+        {
+         "de": "Eine Kutsche mit zwei schönen Damen fuhr diesen Weg gerade zwischen mir und dem Hasen vorbei.",
+         "tr": "Карета с двумя красивыми дамами проезжала по этой дороге как раз между мной и зайцем."
+        },
+        {
+         "de": "Mein Gaul setzte so schnell und ohne Anstoß mitten durch die Kutsche hindurch, wovon die Fenster aufgezogen waren, dass ich kaum Zeit hatte, meinen Hut abzuziehen und die Damen wegen dieser Freiheit untertänigst um Verzeihung zu bitten.",
+         "tr": "Мой конь так быстро и без запинки проскочил прямо сквозь карету, у которой окна были открыты, что я едва успел снять шляпу и всепокорнейше попросить у дам прощения за такую вольность."
+        }
+       ],
+       [
+        {
+         "de": "Ein andermal wollte ich über einen Morast setzen, der mir anfänglich nicht so breit vorkam, als ich ihn fand, da ich mitten im Sprunge war.",
+         "tr": "В другой раз я хотел перескочить через болото, которое поначалу показалось мне не таким широким, каким оказалось, когда я был уже в середине прыжка."
+        },
+        {
+         "de": "Schwebend in der Luft, wendete ich daher wieder um, wo ich hergekommen war, um einen größern Anlauf zu nehmen.",
+         "tr": "Поэтому, паря в воздухе, я повернул обратно, туда, откуда прилетел, чтобы взять разбег побольше."
+        },
+        {
+         "de": "Gleichwohl sprang ich auch zum zweiten Male noch zu kurz und fiel nicht weit vom andern Ufer bis an den Hals in den Morast.",
+         "tr": "И всё же во второй раз я снова не допрыгнул и упал недалеко от другого берега в болото по самую шею."
+        },
+        {
+         "de": "Hier hätte ich unfehlbar umkommen müssen, wenn nicht die Stärke meines eigenen Armes mich an meinem eigenen Haarzopfe samt dem Pferde, welches ich fest zwischen meine Knie schloss, wieder herausgezogen hätte.",
+         "tr": "Тут бы мне неминуемо и погибнуть, если бы сила моей собственной руки не вытащила меня обратно за мою собственную косицу — вместе с конём, которого я крепко сжал коленями."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "titleTr": "Дивовижні подорожі Мюнхгаузена",
+    "blurb": "Барон розповідає про себе — і жодному слову не можна вірити. Кінь, прив'язаний на ніч до стовпчика в снігу, вранці висить на церковній дзвіниці. Вовк, що з'їв коня, сам біжить у запрязі до Петербурга. Качки на одній мотузці несуть мисливця повітрям, в оленя між рогами росте вишня, пів коня п'є й не нап'ється, а з болота барон витягає себе сам — за власну кіску.",
+    "levelNote": "B2: короткі історії, але довгі періоди XVIII століття — підрядні ланцюжком через крапку з комою, рамка «so … dass», Konjunktiv II у нереальних умовах (hätte umkommen müssen, wenn nicht …), звертання до слухачів (meine Herren, stellt euch vor). Сюжети прості й знайомі, тож текст читається легше, ніж здається. Застарілі слова й форми позначено old.",
+    "source": "Wunderbare Reisen zu Wasser und zu Lande, Feldzüge und lustige Abentheuer des Freyherrn von Münchhausen, Dieterich, Göttingen 1786 (на титулі «London»), орфографію приведено до сучасної норми",
+    "chapters": [
+     {
+      "title": "Das Pferd auf dem Kirchturm",
+      "titleTr": "Кінь на дзвіниці",
+      "paragraphs": [
+       [
+        {
+         "de": "Ich trat meine Reise nach Russland von Haus ab mitten im Winter an, weil ich ganz richtig schloss, dass Frost und Schnee die Wege durch die nördlichen Gegenden von Deutschland, Polen, Kur- und Livland, welche jeder Reisende als fast noch elender wie die nach dem Tempel der Tugend beschreibt, endlich ohne besondere Kosten hochpreislicher, wohlfürsorgender Landesregierungen ausbessern müsste.",
+         "tr": "Я вирушив у подорож до Росії просто з дому посеред зими, бо цілком слушно розсудив, що мороз і сніг зрештою самі полагодять дороги через північні краї Німеччини, Польщі, Курляндії та Ліфляндії, які кожен мандрівник описує як мало не жалюгідніші за дороги до храму чесноти, — і без особливих витрат з боку високошановних і дбайливих урядів."
+        },
+        {
+         "de": "Ich reiste zu Pferde, welches, wenn es sonst nur gut um Gaul und Reiter steht, die bequemste Art zu reisen ist.",
+         "tr": "Я їхав верхи — а це, якщо тільки з конем і вершником усе гаразд, найзручніший спосіб подорожувати."
+        },
+        {
+         "de": "Ich war nur leicht bekleidet, welches ich ziemlich übel empfand, je weiter ich gegen Nordost hin kam.",
+         "tr": "Одягнений я був легко й відчував це тим дужче, що далі просувався на північний схід."
+        },
+        {
+         "de": "Nun kann man sich einbilden, wie bei so strengem Wetter, unter dem rauesten Himmelsstriche, einem armen alten Manne zumute sein musste, den ich in Polen unter einem Haselbusche an der Heerstraße antraf, wie er so hilflos und schaudernd dalag und kaum hatte, womit er seine Schamblöße bedecken konnte.",
+         "tr": "Можна собі уявити, як почувався за такої суворої погоди, під найсуворішим небом бідний старий, якого я зустрів у Польщі під ліщиновим кущем біля великої дороги: він лежав там безпорадний і тремтячий, і йому ледве було чим прикрити наготу."
+        }
+       ],
+       [
+        {
+         "de": "Der arme Teufel dauerte mich von ganzer Seele.",
+         "tr": "Мені всією душею було шкода бідолаху."
+        },
+        {
+         "de": "Ob mir nun gleich selbst das Herz im Leibe fror, so warf ich dennoch meinen Reisemantel über ihn her.",
+         "tr": "Хоча в мене самого серце в грудях мерзло, я все ж накинув на нього свій дорожній плащ."
+        },
+        {
+         "de": "Plötzlich erscholl eine Stimme vom Himmel, die dieses Liebeswerk ganz ausnehmend herausstrich und mir zurief: »Hol mich der Teufel, mein Sohn, das soll dir nicht unvergolten bleiben!«",
+         "tr": "Раптом з неба пролунав голос, який до небес вихвалив цю добру справу й гукнув мені: «Хай мене чорти візьмуть, сину мій, це тобі зарахується!»"
+        }
+       ],
+       [
+        {
+         "de": "Ich ließ das gut sein und ritt weiter, bis Nacht und Dunkelheit mich überfielen.",
+         "tr": "Я не став над цим замислюватися й поїхав далі, аж поки мене не застали ніч і темрява."
+        },
+        {
+         "de": "Nirgends war ein Dorf zu hören, noch zu sehen.",
+         "tr": "Ніде не було ні чути, ні видно жодного села."
+        },
+        {
+         "de": "Das ganze Land lag unter Schnee, und ich wusste weder Weg noch Steg.",
+         "tr": "Уся земля лежала під снігом, і я не знав ні дороги, ні стежки."
+        }
+       ],
+       [
+        {
+         "de": "Des Reitens müde, stieg ich endlich ab und band mein Pferd an eine Art von spitzem Baumstaken, der über dem Schnee hervorragte.",
+         "tr": "Утомившись від їзди, я нарешті спішився й прив'язав коня до чогось на зразок гострого дерев'яного кілка, що стирчав зі снігу."
+        },
+        {
+         "de": "Zur Sicherheit nahm ich meine Pistolen unter den Arm, legte mich nicht weit davon in den Schnee nieder und tat ein so gesundes Schläfchen, dass mir die Augen nicht eher wieder aufgingen, als bis es heller, lichter Tag war.",
+         "tr": "Для певності я взяв пістолети під пахву, ліг неподалік у сніг і так міцно заснув, що очі в мене розплющилися не раніше, ніж настав ясний білий день."
+        },
+        {
+         "de": "Wie groß war aber mein Erstaunen, als ich fand, dass ich mitten in einem Dorfe auf dem Kirchhofe lag!",
+         "tr": "Але яким же великим було моє здивування, коли я побачив, що лежу посеред села на цвинтарі!"
+        },
+        {
+         "de": "Mein Pferd war anfänglich nirgends zu sehen; doch hörte ich's bald darauf irgendwo über mir.",
+         "tr": "Коня спершу ніде не було видно; але незабаром я почув його десь наді мною."
+        },
+        {
+         "de": "Als ich nun empor sah, so wurde ich gewahr, dass es an den Wetterhahn des Kirchturms gebunden war und von da herunterhing.",
+         "tr": "Звівши очі, я побачив, що він прив'язаний до флюгера церковної дзвіниці й висить звідти."
+        },
+        {
+         "de": "Nun wusste ich sogleich, wie ich dran war.",
+         "tr": "Тут я одразу зрозумів, у чому річ."
+        },
+        {
+         "de": "Das Dorf war nämlich die Nacht über ganz und gar zugeschneit gewesen; das Wetter hatte sich auf einmal umgesetzt; ich war im Schlafe nach und nach, so wie der Schnee zusammengeschmolzen war, ganz sanft herabgesunken; und was ich in der Dunkelheit für den Stummel eines Bäumchens, der über dem Schnee hervorragte, gehalten und daran mein Pferd gebunden hatte, das war das Kreuz oder der Wetterhahn des Kirchturmes gewesen.",
+         "tr": "Річ у тім, що за ніч село геть замело снігом; погода раптом змінилася; я вві сні потроху, в міру того як танув сніг, зовсім м'яко опустився донизу; а те, що я в темряві взяв за пеньок деревця, який стирчав зі снігу, і до чого прив'язав коня, було хрестом або флюгером церковної дзвіниці."
+        }
+       ],
+       [
+        {
+         "de": "Ohne mich nun lange zu bedenken, nahm ich eine von meinen Pistolen, schoss nach dem Halfter, kam glücklich auf die Art wieder an mein Pferd und verfolgte meine Reise.",
+         "tr": "Недовго думаючи, я взяв один із пістолетів, вистрілив у вуздечку, щасливо повернув собі в такий спосіб коня й продовжив путь."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der Wolf im Geschirr",
+      "titleTr": "Вовк у запрязі",
+      "paragraphs": [
+       [
+        {
+         "de": "Hierauf ging alles gut, bis ich nach Russland kam, wo es eben nicht Mode ist, des Winters zu Pferde zu reisen.",
+         "tr": "Далі все йшло добре, аж поки я не прибув до Росії, де взимку їздити верхи якраз не заведено."
+        },
+        {
+         "de": "Wie es nun immer meine Maxime ist, mich nach dem bekannten »ländlich, sittlich« zu richten, so nahm ich dort einen kleinen Rennschlitten auf ein einzelnes Pferd und fuhr wohlgemut auf St. Petersburg los.",
+         "tr": "А що я завжди дотримуюся правила «що край, то звичай», то взяв там маленькі бігові санчата на одного коня й бадьоро покотив до Петербурга."
+        },
+        {
+         "de": "Nun weiß ich nicht mehr recht, ob es in Estland oder in Ingermanland war, so viel aber besinne ich mich noch wohl: Es war mitten in einem fürchterlichen Walde, als ich einen entsetzlichen Wolf mit aller Schnelligkeit des gefräßigsten Winterhungers hinter mir ansetzen sah.",
+         "tr": "Тепер я вже до ладу не пам'ятаю, чи було це в Естляндії, чи в Інгерманландії, але ось що пам'ятаю добре: це було посеред страшного лісу, коли я побачив, як за мною щодуху, яку дає найненажерливіший зимовий голод, жене моторошний вовк."
+        },
+        {
+         "de": "Er holte mich bald ein, und es war schlechterdings unmöglich, ihm zu entkommen.",
+         "tr": "Він скоро наздогнав мене, і втекти від нього було рішуче неможливо."
+        },
+        {
+         "de": "Mechanisch legte ich mich platt in den Schlitten nieder und ließ mein Pferd zu unserm beiderseitigen Besten ganz allein agieren.",
+         "tr": "Машинально я ліг плазом у сани й дав коневі діяти самотужки — нам обом на користь."
+        },
+        {
+         "de": "Was ich zwar vermutete, aber kaum zu hoffen und zu erwarten wagte, das geschah unmittelbar.",
+         "tr": "І те, що я припускав, але ледве смів сподіватися й чекати, сталося негайно."
+        },
+        {
+         "de": "Der Wolf bekümmerte sich nicht im mindesten um meine Wenigkeit, sondern sprang über mich hinweg, fiel wütend auf das Pferd, riss ab und verschlang auf einmal den ganzen Hinterteil des armen Tieres, welches vor Schrecken und Schmerz nur desto schneller lief.",
+         "tr": "Вовк анітрохи не зацікавився моєю скромною особою, а перестрибнув через мене, люто накинувся на коня, відірвав і разом проковтнув увесь зад бідної тварини, яка від жаху й болю побігла тільки швидше."
+        },
+        {
+         "de": "Wie ich nun auf die Art selbst so unbemerkt und gut davongekommen war, so erhob ich ganz verstohlen mein Gesicht und nahm mit Entsetzen wahr, dass der Wolf sich beinahe über und über in das Pferd hineingefressen hatte.",
+         "tr": "Відбувшись у такий спосіб сам непомітно й щасливо, я крадькома підвів обличчя і з жахом побачив, що вовк майже цілком угризся в коня."
+        },
+        {
+         "de": "Kaum aber hatte er sich so hübsch hineingezwängt, so nahm ich mein Tempo wahr und fiel ihm tüchtig mit meiner Peitschenschnur auf das Fell.",
+         "tr": "Але щойно він так гарненько туди втиснувся, як я вловив момент і добряче пройшовся батогом по його шкурі."
+        },
+        {
+         "de": "Solch ein unerwarteter Überfall in diesem Futteral verursachte ihm keinen geringen Schreck; er strebte mit aller Macht vorwärts, der Leichnam des Pferdes fiel zu Boden, und siehe! an seiner Statt steckte mein Wolf in dem Geschirre.",
+         "tr": "Такий несподіваний напад у цьому футлярі неабияк його налякав; він щосили рвонувся вперед, труп коня впав на землю, і — гляньте-но! — замість нього в запрязі опинився мій вовк."
+        },
+        {
+         "de": "Ich meines Orts hörte nun noch weniger auf zu peitschen, und wir langten in vollem Galopp gesund und wohlbehalten in St. Petersburg an, ganz gegen unsere beiderseitigen respektiven Erwartungen und zu nicht geringem Erstaunen aller Zuschauer.",
+         "tr": "Я ж зі свого боку тепер шмагав іще дужче, і ми повним галопом прибули до Петербурга цілі й неушкоджені — геть усупереч обопільним сподіванням і на превеликий подив усіх глядачів."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Die Enten an der Schnur",
+      "titleTr": "Качки на мотузці",
+      "paragraphs": [
+       [
+        {
+         "de": "Eines Morgens sah ich durch das Fenster meines Schlafgemachs, dass ein großer Teich, der nicht weit davon lag, mit wilden Enten gleichsam überdeckt war.",
+         "tr": "Одного ранку я побачив з вікна своєї спальні, що великий ставок неподалік просто-таки вкритий дикими качками."
+        },
+        {
+         "de": "Flugs nahm ich mein Gewehr aus dem Winkel, sprang zur Treppe hinab, und das so über Hals und Kopf, dass ich unvorsichtigerweise mit dem Gesichte gegen die Türpfoste rennte.",
+         "tr": "Миттю я схопив із кутка рушницю й збіг сходами вниз, та так стрімголов, що через необережність налетів обличчям на одвірок."
+        },
+        {
+         "de": "Feuer und Funken stoben mir aus den Augen, aber das hielt mich keinen Augenblick zurück.",
+         "tr": "Іскри посипалися в мене з очей, але це ні на мить мене не затримало."
+        },
+        {
+         "de": "Ich kam bald zum Schuss; allein wie ich anlegte, wurde ich zu meinem großen Verdrusse gewahr, dass durch den soeben empfangenen heftigen Stoß sogar der Stein von dem Flintenhahne abgesprungen war.",
+         "tr": "Незабаром я підкрався на постріл; але щойно я прицілився, як на превелику свою досаду помітив, що від щойно отриманого сильного удару навіть кремінь відскочив від курка рушниці."
+        },
+        {
+         "de": "Was sollte ich nun tun?",
+         "tr": "Що ж мені було робити?"
+        },
+        {
+         "de": "Denn Zeit war hier nicht zu verlieren.",
+         "tr": "Адже гаяти час було не можна."
+        },
+        {
+         "de": "Glücklicherweise fiel mir ein, was sich soeben mit meinen Augen zugetragen hatte.",
+         "tr": "На щастя, мені спало на думку те, що щойно сталося з моїми очима."
+        },
+        {
+         "de": "Ich riss also die Pfanne auf, legte mein Gewehr gegen das wilde Geflügel an und ballte die Faust gegen eins von meinen Augen.",
+         "tr": "Отож я відкрив полицю, навів рушницю на дичину й замахнувся кулаком на власне око."
+        },
+        {
+         "de": "Von einem derben Schlage flogen wieder Funken genug heraus, der Schuss ging los, und ich traf fünf Paar Enten, vier Rothälse und ein Paar Wasserhühner.",
+         "tr": "Від міцного удару знову вилетіло досить іскор, рушниця вистрілила, і я підстрелив п'ять пар качок, чотирьох червоношийок і пару лисок."
+        },
+        {
+         "de": "Gegenwart des Geistes ist die Seele mannhafter Taten.",
+         "tr": "Присутність духу — душа мужніх справ."
+        }
+       ],
+       [
+        {
+         "de": "So schwammen einst auf einem Landsee, an welchen ich auf einer Jagdstreiferei geriet, einige Dutzend wilder Enten allzu weit voneinander zerstreut umher, als dass ich mehr denn eine einzige auf einen Schuss zu erlegen hoffen konnte; und zum Unglück hatte ich meinen letzten Schuss schon in der Flinte.",
+         "tr": "Якось на озері, до якого я вийшов під час мисливського походу, плавало кілька дюжин диких качок — так далеко одна від одної, що я не міг сподіватися вкласти одним пострілом більше ніж одну; а на лихо останній заряд був у мене вже в рушниці."
+        },
+        {
+         "de": "Gleichwohl hätte ich sie gern alle gehabt, weil ich nächstens eine ganze Menge guter Freunde und Bekannten bei mir zu bewirten willens war.",
+         "tr": "А мені все-таки хотілося дістати їх усіх: незабаром я збирався частувати в себе цілий гурт добрих друзів і знайомих."
+        },
+        {
+         "de": "Da besann ich mich auf ein Stückchen Schinkenspeck, welches von meinem mitgenommenen Mundvorrat in meiner Jagdtasche noch übrig geblieben war.",
+         "tr": "Тут я згадав про шматочок окостового сала, що ще лишався в мисливській сумці від узятих із собою припасів."
+        },
+        {
+         "de": "Dieses befestigte ich an eine ziemlich lange Hundeleine, die ich aufdrehte und so wenigstens noch um viermal verlängerte.",
+         "tr": "Його я прив'язав до досить довгого собачого повідця, який розплів і так подовжив іще щонайменше вчетверо."
+        },
+        {
+         "de": "Nun verbarg ich mich im Schilfgesträuch am Ufer, warf meinen Speckbrocken aus und hatte das Vergnügen zu sehen, wie die nächste Ente hurtig herbeischwamm und ihn verschlang.",
+         "tr": "Потім я сховався в очереті біля берега, закинув свій шматок сала й із задоволенням побачив, як найближча качка жваво підпливла й проковтнула його."
+        },
+        {
+         "de": "Der ersten folgten bald alle übrigen nach, und da der glatte Brocken am Faden gar bald unverdaut hinten wieder herauskam, so verschlang ihn die nächste, und so immer weiter.",
+         "tr": "За першою незабаром рушили й усі інші, а що слизький шматок на нитці дуже скоро виходив ззаду неперетравленим, його ковтала наступна, і так далі."
+        },
+        {
+         "de": "Kurz, der Brocken machte die Reise durch alle Enten samt und sonders hindurch, ohne von seinem Faden loszureißen.",
+         "tr": "Коротше, шматок пройшов крізь усіх качок до одної, не відірвавшись від нитки."
+        },
+        {
+         "de": "So saßen sie denn alle daran wie Perlen an der Schnur.",
+         "tr": "Так усі вони й сиділи на ній, як перли на нитці."
+        },
+        {
+         "de": "Ich zog sie gar allerliebst ans Land, schlang mir die Schnur ein halbes Dutzendmal um Schultern und Leib und ging meines Weges nach Hause zu.",
+         "tr": "Я препросто витяг їх на берег, обмотав шнур пів дюжини разів навколо плечей і тулуба й рушив своєю дорогою додому."
+        }
+       ],
+       [
+        {
+         "de": "Da ich noch eine ziemliche Strecke davon entfernt war und mir die Last von einer solchen Menge Enten ziemlich beschwerlich fiel, so wollte es mir fast leid tun, ihrer allzu viele eingefangen zu haben.",
+         "tr": "Що до дому було ще чимало, а вага такої кількості качок ставала досить обтяжливою, я вже мало не пошкодував, що наловив їх аж так багато."
+        },
+        {
+         "de": "Da kam mir aber ein seltsamer Vorfall zustatten, der mich anfangs in nicht geringe Verlegenheit setzte.",
+         "tr": "Але тут мені стала в пригоді одна дивна пригода, що спершу неабияк мене збентежила."
+        },
+        {
+         "de": "Die Enten waren nämlich noch alle lebendig, fingen, als sie von der ersten Bestürzung sich erholt hatten, gar mächtig an, mit den Flügeln zu schlagen und sich mit mir hoch in die Luft zu erheben.",
+         "tr": "Річ у тім, що качки були ще живі й, оговтавшись від першого переляку, взялися щосили бити крилами й підносити мене з собою високо в повітря."
+        },
+        {
+         "de": "Nun wäre bei manchem wohl guter Rat teuer gewesen.",
+         "tr": "Інший на моєму місці тут розгубився б."
+        },
+        {
+         "de": "Allein ich benutzte diesen Umstand, so gut ich konnte, zu meinem Vorteil und ruderte mich mit meinen Rockschößen nach der Gegend meiner Behausung durch die Luft.",
+         "tr": "Але я, як тільки міг, обернув цю обставину собі на користь і загріб полами сюртука по повітрю в бік свого житла."
+        },
+        {
+         "de": "Als ich nun gerade über meiner Wohnung angelangt war und es darauf ankam, ohne Schaden mich herunterzulassen, so drückte ich einer Ente nach der andern den Kopf ein, sank dadurch ganz sanft und allmählich gerade durch den Schornstein meines Hauses mitten auf den Küchenherd, auf welchem zum Glück noch kein Feuer angezündet war, zu nicht geringem Schreck und Erstaunen meines Koches.",
+         "tr": "Коли я опинився просто над своїм житлом і треба було спуститися без шкоди для себе, я почав одній качці за одною скручувати голову й завдяки цьому зовсім м'яко й поступово опустився просто через димар свого дому на кухонне вогнище, де, на щастя, ще не розпалили вогню, — на превеликий переляк і подив мого кухаря."
+        },
+        {
+         "de": "Wie gesagt, man muss sich nur in der Welt zu helfen wissen.",
+         "tr": "Як кажуть, треба тільки вміти дати собі раду на цьому світі."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Der Kirschbaum auf dem Hirsch",
+      "titleTr": "Вишня на олені",
+      "paragraphs": [
+       [
+        {
+         "de": "Einst, als ich all mein Blei verschossen hatte, stieß mir ganz wider mein Vermuten der stattlichste Hirsch von der Welt auf.",
+         "tr": "Якось, коли я розстріляв увесь свинець, мені зовсім несподівано трапився найставніший олень на світі."
+        },
+        {
+         "de": "Er blickte mir so, mir nichts, dir nichts, ins Auge, als ob er's auswendig gewusst hätte, dass mein Beutel leer war.",
+         "tr": "Він дивився мені в очі як ні в чому не бувало, ніби знав напам'ять, що торба моя порожня."
+        },
+        {
+         "de": "Augenblicklich lud ich indessen meine Flinte mit Pulver und darüber her eine ganze Hand voll Kirschsteine, wovon ich, so hurtig sich das tun ließ, das Fleisch abgesogen hatte.",
+         "tr": "Я негайно зарядив рушницю порохом, а поверх нього — цілою жменею вишневих кісточок, з яких я нашвидкуруч обсмоктав м'якуш."
+        },
+        {
+         "de": "Und so gab ich ihm die volle Ladung mitten auf seine Stirn zwischen das Geweih.",
+         "tr": "І ось я всадив йому весь заряд просто в лоб, між роги."
+        },
+        {
+         "de": "Der Schuss betäubte ihn zwar – er taumelte –, machte sich aber doch aus dem Staube.",
+         "tr": "Постріл його, щоправда, приголомшив — він захитався, — але все-таки олень утік."
+        },
+        {
+         "de": "Ein oder zwei Jahre danach war ich in ebendemselben Walde auf der Jagd; und siehe! zum Vorschein kam ein stattlicher Hirsch mit einem voll ausgewachsenen Kirschbaume, mehr denn zehn Fuß hoch, zwischen seinem Geweihe.",
+         "tr": "Рік чи два по тому я полював у тому самому лісі — і от, глядь, з'являється ставний олень, а між рогами в нього доросла вишня заввишки понад десять футів."
+        },
+        {
+         "de": "Mir fiel gleich mein voriges Abenteuer wieder ein; ich betrachtete den Hirsch als mein längst wohlerworbenes Eigentum und legte ihn mit einem Schusse zu Boden, wodurch ich denn auf einmal an Braten und Kirschtunke zugleich geriet.",
+         "tr": "Мені одразу згадалася моя колишня пригода; я вважав оленя своєю давно й чесно заробленою власністю і поклав його одним пострілом — так разом здобув і печеню, і вишневу підливу."
+        },
+        {
+         "de": "Denn der Baum hing reichlich voll Früchte, die ich in meinem ganzen Leben so delikat nicht gegessen hatte.",
+         "tr": "Адже дерево було рясно обвішане плодами — таких смачних я за все життя не їдав."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Das halbe Pferd",
+      "titleTr": "Половина коня",
+      "paragraphs": [
+       [
+        {
+         "de": "Einst, als wir die Türken in Otschakow hineintrieben, ging's bei der Avantgarde sehr heiß her.",
+         "tr": "Якось, коли ми гнали турків до Очакова, в авангарді було дуже гаряче."
+        },
+        {
+         "de": "Mein feuriger Litauer hätte mich beinahe in des Teufels Küche gebracht.",
+         "tr": "Мій гарячий литовський кінь мало не завіз мене чортові в пекло."
+        },
+        {
+         "de": "Wir zerstreuten den Feind völlig, richteten eine gewaltige Niederlage an und trieben ihn nicht allein in seine Festung zu Loche, sondern auch durch und durch.",
+         "tr": "Ми геть розсіяли ворога, вчинили йому страшний розгром і загнали не тільки в його фортецю, а й наскрізь через неї."
+        }
+       ],
+       [
+        {
+         "de": "Weil nun mein Litauer so außerordentlich geschwind war, so war ich der Vorderste beim Nachsetzen, und da ich sah, dass der Feind so hübsch zum gegenseitigen Tore wieder hinausfloh, so hielt ich's für ratsam, auf dem Marktplatze anzuhalten und da zum Rendezvous blasen zu lassen.",
+         "tr": "Мій литовець був надзвичайно швидкий, і в погоні я опинився попереду всіх; а бачачи, що ворог спокійнісінько тікає через протилежну браму, я вважав за розумне зупинитися на ринковій площі й звеліти сурмити збір."
+        },
+        {
+         "de": "Ich hielt an, aber stellt euch, ihr Herren, mein Erstaunen vor, als ich weder Trompeter noch irgendeine lebendige Seele von meinen Husaren um mich sah.",
+         "tr": "Я зупинився — але уявіть собі, панове, моє здивування, коли я не побачив довкола ані сурмача, ані жодної живої душі з моїх гусарів."
+        },
+        {
+         "de": "»Sprengen sie etwa durch andere Straßen? Oder was ist aus ihnen geworden?«, dachte ich.",
+         "tr": "«Може, вони скачуть іншими вулицями? Чи що з ними сталося?» — подумав я."
+        },
+        {
+         "de": "Indessen konnten sie meiner Meinung nach unmöglich fern sein und mussten mich bald einholen.",
+         "tr": "Утім, на мою думку, вони ніяк не могли бути далеко й мали незабаром мене наздогнати."
+        },
+        {
+         "de": "In dieser Erwartung ritt ich meinen atemlosen Litauer zu einem Brunnen auf dem Marktplatze und ließ ihn trinken.",
+         "tr": "Чекаючи на них, я під'їхав на своєму захеканому литовці до криниці на ринковій площі й дав йому напитися."
+        },
+        {
+         "de": "Er soff ganz unmäßig und mit einem Heißdurste, der gar nicht zu löschen war.",
+         "tr": "Він пив без жодної міри, з такою пекучою спрагою, яку нічим було не втамувати."
+        },
+        {
+         "de": "Allein das ging ganz natürlich zu.",
+         "tr": "Але пояснювалося це цілком природно."
+        },
+        {
+         "de": "Denn als ich mich nach meinen Leuten umsah, was meint Ihr wohl, Ihr Herren, was ich da erblickte?",
+         "tr": "Адже коли я озирнувся, виглядаючи своїх людей, — як ви думаєте, панове, що я побачив?"
+        },
+        {
+         "de": "Der ganze Hinterteil des armen Tieres, Kreuz und Lenden waren fort und wie rein abgeschnitten.",
+         "tr": "Увесь зад бідної тварини — круп і поперек — зник, наче чисто відрізаний."
+        },
+        {
+         "de": "So lief denn hinten das Wasser ebenso wieder heraus, als es von vorn hineingekommen war, ohne dass es dem Gaul zugute kam oder ihn erfrischte.",
+         "tr": "От вода й виливалася ззаду так само, як потрапляла спереду, не даючи коневі ні користі, ні прохолоди."
+        },
+        {
+         "de": "Wie das zugegangen sein mochte, blieb mir ein völliges Rätsel, bis ich zum Stadttore zurückritt.",
+         "tr": "Як таке могло статися, лишалося для мене цілковитою загадкою, аж поки я не повернувся до міської брами."
+        },
+        {
+         "de": "Da sah ich nun, dass man, als ich pêle-mêle mit dem fliehenden Feinde hereingedrungen war, das Schutzgatter, ohne dass ich's wahrgenommen, fallen gelassen hatte, wodurch denn der Hinterteil, der noch zuckend an der Außenseite des Tores lag, rein abgeschlagen war.",
+         "tr": "Тут-то я й побачив, що, коли я впереміш із ворогом, який тікав, увірвався до міста, ґрати брами непомітно для мене опустили, і ними-то зад коня, що ще здригався по той бік брами, й було начисто відрубано."
+        }
+       ],
+       [
+        {
+         "de": "Der Verlust würde unersetzlich gewesen sein, wenn nicht unser Kurschmied ein Mittel ausgesonnen hätte, beide Teile, solange sie noch warm waren, wieder zusammenzusetzen.",
+         "tr": "Втрата була б непоправною, якби наш коновал не вигадав способу з'єднати обидві половини, поки вони ще не охолонули."
+        },
+        {
+         "de": "Er heftete sie nämlich mit jungen Lorbeersprösslingen, die gerade bei der Hand waren, zusammen.",
+         "tr": "А саме — він скріпив їх молодими пагонами лавра, що якраз опинилися під рукою."
+        },
+        {
+         "de": "Die Wunde heilte zu, und es begab sich etwas, das nur einem so ruhmvollen Pferde begegnen konnte.",
+         "tr": "Рана загоїлася, і сталося те, що могло статися тільки з таким славним конем."
+        },
+        {
+         "de": "Nämlich, die Sprossen schlugen Wurzel in seinem Leibe, wuchsen empor und wölbten eine Laube über mir, sodass ich hernach manchen ehrlichen Ritt im Schatten meiner sowohl als meines Rosses Lorbeeren tun konnte.",
+         "tr": "Пагони пустили коріння в його тілі, розрослися вгору й зімкнулися наді мною альтанкою, тож потім я не раз їздив верхи в тіні лаврів — як своїх, так і мого коня."
+        }
+       ]
+      ]
+     },
+     {
+      "title": "Auf der Kanonenkugel",
+      "titleTr": "Верхи на ядрі",
+      "paragraphs": [
+       [
+        {
+         "de": "Einem Manne, meine Herren, der einen Gaul, wie mein Litauer war, zu reiten vermochte, können Sie auch wohl noch ein anderes Voltigier- und Reiterstückchen zutrauen, welches außerdem vielleicht ein wenig fabelhaft klingen möchte.",
+         "tr": "Людині, панове, яка вміла їздити на такому коні, як мій литовець, ви, мабуть, повірите і в іще один вольтижерський і верхівський трюк, який інакше, можливо, прозвучав би трохи казково."
+        },
+        {
+         "de": "Wir belagerten nämlich, ich weiß nicht mehr welche Stadt, und dem Feldmarschall war ganz erstaunlich viel an genauer Kundschaft gelegen, wie die Sachen in der Festung stünden.",
+         "tr": "Річ у тім, що ми облягали — вже не пам'ятаю яке — місто, і фельдмаршалові було надзвичайно важливо дістати точні відомості про те, як ідуть справи у фортеці."
+        },
+        {
+         "de": "Es schien äußerst schwer, ja fast unmöglich, durch alle Vorposten, Wachen und Festungswerke hineinzugelangen; auch war eben kein tüchtiges Subjekt vorhanden, wodurch man so was glücklich auszurichten hätte hoffen können.",
+         "tr": "Пробратися досередини повз усі аванпости, варти й укріплення здавалося вкрай важко, майже неможливо; та й не знайшлося відповідної людини, на яку можна було б сподіватися, що вона успішно впорається з такою справою."
+        },
+        {
+         "de": "Vor Mut und Diensteifer fast ein wenig allzu rasch, stellte ich mich neben eine der größten Kanonen, die soeben nach der Festung abgefeuert ward, und sprang im Hui auf die Kugel, in der Absicht, mich in die Festung hineintragen zu lassen.",
+         "tr": "Від відваги й службового запалу, мабуть, надто поквапливий, я став поруч з однією з найбільших гармат, з якої саме вистрілили по фортеці, і миттю скочив на ядро, маючи намір дати йому занести мене до фортеці."
+        },
+        {
+         "de": "Als ich aber halbwegs durch die Luft geritten war, stiegen mir allerlei nicht unerhebliche Bedenklichkeiten zu Kopfe.",
+         "tr": "Але коли я проскакав повітрям пів дороги, мені в голову полізли всілякі неабиякі сумніви."
+        },
+        {
+         "de": "»Hm«, dachte ich, »hinein kommst du nun wohl, allein wie hernach sogleich wieder heraus?",
+         "tr": "«Хм, — подумав я, — досередини ти, певно, потрапиш, а як потім одразу ж вибратися назад?"
+        },
+        {
+         "de": "Und wie kann's dir in der Festung ergehen?",
+         "tr": "І що з тобою буде у фортеці?"
+        },
+        {
+         "de": "Man wird dich sogleich als einen Spion erkennen und an den nächsten Galgen hängen.",
+         "tr": "Тебе одразу впізнають як шпигуна й повісять на найближчій шибениці."
+        },
+        {
+         "de": "Ein solches Bette der Ehren wollte ich mir denn doch wohl verbitten.«",
+         "tr": "Від такого ложа честі я вже, мабуть, відмовлюся»."
+        },
+        {
+         "de": "Nach diesen und ähnlichen Betrachtungen entschloss ich mich kurz, nahm die glückliche Gelegenheit wahr, als eine Kanonenkugel aus der Festung einige Schritte weit vor mir vorüber nach unserm Lager flog, sprang von der meinigen auf diese hinüber und kam, zwar unverrichteter Sache, jedoch wohlbehalten bei den lieben Unsrigen wieder an.",
+         "tr": "Після цих і подібних роздумів я швидко зважився: вловивши момент, коли ядро з фортеці пролітало за кілька кроків від мене до нашого табору, я перескочив зі свого на нього й повернувся до наших любих — хоч і ні з чим, зате цілий і неушкоджений."
+        }
+       ],
+       [
+        {
+         "de": "So leicht und fertig ich im Springen war, so war es auch mein Pferd.",
+         "tr": "Наскільки спритним і моторним у стрибках був я, настільки ж був і мій кінь."
+        },
+        {
+         "de": "Weder Graben noch Zäune hielten mich jemals ab, überall den geradesten Weg zu reiten.",
+         "tr": "Ні канави, ні паркани ніколи не заважали мені їздити скрізь найпрямішою дорогою."
+        },
+        {
+         "de": "Einst setzte ich darauf hinter einem Hasen her, der querfeldein über die Heerstraße lief.",
+         "tr": "Якось я гнався на ньому за зайцем, що біг навпростець через велику дорогу."
+        },
+        {
+         "de": "Eine Kutsche mit zwei schönen Damen fuhr diesen Weg gerade zwischen mir und dem Hasen vorbei.",
+         "tr": "Карета з двома вродливими дамами їхала цією дорогою якраз між мною і зайцем."
+        },
+        {
+         "de": "Mein Gaul setzte so schnell und ohne Anstoß mitten durch die Kutsche hindurch, wovon die Fenster aufgezogen waren, dass ich kaum Zeit hatte, meinen Hut abzuziehen und die Damen wegen dieser Freiheit untertänigst um Verzeihung zu bitten.",
+         "tr": "Мій кінь так швидко й без затримки проскочив просто крізь карету, в якої вікна були відчинені, що я ледве встиг зняти капелюха й найпокірніше попросити в дам вибачення за таку вільність."
+        }
+       ],
+       [
+        {
+         "de": "Ein andermal wollte ich über einen Morast setzen, der mir anfänglich nicht so breit vorkam, als ich ihn fand, da ich mitten im Sprunge war.",
+         "tr": "Іншим разом я хотів перестрибнути через болото, яке спершу здалося мені не таким широким, яким виявилося, коли я був уже посеред стрибка."
+        },
+        {
+         "de": "Schwebend in der Luft, wendete ich daher wieder um, wo ich hergekommen war, um einen größern Anlauf zu nehmen.",
+         "tr": "Тому, ширяючи в повітрі, я повернув назад, туди, звідки прилетів, щоб узяти більший розгін."
+        },
+        {
+         "de": "Gleichwohl sprang ich auch zum zweiten Male noch zu kurz und fiel nicht weit vom andern Ufer bis an den Hals in den Morast.",
+         "tr": "І все ж удруге я знову не доскочив і впав неподалік від другого берега в болото по саму шию."
+        },
+        {
+         "de": "Hier hätte ich unfehlbar umkommen müssen, wenn nicht die Stärke meines eigenen Armes mich an meinem eigenen Haarzopfe samt dem Pferde, welches ich fest zwischen meine Knie schloss, wieder herausgezogen hätte.",
+         "tr": "Тут би мені неминуче й загинути, якби сила моєї власної руки не витягла мене назад за мою власну кіску — разом із конем, якого я міцно стиснув колінами."
+        }
+       ]
+      ]
+     }
+    ]
+   }
   }
  ]
 }
