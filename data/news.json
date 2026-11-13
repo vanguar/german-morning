@@ -1,6 +1,694 @@
 {
  "items": [
   {
+   "id": "inflation-oktober-2026",
+   "rubric": "economy",
+   "level": "B1",
+   "published": "2026-11-11",
+   "added": "2026-11-13",
+   "source": "Statistisches Bundesamt (Destatis)",
+   "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html",
+   "words": 81,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/inflation-oktober-2026/img/cover.jpg",
+   "ru": {
+    "title": "Die Inflation in Deutschland sinkt im Oktober auf 2,8 Prozent",
+    "titleTr": "Инфляция в Германии в октябре снизилась до 2,8 процента",
+    "blurb": "В октябре цены в Германии выросли на 2,8 процента к прошлому году. Энергия оставалась главным фактором роста, хотя за месяц топливо подешевело.",
+    "levelNote": "Сравнения с als, разница между auf и um при изменении величины, лексика цен и статистики.",
+    "license": "Текст — адаптированный пересказ; график — Deutsch Meister по данным Destatis.",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-oktober-2026/img/bild.jpg",
+       "w": 960,
+       "h": 540,
+       "cap": "Годовая инфляция в Германии: 3,3 процента в сентябре и 2,8 процента в октябре 2026 года.",
+       "credit": "Deutsch Meister · Destatis"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Im Oktober 2026 waren die Verbraucherpreise in Deutschland um 2,8 Prozent höher als ein Jahr zuvor.",
+        "tr": "В октябре 2026 года потребительские цены в Германии были на 2,8 процента выше, чем годом ранее."
+       },
+       {
+        "de": "Im September hatte die Inflationsrate noch bei 3,3 Prozent gelegen.",
+        "tr": "В сентябре инфляция ещё составляла 3,3 процента."
+       },
+       {
+        "de": "Energie blieb der wichtigste Grund für die höheren Preise.",
+        "tr": "Энергия оставалась главной причиной роста цен."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Energieprodukte kosteten 12,2 Prozent mehr als im Oktober 2025.",
+        "tr": "Энергоносители стоили на 12,2 процента дороже, чем в октябре 2025 года."
+       },
+       {
+        "de": "Im Vergleich zum September sanken die Preise insgesamt aber um 0,2 Prozent.",
+        "tr": "Однако по сравнению с сентябрём цены в целом снизились на 0,2 процента."
+       },
+       {
+        "de": "Kraftstoffe waren im selben Zeitraum 5,5 Prozent günstiger.",
+        "tr": "Топливо за тот же период подешевело на 5,5 процента."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Seit dem 1. Oktober gibt es wieder einen Tankrabatt durch eine niedrigere Energiesteuer.",
+        "tr": "С 1 октября в Германии снова действует пониженный налог на топливо."
+       },
+       {
+        "de": "Ohne Energie und Lebensmittel lag die Teuerung gegenüber dem Vorjahr bei 2,1 Prozent.",
+        "tr": "Без учёта энергии и продуктов цены выросли на 2,1 процента к прошлому году."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Die Inflation in Deutschland sinkt im Oktober auf 2,8 Prozent",
+    "titleTr": "Інфляція в Німеччині в жовтні знизилася до 2,8 відсотка",
+    "blurb": "У жовтні ціни в Німеччині зросли на 2,8 відсотка порівняно з минулим роком. Енергоносії залишалися головним чинником зростання, хоча за місяць пальне подешевшало.",
+    "levelNote": "Порівняння з als, різниця між auf і um у разі зміни величини, лексика цін і статистики.",
+    "license": "Текст — адаптований переказ; графік — Deutsch Meister за даними Destatis.",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/inflation-oktober-2026/img/bild.jpg",
+       "w": 960,
+       "h": 540,
+       "cap": "Річна інфляція в Німеччині: 3,3 відсотка у вересні й 2,8 відсотка в жовтні 2026 року.",
+       "credit": "Deutsch Meister · Destatis"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Im Oktober 2026 waren die Verbraucherpreise in Deutschland um 2,8 Prozent höher als ein Jahr zuvor.",
+        "tr": "У жовтні 2026 року споживчі ціни в Німеччині були на 2,8 відсотка вищими, ніж роком раніше."
+       },
+       {
+        "de": "Im September hatte die Inflationsrate noch bei 3,3 Prozent gelegen.",
+        "tr": "У вересні інфляція ще становила 3,3 відсотка."
+       },
+       {
+        "de": "Energie blieb der wichtigste Grund für die höheren Preise.",
+        "tr": "Енергоносії залишалися головною причиною зростання цін."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Energieprodukte kosteten 12,2 Prozent mehr als im Oktober 2025.",
+        "tr": "Енергоносії коштували на 12,2 відсотка дорожче, ніж у жовтні 2025 року."
+       },
+       {
+        "de": "Im Vergleich zum September sanken die Preise insgesamt aber um 0,2 Prozent.",
+        "tr": "Однак порівняно з вереснем ціни загалом знизилися на 0,2 відсотка."
+       },
+       {
+        "de": "Kraftstoffe waren im selben Zeitraum 5,5 Prozent günstiger.",
+        "tr": "Пальне за той самий період подешевшало на 5,5 відсотка."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Seit dem 1. Oktober gibt es wieder einen Tankrabatt durch eine niedrigere Energiesteuer.",
+        "tr": "З 1 жовтня в Німеччині знову діє знижений податок на пальне."
+       },
+       {
+        "de": "Ohne Energie und Lebensmittel lag die Teuerung gegenüber dem Vorjahr bei 2,1 Prozent.",
+        "tr": "Без урахування енергоносіїв і продуктів ціни зросли на 2,1 відсотка порівняно з минулим роком."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "koeln-karnevalsauftakt-2026",
+   "rubric": "events",
+   "level": "B1",
+   "published": "2026-11-11",
+   "added": "2026-11-13",
+   "source": "Stadt Köln",
+   "sourceUrl": "https://www.stadt-koeln.de/politik-und-verwaltung/presse/mitteilungen/28769/index.html",
+   "words": 97,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/koeln-karnevalsauftakt-2026/img/cover.jpg",
+   "ru": {
+    "title": "Köln feiert den Beginn der Karnevalssaison",
+    "titleTr": "В Кёльне открыли карнавальный сезон",
+    "blurb": "11 ноября тысячи человек отметили начало карнавального сезона в Кёльне. Из-за дождя и холода многие праздновали в пабах.",
+    "levelNote": "Претерит и перфект, предлог trotz с родительным падежом, лексика городских праздников.",
+    "license": "Текст — адаптированный пересказ; фото и кадрированная обложка — Khald1992.. · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Karneval,_K%C3%B6ln,_Germany.jpg · https://creativecommons.org/licenses/by-sa/4.0/",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/koeln-karnevalsauftakt-2026/img/bild.jpg",
+       "w": 675,
+       "h": 900,
+       "cap": "Открытие карнавального сезона в Кёльне 11 ноября 2022 года. Архивный снимок.",
+       "credit": "Khald1992.. · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 11. November hat in Köln die neue Karnevalssaison begonnen.",
+        "tr": "11 ноября в Кёльне начался новый карнавальный сезон."
+       },
+       {
+        "de": "Nach Angaben der Stadt kamen Tausende Menschen aus Köln und von außerhalb.",
+        "tr": "По данным города, на праздник пришли тысячи жителей Кёльна и гостей."
+       },
+       {
+        "de": "Trotz Regen und Kälte wurde in der Altstadt, in der Südstadt und im Kwartier Latäng gefeiert.",
+        "tr": "Несмотря на дождь и холод, гулянья прошли в Старом городе, Зюдштадте и квартале Латенг."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Viele gingen zum Feiern in die Kneipen, wo es wärmer und trocken war.",
+        "tr": "Многие отправились праздновать в пабы, где было теплее и сухо."
+       },
+       {
+        "de": "Zum Karneval gehört in Köln auch das Schunkeln.",
+        "tr": "Часть кёльнского карнавала — традиция качаться в такт музыке."
+       },
+       {
+        "de": "Dabei bewegen sich die Feiernden im Takt der Musik von einer Seite zur anderen.",
+        "tr": "Празднующие при этом покачиваются из стороны в сторону в такт музыке."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Wegen des Andrangs plante die Stadt Sperrungen rund um die Plätze Alter Markt und Heumarkt.",
+        "tr": "Из-за наплыва людей город запланировал перекрытия вокруг площадей Альтер-Маркт и Хоймаркт."
+       },
+       {
+        "de": "In Köln nennt man die Karnevalssaison traditionell die „fünfte Jahreszeit“.",
+        "tr": "В Кёльне карнавальный сезон традиционно называют «пятым временем года»."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Köln feiert den Beginn der Karnevalssaison",
+    "titleTr": "У Кельні відкрили карнавальний сезон",
+    "blurb": "11 листопада тисячі людей відзначили початок карнавального сезону в Кельні. Через дощ і холод багато хто святкував у пабах.",
+    "levelNote": "Претерит і перфект, прийменник trotz із родовим відмінком, лексика міських свят.",
+    "license": "Текст — адаптований переказ; фото й кадрована обкладинка — Khald1992.. · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Karneval,_K%C3%B6ln,_Germany.jpg · https://creativecommons.org/licenses/by-sa/4.0/",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/koeln-karnevalsauftakt-2026/img/bild.jpg",
+       "w": 675,
+       "h": 900,
+       "cap": "Відкриття карнавального сезону в Кельні 11 листопада 2022 року. Архівний знімок.",
+       "credit": "Khald1992.. · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Am 11. November hat in Köln die neue Karnevalssaison begonnen.",
+        "tr": "11 листопада в Кельні розпочався новий карнавальний сезон."
+       },
+       {
+        "de": "Nach Angaben der Stadt kamen Tausende Menschen aus Köln und von außerhalb.",
+        "tr": "За даними міста, на свято прийшли тисячі мешканців Кельна й гостей."
+       },
+       {
+        "de": "Trotz Regen und Kälte wurde in der Altstadt, in der Südstadt und im Kwartier Latäng gefeiert.",
+        "tr": "Попри дощ і холод, гуляння відбулися в Старому місті, Зюдштадті та кварталі Латенг."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Viele gingen zum Feiern in die Kneipen, wo es wärmer und trocken war.",
+        "tr": "Багато хто пішов святкувати до пабів, де було тепліше й сухо."
+       },
+       {
+        "de": "Zum Karneval gehört in Köln auch das Schunkeln.",
+        "tr": "Частина кельнського карнавалу — традиція гойдатися в такт музиці."
+       },
+       {
+        "de": "Dabei bewegen sich die Feiernden im Takt der Musik von einer Seite zur anderen.",
+        "tr": "Ті, хто святкує, при цьому гойдаються з боку в бік у такт музиці."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Wegen des Andrangs plante die Stadt Sperrungen rund um die Plätze Alter Markt und Heumarkt.",
+        "tr": "Через наплив людей місто запланувало перекриття навколо площ Альтер-Маркт і Гоймаркт."
+       },
+       {
+        "de": "In Köln nennt man die Karnevalssaison traditionell die „fünfte Jahreszeit“.",
+        "tr": "У Кельні карнавальний сезон традиційно називають «пʼятою порою року»."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "apple-tv-gebaerdensprache-2026",
+   "rubric": "tech",
+   "level": "B1",
+   "published": "2026-11-10",
+   "added": "2026-11-13",
+   "source": "Apple Newsroom",
+   "sourceUrl": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+   "words": 103,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/apple-tv-gebaerdensprache-2026/img/cover.jpg",
+   "ru": {
+    "title": "Apple TV bietet Filme mit Gebärdensprache an",
+    "titleTr": "В Apple TV появился перевод фильмов на жестовый язык",
+    "blurb": "С 13 ноября некоторые фильмы в Apple TV можно смотреть с переводом на жестовый язык. Одним из первых стал фильм о Джуди Хьюманн.",
+    "levelNote": "Отделяемые глаголы (bietet … an, schaltet … ein), придаточные с dass, лексика цифровой доступности.",
+    "license": "Текст — адаптированный пересказ; фото и кадрированная обложка — Dillan Payne · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Apple_TV_4K_(3rd_Generation,_2022)_with_Siri_Remote_(cropped).jpg · https://creativecommons.org/licenses/by-sa/4.0/",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/apple-tv-gebaerdensprache-2026/img/bild.jpg",
+       "w": 1100,
+       "h": 616,
+       "cap": "Приставка Apple TV 4K образца 2022 года и пульт Siri Remote. Иллюстрация к статье.",
+       "credit": "Dillan Payne · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Apple hat am 10. November eine neue Funktion für seine TV-App vorgestellt.",
+        "tr": "10 ноября Apple представила новую функцию своего приложения для просмотра фильмов."
+       },
+       {
+        "de": "Ab dem 13. November bietet Apple TV ausgewählte Filme mit Gebärdensprache an.",
+        "tr": "С 13 ноября Apple TV предлагает отдельные фильмы с переводом на жестовый язык."
+       },
+       {
+        "de": "Zum Start gehört der Film „Being Heumann“ zum Angebot.",
+        "tr": "При запуске в подборку вошёл фильм «Being Heumann»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Er erzählt die Geschichte von Judy Heumann, die sich für die Rechte von Menschen mit Behinderungen einsetzte.",
+        "tr": "Он рассказывает о Джуди Хьюманн, которая боролась за права людей с инвалидностью."
+       },
+       {
+        "de": "Auch den Film „F1“ gibt es mit Übersetzungen in amerikanische und britische Gebärdensprache.",
+        "tr": "Фильм «F1» также доступен с переводом на американский и британский жестовые языки."
+       },
+       {
+        "de": "Wer die Funktion nutzen möchte, schaltet sie in den Einstellungen der App ein.",
+        "tr": "Чтобы воспользоваться функцией, её нужно включить в настройках приложения."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Ein Symbol zeigt an, dass ein Film mit Gebärdensprache verfügbar ist.",
+        "tr": "Специальный значок показывает, что фильм доступен с переводом на жестовый язык."
+       },
+       {
+        "de": "Gehörlose Menschen und Menschen, die mit Gebärdensprache aufgewachsen sind, waren an der Entwicklung und an den Tests beteiligt.",
+        "tr": "В разработке и тестировании участвовали глухие люди и люди, для которых жестовый язык родной."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Apple TV bietet Filme mit Gebärdensprache an",
+    "titleTr": "В Apple TV зʼявився переклад фільмів жестовою мовою",
+    "blurb": "З 13 листопада деякі фільми в Apple TV можна дивитися з перекладом жестовою мовою. Одним із перших став фільм про Джуді Гʼюманн.",
+    "levelNote": "Дієслова з відокремлюваними префіксами (bietet … an, schaltet … ein), підрядні речення з dass, лексика цифрової доступності.",
+    "license": "Текст — адаптований переказ; фото й кадрована обкладинка — Dillan Payne · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Apple_TV_4K_(3rd_Generation,_2022)_with_Siri_Remote_(cropped).jpg · https://creativecommons.org/licenses/by-sa/4.0/",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/apple-tv-gebaerdensprache-2026/img/bild.jpg",
+       "w": 1100,
+       "h": 616,
+       "cap": "Приставка Apple TV 4K зразка 2022 року й пульт Siri Remote. Ілюстрація до статті.",
+       "credit": "Dillan Payne · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Apple hat am 10. November eine neue Funktion für seine TV-App vorgestellt.",
+        "tr": "10 листопада Apple представила нову функцію свого застосунку для перегляду фільмів."
+       },
+       {
+        "de": "Ab dem 13. November bietet Apple TV ausgewählte Filme mit Gebärdensprache an.",
+        "tr": "З 13 листопада Apple TV пропонує окремі фільми з перекладом жестовою мовою."
+       },
+       {
+        "de": "Zum Start gehört der Film „Being Heumann“ zum Angebot.",
+        "tr": "На момент запуску до добірки ввійшов фільм «Being Heumann»."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Er erzählt die Geschichte von Judy Heumann, die sich für die Rechte von Menschen mit Behinderungen einsetzte.",
+        "tr": "Він розповідає про Джуді Гʼюманн, яка боролася за права людей з інвалідністю."
+       },
+       {
+        "de": "Auch den Film „F1“ gibt es mit Übersetzungen in amerikanische und britische Gebärdensprache.",
+        "tr": "Фільм «F1» також доступний із перекладом американською та британською жестовими мовами."
+       },
+       {
+        "de": "Wer die Funktion nutzen möchte, schaltet sie in den Einstellungen der App ein.",
+        "tr": "Щоб скористатися функцією, її потрібно ввімкнути в налаштуваннях застосунку."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Ein Symbol zeigt an, dass ein Film mit Gebärdensprache verfügbar ist.",
+        "tr": "Спеціальна позначка показує, що фільм доступний із перекладом жестовою мовою."
+       },
+       {
+        "de": "Gehörlose Menschen und Menschen, die mit Gebärdensprache aufgewachsen sind, waren an der Entwicklung und an den Tests beteiligt.",
+        "tr": "У розробці й тестуванні брали участь глухі люди та люди, для яких жестова мова рідна."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "messel-eule-2026",
+   "rubric": "science",
+   "level": "B1",
+   "published": "2026-11-03",
+   "added": "2026-11-13",
+   "source": "Senckenberg · Current Biology",
+   "sourceUrl": "https://www.senckenberg.de/de/pressemeldungen/noch-keine-nachteule-aussergewoehnliches-vogelfossil-aus-der-grube-messel-beschrieben/",
+   "words": 97,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/messel-eule-2026/img/cover.jpg",
+   "ru": {
+    "title": "Ein Fossil aus Messel: Diese Eule jagte wohl am Tag",
+    "titleTr": "Ископаемая сова из Месселя, вероятно, охотилась днём",
+    "blurb": "В карьере Мессель нашли небольшую сову возрастом около 47 миллионов лет. Крылья птицы и остатки еды в желудке помогли учёным понять, когда она охотилась.",
+    "levelNote": "Претерит (war, lebte, fand), перфект и косвенный вопрос с wann.",
+    "license": "Текст — адаптированный пересказ; фото и кадрированная обложка — René Schröder · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Wiki_DSC06007_UNESCO-Weltnaturerbe_Grube-Messel.jpg · https://creativecommons.org/licenses/by-sa/4.0/",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/messel-eule-2026/img/bild.jpg",
+       "w": 1100,
+       "h": 733,
+       "cap": "Смотровая площадка карьера Мессель в Гессене. Именно в этом карьере нашли ископаемую сову.",
+       "credit": "René Schröder · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In der Grube Messel in Hessen haben Forschende ein seltenes Eulenfossil gefunden.",
+        "tr": "В карьере Мессель в Гессене исследователи нашли редкую ископаемую сову."
+       },
+       {
+        "de": "Das Team von Senckenberg hat den Fund jetzt in einer Fachzeitschrift beschrieben.",
+        "tr": "Команда Зенкенберга описала находку в научном журнале."
+       },
+       {
+        "de": "Die kleine Eule lebte vor rund 47 Millionen Jahren und war etwa zwölf Zentimeter groß.",
+        "tr": "Маленькая сова жила около 47 миллионов лет назад, а её размер составлял примерно двенадцать сантиметров."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Fast das ganze Skelett ist erhalten, sogar Reste von Federn sind sichtbar.",
+        "tr": "Сохранился почти весь скелет, видны даже остатки перьев."
+       },
+       {
+        "de": "Im Magen fand das Team die Reste einer Schabe mit schillernden Flügeln.",
+        "tr": "В желудке исследователи нашли остатки таракана с переливающимися крыльями."
+       },
+       {
+        "de": "Das Insekt war wahrscheinlich am Tag aktiv.",
+        "tr": "Вероятно, это насекомое было активно днём."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch die Federn der Eule passen eher zu einem Vogel, der bei Tageslicht jagt.",
+        "tr": "Перья совы тоже больше похожи на перья птиц, которые охотятся при дневном свете."
+       },
+       {
+        "de": "Der Fund hilft dabei, besser zu verstehen, wann Eulen zu Jägern der Nacht wurden.",
+        "tr": "Находка помогает лучше понять, когда совы стали ночными охотниками."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Ein Fossil aus Messel: Diese Eule jagte wohl am Tag",
+    "titleTr": "Викопна сова з Месселя, імовірно, полювала вдень",
+    "blurb": "У карʼєрі Мессель знайшли невелику сову віком близько 47 мільйонів років. Крила птаха й рештки їжі в шлунку допомогли вченим зʼясувати, коли він полював.",
+    "levelNote": "Претерит (war, lebte, fand), перфект і непряме запитання з wann.",
+    "license": "Текст — адаптований переказ; фото й кадрована обкладинка — René Schröder · CC BY-SA 4.0 · Wikimedia Commons · https://commons.wikimedia.org/wiki/File:Wiki_DSC06007_UNESCO-Weltnaturerbe_Grube-Messel.jpg · https://creativecommons.org/licenses/by-sa/4.0/",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/messel-eule-2026/img/bild.jpg",
+       "w": 1100,
+       "h": 733,
+       "cap": "Оглядовий майданчик карʼєру Мессель у Гессені. Саме в цьому карʼєрі знайшли викопну сову.",
+       "credit": "René Schröder · CC BY-SA 4.0 · Wikimedia Commons"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "In der Grube Messel in Hessen haben Forschende ein seltenes Eulenfossil gefunden.",
+        "tr": "У карʼєрі Мессель у Гессені дослідники знайшли рідкісну викопну сову."
+       },
+       {
+        "de": "Das Team von Senckenberg hat den Fund jetzt in einer Fachzeitschrift beschrieben.",
+        "tr": "Команда Зенкенберга описала знахідку в науковому журналі."
+       },
+       {
+        "de": "Die kleine Eule lebte vor rund 47 Millionen Jahren und war etwa zwölf Zentimeter groß.",
+        "tr": "Маленька сова жила близько 47 мільйонів років тому й була завбільшки приблизно дванадцять сантиметрів."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Fast das ganze Skelett ist erhalten, sogar Reste von Federn sind sichtbar.",
+        "tr": "Зберігся майже весь скелет, видно навіть рештки пірʼя."
+       },
+       {
+        "de": "Im Magen fand das Team die Reste einer Schabe mit schillernden Flügeln.",
+        "tr": "У шлунку дослідники знайшли рештки таргана з переливчастими крилами."
+       },
+       {
+        "de": "Das Insekt war wahrscheinlich am Tag aktiv.",
+        "tr": "Імовірно, ця комаха була активна вдень."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Auch die Federn der Eule passen eher zu einem Vogel, der bei Tageslicht jagt.",
+        "tr": "Пірʼя сови теж більше схоже на пірʼя птахів, які полюють при денному світлі."
+       },
+       {
+        "de": "Der Fund hilft dabei, besser zu verstehen, wann Eulen zu Jägern der Nacht wurden.",
+        "tr": "Знахідка допомагає краще зрозуміти, коли сови стали нічними мисливцями."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "novemberhimmel-2026",
+   "rubric": "astronomy",
+   "level": "B1",
+   "published": "2026-11-02",
+   "added": "2026-11-13",
+   "source": "NASA",
+   "sourceUrl": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+   "words": 102,
+   "minutes": 1,
+   "cover": "https://vanguar.github.io/deutsch-meister/data/news/novemberhimmel-2026/img/cover.jpg",
+   "ru": {
+    "title": "Der Novemberhimmel: Sternschnuppen und ein Supermond",
+    "titleTr": "Ноябрьское небо: падающие звёзды и суперлуние",
+    "blurb": "В середине ноября Марс и Юпитер видны рядом, затем наступает максимум Леонид. 24 ноября можно наблюдать суперлуние.",
+    "levelNote": "Сравнения с als, придаточные с wenn и weil, лексика наблюдений за небом.",
+    "license": "Текст — адаптированный пересказ; фото и кадрированная обложка — NASA/Joel Kowsky · Public domain · https://commons.wikimedia.org/wiki/File:Supermoon_(NHQ201611140009).jpg",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/novemberhimmel-2026/img/bild.jpg",
+       "w": 1100,
+       "h": 668,
+       "cap": "Суперлуние у мемориала Линкольна в Вашингтоне в 2016 году. Архивный снимок.",
+       "credit": "NASA/Joel Kowsky · Public domain"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die NASA hat ihre Tipps für den Novemberhimmel veröffentlicht.",
+        "tr": "NASA опубликовало советы по наблюдению за ноябрьским небом."
+       },
+       {
+        "de": "Um den 12. November erreichen die nördlichen Tauriden ihren Höhepunkt.",
+        "tr": "Около 12 ноября Северные Тауриды достигают максимума."
+       },
+       {
+        "de": "Bei sehr guten Bedingungen sind etwa fünf Meteore pro Stunde zu sehen.",
+        "tr": "При очень хороших условиях можно увидеть около пяти метеоров в час."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Am 15. und 16. November stehen Mars und Jupiter vor Sonnenaufgang scheinbar dicht beieinander.",
+        "tr": "15 и 16 ноября перед восходом Солнца Марс и Юпитер будут казаться очень близкими друг к другу."
+       },
+       {
+        "de": "In der Nacht vom 17. auf den 18. November folgen die Leoniden.",
+        "tr": "В ночь с 17 на 18 ноября наступит максимум Леонид."
+       },
+       {
+        "de": "Die besten Chancen hat man vor der Morgendämmerung, wenn der Mond schon untergegangen ist.",
+        "tr": "Лучше всего наблюдать перед рассветом, когда Луна уже зайдёт."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Am 24. November geht im Osten ein Supermond auf.",
+        "tr": "24 ноября на востоке взойдёт суперлуна."
+       },
+       {
+        "de": "Weil der Vollmond der Erde dann recht nahe ist, kann er etwas größer und heller wirken als sonst.",
+        "tr": "Поскольку в этот момент полная Луна находится довольно близко к Земле, она может казаться чуть больше и ярче обычного."
+       },
+       {
+        "de": "Den Unterschied erkennt man mit bloßem Auge allerdings nicht immer.",
+        "tr": "Впрочем, разница не всегда заметна невооружённым глазом."
+       }
+      ]
+     }
+    ]
+   },
+   "uk": {
+    "title": "Der Novemberhimmel: Sternschnuppen und ein Supermond",
+    "titleTr": "Листопадове небо: падаючі зорі та супермісяць",
+    "blurb": "У середині листопада Марс і Юпітер видно поруч, а потім настає максимум Леонід. 24 листопада можна спостерігати супермісяць.",
+    "levelNote": "Порівняння з als, підрядні речення з wenn і weil, лексика спостережень за небом.",
+    "license": "Текст — адаптований переказ; фото й кадрована обкладинка — NASA/Joel Kowsky · Public domain · https://commons.wikimedia.org/wiki/File:Supermoon_(NHQ201611140009).jpg",
+    "paragraphs": [
+     {
+      "fig": {
+       "src": "https://vanguar.github.io/deutsch-meister/data/news/novemberhimmel-2026/img/bild.jpg",
+       "w": 1100,
+       "h": 668,
+       "cap": "Супермісяць біля меморіалу Лінкольна у Вашингтоні у 2016 році. Архівний знімок.",
+       "credit": "NASA/Joel Kowsky · Public domain"
+      }
+     },
+     {
+      "s": [
+       {
+        "de": "Die NASA hat ihre Tipps für den Novemberhimmel veröffentlicht.",
+        "tr": "NASA опублікувало поради зі спостереження за листопадовим небом."
+       },
+       {
+        "de": "Um den 12. November erreichen die nördlichen Tauriden ihren Höhepunkt.",
+        "tr": "Близько 12 листопада Північні Тауриди досягають максимуму."
+       },
+       {
+        "de": "Bei sehr guten Bedingungen sind etwa fünf Meteore pro Stunde zu sehen.",
+        "tr": "За дуже добрих умов можна побачити близько пʼяти метеорів на годину."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Am 15. und 16. November stehen Mars und Jupiter vor Sonnenaufgang scheinbar dicht beieinander.",
+        "tr": "15 і 16 листопада перед сходом Сонця Марс і Юпітер здаватимуться дуже близькими один до одного."
+       },
+       {
+        "de": "In der Nacht vom 17. auf den 18. November folgen die Leoniden.",
+        "tr": "У ніч із 17 на 18 листопада настане максимум Леонід."
+       },
+       {
+        "de": "Die besten Chancen hat man vor der Morgendämmerung, wenn der Mond schon untergegangen ist.",
+        "tr": "Найкраще спостерігати перед світанком, коли Місяць уже зайде."
+       }
+      ]
+     },
+     {
+      "s": [
+       {
+        "de": "Am 24. November geht im Osten ein Supermond auf.",
+        "tr": "24 листопада на сході зійде супермісяць."
+       },
+       {
+        "de": "Weil der Vollmond der Erde dann recht nahe ist, kann er etwas größer und heller wirken als sonst.",
+        "tr": "Оскільки в цей час повний Місяць досить близько до Землі, він може здаватися трохи більшим і яскравішим, ніж зазвичай."
+       },
+       {
+        "de": "Den Unterschied erkennt man mit bloßem Auge allerdings nicht immer.",
+        "tr": "Утім, різницю не завжди помітно неозброєним оком."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
    "id": "sparkassen-krypto-2026",
    "rubric": "tech",
    "level": "B1",
